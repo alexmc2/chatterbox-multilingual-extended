@@ -27,6 +27,7 @@ import json
 import csv
 import argparse
 import soundfile as sf
+from pathlib import Path
 from chatterbox.src.chatterbox.vc import ChatterboxVC
 try:
     import pyrnnoise
@@ -66,8 +67,47 @@ def ensure_nltk_tokenizers():
     return True
 
 
-HAS_NLTK_PUNKT = ensure_nltk_tokenizers()
+def _ensure_cuda_libs_on_path():
+    """
+    Make sure torch's bundled CUDA libs (cudnn, cublas, etc.) are discoverable.
+    Helps faster-whisper / ctranslate2 find the right runtime without relying on system CUDA.
+    """
+    try:
+        torch_dir = Path(torch.__file__).resolve().parent
+        nvidia_root = torch_dir.parent / "nvidia"
+        candidate_dirs = [
+            nvidia_root / "cudnn" / "lib",
+            nvidia_root / "cublas" / "lib",
+            nvidia_root / "cufft" / "lib",
+            nvidia_root / "curand" / "lib",
+            nvidia_root / "cusolver" / "lib",
+            nvidia_root / "cusparse" / "lib",
+            nvidia_root / "cuda_runtime" / "lib",
+            nvidia_root / "nvtx" / "lib",
+            nvidia_root / "nvjitlink" / "lib",
+        ]
+        existing = [p for p in os.environ.get("LD_LIBRARY_PATH", "").split(":") if p]
+        additions = [str(p) for p in candidate_dirs if p.is_dir() and str(p) not in existing]
+        if additions:
+            os.environ["LD_LIBRARY_PATH"] = ":".join(additions + existing)
 
+        # Explicit hints for ctranslate2 / faster-whisper
+        cudnn_dir = nvidia_root / "cudnn" / "lib"
+        cublas_dir = nvidia_root / "cublas" / "lib"
+        cuda_rt_dir = nvidia_root / "cuda_runtime" / "lib"
+        if cudnn_dir.is_dir():
+            os.environ.setdefault("CT2_CUDNN_PATH", str(cudnn_dir))
+        if cublas_dir.is_dir():
+            os.environ.setdefault("CT2_CUBLAS_PATH", str(cublas_dir))
+        if cuda_rt_dir.is_dir():
+            # CT2_CUDA_PATH expects the directory containing libcudart / libcublas
+            os.environ.setdefault("CT2_CUDA_PATH", str(cuda_rt_dir))
+    except Exception as exc:
+        print(f"[WARN] Unable to patch CUDA library env vars: {exc}")
+
+
+HAS_NLTK_PUNKT = ensure_nltk_tokenizers()
+_ensure_cuda_libs_on_path()  # patch CUDA paths early for downstream backends
 
 SETTINGS_PATH = "settings.json"
 #THIS IS THE START
@@ -307,6 +347,7 @@ def load_whisper_backend(model_name, use_faster_whisper, device):
       non-CUDA: try int8 -> float32
     """
     if use_faster_whisper:
+        _ensure_cuda_libs_on_path()
         _free_vram()  # free memory before constructing Faster-Whisper
         if device == "cuda":
             candidates = ["float16", "int8_float16", "int8"]
