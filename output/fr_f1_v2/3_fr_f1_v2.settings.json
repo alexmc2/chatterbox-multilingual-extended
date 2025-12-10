@@ -1,11 +1,9 @@
 {
   "text_input": "",
-  "json_language_field": "eng",
-  "json_output_dirname": "json_batch_2",
   "exaggeration_slider": 0.7,
-  "temp_slider": 0.21,
-  "seed_input": 0,
-  "cfg_weight_slider": 0.3,
+  "temp_slider": 0.56,
+  "seed_input": 3066125473,
+  "cfg_weight_slider": 0.2,
   "use_pyrnnoise_checkbox": false,
   "use_auto_editor_checkbox": false,
   "threshold_slider": 0.06,
@@ -27,7 +25,7 @@
   "normalize_level_slider": -24,
   "normalize_tp_slider": -2,
   "normalize_lra_slider": 7,
-  "num_candidates_slider": 2,
+  "num_candidates_slider": 3,
   "max_attempts_slider": 2,
   "bypass_whisper_checkbox": true,
   "whisper_model_dropdown": "medium (~5–8 GB OpenAI / ~2.5–4.5 GB faster-whisper)",
@@ -37,8 +35,11 @@
   "sound_words_field": "",
   "use_faster_whisper_checkbox": true,
   "separate_files_checkbox": false,
-  "input_basename": "text_input_",
-  "audio_prompt_path_input": null,
-  "generation_time": "2025-12-10T15:49:52.188959",
-  "output_audio_files": []
+  "input_basename": "3_fr_f1_v2",
+  "output_dir": "output/fr_f1_v2",
+  "audio_prompt_path_input": "/tmp/gradio/46a7750086839430d884d7c3736fcce4baebb2f5d2f87e8229879cfcf56a1639/marine.mp3",
+  "generation_time": "2025-12-10T15:15:09.383221",
+  "output_audio_files": [
+    "output/fr_f1_v2/3_fr_f1_v2.wav"
+  ]
 }

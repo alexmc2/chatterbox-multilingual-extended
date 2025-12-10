@@ -1,7 +1,8 @@
 {
   "text_input": "",
-  "json_language_field": "eng",
-  "json_output_dirname": "json_batch_2",
+  "json_language_field": "fra",
+  "json_source_path": "/tmp/gradio/ee7c19090cfed98367609ae3135cee832b0a9e0d9424ed64b8189a6a65c28907/sentences-test.json",
+  "num_json_entries": 20,
   "exaggeration_slider": 0.7,
   "temp_slider": 0.21,
   "seed_input": 0,
@@ -37,8 +38,28 @@
   "sound_words_field": "",
   "use_faster_whisper_checkbox": true,
   "separate_files_checkbox": false,
-  "input_basename": "text_input_",
-  "audio_prompt_path_input": null,
-  "generation_time": "2025-12-10T15:49:52.188959",
-  "output_audio_files": []
+  "output_dir": "output/json_batch",
+  "generation_time": "2025-12-10T15:35:01.996445",
+  "output_audio_files": [
+    "output/json_batch/1_json_batch.wav",
+    "output/json_batch/2_json_batch.wav",
+    "output/json_batch/45_json_batch.wav",
+    "output/json_batch/46_json_batch.wav",
+    "output/json_batch/47_json_batch.wav",
+    "output/json_batch/48_json_batch.wav",
+    "output/json_batch/49_json_batch.wav",
+    "output/json_batch/50_json_batch.wav",
+    "output/json_batch/51_json_batch.wav",
+    "output/json_batch/52_json_batch.wav",
+    "output/json_batch/53_json_batch.wav",
+    "output/json_batch/54_json_batch.wav",
+    "output/json_batch/55_json_batch.wav",
+    "output/json_batch/56_json_batch.wav",
+    "output/json_batch/57_json_batch.wav",
+    "output/json_batch/4722_json_batch.wav",
+    "output/json_batch/58_json_batch.wav",
+    "output/json_batch/59_json_batch.wav",
+    "output/json_batch/4014_json_batch.wav",
+    "output/json_batch/4015_json_batch.wav"
+  ]
 }

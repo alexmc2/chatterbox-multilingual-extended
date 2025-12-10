@@ -12,33 +12,111 @@
     "char_count": 5
   },
   {
-    "id": 3,
-    "fra": "Sors.",
-    "eng": "Get out.",
-    "char_count": 5
+    "id": 45,
+    "fra": "Voilà le hic.",
+    "eng": "That's the snag.",
+    "char_count": 13
   },
   {
-    "id": 4,
-    "fra": "Santé !",
-    "eng": "Bottoms up!",
-    "char_count": 7
+    "id": 46,
+    "fra": "Bon appétit !",
+    "eng": "Enjoy your meal!",
+    "char_count": 13
   },
   {
-    "id": 5,
-    "fra": "Pardon ?",
-    "eng": "Come again?",
-    "char_count": 8
+    "id": 47,
+    "fra": "Je suis prêt.",
+    "eng": "I am ready.",
+    "char_count": 13
   },
   {
-    "id": 6,
-    "fra": "À midi !",
-    "eng": "See you at lunch.",
-    "char_count": 8
+    "id": 48,
+    "fra": "Je vous aime.",
+    "eng": "I love you.",
+    "char_count": 13
   },
   {
-    "id": 7,
-    "fra": "Il pleut.",
-    "eng": "It is raining.",
-    "char_count": 9
+    "id": 49,
+    "fra": "Tout va bien.",
+    "eng": "It's all right.",
+    "char_count": 13
+  },
+  {
+    "id": 50,
+    "fra": "Bon week-end.",
+    "eng": "Have a nice weekend.",
+    "char_count": 13
+  },
+  {
+    "id": 51,
+    "fra": "Le feu brûle.",
+    "eng": "Fire burns.",
+    "char_count": 13
+  },
+  {
+    "id": 52,
+    "fra": "C'est 50 yen.",
+    "eng": "It's 50 yen.",
+    "char_count": 13
+  },
+  {
+    "id": 53,
+    "fra": "Ça sent bon !",
+    "eng": "It smells good!",
+    "char_count": 13
+  },
+  {
+    "id": 54,
+    "fra": "Ça va, merci.",
+    "eng": "I'm fine, thank you.",
+    "char_count": 13
+  },
+  {
+    "id": 55,
+    "fra": "Fantastique !",
+    "eng": "Fantastic!",
+    "char_count": 13
+  },
+  {
+    "id": 56,
+    "fra": "J'ai mal ici.",
+    "eng": "I have a pain here.",
+    "char_count": 13
+  },
+  {
+    "id": 57,
+    "fra": "Tu me manques.",
+    "eng": "I miss you.",
+    "char_count": 14
+  },
+  {
+    "id": 4722,
+    "fra": "J'étais trop embarrassé pour la regarder dans les yeux.",
+    "eng": "I was too embarrassed to look her in the eye.",
+    "char_count": 55
+  },
+  {
+    "id": 58,
+    "fra": "Félicitations.",
+    "eng": "Congratulations!",
+    "char_count": 14
+  },
+  {
+    "id": 59,
+    "fra": "T'es un ange !",
+    "eng": "You're an angel!",
+    "char_count": 14
+  },
+  {
+    "id": 4014,
+    "fra": "Il faisait partie de ceux qui ont été choisis.",
+    "eng": "He was among those chosen.",
+    "char_count": 46
+  },
+  {
+    "id": 4015,
+    "fra": "Je suis resté à la maison à cause de la pluie.",
+    "eng": "I stayed home because of the rain.",
+    "char_count": 46
   }
 ]
