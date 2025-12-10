@@ -1,0 +1,602 @@
+[
+  {
+    "id": 5401,
+    "fra": "Une nation n'a pas forcément besoin d'être puissante pour être grande.",
+    "eng": "A nation need not necessarily be powerful to be great.",
+    "char_count": 70
+  },
+  {
+    "id": 5402,
+    "fra": "Avant de vous décider réfléchissez aux avantages et aux inconvénients.",
+    "eng": "Reflect on advantages and disadvantages before you make up your mind.",
+    "char_count": 70
+  },
+  {
+    "id": 5403,
+    "fra": "Une baleine est un mammifère ; autrement dit, elle allaite ses petits.",
+    "eng": "A whale is a mammal; in other words it feeds milk to its young.",
+    "char_count": 70
+  },
+  {
+    "id": 5404,
+    "fra": "Il y a plus de crédits bancaires grâce à des taux d'intérêts plus bas.",
+    "eng": "Bank lending is rising because of lower interest rates.",
+    "char_count": 70
+  },
+  {
+    "id": 5405,
+    "fra": "L'éducation ne consiste pas seulement dans l'apprentissage pur et dur.",
+    "eng": "Education does not consist simply in learning a lot of facts.",
+    "char_count": 70
+  },
+  {
+    "id": 5406,
+    "fra": "Le problème, ce n'est pas ce que tu portes, mais comment tu le portes.",
+    "eng": "It's not what you wear, it's how you wear it.",
+    "char_count": 70
+  },
+  {
+    "id": 5407,
+    "fra": "Le roi n'a pas invité que nous, mais aussi plusieurs autres personnes.",
+    "eng": "The King invited not only us but also a lot of other people.",
+    "char_count": 70
+  },
+  {
+    "id": 5408,
+    "fra": "Une langue acérée est le seul outil tranchant qui s'aiguise à l'usage.",
+    "eng": "A sharp tongue is the only edged tool that grows keener with constant use.",
+    "char_count": 70
+  },
+  {
+    "id": 5409,
+    "fra": "« Les boissons sont-elles gratuites ? » « Seulement pour les filles. »",
+    "eng": "Are the drinks free? \"Only for the ladies.\"",
+    "char_count": 70
+  },
+  {
+    "id": 5410,
+    "fra": "N'oubliez pas de transmettre mes salutations à votre charmante épouse.",
+    "eng": "Don't forget to give my best regards to your lovely wife.",
+    "char_count": 70
+  },
+  {
+    "id": 5411,
+    "fra": "Combien de temps faut-il environ pour aller à pied d'ici à la mairie ?",
+    "eng": "How long does it take to walk from here to the city hall?",
+    "char_count": 70
+  },
+  {
+    "id": 5412,
+    "fra": "Pour une fois dans ma vie je fais un bon geste... Et ça ne sert à rien.",
+    "eng": "For once in my life I'm doing a good deed... And it is useless.",
+    "char_count": 71
+  },
+  {
+    "id": 5413,
+    "fra": "Aujourd'hui nous sommes le 18 juin et c'est l'anniversaire de Muiriel !",
+    "eng": "Today is June 18th and it is Muiriel's birthday!",
+    "char_count": 71
+  },
+  {
+    "id": 5414,
+    "fra": "Je ne peux que me demander si c'est la même chose pour tous les autres.",
+    "eng": "I can only wonder if this is the same for everyone else.",
+    "char_count": 71
+  },
+  {
+    "id": 5415,
+    "fra": "Nous ne voyons pas les choses comme elles sont, mais comme nous sommes.",
+    "eng": "We don't see things as they are, but as we are.",
+    "char_count": 71
+  },
+  {
+    "id": 5416,
+    "fra": "Mme Eichler avait la fameuse réputation d’être austère avec ses élèves.",
+    "eng": "Ms. Eichler had a notorious reputation for being austere to her students.",
+    "char_count": 71
+  },
+  {
+    "id": 5417,
+    "fra": "Nous supposons qu'il s'agit d'un empoisonnement par morsure de serpent.",
+    "eng": "We suspect it's about a poisoning by snake bite.",
+    "char_count": 71
+  },
+  {
+    "id": 5418,
+    "fra": "Je ne passe pas beaucoup de temps à m'avancer pour les cours d'anglais.",
+    "eng": "I don't do much study ahead for the English classes.",
+    "char_count": 71
+  },
+  {
+    "id": 5419,
+    "fra": "Grâce à ce livre, j'ai appris des choses intéressantes sur cet insecte.",
+    "eng": "Thanks to this book, I learned some interesting facts about this insect.",
+    "char_count": 71
+  },
+  {
+    "id": 5420,
+    "fra": "Je me suis toujours efforcé de peindre les choses telles qu'elles sont.",
+    "eng": "I always make it a point to paint things as they are.",
+    "char_count": 71
+  },
+  {
+    "id": 5421,
+    "fra": "Cela va faire cinq ans que nous étudions l'anglais en février prochain.",
+    "eng": "We will have been studying English for five years next February.",
+    "char_count": 71
+  },
+  {
+    "id": 5422,
+    "fra": "Une des fonctions importantes d'un policier est d'attraper les voleurs.",
+    "eng": "An important function of policemen is to catch thieves.",
+    "char_count": 71
+  },
+  {
+    "id": 5423,
+    "fra": "Je voudrais être assis dans le compartiment non-fumeur s'il vous plaît.",
+    "eng": "I would like to sit in the non-smoking section.",
+    "char_count": 71
+  },
+  {
+    "id": 5424,
+    "fra": "Certains mots anglais comme « gray » ou « grey » ont deux orthographes.",
+    "eng": "Some English words have two spellings - \"gray\" and \"grey\", for example.",
+    "char_count": 71
+  },
+  {
+    "id": 5425,
+    "fra": "Ne me fais pas peur hurla-t-elle alors qu'il l'approchait par derrière.",
+    "eng": "Don't scare me! she screamed as he came up behind her.",
+    "char_count": 71
+  },
+  {
+    "id": 5426,
+    "fra": "L'adresse que vous cherchez est à un jet de pierre de l'hôtel de ville.",
+    "eng": "The address you are looking for is within a stone's throw of the city hall.",
+    "char_count": 71
+  },
+  {
+    "id": 5427,
+    "fra": "Le programme Apollo a avancé grandement nos connaissances sur l'espace.",
+    "eng": "The Apollo program greatly advanced our knowledge of space.",
+    "char_count": 71
+  },
+  {
+    "id": 5428,
+    "fra": "C'était le genre d'enfant qui frimait toujours auprès de ses camarades.",
+    "eng": "He was the kind of kid who was always showing off to his classmates.",
+    "char_count": 71
+  },
+  {
+    "id": 5429,
+    "fra": "Pouvez-vous m'accorder une faveur ? Pouvez-vous me prêter de l'argent ?",
+    "eng": "Could you do me a favor? Will you lend me some money?",
+    "char_count": 71
+  },
+  {
+    "id": 5430,
+    "fra": "Chaque personne qui est seule est seule parce qu'elle a peur des autres.",
+    "eng": "Every person who is alone is alone because they are afraid of others.",
+    "char_count": 72
+  },
+  {
+    "id": 5431,
+    "fra": "Il y a des jours où j'ai l'impression que mon cerveau veut m'abandonner.",
+    "eng": "There are days where I feel like my brain wants to abandon me.",
+    "char_count": 72
+  },
+  {
+    "id": 5432,
+    "fra": "J'habite près de la mer donc j'ai souvent l'occasion d'aller à la plage.",
+    "eng": "I live near the sea, so I often get to go to the beach.",
+    "char_count": 72
+  },
+  {
+    "id": 5433,
+    "fra": "Lorsque j'ai la migraine, l'aspirine ne soulage pas la douleur pour moi.",
+    "eng": "When I have migraines, aspirin doesn't alleviate the pain for me.",
+    "char_count": 72
+  },
+  {
+    "id": 5434,
+    "fra": "Le meurtrier fut déclaré coupable et condamné à un emprisonnement à vie.",
+    "eng": "The murderer was convicted and sentenced to life in prison.",
+    "char_count": 72
+  },
+  {
+    "id": 5435,
+    "fra": "Cela pourrait sembler tiré par les cheveux, mais c’est un réel problème.",
+    "eng": "It might sound far-fetched, but this is a real problem.",
+    "char_count": 72
+  },
+  {
+    "id": 5436,
+    "fra": "Les éléphants sont les plus gros animaux terrestres vivant actuellement.",
+    "eng": "Elephants are the largest land animals alive today.",
+    "char_count": 72
+  },
+  {
+    "id": 5437,
+    "fra": "Les fruits et les légumes sont essentiels à une alimentation équilibrée.",
+    "eng": "Fruits and vegetables are essential to a balanced diet.",
+    "char_count": 72
+  },
+  {
+    "id": 5438,
+    "fra": "J'ai soigneusement noté toutes les choses que le professeur avait dites.",
+    "eng": "I carefully took down everything that my teacher said.",
+    "char_count": 72
+  },
+  {
+    "id": 5439,
+    "fra": "J'étais à nouveau en retard ce matin, ce qui a mis mon patron en colère.",
+    "eng": "I was late again this morning, which made my boss angry.",
+    "char_count": 72
+  },
+  {
+    "id": 5440,
+    "fra": "À l'ouverture du marché du matin on trouve du poisson fraîchement pêché.",
+    "eng": "They sell us freshly caught fish in the early morning market.",
+    "char_count": 72
+  },
+  {
+    "id": 5441,
+    "fra": "J'ai toutes ces pommes à porter, sans compter ce sac de pommes de terre.",
+    "eng": "I have all these apples to carry, not to mention this bag of potatoes.",
+    "char_count": 72
+  },
+  {
+    "id": 5442,
+    "fra": "Je suis impressionné par votre récente publicité dans le New York Times.",
+    "eng": "I am impressed by your recent advertisement in the New York Times.",
+    "char_count": 72
+  },
+  {
+    "id": 5443,
+    "fra": "Mon ami a quitté sa petite copine et maintenant il veut sortir avec moi.",
+    "eng": "My friend broke up with his girlfriend and now he wants to go out with me.",
+    "char_count": 72
+  },
+  {
+    "id": 5444,
+    "fra": "Mon poste de télévision a presque 15 ans, mais l'image est encore bonne.",
+    "eng": "My TV set is almost 15 years old, but it still has a good picture.",
+    "char_count": 72
+  },
+  {
+    "id": 5445,
+    "fra": "Ce n'est pas ce qu'il dit qui me dérange mais la manière dont il le dit.",
+    "eng": "It isn't what he says that annoys me but the way he says it.",
+    "char_count": 72
+  },
+  {
+    "id": 5446,
+    "fra": "Je pense qu'il faut que les enfants aient quelque chose avec quoi jouer.",
+    "eng": "I think it necessary for children to have something to play with.",
+    "char_count": 72
+  },
+  {
+    "id": 5447,
+    "fra": "Ma femme aime manger à l'extérieur, comme cela, elle n'a pas à cuisiner.",
+    "eng": "My wife likes to eat out and so she doesn't have to cook.",
+    "char_count": 72
+  },
+  {
+    "id": 5448,
+    "fra": "Des avancées rapides et remarquables ont été réalisées dans la médecine.",
+    "eng": "Rapid and remarkable advances have been made in medicine.",
+    "char_count": 72
+  },
+  {
+    "id": 5449,
+    "fra": "J'ai vu un jeune homme étendu sur un banc sous un cerisier dans le parc.",
+    "eng": "I saw a young man lying on the bench under the cherry tree in the park.",
+    "char_count": 72
+  },
+  {
+    "id": 5450,
+    "fra": "Tout ce qu'ils veulent maintenant, c'est un toit au-dessus de leur tête.",
+    "eng": "Now all they want is a roof over their heads.",
+    "char_count": 72
+  },
+  {
+    "id": 5451,
+    "fra": "C'était une journée agréable, mais il y avait peu de monde dans le parc.",
+    "eng": "It was a pleasant day, but there were few people in the park.",
+    "char_count": 72
+  },
+  {
+    "id": 5452,
+    "fra": "En règle générale, il arrive au bureau vers neuf heures trente du matin.",
+    "eng": "As a rule, he arrives at the office at about nine-thirty in the morning.",
+    "char_count": 72
+  },
+  {
+    "id": 5453,
+    "fra": "Il viendra avec sa femme, comme c'est souvent le cas avec les étrangers.",
+    "eng": "He will come with his wife, as is often the case with foreigners.",
+    "char_count": 72
+  },
+  {
+    "id": 5454,
+    "fra": "Je suis tombé dans les escaliers et j'ai pris un grand coup dans le dos.",
+    "eng": "I fell down the stairs and hit my back very hard.",
+    "char_count": 72
+  },
+  {
+    "id": 5455,
+    "fra": "Pouvez-vous marcher durant des jours dans la nature sans voir personne ?",
+    "eng": "Can you hike for days in the wilderness without seeing anyone?",
+    "char_count": 72
+  },
+  {
+    "id": 5456,
+    "fra": "S'ils avaient su ce qui allait arriver, ils auraient changé leurs plans.",
+    "eng": "Had they known what was about to happen, they would have changed their plans.",
+    "char_count": 72
+  },
+  {
+    "id": 5457,
+    "fra": "« As-tu travaillé hier ? » « Je souhaitais que hier fût un jour férié. »",
+    "eng": "Did you work yesterday? \"I wish yesterday had been a holiday.\"",
+    "char_count": 72
+  },
+  {
+    "id": 5458,
+    "fra": "Combien de temps ça te prend pour venir jusqu'ici de chez toi en train ?",
+    "eng": "How long does it take you to get here from your house by train?",
+    "char_count": 72
+  },
+  {
+    "id": 5459,
+    "fra": "Tu vas continuer à voir ton idiot de petit ami encore combien de temps ?",
+    "eng": "How long are you going to be seeing that loser of a boyfriend?",
+    "char_count": 72
+  },
+  {
+    "id": 5460,
+    "fra": "Pardonnez-moi de vous interrompre, mais pourriez-vous ouvrir la fenêtre.",
+    "eng": "Excuse me for interrupting you, but would you mind opening the window?",
+    "char_count": 72
+  },
+  {
+    "id": 5461,
+    "fra": "Je me suis toujours demandé ce que ça ferait d'avoir des frères et sœurs.",
+    "eng": "I've always wondered what it'd be like to have siblings.",
+    "char_count": 73
+  },
+  {
+    "id": 5462,
+    "fra": "Si tu regardes les paroles, elles ne signifient pas vraiment grand-chose.",
+    "eng": "If you look at the lyrics, they don't really mean much.",
+    "char_count": 73
+  },
+  {
+    "id": 5463,
+    "fra": "Les seules réponses utiles sont celles qui posent de nouvelles questions.",
+    "eng": "The only useful answers are those that raise new questions.",
+    "char_count": 73
+  },
+  {
+    "id": 5464,
+    "fra": "Je ne peux pas me couper les ongles et faire le repassage en même temps !",
+    "eng": "I can't cut my nails and do the ironing at the same time!",
+    "char_count": 73
+  },
+  {
+    "id": 5465,
+    "fra": "L'étudiant décida d'abréger son rapport en enlevant les détails inutiles.",
+    "eng": "The student decided to abridge his paper by taking out unnecessary details.",
+    "char_count": 73
+  },
+  {
+    "id": 5466,
+    "fra": "Quel critère avez-vous utilisé pour élire cet essai en tant que gagnant ?",
+    "eng": "What criterion did you use when you elected this essay as the winner?",
+    "char_count": 73
+  },
+  {
+    "id": 5467,
+    "fra": "Qu'est-ce qu'il s'est passé ? Il y a de l'eau partout dans l'appartement.",
+    "eng": "What happened? There's water all over the apartment.",
+    "char_count": 73
+  },
+  {
+    "id": 5468,
+    "fra": "Quelles chansons célèbres auriez-vous aimé avoir composées, et pourquoi ?",
+    "eng": "What famous songs do you wish you had composed, and why?",
+    "char_count": 73
+  },
+  {
+    "id": 5469,
+    "fra": "À partir de février prochain, j'aurais étudié l'anglais pendant cinq ans.",
+    "eng": "I will have been studying English for five years next February.",
+    "char_count": 73
+  },
+  {
+    "id": 5470,
+    "fra": "Après mon mariage, mon japonais était meilleur et je le comprenais mieux.",
+    "eng": "After I got married, my Japanese got better and I could understand more.",
+    "char_count": 73
+  },
+  {
+    "id": 5471,
+    "fra": "Je pense que Beethoven est le plus grand compositeur qui ait jamais vécu.",
+    "eng": "I think Beethoven is as great a composer as ever lived.",
+    "char_count": 73
+  },
+  {
+    "id": 5472,
+    "fra": "Ses revenus sont à présent le double de ce qu'ils étaient il y a dix ans.",
+    "eng": "His income is now double what it was ten years ago.",
+    "char_count": 73
+  },
+  {
+    "id": 5473,
+    "fra": "C'est une chose de faire des projets, c'en est une autre de les réaliser.",
+    "eng": "It's one thing to make plans, but quite another to carry them out.",
+    "char_count": 73
+  },
+  {
+    "id": 5474,
+    "fra": "Une bombe à retardement a explosé dans l’aéroport tuant treize personnes.",
+    "eng": "A time bomb went off in the airport killing thirteen people.",
+    "char_count": 73
+  },
+  {
+    "id": 5475,
+    "fra": "Ses parents pensaient qu'il gaspillait son argent pour une fille stupide.",
+    "eng": "His parents' view was that he was wasting his earnings on a silly girl.",
+    "char_count": 73
+  },
+  {
+    "id": 5476,
+    "fra": "Comparé à l'été dernier, nous n'avons pas eu autant de pluie cette année.",
+    "eng": "As compared with last summer, we haven't had so much rain this year.",
+    "char_count": 73
+  },
+  {
+    "id": 5477,
+    "fra": "Chaque génération aura à redécouvrir pour elle-même les vérités du passé.",
+    "eng": "Each generation would have to rediscover for itself the truths of the past.",
+    "char_count": 73
+  },
+  {
+    "id": 5478,
+    "fra": "Elle parle mieux anglais que n'importe lequel de ses camarades de classe.",
+    "eng": "She is better than any of her classmates speaking English.",
+    "char_count": 73
+  },
+  {
+    "id": 5479,
+    "fra": "Si seulement tu pouvais entièrement être à moi ! dit le petit lapin noir.",
+    "eng": "I wish you were all mine! said the little black rabbit.",
+    "char_count": 73
+  },
+  {
+    "id": 5480,
+    "fra": "Je veillerai à ce que vous ayez une augmentation après la première année.",
+    "eng": "I'll see to it that you have a raise after the first year.",
+    "char_count": 73
+  },
+  {
+    "id": 5481,
+    "fra": "Quiconque n'a pas envie de lire ne comprend pas le plaisir de la lecture.",
+    "eng": "Anyone who is unwilling to read does not understand the joy of reading.",
+    "char_count": 73
+  },
+  {
+    "id": 5482,
+    "fra": "Kate est folle du nouveau chanteur qui passe fréquemment à la télévision.",
+    "eng": "Kate is crazy about the new singer who appears on television frequently.",
+    "char_count": 73
+  },
+  {
+    "id": 5483,
+    "fra": "Ceux qui habitent des maisons de verre ne devraient pas lancer de pierres.",
+    "eng": "Those who live in glass houses should not throw stones.",
+    "char_count": 74
+  },
+  {
+    "id": 5484,
+    "fra": "Un démocrate est un citoyen libre qui se plie à la volonté de la majorité.",
+    "eng": "A democrat is a free citizen who yields to the will of the majority.",
+    "char_count": 74
+  },
+  {
+    "id": 5485,
+    "fra": "J'ai une grande peur d'être méprisé par ceux que j'aime et à qui je tiens.",
+    "eng": "I have a great fear of being disdained by those I love and care about.",
+    "char_count": 74
+  },
+  {
+    "id": 5486,
+    "fra": "Si vous ne nous écoutez pas, il nous faudra avoir recours à la coercition.",
+    "eng": "If you don't listen to us, we will have to resort to coercion.",
+    "char_count": 74
+  },
+  {
+    "id": 5487,
+    "fra": "On va beaucoup manger ce soir alors j'espère que tu ne fais pas de régime.",
+    "eng": "We're going to eat a lot tonight so I hope you're not on a diet.",
+    "char_count": 74
+  },
+  {
+    "id": 5488,
+    "fra": "Quand ils rencontrent une célébrité, les fans lui demandent un autographe.",
+    "eng": "On encountering the celebrity, the fans asked for his autograph.",
+    "char_count": 74
+  },
+  {
+    "id": 5489,
+    "fra": "D'après le journal, il y a eu un grand tremblement de terre au Chili hier.",
+    "eng": "According to today's paper, there was a big earthquake in Chile yesterday.",
+    "char_count": 74
+  },
+  {
+    "id": 5490,
+    "fra": "Je ne pense pas que j'arriverai à terminer tout ce travail cet après-midi.",
+    "eng": "I don't think I shall get through all this work this afternoon.",
+    "char_count": 74
+  },
+  {
+    "id": 5491,
+    "fra": "La science moderne a transformé beaucoup d'impossibilités en possibilités.",
+    "eng": "Modern science has turned many impossibilities into possibilities.",
+    "char_count": 74
+  },
+  {
+    "id": 5492,
+    "fra": "Beaucoup de groupes ethniques donnent de l'argent comme cadeau de mariage.",
+    "eng": "Many ethnic groups traditionally give money as a wedding gift.",
+    "char_count": 74
+  },
+  {
+    "id": 5493,
+    "fra": "Les changements environnementaux donnent naissance à de nouvelles espèces.",
+    "eng": "Environmental changes gave rise to new species.",
+    "char_count": 74
+  },
+  {
+    "id": 5494,
+    "fra": "Tout ce dont nous avons besoin maintenant est l'action, pas la discussion.",
+    "eng": "All we need now is action, not discussion.",
+    "char_count": 74
+  },
+  {
+    "id": 5495,
+    "fra": "Tous les étudiants en anglais doivent avoir un bon dictionnaire d'anglais.",
+    "eng": "All students of English should have a good English-English dictionary at hand.",
+    "char_count": 74
+  },
+  {
+    "id": 5496,
+    "fra": "L'anglais est une langue universelle et est utilisée dans le monde entier.",
+    "eng": "English is a universal language and is used all over the world.",
+    "char_count": 74
+  },
+  {
+    "id": 5497,
+    "fra": "Je pense qu'un film est beaucoup plus entrainant que n'importe quel livre.",
+    "eng": "I think a movie is more entertaining than any book.",
+    "char_count": 74
+  },
+  {
+    "id": 5498,
+    "fra": "Suivez la rue pendant environ 50 mètres et vous verrez un bureau de poste.",
+    "eng": "Follow the street for about 50 meters, and you will see a post office.",
+    "char_count": 74
+  },
+  {
+    "id": 5499,
+    "fra": "Tout le monde sauf la famille Anderson viendra à la soirée jeudi prochain.",
+    "eng": "Everybody except the Anderson family is going to the party next Thursday evening.",
+    "char_count": 74
+  },
+  {
+    "id": 5500,
+    "fra": "Papa a besoin de repos. Cela fait 3 heures qu'il travaille dans le jardin.",
+    "eng": "Dad needs to take a rest. He's been working in the garden for three hours.",
+    "char_count": 74
+  }
+]

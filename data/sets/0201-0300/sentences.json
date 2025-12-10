@@ -1,0 +1,602 @@
+[
+  {
+    "id": 201,
+    "fra": "Je veux un bonbon.",
+    "eng": "I want a piece of candy.",
+    "char_count": 18
+  },
+  {
+    "id": 202,
+    "fra": "J'ai cours demain.",
+    "eng": "I have class tomorrow.",
+    "char_count": 18
+  },
+  {
+    "id": 203,
+    "fra": "Tu me fais chier !",
+    "eng": "You piss me off!",
+    "char_count": 18
+  },
+  {
+    "id": 204,
+    "fra": "Je m'y attendais !",
+    "eng": "I was expecting it!",
+    "char_count": 18
+  },
+  {
+    "id": 205,
+    "fra": "Je n'en veux plus.",
+    "eng": "I don't want it anymore.",
+    "char_count": 18
+  },
+  {
+    "id": 206,
+    "fra": "Ça coûte combien ?",
+    "eng": "How much is it?",
+    "char_count": 18
+  },
+  {
+    "id": 207,
+    "fra": "Je déjeune à midi.",
+    "eng": "I have lunch at noon.",
+    "char_count": 18
+  },
+  {
+    "id": 208,
+    "fra": "Je suis un garçon.",
+    "eng": "I am a boy.",
+    "char_count": 18
+  },
+  {
+    "id": 209,
+    "fra": "Je l'ai aidé hier.",
+    "eng": "I helped him yesterday.",
+    "char_count": 18
+  },
+  {
+    "id": 210,
+    "fra": "Je suis un lycéen.",
+    "eng": "I'm a high school student.",
+    "char_count": 18
+  },
+  {
+    "id": 211,
+    "fra": "J'ai perdu la clé.",
+    "eng": "I have lost the key.",
+    "char_count": 18
+  },
+  {
+    "id": 212,
+    "fra": "Je suis tout ouïe.",
+    "eng": "I am all ears to what you say.",
+    "char_count": 18
+  },
+  {
+    "id": 213,
+    "fra": "J'arrête de fumer.",
+    "eng": "I'm giving up smoking.",
+    "char_count": 18
+  },
+  {
+    "id": 214,
+    "fra": "Je me sens malade.",
+    "eng": "I'm feeling sick.",
+    "char_count": 18
+  },
+  {
+    "id": 215,
+    "fra": "J'adore les films.",
+    "eng": "I'm a movie fan.",
+    "char_count": 18
+  },
+  {
+    "id": 216,
+    "fra": "Je l'ai déjà fait.",
+    "eng": "I have already done it.",
+    "char_count": 18
+  },
+  {
+    "id": 217,
+    "fra": "Je buvais du lait.",
+    "eng": "I was drinking milk.",
+    "char_count": 18
+  },
+  {
+    "id": 218,
+    "fra": "Je suis boulanger.",
+    "eng": "I'm a baker.",
+    "char_count": 18
+  },
+  {
+    "id": 219,
+    "fra": "Je joue du violon.",
+    "eng": "I play the violin.",
+    "char_count": 18
+  },
+  {
+    "id": 220,
+    "fra": "Je suis tout seul.",
+    "eng": "I'm all alone.",
+    "char_count": 18
+  },
+  {
+    "id": 221,
+    "fra": "Je sortis du taxi.",
+    "eng": "I got out of the taxi.",
+    "char_count": 18
+  },
+  {
+    "id": 222,
+    "fra": "Je suis au régime.",
+    "eng": "I'm on a diet.",
+    "char_count": 18
+  },
+  {
+    "id": 223,
+    "fra": "J'ai trois places.",
+    "eng": "I have three tickets for it.",
+    "char_count": 18
+  },
+  {
+    "id": 224,
+    "fra": "J'ai besoin de ça.",
+    "eng": "I need this.",
+    "char_count": 18
+  },
+  {
+    "id": 225,
+    "fra": "Je suis américain.",
+    "eng": "I am an American.",
+    "char_count": 18
+  },
+  {
+    "id": 226,
+    "fra": "J'aime les chiens.",
+    "eng": "I like dogs.",
+    "char_count": 18
+  },
+  {
+    "id": 227,
+    "fra": "Suis mon conseil !",
+    "eng": "Take my advice!",
+    "char_count": 18
+  },
+  {
+    "id": 228,
+    "fra": "Viens à la maison.",
+    "eng": "Come to my house.",
+    "char_count": 18
+  },
+  {
+    "id": 229,
+    "fra": "Ma mère est belle.",
+    "eng": "My mother is beautiful.",
+    "char_count": 18
+  },
+  {
+    "id": 230,
+    "fra": "Je n'entends rien.",
+    "eng": "I can hear nothing.",
+    "char_count": 18
+  },
+  {
+    "id": 231,
+    "fra": "Fais de ton mieux.",
+    "eng": "Do your very best.",
+    "char_count": 18
+  },
+  {
+    "id": 232,
+    "fra": "Je vous ai trouvé.",
+    "eng": "I found you.",
+    "char_count": 18
+  },
+  {
+    "id": 233,
+    "fra": "Je cherche ma clé.",
+    "eng": "I'm looking for my key.",
+    "char_count": 18
+  },
+  {
+    "id": 234,
+    "fra": "Nous sommes lundi.",
+    "eng": "It's Monday.",
+    "char_count": 18
+  },
+  {
+    "id": 235,
+    "fra": "Je veux t'épouser.",
+    "eng": "I want to marry you.",
+    "char_count": 18
+  },
+  {
+    "id": 236,
+    "fra": "D'accord, allez-y.",
+    "eng": "OK. Go ahead.",
+    "char_count": 18
+  },
+  {
+    "id": 237,
+    "fra": "Faites bon voyage.",
+    "eng": "Have a nice trip!",
+    "char_count": 18
+  },
+  {
+    "id": 238,
+    "fra": "J'élève du bétail.",
+    "eng": "I raise cattle.",
+    "char_count": 18
+  },
+  {
+    "id": 239,
+    "fra": "Aimez-vous l'été ?",
+    "eng": "Do you like summer?",
+    "char_count": 18
+  },
+  {
+    "id": 240,
+    "fra": "Hors de question !",
+    "eng": "I don't care what you say. It's not going to happen!",
+    "char_count": 18
+  },
+  {
+    "id": 241,
+    "fra": "Donne-moi à boire.",
+    "eng": "Give me something to drink.",
+    "char_count": 18
+  },
+  {
+    "id": 242,
+    "fra": "Tu vas me manquer.",
+    "eng": "I'll miss you.",
+    "char_count": 18
+  },
+  {
+    "id": 243,
+    "fra": "C'est notre école.",
+    "eng": "That is our school.",
+    "char_count": 18
+  },
+  {
+    "id": 244,
+    "fra": "Hé toi, ferme-la !",
+    "eng": "Hey you, shut up!",
+    "char_count": 18
+  },
+  {
+    "id": 245,
+    "fra": "Bonne nuit, maman.",
+    "eng": "Good night, Mom.",
+    "char_count": 18
+  },
+  {
+    "id": 246,
+    "fra": "Merci d'être venu.",
+    "eng": "Thank you for coming.",
+    "char_count": 18
+  },
+  {
+    "id": 247,
+    "fra": "Comporte-toi bien.",
+    "eng": "Behave yourself.",
+    "char_count": 18
+  },
+  {
+    "id": 248,
+    "fra": "Prenons des sushi.",
+    "eng": "Let's have sushi.",
+    "char_count": 18
+  },
+  {
+    "id": 249,
+    "fra": "Bon anniversaire !",
+    "eng": "Happy birthday to you!",
+    "char_count": 18
+  },
+  {
+    "id": 250,
+    "fra": "Ken a une guitare.",
+    "eng": "Ken has a guitar.",
+    "char_count": 18
+  },
+  {
+    "id": 251,
+    "fra": "Reposons-nous ici.",
+    "eng": "Let's rest here.",
+    "char_count": 18
+  },
+  {
+    "id": 252,
+    "fra": "Nous mangeons ici.",
+    "eng": "For here, please.",
+    "char_count": 18
+  },
+  {
+    "id": 253,
+    "fra": "C'est ma réplique !",
+    "eng": "That's MY line!",
+    "char_count": 19
+  },
+  {
+    "id": 254,
+    "fra": "Allen est un poète.",
+    "eng": "Allen is a poet.",
+    "char_count": 19
+  },
+  {
+    "id": 255,
+    "fra": "C'est une surprise.",
+    "eng": "It's a surprise.",
+    "char_count": 19
+  },
+  {
+    "id": 256,
+    "fra": "T'as l'air stupide.",
+    "eng": "You look stupid.",
+    "char_count": 19
+  },
+  {
+    "id": 257,
+    "fra": "On se voit demain ?",
+    "eng": "We're meeting up tomorrow?",
+    "char_count": 19
+  },
+  {
+    "id": 258,
+    "fra": "Fiche-moi la paix !",
+    "eng": "Leave me alone!",
+    "char_count": 19
+  },
+  {
+    "id": 259,
+    "fra": "Appelez la police !",
+    "eng": "Call the police!",
+    "char_count": 19
+  },
+  {
+    "id": 260,
+    "fra": "Nous avons un Pape.",
+    "eng": "We have a Pope.",
+    "char_count": 19
+  },
+  {
+    "id": 261,
+    "fra": "Je parle avec qui ?",
+    "eng": "Who am I talking with?",
+    "char_count": 19
+  },
+  {
+    "id": 262,
+    "fra": "Ça veut rien dire !",
+    "eng": "It doesn't mean anything!",
+    "char_count": 19
+  },
+  {
+    "id": 263,
+    "fra": "Je ne perdrai pas !",
+    "eng": "I won't lose!",
+    "char_count": 19
+  },
+  {
+    "id": 264,
+    "fra": "De quoi parles-tu ?",
+    "eng": "What are you talking about?",
+    "char_count": 19
+  },
+  {
+    "id": 265,
+    "fra": "Je suis fou de toi.",
+    "eng": "I'm crazy about you.",
+    "char_count": 19
+  },
+  {
+    "id": 266,
+    "fra": "Baissez les mains !",
+    "eng": "Put your hands down!",
+    "char_count": 19
+  },
+  {
+    "id": 267,
+    "fra": "J'aime les voyages.",
+    "eng": "I love trips.",
+    "char_count": 19
+  },
+  {
+    "id": 268,
+    "fra": "Il mourut très âgé.",
+    "eng": "He died at a very old age.",
+    "char_count": 19
+  },
+  {
+    "id": 269,
+    "fra": "Tel père, tel fils.",
+    "eng": "Like father, like son.",
+    "char_count": 19
+  },
+  {
+    "id": 270,
+    "fra": "Je vais me baigner.",
+    "eng": "I'm going to take a bath.",
+    "char_count": 19
+  },
+  {
+    "id": 271,
+    "fra": "Aimerais-tu venir ?",
+    "eng": "Would you like to come?",
+    "char_count": 19
+  },
+  {
+    "id": 272,
+    "fra": "Comme tu es belle !",
+    "eng": "How beautiful you are!",
+    "char_count": 19
+  },
+  {
+    "id": 273,
+    "fra": "Nous avons réussi !",
+    "eng": "We succeeded!",
+    "char_count": 19
+  },
+  {
+    "id": 274,
+    "fra": "Où étais-tu passé ?",
+    "eng": "Where have you been?",
+    "char_count": 19
+  },
+  {
+    "id": 275,
+    "fra": "J'ai raté l'examen.",
+    "eng": "I failed the exam.",
+    "char_count": 19
+  },
+  {
+    "id": 276,
+    "fra": "Je lis un magazine.",
+    "eng": "I am reading a magazine.",
+    "char_count": 19
+  },
+  {
+    "id": 277,
+    "fra": "J'étais embarrassé.",
+    "eng": "I was embarrassed.",
+    "char_count": 19
+  },
+  {
+    "id": 278,
+    "fra": "Je viens d'arriver.",
+    "eng": "I just arrived now.",
+    "char_count": 19
+  },
+  {
+    "id": 279,
+    "fra": "J'écris une lettre.",
+    "eng": "I am writing a letter.",
+    "char_count": 19
+  },
+  {
+    "id": 280,
+    "fra": "Je me sens heureux.",
+    "eng": "I feel happy.",
+    "char_count": 19
+  },
+  {
+    "id": 281,
+    "fra": "Je suis professeur.",
+    "eng": "I'm a teacher.",
+    "char_count": 19
+  },
+  {
+    "id": 282,
+    "fra": "Je suis né à Kyoto.",
+    "eng": "I was born in Kyoto.",
+    "char_count": 19
+  },
+  {
+    "id": 283,
+    "fra": "Je sais quoi faire.",
+    "eng": "I know what to do.",
+    "char_count": 19
+  },
+  {
+    "id": 284,
+    "fra": "J'adore la musique.",
+    "eng": "I am fond of music.",
+    "char_count": 19
+  },
+  {
+    "id": 285,
+    "fra": "Je suis un coureur.",
+    "eng": "I am a runner.",
+    "char_count": 19
+  },
+  {
+    "id": 286,
+    "fra": "Je veux une Toyota.",
+    "eng": "I want a Toyota.",
+    "char_count": 19
+  },
+  {
+    "id": 287,
+    "fra": "J'aimais bien Tony.",
+    "eng": "I liked Tony.",
+    "char_count": 19
+  },
+  {
+    "id": 288,
+    "fra": "Je suis très grand.",
+    "eng": "I am very tall.",
+    "char_count": 19
+  },
+  {
+    "id": 289,
+    "fra": "Je vais te le dire.",
+    "eng": "I am going to tell you that.",
+    "char_count": 19
+  },
+  {
+    "id": 290,
+    "fra": "Je reviens bientôt.",
+    "eng": "I'll come back soon.",
+    "char_count": 19
+  },
+  {
+    "id": 291,
+    "fra": "J'ai un ordinateur.",
+    "eng": "I have a computer.",
+    "char_count": 19
+  },
+  {
+    "id": 292,
+    "fra": "Je manque d'argent.",
+    "eng": "I am short of money.",
+    "char_count": 19
+  },
+  {
+    "id": 293,
+    "fra": "C'est bon pour moi.",
+    "eng": "It's OK with me.",
+    "char_count": 19
+  },
+  {
+    "id": 294,
+    "fra": "Je connais ton âge.",
+    "eng": "I know how old you are.",
+    "char_count": 19
+  },
+  {
+    "id": 295,
+    "fra": "Où est ma voiture ?",
+    "eng": "Where is my car?",
+    "char_count": 19
+  },
+  {
+    "id": 296,
+    "fra": "Ma sœur est mariée.",
+    "eng": "My sister is married.",
+    "char_count": 19
+  },
+  {
+    "id": 297,
+    "fra": "Je pense autrement.",
+    "eng": "I think otherwise.",
+    "char_count": 19
+  },
+  {
+    "id": 298,
+    "fra": "J'ai trois cousins.",
+    "eng": "I have three cousins.",
+    "char_count": 19
+  },
+  {
+    "id": 299,
+    "fra": "Nous l'aimons tous.",
+    "eng": "All of us like her.",
+    "char_count": 19
+  },
+  {
+    "id": 300,
+    "fra": "Je pars maintenant.",
+    "eng": "I'm leaving now.",
+    "char_count": 19
+  }
+]

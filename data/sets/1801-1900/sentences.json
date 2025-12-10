@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1801,
+    "fra": "Je te suivrai où que tu ailles.",
+    "eng": "I will follow you wherever you go.",
+    "char_count": 31
+  },
+  {
+    "id": 1802,
+    "fra": "Comment épelez-vous votre nom ?",
+    "eng": "How do you spell your name?",
+    "char_count": 31
+  },
+  {
+    "id": 1803,
+    "fra": "Préfères-tu du thé ou du café ?",
+    "eng": "Do you like tea or coffee?",
+    "char_count": 31
+  },
+  {
+    "id": 1804,
+    "fra": "Êtes-vous pour ou contre ceci ?",
+    "eng": "Are you for or against this?",
+    "char_count": 31
+  },
+  {
+    "id": 1805,
+    "fra": "Pouvez-vous ouvrir la fenêtre ?",
+    "eng": "Can you open the window?",
+    "char_count": 31
+  },
+  {
+    "id": 1806,
+    "fra": "Comment te rends-tu à l'école ?",
+    "eng": "How do you come to school?",
+    "char_count": 31
+  },
+  {
+    "id": 1807,
+    "fra": "Qu'est-ce que tu marches vite !",
+    "eng": "How fast you walk!",
+    "char_count": 31
+  },
+  {
+    "id": 1808,
+    "fra": "Me prends-tu pour un imbécile ?",
+    "eng": "Do you take me for a fool?",
+    "char_count": 31
+  },
+  {
+    "id": 1809,
+    "fra": "Êtes-vous chinois ou japonais ?",
+    "eng": "Are you Chinese or Japanese?",
+    "char_count": 31
+  },
+  {
+    "id": 1810,
+    "fra": "Peux-tu aller à la mer demain ?",
+    "eng": "Can you go to the beach tomorrow?",
+    "char_count": 31
+  },
+  {
+    "id": 1811,
+    "fra": "Je suis arrivé là-bas trop tôt.",
+    "eng": "I arrived there too early.",
+    "char_count": 31
+  },
+  {
+    "id": 1812,
+    "fra": "Certains aliments donnent soif.",
+    "eng": "Some kinds of food make one thirsty.",
+    "char_count": 31
+  },
+  {
+    "id": 1813,
+    "fra": "Un homme est venu me voir hier.",
+    "eng": "A man came to see me yesterday.",
+    "char_count": 31
+  },
+  {
+    "id": 1814,
+    "fra": "Anne a fini de peindre l'image.",
+    "eng": "Ann finished painting the picture.",
+    "char_count": 31
+  },
+  {
+    "id": 1815,
+    "fra": "J'ai été licencié sans préavis.",
+    "eng": "I was discharged without notice.",
+    "char_count": 31
+  },
+  {
+    "id": 1816,
+    "fra": "Je suis toujours prêt à mourir.",
+    "eng": "I'm always ready for death.",
+    "char_count": 31
+  },
+  {
+    "id": 1817,
+    "fra": "Ne laisse pas la porte ouverte.",
+    "eng": "Don't leave the door open.",
+    "char_count": 31
+  },
+  {
+    "id": 1818,
+    "fra": "Les lapins aiment les carottes.",
+    "eng": "Rabbits like carrots.",
+    "char_count": 31
+  },
+  {
+    "id": 1819,
+    "fra": "Notre bébé ne parle pas encore.",
+    "eng": "Our baby is not yet articulate.",
+    "char_count": 31
+  },
+  {
+    "id": 1820,
+    "fra": "Notre chat est dans la cuisine.",
+    "eng": "Our cat is in the kitchen.",
+    "char_count": 31
+  },
+  {
+    "id": 1821,
+    "fra": "Merci beaucoup pour votre aide.",
+    "eng": "Thank you very much for your help.",
+    "char_count": 31
+  },
+  {
+    "id": 1822,
+    "fra": "N'en soufflez mot à quiconque !",
+    "eng": "Don't breathe a word of it to anyone.",
+    "char_count": 31
+  },
+  {
+    "id": 1823,
+    "fra": "Je n’ai pas de monnaie sur moi.",
+    "eng": "I have no money on me.",
+    "char_count": 31
+  },
+  {
+    "id": 1824,
+    "fra": "C'est mal de voler de l'argent.",
+    "eng": "It is wrong to steal money.",
+    "char_count": 31
+  },
+  {
+    "id": 1825,
+    "fra": "Il pourrait pleuvoir vers midi.",
+    "eng": "It may rain around noon.",
+    "char_count": 31
+  },
+  {
+    "id": 1826,
+    "fra": "Kumi joue au tennis maintenant.",
+    "eng": "Kumi is playing tennis now.",
+    "char_count": 31
+  },
+  {
+    "id": 1827,
+    "fra": "Avez-vous une carte de crédit ?",
+    "eng": "Do you have a credit card?",
+    "char_count": 31
+  },
+  {
+    "id": 1828,
+    "fra": "Keisuke est plus grand que moi.",
+    "eng": "Keisuke is taller than I.",
+    "char_count": 31
+  },
+  {
+    "id": 1829,
+    "fra": "Je t'en prie, prends du gâteau.",
+    "eng": "Please help yourself to the cake.",
+    "char_count": 31
+  },
+  {
+    "id": 1830,
+    "fra": "Entre nous, il a une maîtresse.",
+    "eng": "Between ourselves, he keeps a mistress.",
+    "char_count": 31
+  },
+  {
+    "id": 1831,
+    "fra": "J'ai une douleur chronique ici.",
+    "eng": "I have a chronic pain here.",
+    "char_count": 31
+  },
+  {
+    "id": 1832,
+    "fra": "Tu es venu en train ou en bus ?",
+    "eng": "Did you come here by train or by bus?",
+    "char_count": 31
+  },
+  {
+    "id": 1833,
+    "fra": "Le mot de passe est « Muiriel ».",
+    "eng": "The password is \"Muiriel\".",
+    "char_count": 32
+  },
+  {
+    "id": 1834,
+    "fra": "Je ne sais pas si j'ai le temps.",
+    "eng": "I don't know if I have the time.",
+    "char_count": 32
+  },
+  {
+    "id": 1835,
+    "fra": "Je n'ai jamais aimé la biologie.",
+    "eng": "I never liked biology.",
+    "char_count": 32
+  },
+  {
+    "id": 1836,
+    "fra": "Est-ce que tu te fous de moi ? !",
+    "eng": "Are you freaking kidding me?!",
+    "char_count": 32
+  },
+  {
+    "id": 1837,
+    "fra": "C'est parce que tu es une fille.",
+    "eng": "That's because you're a girl.",
+    "char_count": 32
+  },
+  {
+    "id": 1838,
+    "fra": "C'est toujours tel que ça a été.",
+    "eng": "This is always the way it has been.",
+    "char_count": 32
+  },
+  {
+    "id": 1839,
+    "fra": "L'innocence est une belle chose.",
+    "eng": "Innocence is a beautiful thing.",
+    "char_count": 32
+  },
+  {
+    "id": 1840,
+    "fra": "Je ne savais pas d'où ça venait.",
+    "eng": "I didn't know where it came from.",
+    "char_count": 32
+  },
+  {
+    "id": 1841,
+    "fra": "Je ne voulais pas que ça arrive.",
+    "eng": "I didn't want this to happen.",
+    "char_count": 32
+  },
+  {
+    "id": 1842,
+    "fra": "Ne sous-estime pas ma puissance.",
+    "eng": "Don't underestimate my power.",
+    "char_count": 32
+  },
+  {
+    "id": 1843,
+    "fra": "C'est là que réside le problème.",
+    "eng": "Therein lies the problem.",
+    "char_count": 32
+  },
+  {
+    "id": 1844,
+    "fra": "Rien n'est accompli sans effort.",
+    "eng": "Nothing is achieved without effort.",
+    "char_count": 32
+  },
+  {
+    "id": 1845,
+    "fra": "J’aimerais rester pour une nuit.",
+    "eng": "I'd like to stay for one night.",
+    "char_count": 32
+  },
+  {
+    "id": 1846,
+    "fra": "Aujourd'hui, il fait très chaud.",
+    "eng": "It is very hot today.",
+    "char_count": 32
+  },
+  {
+    "id": 1847,
+    "fra": "Il n'y a pas de visions réelles.",
+    "eng": "There are no real visions.",
+    "char_count": 32
+  },
+  {
+    "id": 1848,
+    "fra": "J'accepte, mais à une condition.",
+    "eng": "I accept, but only under one condition.",
+    "char_count": 32
+  },
+  {
+    "id": 1849,
+    "fra": "Mon petit frère regarde la télé.",
+    "eng": "My little brother is watching TV.",
+    "char_count": 32
+  },
+  {
+    "id": 1850,
+    "fra": "Il me faut un nouvel ordinateur.",
+    "eng": "I have to get a new computer.",
+    "char_count": 32
+  },
+  {
+    "id": 1851,
+    "fra": "J'ai hâte de partir en vacances.",
+    "eng": "I can't wait to go on a vacation.",
+    "char_count": 32
+  },
+  {
+    "id": 1852,
+    "fra": "Bonne nuit. Fais de beaux rêves.",
+    "eng": "Good night. Sweet dreams.",
+    "char_count": 32
+  },
+  {
+    "id": 1853,
+    "fra": "Je suis enceinte de quatre mois.",
+    "eng": "I am four months pregnant.",
+    "char_count": 32
+  },
+  {
+    "id": 1854,
+    "fra": "Ils t'attendent devant la porte.",
+    "eng": "They are waiting for you in front of the door.",
+    "char_count": 32
+  },
+  {
+    "id": 1855,
+    "fra": "Ramasse tes affaires et va-t'en.",
+    "eng": "Pick up your things and go away.",
+    "char_count": 32
+  },
+  {
+    "id": 1856,
+    "fra": "Ils ne savent même pas pourquoi.",
+    "eng": "They don't even know why.",
+    "char_count": 32
+  },
+  {
+    "id": 1857,
+    "fra": "Il m'a dit qu'il irait à Venise.",
+    "eng": "He told me he would go to Venice.",
+    "char_count": 32
+  },
+  {
+    "id": 1858,
+    "fra": "La voiture ne veut pas démarrer.",
+    "eng": "The car wouldn't start.",
+    "char_count": 32
+  },
+  {
+    "id": 1859,
+    "fra": "Je dois prendre des médicaments.",
+    "eng": "I have to take medicine.",
+    "char_count": 32
+  },
+  {
+    "id": 1860,
+    "fra": "Si vous voulez bien me suivre...",
+    "eng": "If you will come this way...",
+    "char_count": 32
+  },
+  {
+    "id": 1861,
+    "fra": "Il emménage avec sa petite amie.",
+    "eng": "He's moving in with his girlfriend.",
+    "char_count": 32
+  },
+  {
+    "id": 1862,
+    "fra": "Cela ne me fait rien d'attendre.",
+    "eng": "I don't mind waiting.",
+    "char_count": 32
+  },
+  {
+    "id": 1863,
+    "fra": "J'ai essayé d'éviter un conflit.",
+    "eng": "I tried to avoid conflict.",
+    "char_count": 32
+  },
+  {
+    "id": 1864,
+    "fra": "Je n'ai pas d'amis pour m'aider.",
+    "eng": "I have no friends to help me.",
+    "char_count": 32
+  },
+  {
+    "id": 1865,
+    "fra": "J'ai skié pour la première fois.",
+    "eng": "I skied for the first time.",
+    "char_count": 32
+  },
+  {
+    "id": 1866,
+    "fra": "J'ai bien réfléchi à mon avenir.",
+    "eng": "I thought over my future.",
+    "char_count": 32
+  },
+  {
+    "id": 1867,
+    "fra": "J'ai fait réparer ma bicyclette.",
+    "eng": "I got my bicycle repaired.",
+    "char_count": 32
+  },
+  {
+    "id": 1868,
+    "fra": "J'étais en mission à l'étranger.",
+    "eng": "I was abroad on an assignment.",
+    "char_count": 32
+  },
+  {
+    "id": 1869,
+    "fra": "J'ai préparé le dîner hier soir.",
+    "eng": "I cooked supper last night.",
+    "char_count": 32
+  },
+  {
+    "id": 1870,
+    "fra": "Je suis maintenant à l'aéroport.",
+    "eng": "I'm at the airport now.",
+    "char_count": 32
+  },
+  {
+    "id": 1871,
+    "fra": "Je n'aime ni le thé, ni le café.",
+    "eng": "I don't like either tea or coffee.",
+    "char_count": 32
+  },
+  {
+    "id": 1872,
+    "fra": "Je fus surpris et devins triste.",
+    "eng": "I was surprised and became sad.",
+    "char_count": 32
+  },
+  {
+    "id": 1873,
+    "fra": "Je préfère la viande au poisson.",
+    "eng": "I like meat better than fish.",
+    "char_count": 32
+  },
+  {
+    "id": 1874,
+    "fra": "Je n'aime pas prendre de risque.",
+    "eng": "I don't like to run a risk.",
+    "char_count": 32
+  },
+  {
+    "id": 1875,
+    "fra": "Je n'aime pas les enfants gâtés.",
+    "eng": "I don't like spoiled children.",
+    "char_count": 32
+  },
+  {
+    "id": 1876,
+    "fra": "Je préfère la montagne à la mer.",
+    "eng": "I like mountains better than seas.",
+    "char_count": 32
+  },
+  {
+    "id": 1877,
+    "fra": "Je désire quelque chose à boire.",
+    "eng": "I want something to drink.",
+    "char_count": 32
+  },
+  {
+    "id": 1878,
+    "fra": "J'ai quelques livres en anglais.",
+    "eng": "I have a few English books.",
+    "char_count": 32
+  },
+  {
+    "id": 1879,
+    "fra": "Je tiens toujours mes promesses.",
+    "eng": "I always keep my promises.",
+    "char_count": 32
+  },
+  {
+    "id": 1880,
+    "fra": "Je portais mes meilleurs habits.",
+    "eng": "I was wearing my best clothes.",
+    "char_count": 32
+  },
+  {
+    "id": 1881,
+    "fra": "J'appartiens à un club de rugby.",
+    "eng": "I belong to the rugby football club.",
+    "char_count": 32
+  },
+  {
+    "id": 1882,
+    "fra": "Je pensais que Tom était gentil.",
+    "eng": "I thought that Tom was kind.",
+    "char_count": 32
+  },
+  {
+    "id": 1883,
+    "fra": "J'ai finalement arrêté de fumer.",
+    "eng": "I finally gave up smoking.",
+    "char_count": 32
+  },
+  {
+    "id": 1884,
+    "fra": "J'étais à l'heure pour le dîner.",
+    "eng": "I was on time for dinner.",
+    "char_count": 32
+  },
+  {
+    "id": 1885,
+    "fra": "Je ne me lasse jamais de danser.",
+    "eng": "I never get sick of dancing.",
+    "char_count": 32
+  },
+  {
+    "id": 1886,
+    "fra": "Je préfère le beurre au fromage.",
+    "eng": "I like butter better than cheese.",
+    "char_count": 32
+  },
+  {
+    "id": 1887,
+    "fra": "J'ai beaucoup d'appareils photo.",
+    "eng": "I have a lot of cameras.",
+    "char_count": 32
+  },
+  {
+    "id": 1888,
+    "fra": "Je suis heureux d'entendre cela.",
+    "eng": "I'm glad to hear that.",
+    "char_count": 32
+  },
+  {
+    "id": 1889,
+    "fra": "Je l'ai eu pour trois fois rien.",
+    "eng": "I got it for nothing.",
+    "char_count": 32
+  },
+  {
+    "id": 1890,
+    "fra": "J'avais deux copies de ce livre.",
+    "eng": "I had two copies of the book.",
+    "char_count": 32
+  },
+  {
+    "id": 1891,
+    "fra": "J'ai payé le double de la somme.",
+    "eng": "I paid double the sum.",
+    "char_count": 32
+  },
+  {
+    "id": 1892,
+    "fra": "Je lui en ai parlé au téléphone.",
+    "eng": "I spoke to him about it over the telephone.",
+    "char_count": 32
+  },
+  {
+    "id": 1893,
+    "fra": "Je me sens triste à cause de ça.",
+    "eng": "I am feeling sad about it.",
+    "char_count": 32
+  },
+  {
+    "id": 1894,
+    "fra": "J'ai beaucoup de choses à faire.",
+    "eng": "I have many things to do.",
+    "char_count": 32
+  },
+  {
+    "id": 1895,
+    "fra": "J'ai lu ce livre plusieurs fois.",
+    "eng": "I read this book again and again.",
+    "char_count": 32
+  },
+  {
+    "id": 1896,
+    "fra": "Je peux te recommander ce livre.",
+    "eng": "I can recommend this book to you.",
+    "char_count": 32
+  },
+  {
+    "id": 1897,
+    "fra": "J'ai vu un homme avec un enfant.",
+    "eng": "I saw a man with a child.",
+    "char_count": 32
+  },
+  {
+    "id": 1898,
+    "fra": "J'aimerais aller aux États-Unis.",
+    "eng": "I would like to go to the USA.",
+    "char_count": 32
+  },
+  {
+    "id": 1899,
+    "fra": "Je veux que tu laves la voiture.",
+    "eng": "I want you to wash the car.",
+    "char_count": 32
+  },
+  {
+    "id": 1900,
+    "fra": "Je sais que c'est là que tu vis.",
+    "eng": "I know that you live here.",
+    "char_count": 32
+  }
+]

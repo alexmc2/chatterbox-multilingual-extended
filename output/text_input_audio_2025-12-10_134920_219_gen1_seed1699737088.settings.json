@@ -1,8 +1,8 @@
 {
-  "text_input": "Si seulement elle arrêtait de jouer cette musique idiote !",
+  "text_input": "",
   "exaggeration_slider": 0.7,
   "temp_slider": 0.76,
-  "seed_input": 0,
+  "seed_input": 1699737088,
   "cfg_weight_slider": 0.58,
   "use_pyrnnoise_checkbox": false,
   "use_auto_editor_checkbox": false,
@@ -28,7 +28,7 @@
   "num_candidates_slider": 2,
   "max_attempts_slider": 2,
   "bypass_whisper_checkbox": false,
-  "whisper_model_dropdown": "medium (~5–8 GB OpenAI / ~2.5–4.5 GB faster-whisper)",
+  "whisper_model_dropdown": "small (~2–3 GB OpenAI / ~1.2–1.7 GB faster-whisper)",
   "enable_parallel_checkbox": true,
   "num_parallel_workers_slider": 2,
   "use_longest_transcript_on_fail_checkbox": true,
@@ -36,7 +36,9 @@
   "use_faster_whisper_checkbox": true,
   "separate_files_checkbox": false,
   "input_basename": "text_input_",
-  "audio_prompt_path_input": null,
-  "generation_time": "2025-12-10T13:58:59.245991",
-  "output_audio_files": []
+  "audio_prompt_path_input": "/tmp/gradio/e8cff460960645b411b7c6a5233640c711dd1908a9f3e4b34b06480a3baca990/audio.wav",
+  "generation_time": "2025-12-10T13:49:20.220645",
+  "output_audio_files": [
+    "output/text_input_audio_2025-12-10_134920_219_gen1_seed1699737088.wav"
+  ]
 }

@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1601,
+    "fra": "Le chien de Ken est très gros.",
+    "eng": "Ken's dog is very big.",
+    "char_count": 30
+  },
+  {
+    "id": 1602,
+    "fra": "Le sang coule dans les veines.",
+    "eng": "Blood runs in the veins.",
+    "char_count": 30
+  },
+  {
+    "id": 1603,
+    "fra": "Très bien. Je vais le prendre.",
+    "eng": "All right. I'll take it.",
+    "char_count": 30
+  },
+  {
+    "id": 1604,
+    "fra": "Je vous laisserai la décision.",
+    "eng": "I'll leave the decision to you.",
+    "char_count": 30
+  },
+  {
+    "id": 1605,
+    "fra": "Keiko est fière de sa famille.",
+    "eng": "Keiko is proud of her family.",
+    "char_count": 30
+  },
+  {
+    "id": 1606,
+    "fra": "Je ne peux pas vivre sans toi.",
+    "eng": "I can't live without you.",
+    "char_count": 30
+  },
+  {
+    "id": 1607,
+    "fra": "C'est grossier de votre part !",
+    "eng": "How rude of you!",
+    "char_count": 30
+  },
+  {
+    "id": 1608,
+    "fra": "Je ne comptais pas te blesser.",
+    "eng": "I didn't mean to hurt you.",
+    "char_count": 30
+  },
+  {
+    "id": 1609,
+    "fra": "Je regrette de te l'avoir dit.",
+    "eng": "I regret that I told you.",
+    "char_count": 30
+  },
+  {
+    "id": 1610,
+    "fra": "Je le ferai, si vous insistez.",
+    "eng": "I'll do it, if you insist.",
+    "char_count": 30
+  },
+  {
+    "id": 1611,
+    "fra": "C'est évident que tu as menti.",
+    "eng": "It's evident that you told a lie.",
+    "char_count": 30
+  },
+  {
+    "id": 1612,
+    "fra": "Je l'ai rencontrée par hasard.",
+    "eng": "I met her by chance.",
+    "char_count": 30
+  },
+  {
+    "id": 1613,
+    "fra": "Son cœur battait d'excitation.",
+    "eng": "Her heart was throbbing with excitement.",
+    "char_count": 30
+  },
+  {
+    "id": 1614,
+    "fra": "Un yen fort secoue l'économie.",
+    "eng": "A strong yen is shaking the economy.",
+    "char_count": 30
+  },
+  {
+    "id": 1615,
+    "fra": "Je suis allé une fois à Kyoto.",
+    "eng": "I have been to Kyoto once.",
+    "char_count": 30
+  },
+  {
+    "id": 1616,
+    "fra": "Je suis allergique au poisson.",
+    "eng": "I'm allergic to fish.",
+    "char_count": 30
+  },
+  {
+    "id": 1617,
+    "fra": "Aère le futon, s'il te plaît !",
+    "eng": "Please air the futon.",
+    "char_count": 30
+  },
+  {
+    "id": 1618,
+    "fra": "Je n'aime pas les coquillages.",
+    "eng": "I don't like shellfish.",
+    "char_count": 30
+  },
+  {
+    "id": 1619,
+    "fra": "Vas-tu assister à la réunion ?",
+    "eng": "Are you going to attend the meeting?",
+    "char_count": 30
+  },
+  {
+    "id": 1620,
+    "fra": "Notre équipe a gagné le match.",
+    "eng": "Our team won the game.",
+    "char_count": 30
+  },
+  {
+    "id": 1621,
+    "fra": "Il fait très chaud ici en été.",
+    "eng": "It is very hot here in summer.",
+    "char_count": 30
+  },
+  {
+    "id": 1622,
+    "fra": "J'ai vu une lumière lointaine.",
+    "eng": "I saw a light far away.",
+    "char_count": 30
+  },
+  {
+    "id": 1623,
+    "fra": "Le film a-t-il déjà commencé ?",
+    "eng": "Has the movie started yet?",
+    "char_count": 30
+  },
+  {
+    "id": 1624,
+    "fra": "Il est parti il y a une heure.",
+    "eng": "He left an hour ago.",
+    "char_count": 30
+  },
+  {
+    "id": 1625,
+    "fra": "Il est mort à l'âge de 54 ans.",
+    "eng": "He died aged 54 years.",
+    "char_count": 30
+  },
+  {
+    "id": 1626,
+    "fra": "J'ai un peu plus de 5 dollars.",
+    "eng": "I have little more than 5 dollars.",
+    "char_count": 30
+  },
+  {
+    "id": 1627,
+    "fra": "Il sera revenu avant 5 heures.",
+    "eng": "He'll be back by five o'clock.",
+    "char_count": 30
+  },
+  {
+    "id": 1628,
+    "fra": "Je me suis levé à sept heures.",
+    "eng": "I got up at seven.",
+    "char_count": 30
+  },
+  {
+    "id": 1629,
+    "fra": "Je préfère la science-fiction.",
+    "eng": "I like science fiction better.",
+    "char_count": 30
+  },
+  {
+    "id": 1630,
+    "fra": "Akira sortit quelques minutes.",
+    "eng": "Akira went out for a few minutes.",
+    "char_count": 30
+  },
+  {
+    "id": 1631,
+    "fra": "Je sais que tu es intelligent.",
+    "eng": "I know you are clever.",
+    "char_count": 30
+  },
+  {
+    "id": 1632,
+    "fra": "Je suis ravi de te rencontrer.",
+    "eng": "I am delighted to meet you.",
+    "char_count": 30
+  },
+  {
+    "id": 1633,
+    "fra": "Dépose ton argent à la banque.",
+    "eng": "Deposit your money in the bank.",
+    "char_count": 30
+  },
+  {
+    "id": 1634,
+    "fra": "Sais-tu où ton père est allé ?",
+    "eng": "Do you know where your father went?",
+    "char_count": 30
+  },
+  {
+    "id": 1635,
+    "fra": "Êtes-vous fier de votre père ?",
+    "eng": "Are you proud of your father?",
+    "char_count": 30
+  },
+  {
+    "id": 1636,
+    "fra": "Je me réjouis de votre succès.",
+    "eng": "I rejoice in your success.",
+    "char_count": 30
+  },
+  {
+    "id": 1637,
+    "fra": "Partons quand vous serez prêt.",
+    "eng": "Let's leave when you are ready.",
+    "char_count": 30
+  },
+  {
+    "id": 1638,
+    "fra": "Sans ton aide j'aurais échoué.",
+    "eng": "But for your help, I would have failed.",
+    "char_count": 30
+  },
+  {
+    "id": 1639,
+    "fra": "Avez-vous terminé le travail ?",
+    "eng": "Did you finish the job?",
+    "char_count": 30
+  },
+  {
+    "id": 1640,
+    "fra": "Avez-vous fini votre travail ?",
+    "eng": "Have you finished your work?",
+    "char_count": 30
+  },
+  {
+    "id": 1641,
+    "fra": "Connais-tu cette jolie fille ?",
+    "eng": "Do you know that nice-looking girl?",
+    "char_count": 30
+  },
+  {
+    "id": 1642,
+    "fra": "Ce garçon a les cheveux noirs.",
+    "eng": "That boy has black hair.",
+    "char_count": 30
+  },
+  {
+    "id": 1643,
+    "fra": "Cet homme est mon chef direct.",
+    "eng": "He is directly above me.",
+    "char_count": 30
+  },
+  {
+    "id": 1644,
+    "fra": "C'est un vieil appareil photo.",
+    "eng": "That is an old camera.",
+    "char_count": 30
+  },
+  {
+    "id": 1645,
+    "fra": "Rien ne peut être pire que ça.",
+    "eng": "Nothing can be worse than that.",
+    "char_count": 30
+  },
+  {
+    "id": 1646,
+    "fra": "Je pense qu'Anne aime Jacques.",
+    "eng": "I think Ann loves Jack.",
+    "char_count": 30
+  },
+  {
+    "id": 1647,
+    "fra": "Anne joue très bien au tennis.",
+    "eng": "Ann plays tennis very well.",
+    "char_count": 30
+  },
+  {
+    "id": 1648,
+    "fra": "Anne aime beaucoup la musique.",
+    "eng": "Ann likes music very much.",
+    "char_count": 30
+  },
+  {
+    "id": 1649,
+    "fra": "Approchez votre chaise du feu.",
+    "eng": "Draw your chair closer to the fire.",
+    "char_count": 30
+  },
+  {
+    "id": 1650,
+    "fra": "Les absents ont toujours tort.",
+    "eng": "The absent are always in the wrong.",
+    "char_count": 30
+  },
+  {
+    "id": 1651,
+    "fra": "Êtes-vous déjà allés en Inde ?",
+    "eng": "Have you ever been to India?",
+    "char_count": 30
+  },
+  {
+    "id": 1652,
+    "fra": "Je m'occupe de mon grand-père.",
+    "eng": "I take care of my grandfather.",
+    "char_count": 30
+  },
+  {
+    "id": 1653,
+    "fra": "Mon oncle possède une fortune.",
+    "eng": "My uncle made a fortune.",
+    "char_count": 30
+  },
+  {
+    "id": 1654,
+    "fra": "Mon oncle m'a donné un cadeau.",
+    "eng": "My uncle gave me a present.",
+    "char_count": 30
+  },
+  {
+    "id": 1655,
+    "fra": "Je vais faire de toi un homme.",
+    "eng": "I will make a man of you.",
+    "char_count": 30
+  },
+  {
+    "id": 1656,
+    "fra": "Pouvez-vous jouer de l'orgue ?",
+    "eng": "Can you play the organ?",
+    "char_count": 30
+  },
+  {
+    "id": 1657,
+    "fra": "Combien de bagages avez-vous ?",
+    "eng": "How many pieces of baggage do you have?",
+    "char_count": 30
+  },
+  {
+    "id": 1658,
+    "fra": "Merci beaucoup pour ta lettre.",
+    "eng": "Thank you very much for your letter.",
+    "char_count": 30
+  },
+  {
+    "id": 1659,
+    "fra": "Donnez-moi un peu plus de thé.",
+    "eng": "Give me some more tea.",
+    "char_count": 30
+  },
+  {
+    "id": 1660,
+    "fra": "Venez prendre le thé avec moi.",
+    "eng": "Come and have tea with me.",
+    "char_count": 30
+  },
+  {
+    "id": 1661,
+    "fra": "Ma mère m'a laissé un message.",
+    "eng": "Mother left me a message.",
+    "char_count": 30
+  },
+  {
+    "id": 1662,
+    "fra": "J'ai oublié de fermer le gaz !",
+    "eng": "I forgot to turn off the gas!",
+    "char_count": 30
+  },
+  {
+    "id": 1663,
+    "fra": "L'oie est un oiseau aquatique.",
+    "eng": "A goose is a water bird.",
+    "char_count": 30
+  },
+  {
+    "id": 1664,
+    "fra": "L'anglais est parlé au Canada.",
+    "eng": "English is spoken in Canada.",
+    "char_count": 30
+  },
+  {
+    "id": 1665,
+    "fra": "J'ai des timbres dans mon sac.",
+    "eng": "I have some stamps in my bag.",
+    "char_count": 30
+  },
+  {
+    "id": 1666,
+    "fra": "J'ai raté le dernier bus hier.",
+    "eng": "I missed the last bus yesterday.",
+    "char_count": 30
+  },
+  {
+    "id": 1667,
+    "fra": "J'ai pris trois poissons hier.",
+    "eng": "I caught three fish yesterday.",
+    "char_count": 30
+  },
+  {
+    "id": 1668,
+    "fra": "Croyez-vous en la chrétienté ?",
+    "eng": "Do you believe in Christianity?",
+    "char_count": 30
+  },
+  {
+    "id": 1669,
+    "fra": "Noël est un jour férié à part.",
+    "eng": "Christmas is a special holiday.",
+    "char_count": 30
+  },
+  {
+    "id": 1670,
+    "fra": "Abritons-nous ici de la pluie.",
+    "eng": "Let's shelter here from the rain.",
+    "char_count": 30
+  },
+  {
+    "id": 1671,
+    "fra": "Ne jouez pas au base-ball ici.",
+    "eng": "Don't play baseball here.",
+    "char_count": 30
+  },
+  {
+    "id": 1672,
+    "fra": "Asseyons-nous ici sur l'herbe.",
+    "eng": "Let's sit here on the grass.",
+    "char_count": 30
+  },
+  {
+    "id": 1673,
+    "fra": "Comment trouves-tu ce whisky ?",
+    "eng": "How do you like this whisky?",
+    "char_count": 30
+  },
+  {
+    "id": 1674,
+    "fra": "Il me donne des coups de pied !",
+    "eng": "He's kicking me!",
+    "char_count": 31
+  },
+  {
+    "id": 1675,
+    "fra": "Combien de temps es-tu restée ?",
+    "eng": "How long did you stay?",
+    "char_count": 31
+  },
+  {
+    "id": 1676,
+    "fra": "Veux-tu quelque chose à boire ?",
+    "eng": "Would you like something to drink?",
+    "char_count": 31
+  },
+  {
+    "id": 1677,
+    "fra": "« Fais-moi confiance », dit-il.",
+    "eng": "Trust me, he said.",
+    "char_count": 31
+  },
+  {
+    "id": 1678,
+    "fra": "Remettre en forme après lavage.",
+    "eng": "Pull into shape after washing.",
+    "char_count": 31
+  },
+  {
+    "id": 1679,
+    "fra": "On dit que l'amour est aveugle.",
+    "eng": "They say love is blind.",
+    "char_count": 31
+  },
+  {
+    "id": 1680,
+    "fra": "Je ne peux pas vivre sans télé.",
+    "eng": "I can't live without a TV.",
+    "char_count": 31
+  },
+  {
+    "id": 1681,
+    "fra": "L'Italie est un très beau pays.",
+    "eng": "Italy is a very beautiful country.",
+    "char_count": 31
+  },
+  {
+    "id": 1682,
+    "fra": "Il y a trop de choses à faire !",
+    "eng": "There are too many things to do!",
+    "char_count": 31
+  },
+  {
+    "id": 1683,
+    "fra": "Regarde-moi quand je te parle !",
+    "eng": "Look at me when I talk to you!",
+    "char_count": 31
+  },
+  {
+    "id": 1684,
+    "fra": "Ce soir nous allons à l'église.",
+    "eng": "Tonight we're going to church.",
+    "char_count": 31
+  },
+  {
+    "id": 1685,
+    "fra": "Je ne comprends pas l'allemand.",
+    "eng": "I don't understand German.",
+    "char_count": 31
+  },
+  {
+    "id": 1686,
+    "fra": "Tu es le grand amour de ma vie.",
+    "eng": "You are the great love of my life.",
+    "char_count": 31
+  },
+  {
+    "id": 1687,
+    "fra": "Je ne veux pas aller à l'école.",
+    "eng": "I don't want to go to school.",
+    "char_count": 31
+  },
+  {
+    "id": 1688,
+    "fra": "Mais tu ne m'as jamais dit ça !",
+    "eng": "But you've never told me about this!",
+    "char_count": 31
+  },
+  {
+    "id": 1689,
+    "fra": "L’hiver est ma saison préférée.",
+    "eng": "Winter is my favorite season.",
+    "char_count": 31
+  },
+  {
+    "id": 1690,
+    "fra": "Le monde est plein d’imbéciles.",
+    "eng": "The world is full of fools.",
+    "char_count": 31
+  },
+  {
+    "id": 1691,
+    "fra": "J'en ai marre d'en avoir marre.",
+    "eng": "I'm sick and tired of being sick and tired.",
+    "char_count": 31
+  },
+  {
+    "id": 1692,
+    "fra": "Je ne sais pas ce qui est pire.",
+    "eng": "I don't know what is worse.",
+    "char_count": 31
+  },
+  {
+    "id": 1693,
+    "fra": "Il fait une tête d'enterrement.",
+    "eng": "He's got a face like a month of wet Sundays.",
+    "char_count": 31
+  },
+  {
+    "id": 1694,
+    "fra": "Ce n'est pas tout à fait exact.",
+    "eng": "It isn't totally exact.",
+    "char_count": 31
+  },
+  {
+    "id": 1695,
+    "fra": "C'est trop beau pour être vrai.",
+    "eng": "It's too good to be true.",
+    "char_count": 31
+  },
+  {
+    "id": 1696,
+    "fra": "Tous les chemins mènent à Rome.",
+    "eng": "All roads lead to Rome.",
+    "char_count": 31
+  },
+  {
+    "id": 1697,
+    "fra": "Voici le garçon à qui je pense.",
+    "eng": "This is the boy I think about.",
+    "char_count": 31
+  },
+  {
+    "id": 1698,
+    "fra": "Son jardin est une œuvre d'art.",
+    "eng": "Her garden is a work of art.",
+    "char_count": 31
+  },
+  {
+    "id": 1699,
+    "fra": "Voulez-vous une tasse de café ?",
+    "eng": "Do you want a cup of coffee?",
+    "char_count": 31
+  },
+  {
+    "id": 1700,
+    "fra": "Je cherche une chambre à louer.",
+    "eng": "I'm looking for a room for rent.",
+    "char_count": 31
+  }
+]

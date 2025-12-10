@@ -1,0 +1,602 @@
+[
+  {
+    "id": 3301,
+    "fra": "Puis-je avoir votre nom s'il vous plaît ?",
+    "eng": "Could you give me your name?",
+    "char_count": 41
+  },
+  {
+    "id": 3302,
+    "fra": "Je n'ai rien d'autre à faire aujourd'hui.",
+    "eng": "I have nothing more to do today.",
+    "char_count": 41
+  },
+  {
+    "id": 3303,
+    "fra": "J'ai l'impression d'avoir perdu mes clés.",
+    "eng": "It seems that I have lost my keys.",
+    "char_count": 41
+  },
+  {
+    "id": 3304,
+    "fra": "Je préfère sortir que rester à la maison.",
+    "eng": "I prefer going out to staying at home.",
+    "char_count": 41
+  },
+  {
+    "id": 3305,
+    "fra": "Je lis l'anglais mais je ne le parle pas.",
+    "eng": "I can read English, but I can't speak it.",
+    "char_count": 41
+  },
+  {
+    "id": 3306,
+    "fra": "J'ai fini d'écrire une lettre en anglais.",
+    "eng": "I finished writing a letter in English.",
+    "char_count": 41
+  },
+  {
+    "id": 3307,
+    "fra": "J'ai été son plus grand fan toute ma vie.",
+    "eng": "I have been his greatest fan all my life.",
+    "char_count": 41
+  },
+  {
+    "id": 3308,
+    "fra": "Je sais que Marie est allée à l'étranger.",
+    "eng": "I know that Mary went abroad.",
+    "char_count": 41
+  },
+  {
+    "id": 3309,
+    "fra": "Habituellement, je vais à l'école en bus.",
+    "eng": "I usually go to school by bus.",
+    "char_count": 41
+  },
+  {
+    "id": 3310,
+    "fra": "Je me souviens d'un poème en particulier.",
+    "eng": "I remember one poem in particular.",
+    "char_count": 41
+  },
+  {
+    "id": 3311,
+    "fra": "J'ai acheté du fromage et un peu de lait.",
+    "eng": "I bought some cheese and a little milk.",
+    "char_count": 41
+  },
+  {
+    "id": 3312,
+    "fra": "Je rentre habituellement à quatre heures.",
+    "eng": "I usually go home at four.",
+    "char_count": 41
+  },
+  {
+    "id": 3313,
+    "fra": "Je ne peux lire ce livre en si peu temps.",
+    "eng": "I cannot read the book in so short a time.",
+    "char_count": 41
+  },
+  {
+    "id": 3314,
+    "fra": "J'ai lu le livre du début jusqu'à la fin.",
+    "eng": "I read the book from beginning to end.",
+    "char_count": 41
+  },
+  {
+    "id": 3315,
+    "fra": "J'ai passé 3 heures à réparer la voiture.",
+    "eng": "I spent three hours repairing the car.",
+    "char_count": 41
+  },
+  {
+    "id": 3316,
+    "fra": "Je ne veux pas participer à la cérémonie.",
+    "eng": "I don't want to participate in the ceremony.",
+    "char_count": 41
+  },
+  {
+    "id": 3317,
+    "fra": "J'ai un job temporaire dans l'entreprise.",
+    "eng": "I got a temporary job at the firm.",
+    "char_count": 41
+  },
+  {
+    "id": 3318,
+    "fra": "Je suis content d'entendre les nouvelles.",
+    "eng": "I am happy to hear the news.",
+    "char_count": 41
+  },
+  {
+    "id": 3319,
+    "fra": "J'ai les œuvres complètes de Shakespeare.",
+    "eng": "I have the complete works of Shakespeare.",
+    "char_count": 41
+  },
+  {
+    "id": 3320,
+    "fra": "J'ai beaucoup de pièces dans cette boîte.",
+    "eng": "I have many coins in this box.",
+    "char_count": 41
+  },
+  {
+    "id": 3321,
+    "fra": "J'ai pris un rendez-vous avec M. Kennedy.",
+    "eng": "I have made an appointment with Mr Kennedy.",
+    "char_count": 41
+  },
+  {
+    "id": 3322,
+    "fra": "J'ai reçu une lettre d'un vieil ami hier.",
+    "eng": "I got a letter from an old friend yesterday.",
+    "char_count": 41
+  },
+  {
+    "id": 3323,
+    "fra": "J'oublie déjà le visage de ma grand-mère.",
+    "eng": "I am already forgetting my grandmother's face.",
+    "char_count": 41
+  },
+  {
+    "id": 3324,
+    "fra": "Je préfère les pamplemousses aux oranges.",
+    "eng": "I prefer grapefruits to oranges.",
+    "char_count": 41
+  },
+  {
+    "id": 3325,
+    "fra": "Je ne peux pas répondre à votre question.",
+    "eng": "I cannot answer your question.",
+    "char_count": 41
+  },
+  {
+    "id": 3326,
+    "fra": "J'ai acheté la même caméra que la tienne.",
+    "eng": "I bought the same camera as you have.",
+    "char_count": 41
+  },
+  {
+    "id": 3327,
+    "fra": "Mon nom est connu de tous dans mon école.",
+    "eng": "My name is known to everybody in my school.",
+    "char_count": 41
+  },
+  {
+    "id": 3328,
+    "fra": "J'ai ouvert un compte au nom de ma fille.",
+    "eng": "I opened an account in my daughter's name.",
+    "char_count": 41
+  },
+  {
+    "id": 3329,
+    "fra": "Mes pieds sont plus petits que les tiens.",
+    "eng": "My feet are smaller than yours.",
+    "char_count": 41
+  },
+  {
+    "id": 3330,
+    "fra": "Ma montre est plus précise que la tienne.",
+    "eng": "My watch is more accurate than yours.",
+    "char_count": 41
+  },
+  {
+    "id": 3331,
+    "fra": "Ma sœur prend une douche tous les matins.",
+    "eng": "My sister takes a shower every morning.",
+    "char_count": 41
+  },
+  {
+    "id": 3332,
+    "fra": "Mon frère aîné vit dans un petit village.",
+    "eng": "My oldest brother lives in a small village.",
+    "char_count": 41
+  },
+  {
+    "id": 3333,
+    "fra": "Ma famille n'est pas aussi grande que ça.",
+    "eng": "My family is not all that large.",
+    "char_count": 41
+  },
+  {
+    "id": 3334,
+    "fra": "Donnez-moi un hamburger, s'il vous plaît.",
+    "eng": "Please give me a hamburger.",
+    "char_count": 41
+  },
+  {
+    "id": 3335,
+    "fra": "En ce qui me concerne, je suis satisfait.",
+    "eng": "As for me, I am satisfied.",
+    "char_count": 41
+  },
+  {
+    "id": 3336,
+    "fra": "Ne m'appelez pas quand je suis au bureau.",
+    "eng": "Don't phone me while I'm at the office.",
+    "char_count": 41
+  },
+  {
+    "id": 3337,
+    "fra": "Je suis désolé de ne pas pouvoir t'aider.",
+    "eng": "I'm sorry, I can't help you.",
+    "char_count": 41
+  },
+  {
+    "id": 3338,
+    "fra": "Les enfants adorent les bandes dessinées.",
+    "eng": "Children delight in comic books.",
+    "char_count": 41
+  },
+  {
+    "id": 3339,
+    "fra": "La plupart des enfants aiment les glaces.",
+    "eng": "Most children love ice cream.",
+    "char_count": 41
+  },
+  {
+    "id": 3340,
+    "fra": "Ma mère est morte lorsque j'étais enfant.",
+    "eng": "My mother died when I was a kid.",
+    "char_count": 41
+  },
+  {
+    "id": 3341,
+    "fra": "Un des enfants a laissé la porte ouverte.",
+    "eng": "One of the children left the door open.",
+    "char_count": 41
+  },
+  {
+    "id": 3342,
+    "fra": "Personne ne sait ce qu'est devenu Yamada.",
+    "eng": "Nobody knows what has become of Yamada.",
+    "char_count": 41
+  },
+  {
+    "id": 3343,
+    "fra": "Avez-vous eu de ses nouvelles récemment ?",
+    "eng": "Have you heard from her recently?",
+    "char_count": 41
+  },
+  {
+    "id": 3344,
+    "fra": "Vas-tu faire tes devoirs cet après-midi ?",
+    "eng": "Are you going to do your homework this afternoon?",
+    "char_count": 41
+  },
+  {
+    "id": 3345,
+    "fra": "Je n'ai rien eu à manger depuis ce matin.",
+    "eng": "I have not had anything to eat since this morning.",
+    "char_count": 41
+  },
+  {
+    "id": 3346,
+    "fra": "Les États-Unis sont composés de 50 états.",
+    "eng": "The United States is composed of 50 states.",
+    "char_count": 41
+  },
+  {
+    "id": 3347,
+    "fra": "Donne-moi une tasse de thé s'il te plaît.",
+    "eng": "Please give me a cup of tea.",
+    "char_count": 41
+  },
+  {
+    "id": 3348,
+    "fra": "Y a-t-il beaucoup d’arbres dans le parc ?",
+    "eng": "Are there many trees in the park?",
+    "char_count": 41
+  },
+  {
+    "id": 3349,
+    "fra": "Ne parle pas des gens derrière leurs dos.",
+    "eng": "Don't talk about people behind their backs.",
+    "char_count": 41
+  },
+  {
+    "id": 3350,
+    "fra": "Des frères ne devraient pas se quereller.",
+    "eng": "Brothers should not quarrel.",
+    "char_count": 41
+  },
+  {
+    "id": 3351,
+    "fra": "Comment oses-tu me dire une telle chose ?",
+    "eng": "How dare you say such a thing to me?",
+    "char_count": 41
+  },
+  {
+    "id": 3352,
+    "fra": "Je ne peux te voir sans penser à ta mère.",
+    "eng": "I can't see you without thinking of your mother.",
+    "char_count": 41
+  },
+  {
+    "id": 3353,
+    "fra": "Je suis heureux d'apprendre votre succès.",
+    "eng": "I am glad to hear of your success.",
+    "char_count": 41
+  },
+  {
+    "id": 3354,
+    "fra": "Je t'entends mais je ne peux pas te voir.",
+    "eng": "I can hear you, but I can't see you.",
+    "char_count": 41
+  },
+  {
+    "id": 3355,
+    "fra": "Je reste ici jusqu'à ce que tu reviennes.",
+    "eng": "I'll stay here till you get back.",
+    "char_count": 41
+  },
+  {
+    "id": 3356,
+    "fra": "Je compte sur toi pour te joindre à nous.",
+    "eng": "I am counting on you to join us.",
+    "char_count": 41
+  },
+  {
+    "id": 3357,
+    "fra": "Désolé, nous sommes complets aujourd'hui.",
+    "eng": "Sorry, we're full today.",
+    "char_count": 41
+  },
+  {
+    "id": 3358,
+    "fra": "Kyoto était l'ancienne capitale du Japon.",
+    "eng": "Kyoto was the former capital of Japan.",
+    "char_count": 41
+  },
+  {
+    "id": 3359,
+    "fra": "Plus vite, ou nous allons rater le train.",
+    "eng": "Hurry up, or we'll miss the train.",
+    "char_count": 41
+  },
+  {
+    "id": 3360,
+    "fra": "À son retour il trouva sa fille endormie.",
+    "eng": "On his return he found her daughter asleep.",
+    "char_count": 41
+  },
+  {
+    "id": 3361,
+    "fra": "Les étudiants sont censés travailler dur.",
+    "eng": "Students are supposed to study hard.",
+    "char_count": 41
+  },
+  {
+    "id": 3362,
+    "fra": "Je vais rejoindre l'orchestre de l'école.",
+    "eng": "I'm going to join the school orchestra.",
+    "char_count": 41
+  },
+  {
+    "id": 3363,
+    "fra": "En général, les Japonais travaillent dur.",
+    "eng": "Generally speaking, Japanese are hard workers.",
+    "char_count": 41
+  },
+  {
+    "id": 3364,
+    "fra": "Tout le monde dit que c'est un homme bon.",
+    "eng": "Everyone says that he's a good man.",
+    "char_count": 41
+  },
+  {
+    "id": 3365,
+    "fra": "Je n'ai pas entendu ce que vous avez dit.",
+    "eng": "I didn't hear what you said.",
+    "char_count": 41
+  },
+  {
+    "id": 3366,
+    "fra": "Il fait battre le cœur des jeunes filles.",
+    "eng": "He makes young girls' hearts flutter.",
+    "char_count": 41
+  },
+  {
+    "id": 3367,
+    "fra": "Je pouvais voir la tour de Tokyo au loin.",
+    "eng": "I could see Tokyo Tower far away.",
+    "char_count": 41
+  },
+  {
+    "id": 3368,
+    "fra": "À mon arrivée à la gare, je t'appellerai.",
+    "eng": "On my arrival at the station, I will call you.",
+    "char_count": 41
+  },
+  {
+    "id": 3369,
+    "fra": "Arrivée à la gare, elle appela son frère.",
+    "eng": "Arriving at the station, she called up her brother.",
+    "char_count": 41
+  },
+  {
+    "id": 3370,
+    "fra": "On parle l'anglais dans de nombreux pays.",
+    "eng": "English is spoken in a lot of countries.",
+    "char_count": 41
+  },
+  {
+    "id": 3371,
+    "fra": "J'étais appelé dans une classe d'anglais.",
+    "eng": "I was called on in English class.",
+    "char_count": 41
+  },
+  {
+    "id": 3372,
+    "fra": "Tu n'aurais pas envie d'aller au cinéma ?",
+    "eng": "Don't you feel like going to the movies?",
+    "char_count": 41
+  },
+  {
+    "id": 3373,
+    "fra": "Un rayon de soleil traversait les nuages.",
+    "eng": "A beam of sunlight came through the clouds.",
+    "char_count": 41
+  },
+  {
+    "id": 3374,
+    "fra": "Le 15 mars sera mon dernier jour d'école.",
+    "eng": "March 15 will be my last day of school.",
+    "char_count": 41
+  },
+  {
+    "id": 3375,
+    "fra": "Chacun des trois garçons a gagné un prix.",
+    "eng": "Each of the three boys won a prize.",
+    "char_count": 41
+  },
+  {
+    "id": 3376,
+    "fra": "Ils arrivèrent à l'hôtel à quatre heures.",
+    "eng": "At four o'clock, they arrived at the hotel.",
+    "char_count": 41
+  },
+  {
+    "id": 3377,
+    "fra": "J'aimerais t'emprunter cinquante dollars.",
+    "eng": "I'd like to borrow fifty dollars from you.",
+    "char_count": 41
+  },
+  {
+    "id": 3378,
+    "fra": "Pouvez-vous m'envoyer une carte par fax ?",
+    "eng": "Could you send me a map by facsimile?",
+    "char_count": 41
+  },
+  {
+    "id": 3379,
+    "fra": "Aimez-vous les films de science-fiction ?",
+    "eng": "Do you like SF movies?",
+    "char_count": 41
+  },
+  {
+    "id": 3380,
+    "fra": "Je n'aime pas sa façon maligne de parler.",
+    "eng": "I don't like his smart way of talking.",
+    "char_count": 41
+  },
+  {
+    "id": 3381,
+    "fra": "Je suis libre toute la journée de demain.",
+    "eng": "I'll be free all day tomorrow.",
+    "char_count": 41
+  },
+  {
+    "id": 3382,
+    "fra": "Vous avez été sages d'accepter son offre.",
+    "eng": "It was wise of you to accept his offer.",
+    "char_count": 41
+  },
+  {
+    "id": 3383,
+    "fra": "J'aurai réparé votre montre d'ici demain.",
+    "eng": "I will have repaired your watch by tomorrow.",
+    "char_count": 41
+  },
+  {
+    "id": 3384,
+    "fra": "Te souviens-tu de la ville où il est né ?",
+    "eng": "Do you remember the town where he was born?",
+    "char_count": 41
+  },
+  {
+    "id": 3385,
+    "fra": "Depuis combien de temps connais-tu Judy ?",
+    "eng": "How long have you known Judy?",
+    "char_count": 41
+  },
+  {
+    "id": 3386,
+    "fra": "Avez-vous terminé la lecture conseillée ?",
+    "eng": "Have you finished the suggested reading?",
+    "char_count": 41
+  },
+  {
+    "id": 3387,
+    "fra": "Cette haute montagne est le mont Tsukuba.",
+    "eng": "That tall mountain is Mt. Tsukuba.",
+    "char_count": 41
+  },
+  {
+    "id": 3388,
+    "fra": "Cette université était mon premier choix.",
+    "eng": "That university was my first choice.",
+    "char_count": 41
+  },
+  {
+    "id": 3389,
+    "fra": "Ce problème m'a vraiment laissé perplexe.",
+    "eng": "That problem has really got me.",
+    "char_count": 41
+  },
+  {
+    "id": 3390,
+    "fra": "On fait de la confiture avec les fraises.",
+    "eng": "Strawberries are made into jam.",
+    "char_count": 41
+  },
+  {
+    "id": 3391,
+    "fra": "Personne n'est tout le temps clairvoyant.",
+    "eng": "No man is wise at all times.",
+    "char_count": 41
+  },
+  {
+    "id": 3392,
+    "fra": "Je n'arrive pas à trouver une bonne idée.",
+    "eng": "I can't come up with a good idea.",
+    "char_count": 41
+  },
+  {
+    "id": 3393,
+    "fra": "Les minéraux sont abondants en Australie.",
+    "eng": "Australia is abundant in minerals.",
+    "char_count": 41
+  },
+  {
+    "id": 3394,
+    "fra": "Arrête d'hésiter et prends une décision !",
+    "eng": "Quit sitting on the fence and make a decision!",
+    "char_count": 41
+  },
+  {
+    "id": 3395,
+    "fra": "Essayons de nous comprendre l'un l'autre.",
+    "eng": "Let's try to understand one another.",
+    "char_count": 41
+  },
+  {
+    "id": 3396,
+    "fra": "Je suis désolé de te poser des problèmes.",
+    "eng": "I'm sorry to trouble you.",
+    "char_count": 41
+  },
+  {
+    "id": 3397,
+    "fra": "Papa peut faire plusieurs ronds de fumée.",
+    "eng": "Dad can blow many smoke rings.",
+    "char_count": 41
+  },
+  {
+    "id": 3398,
+    "fra": "Je suis ravi de faire votre connaissance.",
+    "eng": "I'm very pleased to meet you.",
+    "char_count": 41
+  },
+  {
+    "id": 3399,
+    "fra": "Cuisinez-vous au gaz ou à l'électricité ?",
+    "eng": "Do you cook by gas or electricity?",
+    "char_count": 41
+  },
+  {
+    "id": 3400,
+    "fra": "L'argent n'amène pas toujours le bonheur.",
+    "eng": "Money does not always bring happiness.",
+    "char_count": 41
+  }
+]

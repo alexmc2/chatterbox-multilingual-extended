@@ -1,0 +1,602 @@
+[
+  {
+    "id": 301,
+    "fra": "Le noir te va bien.",
+    "eng": "Black becomes you.",
+    "char_count": 19
+  },
+  {
+    "id": 302,
+    "fra": "Je suis hypertendu.",
+    "eng": "I have high blood pressure.",
+    "char_count": 19
+  },
+  {
+    "id": 303,
+    "fra": "Laisse-moi voir ça.",
+    "eng": "Let me check it.",
+    "char_count": 19
+  },
+  {
+    "id": 304,
+    "fra": "Appelle la police !",
+    "eng": "Call the police!",
+    "char_count": 19
+  },
+  {
+    "id": 305,
+    "fra": "Avez-vous tout lu ?",
+    "eng": "Did you read all of it?",
+    "char_count": 19
+  },
+  {
+    "id": 306,
+    "fra": "Fais comme tu veux.",
+    "eng": "Do as you want.",
+    "char_count": 19
+  },
+  {
+    "id": 307,
+    "fra": "Le vert te va bien.",
+    "eng": "Green suits you.",
+    "char_count": 19
+  },
+  {
+    "id": 308,
+    "fra": "J'ai besoin de toi.",
+    "eng": "I need you.",
+    "char_count": 19
+  },
+  {
+    "id": 309,
+    "fra": "Ni Dieu, ni maître.",
+    "eng": "No cross, no crown.",
+    "char_count": 19
+  },
+  {
+    "id": 310,
+    "fra": "Hâte-toi lentement.",
+    "eng": "Haste makes waste.",
+    "char_count": 19
+  },
+  {
+    "id": 311,
+    "fra": "Vers quelle heure ?",
+    "eng": "About what time?",
+    "char_count": 19
+  },
+  {
+    "id": 312,
+    "fra": "As-tu des projets ?",
+    "eng": "Have you got any plans?",
+    "char_count": 19
+  },
+  {
+    "id": 313,
+    "fra": "Rien ne l'arrêtera.",
+    "eng": "Nothing will stop his going.",
+    "char_count": 19
+  },
+  {
+    "id": 314,
+    "fra": "J'ai un bon revers.",
+    "eng": "I have a strong backhand.",
+    "char_count": 19
+  },
+  {
+    "id": 315,
+    "fra": "Longue vie au roi !",
+    "eng": "Long live the king!",
+    "char_count": 19
+  },
+  {
+    "id": 316,
+    "fra": "Peux-tu voir loin ?",
+    "eng": "Can you see far?",
+    "char_count": 19
+  },
+  {
+    "id": 317,
+    "fra": "Il semble pleuvoir.",
+    "eng": "It looks like rain.",
+    "char_count": 19
+  },
+  {
+    "id": 318,
+    "fra": "L'Irlandais répond.",
+    "eng": "The Irishman replies.",
+    "char_count": 19
+  },
+  {
+    "id": 319,
+    "fra": "Venez après-demain.",
+    "eng": "Come the day after tomorrow.",
+    "char_count": 19
+  },
+  {
+    "id": 320,
+    "fra": "Puis-je te parler ?",
+    "eng": "May I have a talk with you?",
+    "char_count": 19
+  },
+  {
+    "id": 321,
+    "fra": "Aimes-tu le sport ?",
+    "eng": "Do you like sports?",
+    "char_count": 19
+  },
+  {
+    "id": 322,
+    "fra": "As-tu une voiture ?",
+    "eng": "Do you have a car?",
+    "char_count": 19
+  },
+  {
+    "id": 323,
+    "fra": "Regarde les filles.",
+    "eng": "Look at the girls.",
+    "char_count": 19
+  },
+  {
+    "id": 324,
+    "fra": "J'ai toujours soif.",
+    "eng": "I'm always thirsty.",
+    "char_count": 19
+  },
+  {
+    "id": 325,
+    "fra": "Ma mère est active.",
+    "eng": "My mother is active.",
+    "char_count": 19
+  },
+  {
+    "id": 326,
+    "fra": "Prends soin de toi.",
+    "eng": "Take care.",
+    "char_count": 19
+  },
+  {
+    "id": 327,
+    "fra": "Papa prend un bain.",
+    "eng": "Father is having a bath.",
+    "char_count": 19
+  },
+  {
+    "id": 328,
+    "fra": "J'espère vous voir.",
+    "eng": "I hope to see you.",
+    "char_count": 19
+  },
+  {
+    "id": 329,
+    "fra": "Je viens du Canada.",
+    "eng": "I'm from Canada.",
+    "char_count": 19
+  },
+  {
+    "id": 330,
+    "fra": "Ôtez votre manteau.",
+    "eng": "Take off your coat.",
+    "char_count": 19
+  },
+  {
+    "id": 331,
+    "fra": "Puis-je fumer ici ?",
+    "eng": "May I smoke here?",
+    "char_count": 19
+  },
+  {
+    "id": 332,
+    "fra": "Ne t'arrête pas là.",
+    "eng": "Don't stop here.",
+    "char_count": 19
+  },
+  {
+    "id": 333,
+    "fra": "Essayons ce gâteau.",
+    "eng": "Let's try this cake.",
+    "char_count": 19
+  },
+  {
+    "id": 334,
+    "fra": "J'en perds mes mots.",
+    "eng": "I'm at a loss for words.",
+    "char_count": 20
+  },
+  {
+    "id": 335,
+    "fra": "Ça ne changera rien.",
+    "eng": "That won't change anything.",
+    "char_count": 20
+  },
+  {
+    "id": 336,
+    "fra": "Où est le problème ?",
+    "eng": "Where is the problem?",
+    "char_count": 20
+  },
+  {
+    "id": 337,
+    "fra": "C'est pas possible !",
+    "eng": "It can't be!",
+    "char_count": 20
+  },
+  {
+    "id": 338,
+    "fra": "Oh, je suis désolée.",
+    "eng": "Oh, I'm sorry.",
+    "char_count": 20
+  },
+  {
+    "id": 339,
+    "fra": "Personne n'est venu.",
+    "eng": "Nobody came.",
+    "char_count": 20
+  },
+  {
+    "id": 340,
+    "fra": "Je ne comprends pas.",
+    "eng": "I don't get it.",
+    "char_count": 20
+  },
+  {
+    "id": 341,
+    "fra": "Je le vois rarement.",
+    "eng": "I see it rarely.",
+    "char_count": 20
+  },
+  {
+    "id": 342,
+    "fra": "Le vent s'est calmé.",
+    "eng": "The wind calmed down.",
+    "char_count": 20
+  },
+  {
+    "id": 343,
+    "fra": "Qui cherche, trouve.",
+    "eng": "Who searches, finds.",
+    "char_count": 20
+  },
+  {
+    "id": 344,
+    "fra": "Je suis fou de joie.",
+    "eng": "I'm beside myself with joy.",
+    "char_count": 20
+  },
+  {
+    "id": 345,
+    "fra": "C'est déjà un homme.",
+    "eng": "He's already a man.",
+    "char_count": 20
+  },
+  {
+    "id": 346,
+    "fra": "J'ai peur de tomber.",
+    "eng": "I'm afraid to fall.",
+    "char_count": 20
+  },
+  {
+    "id": 347,
+    "fra": "Il ne me battra pas.",
+    "eng": "He won't beat me.",
+    "char_count": 20
+  },
+  {
+    "id": 348,
+    "fra": "C'est un cul-de-sac.",
+    "eng": "It's a dead end.",
+    "char_count": 20
+  },
+  {
+    "id": 349,
+    "fra": "Ne nous oublie pas !",
+    "eng": "Don't forget about us!",
+    "char_count": 20
+  },
+  {
+    "id": 350,
+    "fra": "Quel âge avez-vous ?",
+    "eng": "How old are you?",
+    "char_count": 20
+  },
+  {
+    "id": 351,
+    "fra": "Voici votre monnaie.",
+    "eng": "Here is your change.",
+    "char_count": 20
+  },
+  {
+    "id": 352,
+    "fra": "Qui vient avec moi ?",
+    "eng": "Who is coming with me?",
+    "char_count": 20
+  },
+  {
+    "id": 353,
+    "fra": "Debout les enfants !",
+    "eng": "On your feet, children!",
+    "char_count": 20
+  },
+  {
+    "id": 354,
+    "fra": "Quel temps fait-il ?",
+    "eng": "How's the weather?",
+    "char_count": 20
+  },
+  {
+    "id": 355,
+    "fra": "J'aime l'astrologie.",
+    "eng": "I like astrology.",
+    "char_count": 20
+  },
+  {
+    "id": 356,
+    "fra": "Je secouais la tête.",
+    "eng": "I shook my head.",
+    "char_count": 20
+  },
+  {
+    "id": 357,
+    "fra": "J'étais occupé hier.",
+    "eng": "I was busy yesterday.",
+    "char_count": 20
+  },
+  {
+    "id": 358,
+    "fra": "Je l'ai acheté hier.",
+    "eng": "I bought it yesterday.",
+    "char_count": 20
+  },
+  {
+    "id": 359,
+    "fra": "Je viens de Saitama.",
+    "eng": "I come from Saitama.",
+    "char_count": 20
+  },
+  {
+    "id": 360,
+    "fra": "Je commence à peine.",
+    "eng": "I'm just beginning.",
+    "char_count": 20
+  },
+  {
+    "id": 361,
+    "fra": "Je suis en vacances.",
+    "eng": "I'm on vacation.",
+    "char_count": 20
+  },
+  {
+    "id": 362,
+    "fra": "Ma langue a fourché.",
+    "eng": "My tongue slipped.",
+    "char_count": 20
+  },
+  {
+    "id": 363,
+    "fra": "Je connais ton père.",
+    "eng": "I know your father.",
+    "char_count": 20
+  },
+  {
+    "id": 364,
+    "fra": "Je vais à la banque.",
+    "eng": "I'm going to the bank.",
+    "char_count": 20
+  },
+  {
+    "id": 365,
+    "fra": "Je connais le piano.",
+    "eng": "I am familiar with the piano.",
+    "char_count": 20
+  },
+  {
+    "id": 366,
+    "fra": "Parfois, je déprime.",
+    "eng": "I get depressed at times.",
+    "char_count": 20
+  },
+  {
+    "id": 367,
+    "fra": "Je suis fier de toi.",
+    "eng": "I'm proud of you.",
+    "char_count": 20
+  },
+  {
+    "id": 368,
+    "fra": "Je n'ai aucun stylo.",
+    "eng": "I don't have any pens.",
+    "char_count": 20
+  },
+  {
+    "id": 369,
+    "fra": "Connais-tu mon âge ?",
+    "eng": "Can you tell my age?",
+    "char_count": 20
+  },
+  {
+    "id": 370,
+    "fra": "Je n'ai rien à dire.",
+    "eng": "I have nothing to say.",
+    "char_count": 20
+  },
+  {
+    "id": 371,
+    "fra": "J'ai une autre sœur.",
+    "eng": "I have another sister.",
+    "char_count": 20
+  },
+  {
+    "id": 372,
+    "fra": "Lève la main gauche.",
+    "eng": "Raise your left hand.",
+    "char_count": 20
+  },
+  {
+    "id": 373,
+    "fra": "Appelez-moi ce soir.",
+    "eng": "Call me this evening.",
+    "char_count": 20
+  },
+  {
+    "id": 374,
+    "fra": "Je m'en souviendrai.",
+    "eng": "I'll remember that.",
+    "char_count": 20
+  },
+  {
+    "id": 375,
+    "fra": "Êtes-vous contents ?",
+    "eng": "Are you happy?",
+    "char_count": 20
+  },
+  {
+    "id": 376,
+    "fra": "Avez-vous un stylo ?",
+    "eng": "Have you got a pen?",
+    "char_count": 20
+  },
+  {
+    "id": 377,
+    "fra": "Combien mesures-tu ?",
+    "eng": "How tall are you?",
+    "char_count": 20
+  },
+  {
+    "id": 378,
+    "fra": "L'air est invisible.",
+    "eng": "Air is invisible.",
+    "char_count": 20
+  },
+  {
+    "id": 379,
+    "fra": "Ôtez-moi d'un doute.",
+    "eng": "Clear up a doubt.",
+    "char_count": 20
+  },
+  {
+    "id": 380,
+    "fra": "Je ressens le froid.",
+    "eng": "I do feel the cold.",
+    "char_count": 20
+  },
+  {
+    "id": 381,
+    "fra": "Reste ici avec nous.",
+    "eng": "Stay here with us.",
+    "char_count": 20
+  },
+  {
+    "id": 382,
+    "fra": "Mon nom est Hopkins.",
+    "eng": "My name is Hopkins.",
+    "char_count": 20
+  },
+  {
+    "id": 383,
+    "fra": "Arriver à la maison.",
+    "eng": "Arrive home.",
+    "char_count": 20
+  },
+  {
+    "id": 384,
+    "fra": "J'habite à Kakogawa.",
+    "eng": "I live in Kakogawa.",
+    "char_count": 20
+  },
+  {
+    "id": 385,
+    "fra": "Rien ne s'est passé.",
+    "eng": "Nothing happened.",
+    "char_count": 20
+  },
+  {
+    "id": 386,
+    "fra": "Puis-je vous aider ?",
+    "eng": "Can I help you?",
+    "char_count": 20
+  },
+  {
+    "id": 387,
+    "fra": "Fais quelque chose !",
+    "eng": "Do something!",
+    "char_count": 20
+  },
+  {
+    "id": 388,
+    "fra": "Sois mon bras droit.",
+    "eng": "Be my right-hand man.",
+    "char_count": 20
+  },
+  {
+    "id": 389,
+    "fra": "As-tu aimé le film ?",
+    "eng": "Did you enjoy the film?",
+    "char_count": 20
+  },
+  {
+    "id": 390,
+    "fra": "Ah, tu pars demain !",
+    "eng": "Ah, you're leaving tomorrow!",
+    "char_count": 20
+  },
+  {
+    "id": 391,
+    "fra": "Faites-le vous-même.",
+    "eng": "Do it yourself.",
+    "char_count": 20
+  },
+  {
+    "id": 392,
+    "fra": "Fais ce que tu veux.",
+    "eng": "Do whatever you want.",
+    "char_count": 20
+  },
+  {
+    "id": 393,
+    "fra": "Je suis de ton avis.",
+    "eng": "I am for your opinion.",
+    "char_count": 20
+  },
+  {
+    "id": 394,
+    "fra": "Peux-tu le prendre ?",
+    "eng": "Can you pick it up?",
+    "char_count": 20
+  },
+  {
+    "id": 395,
+    "fra": "Parles-tu japonais ?",
+    "eng": "Do you speak Japanese?",
+    "char_count": 20
+  },
+  {
+    "id": 396,
+    "fra": "Es-tu libre demain ?",
+    "eng": "Are you free tomorrow?",
+    "char_count": 20
+  },
+  {
+    "id": 397,
+    "fra": "Regarde ce bâtiment.",
+    "eng": "Look at that building.",
+    "char_count": 20
+  },
+  {
+    "id": 398,
+    "fra": "Ce château est beau.",
+    "eng": "That castle is beautiful.",
+    "char_count": 20
+  },
+  {
+    "id": 399,
+    "fra": "Viens quand tu veux.",
+    "eng": "Come whenever you like.",
+    "char_count": 20
+  },
+  {
+    "id": 400,
+    "fra": "Oh, tu pars demain !",
+    "eng": "Oh, you're leaving tomorrow!",
+    "char_count": 20
+  }
+]

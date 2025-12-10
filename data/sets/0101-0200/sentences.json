@@ -1,0 +1,602 @@
+[
+  {
+    "id": 101,
+    "fra": "C'est ton tour.",
+    "eng": "It's your move.",
+    "char_count": 15
+  },
+  {
+    "id": 102,
+    "fra": "Il joue dehors.",
+    "eng": "He is playing outdoors.",
+    "char_count": 15
+  },
+  {
+    "id": 103,
+    "fra": "Oh ! Vraiment ?",
+    "eng": "Oh! Really?",
+    "char_count": 15
+  },
+  {
+    "id": 104,
+    "fra": "C'est affreux !",
+    "eng": "How awful!",
+    "char_count": 15
+  },
+  {
+    "id": 105,
+    "fra": "Il doit mourir.",
+    "eng": "He shall die.",
+    "char_count": 15
+  },
+  {
+    "id": 106,
+    "fra": "Tout est calme.",
+    "eng": "All is quiet.",
+    "char_count": 15
+  },
+  {
+    "id": 107,
+    "fra": "Tu m'as manqué.",
+    "eng": "I missed you.",
+    "char_count": 15
+  },
+  {
+    "id": 108,
+    "fra": "Es-tu médecin ?",
+    "eng": "Are you a doctor?",
+    "char_count": 15
+  },
+  {
+    "id": 109,
+    "fra": "Sais-tu nager ?",
+    "eng": "Can you swim?",
+    "char_count": 15
+  },
+  {
+    "id": 110,
+    "fra": "Je veux ce sac.",
+    "eng": "I want that bag.",
+    "char_count": 15
+  },
+  {
+    "id": 111,
+    "fra": "Reste à droite.",
+    "eng": "Keep to the right.",
+    "char_count": 15
+  },
+  {
+    "id": 112,
+    "fra": "Ouvre ton cœur.",
+    "eng": "Open your heart.",
+    "char_count": 15
+  },
+  {
+    "id": 113,
+    "fra": "Ça coûtera 30 €.",
+    "eng": "This will cost €30.",
+    "char_count": 16
+  },
+  {
+    "id": 114,
+    "fra": "Je suis si gros.",
+    "eng": "I'm so fat.",
+    "char_count": 16
+  },
+  {
+    "id": 115,
+    "fra": "C'est intrigant.",
+    "eng": "That is intriguing.",
+    "char_count": 16
+  },
+  {
+    "id": 116,
+    "fra": "Je suis curieux.",
+    "eng": "I am curious.",
+    "char_count": 16
+  },
+  {
+    "id": 117,
+    "fra": "Je t'ai manqué ?",
+    "eng": "Did you miss me?",
+    "char_count": 16
+  },
+  {
+    "id": 118,
+    "fra": "Merci beaucoup !",
+    "eng": "Thank you very much!",
+    "char_count": 16
+  },
+  {
+    "id": 119,
+    "fra": "Quel âge as-tu ?",
+    "eng": "What is your age?",
+    "char_count": 16
+  },
+  {
+    "id": 120,
+    "fra": "Ce film m'a plu.",
+    "eng": "I liked this film.",
+    "char_count": 16
+  },
+  {
+    "id": 121,
+    "fra": "C'est bien fait.",
+    "eng": "It's well done.",
+    "char_count": 16
+  },
+  {
+    "id": 122,
+    "fra": "Je suis heureux.",
+    "eng": "I am happy.",
+    "char_count": 16
+  },
+  {
+    "id": 123,
+    "fra": "Je veux te voir.",
+    "eng": "I want to see you.",
+    "char_count": 16
+  },
+  {
+    "id": 124,
+    "fra": "J'aime dessiner.",
+    "eng": "I like to draw pictures.",
+    "char_count": 16
+  },
+  {
+    "id": 125,
+    "fra": "Je ne vois rien.",
+    "eng": "I don't see anything.",
+    "char_count": 16
+  },
+  {
+    "id": 126,
+    "fra": "J'adorais nager.",
+    "eng": "I enjoyed swimming.",
+    "char_count": 16
+  },
+  {
+    "id": 127,
+    "fra": "J'aime le disco.",
+    "eng": "I like disco music.",
+    "char_count": 16
+  },
+  {
+    "id": 128,
+    "fra": "Je skie souvent.",
+    "eng": "I often ski.",
+    "char_count": 16
+  },
+  {
+    "id": 129,
+    "fra": "J'adore le golf.",
+    "eng": "I'm a big fan of golf.",
+    "char_count": 16
+  },
+  {
+    "id": 130,
+    "fra": "Ne me mens pas !",
+    "eng": "Don't lie to me.",
+    "char_count": 16
+  },
+  {
+    "id": 131,
+    "fra": "Veux-tu partir ?",
+    "eng": "You want to go?",
+    "char_count": 16
+  },
+  {
+    "id": 132,
+    "fra": "Comment vas-tu ?",
+    "eng": "How are you doing?",
+    "char_count": 16
+  },
+  {
+    "id": 133,
+    "fra": "Vivez-vous ici ?",
+    "eng": "Do you live here?",
+    "char_count": 16
+  },
+  {
+    "id": 134,
+    "fra": "Ton sac est ici.",
+    "eng": "Here is your bag.",
+    "char_count": 16
+  },
+  {
+    "id": 135,
+    "fra": "Il a l'air pâle.",
+    "eng": "He looks pale.",
+    "char_count": 16
+  },
+  {
+    "id": 136,
+    "fra": "Aucun problème !",
+    "eng": "No problem at all!",
+    "char_count": 16
+  },
+  {
+    "id": 137,
+    "fra": "Amuse-toi bien !",
+    "eng": "Have fun.",
+    "char_count": 16
+  },
+  {
+    "id": 138,
+    "fra": "Regarde l'image.",
+    "eng": "Look at the picture.",
+    "char_count": 16
+  },
+  {
+    "id": 139,
+    "fra": "Je vis en ville.",
+    "eng": "I'm living in the city.",
+    "char_count": 16
+  },
+  {
+    "id": 140,
+    "fra": "Es-tu étudiant ?",
+    "eng": "Are you a student?",
+    "char_count": 16
+  },
+  {
+    "id": 141,
+    "fra": "Ce film craint !",
+    "eng": "That movie stinks!",
+    "char_count": 16
+  },
+  {
+    "id": 142,
+    "fra": "Venez avec nous.",
+    "eng": "Come along with us.",
+    "char_count": 16
+  },
+  {
+    "id": 143,
+    "fra": "Rien de spécial.",
+    "eng": "Nothing special.",
+    "char_count": 16
+  },
+  {
+    "id": 144,
+    "fra": "Joli spectacle !",
+    "eng": "Good show!",
+    "char_count": 16
+  },
+  {
+    "id": 145,
+    "fra": "Il doit t'aimer.",
+    "eng": "He must love you.",
+    "char_count": 16
+  },
+  {
+    "id": 146,
+    "fra": "Ken est heureux.",
+    "eng": "Ken is happy.",
+    "char_count": 16
+  },
+  {
+    "id": 147,
+    "fra": "Je descends ici.",
+    "eng": "I'll get off here.",
+    "char_count": 16
+  },
+  {
+    "id": 148,
+    "fra": "Viens ici, John.",
+    "eng": "Come here, John.",
+    "char_count": 16
+  },
+  {
+    "id": 149,
+    "fra": "Voici votre clé.",
+    "eng": "Here is your key.",
+    "char_count": 16
+  },
+  {
+    "id": 150,
+    "fra": "Je n'ai pas aimé.",
+    "eng": "I didn't like it.",
+    "char_count": 17
+  },
+  {
+    "id": 151,
+    "fra": "Il est très sexy.",
+    "eng": "He's very sexy.",
+    "char_count": 17
+  },
+  {
+    "id": 152,
+    "fra": "Je suis fatigué !",
+    "eng": "I'm tired.",
+    "char_count": 17
+  },
+  {
+    "id": 153,
+    "fra": "C'est trop cher !",
+    "eng": "It's too expensive!",
+    "char_count": 17
+  },
+  {
+    "id": 154,
+    "fra": "Je me déshabille.",
+    "eng": "I'm undressing.",
+    "char_count": 17
+  },
+  {
+    "id": 155,
+    "fra": "Tu me fais rêver.",
+    "eng": "You make me dream.",
+    "char_count": 17
+  },
+  {
+    "id": 156,
+    "fra": "La vie est belle.",
+    "eng": "Life is beautiful.",
+    "char_count": 17
+  },
+  {
+    "id": 157,
+    "fra": "J'ai rêvé de toi.",
+    "eng": "I dreamt about you.",
+    "char_count": 17
+  },
+  {
+    "id": 158,
+    "fra": "Le robinet coule.",
+    "eng": "The tap is running.",
+    "char_count": 17
+  },
+  {
+    "id": 159,
+    "fra": "Tu aimes le rap ?",
+    "eng": "Do you like rap?",
+    "char_count": 17
+  },
+  {
+    "id": 160,
+    "fra": "À qui le dis-tu !",
+    "eng": "Tell me about it!",
+    "char_count": 17
+  },
+  {
+    "id": 161,
+    "fra": "Voilà la mariée !",
+    "eng": "Here comes the bride!",
+    "char_count": 17
+  },
+  {
+    "id": 162,
+    "fra": "Je crois en Dieu.",
+    "eng": "I believe in God.",
+    "char_count": 17
+  },
+  {
+    "id": 163,
+    "fra": "Je veux conduire.",
+    "eng": "I want to drive.",
+    "char_count": 17
+  },
+  {
+    "id": 164,
+    "fra": "J'ai une voiture.",
+    "eng": "I have a car.",
+    "char_count": 17
+  },
+  {
+    "id": 165,
+    "fra": "J'élève un chien.",
+    "eng": "I keep a dog.",
+    "char_count": 17
+  },
+  {
+    "id": 166,
+    "fra": "Je suis étudiant.",
+    "eng": "I am a student.",
+    "char_count": 17
+  },
+  {
+    "id": 167,
+    "fra": "Il parle anglais.",
+    "eng": "He is speaking English.",
+    "char_count": 17
+  },
+  {
+    "id": 168,
+    "fra": "J'ai vu un chien.",
+    "eng": "I saw a dog.",
+    "char_count": 17
+  },
+  {
+    "id": 169,
+    "fra": "Je joue du piano.",
+    "eng": "I play the piano.",
+    "char_count": 17
+  },
+  {
+    "id": 170,
+    "fra": "J'ai trouvé Tony.",
+    "eng": "I found Tony.",
+    "char_count": 17
+  },
+  {
+    "id": 171,
+    "fra": "Je ne savais pas.",
+    "eng": "I didn't know that.",
+    "char_count": 17
+  },
+  {
+    "id": 172,
+    "fra": "J'ai deux filles.",
+    "eng": "I have two daughters.",
+    "char_count": 17
+  },
+  {
+    "id": 173,
+    "fra": "J'ai une famille.",
+    "eng": "I have a family.",
+    "char_count": 17
+  },
+  {
+    "id": 174,
+    "fra": "J'ai deux frères.",
+    "eng": "I have two brothers.",
+    "char_count": 17
+  },
+  {
+    "id": 175,
+    "fra": "Puis-je t'aider ?",
+    "eng": "Could I help you?",
+    "char_count": 17
+  },
+  {
+    "id": 176,
+    "fra": "Ne me le dis pas.",
+    "eng": "Don't tell me.",
+    "char_count": 17
+  },
+  {
+    "id": 177,
+    "fra": "Chiens interdits.",
+    "eng": "No dogs allowed.",
+    "char_count": 17
+  },
+  {
+    "id": 178,
+    "fra": "L'argent est roi.",
+    "eng": "Money talks.",
+    "char_count": 17
+  },
+  {
+    "id": 179,
+    "fra": "Au feu ! Courez !",
+    "eng": "Fire! Run!",
+    "char_count": 17
+  },
+  {
+    "id": 180,
+    "fra": "J'ai la diarrhée.",
+    "eng": "I have diarrhea.",
+    "char_count": 17
+  },
+  {
+    "id": 181,
+    "fra": "As-tu le permis ?",
+    "eng": "Do you have a driver's license?",
+    "char_count": 17
+  },
+  {
+    "id": 182,
+    "fra": "Il me bat, 3 à 0.",
+    "eng": "He's beating me, three to zip.",
+    "char_count": 17
+  },
+  {
+    "id": 183,
+    "fra": "As-tu un violon ?",
+    "eng": "Do you have a violin?",
+    "char_count": 17
+  },
+  {
+    "id": 184,
+    "fra": "C'est une pagode.",
+    "eng": "That is a pagoda.",
+    "char_count": 17
+  },
+  {
+    "id": 185,
+    "fra": "J'ai de l'argent.",
+    "eng": "I have got some money.",
+    "char_count": 17
+  },
+  {
+    "id": 186,
+    "fra": "Signez juste ici.",
+    "eng": "Just sign here.",
+    "char_count": 17
+  },
+  {
+    "id": 187,
+    "fra": "Le livre est ici.",
+    "eng": "The book is here.",
+    "char_count": 17
+  },
+  {
+    "id": 188,
+    "fra": "Ça n'arrivera pas.",
+    "eng": "That won't happen.",
+    "char_count": 18
+  },
+  {
+    "id": 189,
+    "fra": "Ne t'inquiète pas.",
+    "eng": "Don't worry.",
+    "char_count": 18
+  },
+  {
+    "id": 190,
+    "fra": "Tu devrais dormir.",
+    "eng": "You should sleep.",
+    "char_count": 18
+  },
+  {
+    "id": 191,
+    "fra": "Tu peux le faire !",
+    "eng": "You can do it.",
+    "char_count": 18
+  },
+  {
+    "id": 192,
+    "fra": "Personne ne saura.",
+    "eng": "No one will know.",
+    "char_count": 18
+  },
+  {
+    "id": 193,
+    "fra": "Je ne t'aime plus.",
+    "eng": "I don't like you anymore.",
+    "char_count": 18
+  },
+  {
+    "id": 194,
+    "fra": "Je m'appelle Jack.",
+    "eng": "My name is Jack.",
+    "char_count": 18
+  },
+  {
+    "id": 195,
+    "fra": "C'est loin d'ici ?",
+    "eng": "Is it far from here?",
+    "char_count": 18
+  },
+  {
+    "id": 196,
+    "fra": "Merci, c'est tout.",
+    "eng": "Thanks, that's all.",
+    "char_count": 18
+  },
+  {
+    "id": 197,
+    "fra": "Ouvrez la bouche !",
+    "eng": "Open your mouth!",
+    "char_count": 18
+  },
+  {
+    "id": 198,
+    "fra": "Je meurs de faim !",
+    "eng": "I'm starving!",
+    "char_count": 18
+  },
+  {
+    "id": 199,
+    "fra": "T'es irrésistible.",
+    "eng": "You're irresistible.",
+    "char_count": 18
+  },
+  {
+    "id": 200,
+    "fra": "J'ai presque fini.",
+    "eng": "I'm almost done.",
+    "char_count": 18
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1501,
+    "fra": "Je n'ai rien de mieux à faire.",
+    "eng": "I have nothing better to do.",
+    "char_count": 30
+  },
+  {
+    "id": 1502,
+    "fra": "J'ai appris à vivre sans elle.",
+    "eng": "I learned to live without her.",
+    "char_count": 30
+  },
+  {
+    "id": 1503,
+    "fra": "C'était pas moi, commissaire !",
+    "eng": "It wasn't me, commissioner!",
+    "char_count": 30
+  },
+  {
+    "id": 1504,
+    "fra": "Est-ce que tu parles italien ?",
+    "eng": "Do you speak Italian?",
+    "char_count": 30
+  },
+  {
+    "id": 1505,
+    "fra": "Comment ça, tu ne sais pas ? !",
+    "eng": "What do you mean you don't know?!",
+    "char_count": 30
+  },
+  {
+    "id": 1506,
+    "fra": "Vous ne savez pas qui je suis.",
+    "eng": "You don't know who I am.",
+    "char_count": 30
+  },
+  {
+    "id": 1507,
+    "fra": "J'ai regardé la télé ce matin.",
+    "eng": "I watched TV this morning.",
+    "char_count": 30
+  },
+  {
+    "id": 1508,
+    "fra": "Je veux être plus indépendant.",
+    "eng": "I want to be more independent.",
+    "char_count": 30
+  },
+  {
+    "id": 1509,
+    "fra": "Mon cœur était rempli de joie.",
+    "eng": "My heart was filled with happiness.",
+    "char_count": 30
+  },
+  {
+    "id": 1510,
+    "fra": "La liberté n'est pas gratuite.",
+    "eng": "Freedom is not free.",
+    "char_count": 30
+  },
+  {
+    "id": 1511,
+    "fra": "L'homme propose, Dieu dispose.",
+    "eng": "Man proposes, God disposes.",
+    "char_count": 30
+  },
+  {
+    "id": 1512,
+    "fra": "L'entrée comprend une boisson.",
+    "eng": "The entrée includes a beverage.",
+    "char_count": 30
+  },
+  {
+    "id": 1513,
+    "fra": "J'ai un stimulateur cardiaque.",
+    "eng": "I've got a pacemaker.",
+    "char_count": 30
+  },
+  {
+    "id": 1514,
+    "fra": "Tout effort mérite récompense.",
+    "eng": "Every effort deserves a reward.",
+    "char_count": 30
+  },
+  {
+    "id": 1515,
+    "fra": "Rira bien qui rira le dernier.",
+    "eng": "He laughs best who laughs last.",
+    "char_count": 30
+  },
+  {
+    "id": 1516,
+    "fra": "Il n'y avait pas âme qui vive.",
+    "eng": "There was not a bloody soul.",
+    "char_count": 30
+  },
+  {
+    "id": 1517,
+    "fra": "Ce couteau m'a beaucoup servi.",
+    "eng": "This knife was very useful to me.",
+    "char_count": 30
+  },
+  {
+    "id": 1518,
+    "fra": "Le film a commencé à 2 heures.",
+    "eng": "The film started at 2 o'clock.",
+    "char_count": 30
+  },
+  {
+    "id": 1519,
+    "fra": "Je travaille même le dimanche.",
+    "eng": "I work even on Sunday.",
+    "char_count": 30
+  },
+  {
+    "id": 1520,
+    "fra": "Tournez à droite au carrefour.",
+    "eng": "Turn right at the crossroad.",
+    "char_count": 30
+  },
+  {
+    "id": 1521,
+    "fra": "Elle est en colère contre moi.",
+    "eng": "She is mad at me.",
+    "char_count": 30
+  },
+  {
+    "id": 1522,
+    "fra": "Je me suis étendu sur l'herbe.",
+    "eng": "I laid myself on the grass.",
+    "char_count": 30
+  },
+  {
+    "id": 1523,
+    "fra": "J'aime pêcher dans la rivière.",
+    "eng": "I like to fish in the river.",
+    "char_count": 30
+  },
+  {
+    "id": 1524,
+    "fra": "Je ne voudrais pas le croiser.",
+    "eng": "I wouldn't ever want to cross him.",
+    "char_count": 30
+  },
+  {
+    "id": 1525,
+    "fra": "Je suis arrivé à Tokyo à midi.",
+    "eng": "I arrived in Tokyo at noon.",
+    "char_count": 30
+  },
+  {
+    "id": 1526,
+    "fra": "Je fumais quand j'étais jeune.",
+    "eng": "I did smoke when I was young.",
+    "char_count": 30
+  },
+  {
+    "id": 1527,
+    "fra": "Je vais à l'église en voiture.",
+    "eng": "I go to church by car.",
+    "char_count": 30
+  },
+  {
+    "id": 1528,
+    "fra": "Je suis content de mon emploi.",
+    "eng": "I am content with my job.",
+    "char_count": 30
+  },
+  {
+    "id": 1529,
+    "fra": "Je me suis levé tard ce matin.",
+    "eng": "I got up late this morning.",
+    "char_count": 30
+  },
+  {
+    "id": 1530,
+    "fra": "J'ai acheté une vieille lampe.",
+    "eng": "I bought an old lamp.",
+    "char_count": 30
+  },
+  {
+    "id": 1531,
+    "fra": "J'ai demandé à Ken de m'aider.",
+    "eng": "I asked Ken to help me.",
+    "char_count": 30
+  },
+  {
+    "id": 1532,
+    "fra": "J'aime les chaussures légères.",
+    "eng": "I like light shoes.",
+    "char_count": 30
+  },
+  {
+    "id": 1533,
+    "fra": "J'ai mangé un déjeuner rapide.",
+    "eng": "I ate a hasty lunch.",
+    "char_count": 30
+  },
+  {
+    "id": 1534,
+    "fra": "Je vais à l'école en marchant.",
+    "eng": "I walk to school.",
+    "char_count": 30
+  },
+  {
+    "id": 1535,
+    "fra": "J'aime me baigner dans la mer.",
+    "eng": "I want to bathe in the sea.",
+    "char_count": 30
+  },
+  {
+    "id": 1536,
+    "fra": "Je veux quelque chose à boire.",
+    "eng": "I want something to drink.",
+    "char_count": 30
+  },
+  {
+    "id": 1537,
+    "fra": "Je ne comprends pas l'anglais.",
+    "eng": "I don't understand English.",
+    "char_count": 30
+  },
+  {
+    "id": 1538,
+    "fra": "Je suis sorti malgré la pluie.",
+    "eng": "In spite of the rain, I went out.",
+    "char_count": 30
+  },
+  {
+    "id": 1539,
+    "fra": "J'attrape facilement un rhume.",
+    "eng": "I often catch cold.",
+    "char_count": 30
+  },
+  {
+    "id": 1540,
+    "fra": "Je n'ai plus confiance en lui.",
+    "eng": "I do not trust him any longer.",
+    "char_count": 30
+  },
+  {
+    "id": 1541,
+    "fra": "Je peux difficilement marcher.",
+    "eng": "I can hardly walk.",
+    "char_count": 30
+  },
+  {
+    "id": 1542,
+    "fra": "Je préfère les trains aux bus.",
+    "eng": "I like trains better than buses.",
+    "char_count": 30
+  },
+  {
+    "id": 1543,
+    "fra": "J'ai attendu l'arrivée du bus.",
+    "eng": "I waited for a bus to come.",
+    "char_count": 30
+  },
+  {
+    "id": 1544,
+    "fra": "J'ai versé l'eau dans le seau.",
+    "eng": "I poured water into the bucket.",
+    "char_count": 30
+  },
+  {
+    "id": 1545,
+    "fra": "J'ai posé une question à Tony.",
+    "eng": "I asked Tony a question.",
+    "char_count": 30
+  },
+  {
+    "id": 1546,
+    "fra": "J'avais une très forte fièvre.",
+    "eng": "I had a very high fever.",
+    "char_count": 30
+  },
+  {
+    "id": 1547,
+    "fra": "Je ne sais pas lequel choisir.",
+    "eng": "I don't know which to choose.",
+    "char_count": 30
+  },
+  {
+    "id": 1548,
+    "fra": "Je viens de finir mes devoirs.",
+    "eng": "I have just finished my homework.",
+    "char_count": 30
+  },
+  {
+    "id": 1549,
+    "fra": "J'aime les barres chocolatées.",
+    "eng": "I like chocolate candy very much.",
+    "char_count": 30
+  },
+  {
+    "id": 1550,
+    "fra": "Je vis un petit garçon courir.",
+    "eng": "I saw a little boy running.",
+    "char_count": 30
+  },
+  {
+    "id": 1551,
+    "fra": "Je n'ai pas beaucoup d'argent.",
+    "eng": "I don't have much money.",
+    "char_count": 30
+  },
+  {
+    "id": 1552,
+    "fra": "Je sais le chanter en anglais.",
+    "eng": "I can sing it in English.",
+    "char_count": 30
+  },
+  {
+    "id": 1553,
+    "fra": "Je n'appartiens pas à ce club.",
+    "eng": "I don't belong to the club.",
+    "char_count": 30
+  },
+  {
+    "id": 1554,
+    "fra": "Le jeu était très intéressant.",
+    "eng": "I found the game very exciting.",
+    "char_count": 30
+  },
+  {
+    "id": 1555,
+    "fra": "J'ai fait ces boîtes moi-même.",
+    "eng": "I made these boxes myself.",
+    "char_count": 30
+  },
+  {
+    "id": 1556,
+    "fra": "J'aime beaucoup ces histoires.",
+    "eng": "I really like these stories.",
+    "char_count": 30
+  },
+  {
+    "id": 1557,
+    "fra": "Je suis habitué à ce problème.",
+    "eng": "I am familiar with this subject.",
+    "char_count": 30
+  },
+  {
+    "id": 1558,
+    "fra": "J'habite ici depuis trois ans.",
+    "eng": "I have been living here for three years.",
+    "char_count": 30
+  },
+  {
+    "id": 1559,
+    "fra": "J'ai pris deux tasses de café.",
+    "eng": "I had two cups of coffee.",
+    "char_count": 30
+  },
+  {
+    "id": 1560,
+    "fra": "J'ai mangé le quart du gâteau.",
+    "eng": "I ate a quarter of the cake.",
+    "char_count": 30
+  },
+  {
+    "id": 1561,
+    "fra": "J'ai perdu mon appareil photo.",
+    "eng": "I have lost my camera.",
+    "char_count": 30
+  },
+  {
+    "id": 1562,
+    "fra": "Je préfère les films comiques.",
+    "eng": "I like funny movies better.",
+    "char_count": 30
+  },
+  {
+    "id": 1563,
+    "fra": "Je n'aime pas la crème glacée.",
+    "eng": "I don't care for ice cream.",
+    "char_count": 30
+  },
+  {
+    "id": 1564,
+    "fra": "Je suis né le 10 octobre 1972.",
+    "eng": "I was born on October 10, 1972.",
+    "char_count": 30
+  },
+  {
+    "id": 1565,
+    "fra": "J'ai vu \"Star Wars\" deux fois.",
+    "eng": "I have seen \"Star Wars\" twice.",
+    "char_count": 30
+  },
+  {
+    "id": 1566,
+    "fra": "Je pense partir à la montagne.",
+    "eng": "I am thinking of going to the mountains.",
+    "char_count": 30
+  },
+  {
+    "id": 1567,
+    "fra": "Ma fille va se marier en juin.",
+    "eng": "My daughter is to get married in June.",
+    "char_count": 30
+  },
+  {
+    "id": 1568,
+    "fra": "Mon frère a une bonne mémoire.",
+    "eng": "My brother has a good memory.",
+    "char_count": 30
+  },
+  {
+    "id": 1569,
+    "fra": "Mon grand-père est né en 1920.",
+    "eng": "My grandfather was born in 1920.",
+    "char_count": 30
+  },
+  {
+    "id": 1570,
+    "fra": "Mon chien va partout avec moi.",
+    "eng": "My dog goes everywhere with me.",
+    "char_count": 30
+  },
+  {
+    "id": 1571,
+    "fra": "Mon anglais est tout sauf bon.",
+    "eng": "My English is anything but good.",
+    "char_count": 30
+  },
+  {
+    "id": 1572,
+    "fra": "Le nom de mon robot est Multi.",
+    "eng": "My robot's name is Multi.",
+    "char_count": 30
+  },
+  {
+    "id": 1573,
+    "fra": "Gardez mes paroles en mémoire.",
+    "eng": "Keep my words in mind.",
+    "char_count": 30
+  },
+  {
+    "id": 1574,
+    "fra": "Mon père a beaucoup de livres.",
+    "eng": "My father has many books.",
+    "char_count": 30
+  },
+  {
+    "id": 1575,
+    "fra": "J'ai un ami qui vit à Sapporo.",
+    "eng": "I have a friend who lives in Sapporo.",
+    "char_count": 30
+  },
+  {
+    "id": 1576,
+    "fra": "J'ai un oncle qui vit à Kyoto.",
+    "eng": "I have an uncle who lives in Kyoto.",
+    "char_count": 30
+  },
+  {
+    "id": 1577,
+    "fra": "Cherche dans les pages jaunes.",
+    "eng": "Look through the yellow pages.",
+    "char_count": 30
+  },
+  {
+    "id": 1578,
+    "fra": "Ma grande sœur nage très vite.",
+    "eng": "My older sister swims very fast.",
+    "char_count": 30
+  },
+  {
+    "id": 1579,
+    "fra": "Prenez un parapluie avec vous.",
+    "eng": "Take your umbrella with you.",
+    "char_count": 30
+  },
+  {
+    "id": 1580,
+    "fra": "J’ai appelé à son bureau hier.",
+    "eng": "I called at his office yesterday.",
+    "char_count": 30
+  },
+  {
+    "id": 1581,
+    "fra": "Je ne le croyais pas au début.",
+    "eng": "I didn't believe him at first.",
+    "char_count": 30
+  },
+  {
+    "id": 1582,
+    "fra": "Premier arrivé, premier servi.",
+    "eng": "First come, first served.",
+    "char_count": 30
+  },
+  {
+    "id": 1583,
+    "fra": "Tous les sièges sont réservés.",
+    "eng": "All seats are reserved.",
+    "char_count": 30
+  },
+  {
+    "id": 1584,
+    "fra": "Te sens-tu mieux aujourd'hui ?",
+    "eng": "Do you feel any better today?",
+    "char_count": 30
+  },
+  {
+    "id": 1585,
+    "fra": "Venez chez moi cet après-midi.",
+    "eng": "Come to my house this afternoon.",
+    "char_count": 30
+  },
+  {
+    "id": 1586,
+    "fra": "Tu as fait du piano ce matin ?",
+    "eng": "Did you practice the piano this morning?",
+    "char_count": 30
+  },
+  {
+    "id": 1587,
+    "fra": "Il faisait moins dix ce matin.",
+    "eng": "It was ten degrees below zero this morning.",
+    "char_count": 30
+  },
+  {
+    "id": 1588,
+    "fra": "Maintenant je suis en service.",
+    "eng": "I am on duty now.",
+    "char_count": 30
+  },
+  {
+    "id": 1589,
+    "fra": "Il fait très froid maintenant.",
+    "eng": "It's very cold now.",
+    "char_count": 30
+  },
+  {
+    "id": 1590,
+    "fra": "Connaissez-vous M. Takahashi ?",
+    "eng": "Do you know Mr Takahashi?",
+    "char_count": 30
+  },
+  {
+    "id": 1591,
+    "fra": "J'ai décidé de ne pas y aller.",
+    "eng": "I decided not to go.",
+    "char_count": 30
+  },
+  {
+    "id": 1592,
+    "fra": "Il faudra que j'y réfléchisse.",
+    "eng": "I'll have to think about it.",
+    "char_count": 30
+  },
+  {
+    "id": 1593,
+    "fra": "Avez-vous d'autres questions ?",
+    "eng": "Have you any further questions?",
+    "char_count": 30
+  },
+  {
+    "id": 1594,
+    "fra": "Mangez autant que vous voulez.",
+    "eng": "Eat as much as you like.",
+    "char_count": 30
+  },
+  {
+    "id": 1595,
+    "fra": "Ne parle pas la bouche pleine.",
+    "eng": "Don't speak with your mouth full.",
+    "char_count": 30
+  },
+  {
+    "id": 1596,
+    "fra": "Je vous rappellerai plus tard.",
+    "eng": "I'll call you back later.",
+    "char_count": 30
+  },
+  {
+    "id": 1597,
+    "fra": "Fais comme on te dit de faire.",
+    "eng": "Do as you are told.",
+    "char_count": 30
+  },
+  {
+    "id": 1598,
+    "fra": "Je vais bien, merci. Et vous ?",
+    "eng": "I'm fine, thank you. And you?",
+    "char_count": 30
+  },
+  {
+    "id": 1599,
+    "fra": "Kenji est un joueur de tennis.",
+    "eng": "Kenji is a tennis player.",
+    "char_count": 30
+  },
+  {
+    "id": 1600,
+    "fra": "Le chien est un animal fidèle.",
+    "eng": "The dog is a faithful animal.",
+    "char_count": 30
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": 4601,
+    "fra": "J'ai pratiqué le piano tous les jours pendant 15 ans.",
+    "eng": "I have practiced piano every day for fifteen years.",
+    "char_count": 53
+  },
+  {
+    "id": 4602,
+    "fra": "Je n'ai pas eu besoin d'aller le rencontrer moi-même.",
+    "eng": "I myself didn't have to go and meet him there.",
+    "char_count": 53
+  },
+  {
+    "id": 4603,
+    "fra": "Mon grand-père fut tué pendant la 2e guerre mondiale.",
+    "eng": "My grandfather was killed in World War II.",
+    "char_count": 53
+  },
+  {
+    "id": 4604,
+    "fra": "Nous voulons tous vivre aussi longtemps que possible.",
+    "eng": "All of us want to live as long as possible.",
+    "char_count": 53
+  },
+  {
+    "id": 4605,
+    "fra": "Les enfants devraient être tenus éloignés de la mare.",
+    "eng": "Children should be kept away from the pond.",
+    "char_count": 53
+  },
+  {
+    "id": 4606,
+    "fra": "Même les enfants doivent prendre conscience du monde.",
+    "eng": "Even children need to make sense of the world.",
+    "char_count": 53
+  },
+  {
+    "id": 4607,
+    "fra": "Les enfants ne peuvent pas fumer, ce n'est pas légal.",
+    "eng": "Children can't smoke; it's not legal.",
+    "char_count": 53
+  },
+  {
+    "id": 4608,
+    "fra": "Malheureusement, nous n'avons pas reçu votre réponse.",
+    "eng": "Regrettably, we have not received your reply.",
+    "char_count": 53
+  },
+  {
+    "id": 4609,
+    "fra": "Un nouveau tunnel a été creusé à travers la montagne.",
+    "eng": "A new tunnel has been dug through the mountain.",
+    "char_count": 53
+  },
+  {
+    "id": 4610,
+    "fra": "La nuit dernière j'ai entendu des aboiements au loin.",
+    "eng": "Last night, I heard dogs howling.",
+    "char_count": 53
+  },
+  {
+    "id": 4611,
+    "fra": "Puis-je emprunter ta raquette de tennis aujourd'hui ?",
+    "eng": "Can I borrow your tennis racket today?",
+    "char_count": 53
+  },
+  {
+    "id": 4612,
+    "fra": "Je ne ferai pas d'heures supplémentaires aujourd'hui.",
+    "eng": "I won't work overtime today.",
+    "char_count": 53
+  },
+  {
+    "id": 4613,
+    "fra": "J'ai été impliqué dans un accident de la circulation.",
+    "eng": "I was involved in a traffic accident.",
+    "char_count": 53
+  },
+  {
+    "id": 4614,
+    "fra": "S'il vous plait venez à mon bureau dans l'après-midi.",
+    "eng": "Please come to my office in the afternoon.",
+    "char_count": 53
+  },
+  {
+    "id": 4615,
+    "fra": "Faisons une pause dans un endroit avec une belle vue.",
+    "eng": "Let's stop for a rest somewhere with a good view.",
+    "char_count": 53
+  },
+  {
+    "id": 4616,
+    "fra": "Tout ce que vous avez à faire est de suivre son avis.",
+    "eng": "All that you have to do is to follow his advice.",
+    "char_count": 53
+  },
+  {
+    "id": 4617,
+    "fra": "Boire avec un estomac vide est mauvais pour la santé.",
+    "eng": "Drinking on an empty stomach is bad for your health.",
+    "char_count": 53
+  },
+  {
+    "id": 4618,
+    "fra": "Le cancer peut être guéri s'il est découvert à temps.",
+    "eng": "Cancer can be cured if discovered in time.",
+    "char_count": 53
+  },
+  {
+    "id": 4619,
+    "fra": "Tout le monde a l'air d'être attentif à ce qu'il dit.",
+    "eng": "Everybody seems to pay attention to what he says.",
+    "char_count": 53
+  },
+  {
+    "id": 4620,
+    "fra": "De notre point de vue, sa proposition est acceptable.",
+    "eng": "From our point of view, his proposal is reasonable.",
+    "char_count": 53
+  },
+  {
+    "id": 4621,
+    "fra": "Pouvez-vous expliquer pourquoi notre équipe a perdu ?",
+    "eng": "Can you explain why our team lost?",
+    "char_count": 53
+  },
+  {
+    "id": 4622,
+    "fra": "Je suis fatigué d'avoir travaillé pendant des heures.",
+    "eng": "I felt tired from having worked for hours.",
+    "char_count": 53
+  },
+  {
+    "id": 4623,
+    "fra": "Le sel est un ingrédient indispensable pour cuisiner.",
+    "eng": "Salt is necessary for a cook.",
+    "char_count": 53
+  },
+  {
+    "id": 4624,
+    "fra": "Vu de loin, le rocher ressemblait à un visage humain.",
+    "eng": "Seen from a distance, the rock looked like a human face.",
+    "char_count": 53
+  },
+  {
+    "id": 4625,
+    "fra": "L'anglais est une langue parlée dans le monde entier.",
+    "eng": "English is a language spoken all over the world.",
+    "char_count": 53
+  },
+  {
+    "id": 4626,
+    "fra": "La langue anglaise est proche de la langue allemande.",
+    "eng": "The English language is cognate to the German language.",
+    "char_count": 53
+  },
+  {
+    "id": 4627,
+    "fra": "Prends ton parapluie avec toi au cas où il pleuvrait.",
+    "eng": "Take your umbrella with you in case it rains.",
+    "char_count": 53
+  },
+  {
+    "id": 4628,
+    "fra": "Il est déjà onze heures. Tu devrais déjà être au lit.",
+    "eng": "It's already eleven. It's high time you were in bed.",
+    "char_count": 53
+  },
+  {
+    "id": 4629,
+    "fra": "Un an s'est écoulé et son corps est devenu poussière.",
+    "eng": "A year had passed by and his body turned to dust.",
+    "char_count": 53
+  },
+  {
+    "id": 4630,
+    "fra": "Peux-tu imaginer ce à quoi le 21e siècle aura l'air ?",
+    "eng": "Can you imagine what the 21st century will be like?",
+    "char_count": 53
+  },
+  {
+    "id": 4631,
+    "fra": "N'importe quand, pourvu que ce soit après six heures.",
+    "eng": "Any time will do so long as it is after six.",
+    "char_count": 53
+  },
+  {
+    "id": 4632,
+    "fra": "Est-ce que cela vous dérange si j'éteins la lumière ?",
+    "eng": "Do you mind if I turn off the light?",
+    "char_count": 53
+  },
+  {
+    "id": 4633,
+    "fra": "Tout ce que tu as à faire est de travailler plus dur.",
+    "eng": "All you have to do is study harder.",
+    "char_count": 53
+  },
+  {
+    "id": 4634,
+    "fra": "Je suis désolé de t'avoir fait attendre si longtemps.",
+    "eng": "I am sorry to have kept you waiting so long.",
+    "char_count": 53
+  },
+  {
+    "id": 4635,
+    "fra": "Cet homme en était réduit à mendier pour de l'argent.",
+    "eng": "That man was reduced to begging for money.",
+    "char_count": 53
+  },
+  {
+    "id": 4636,
+    "fra": "L'Amérique est en avance sur la technologie spatiale.",
+    "eng": "America is ahead in space technology.",
+    "char_count": 53
+  },
+  {
+    "id": 4637,
+    "fra": "Un voyage en Amérique, cet été, est hors de question.",
+    "eng": "A trip to America this summer is out of the question.",
+    "char_count": 53
+  },
+  {
+    "id": 4638,
+    "fra": "Certains poisons, correctement utilisés, sont utiles.",
+    "eng": "Certain poisons, properly used, are useful.",
+    "char_count": 53
+  },
+  {
+    "id": 4639,
+    "fra": "J'aime Anne par dessus tout parce qu'elle est timide.",
+    "eng": "I love Ann all the more because she is shy.",
+    "char_count": 53
+  },
+  {
+    "id": 4640,
+    "fra": "Les Anglais aiment autant les lions que les licornes.",
+    "eng": "The English love the unicorn as much as they love the lion.",
+    "char_count": 53
+  },
+  {
+    "id": 4641,
+    "fra": "Le Canada se trouve sur la partie nord de l'Amérique.",
+    "eng": "Canada is on the north side of America.",
+    "char_count": 53
+  },
+  {
+    "id": 4642,
+    "fra": "Il est douteux que nous finissions à temps pour Noël.",
+    "eng": "It's doubtful if we'll finish in time for Christmas.",
+    "char_count": 53
+  },
+  {
+    "id": 4643,
+    "fra": "Venez nous rendre visite si vous passez dans le coin.",
+    "eng": "Be sure to drop in on us if you come our way.",
+    "char_count": 53
+  },
+  {
+    "id": 4644,
+    "fra": "C'était probablement ce qui a influencé leur décision.",
+    "eng": "That was probably what influenced their decision.",
+    "char_count": 54
+  },
+  {
+    "id": 4645,
+    "fra": "À l'époque du lycée je me levais à 6h tous les matins.",
+    "eng": "Back in high school, I got up at 6 a.m. every morning.",
+    "char_count": 54
+  },
+  {
+    "id": 4646,
+    "fra": "Mon prof de physique s'en fiche si je sèche les cours.",
+    "eng": "My physics teacher doesn't care if I skip classes.",
+    "char_count": 54
+  },
+  {
+    "id": 4647,
+    "fra": "Qu'est-ce que tu crois que j'étais en train de faire ?",
+    "eng": "What do you think I've been doing?",
+    "char_count": 54
+  },
+  {
+    "id": 4648,
+    "fra": "Arrête de me demander à boire ! Va te servir toi-même.",
+    "eng": "Stop asking me for a drink! Go get it yourself.",
+    "char_count": 54
+  },
+  {
+    "id": 4649,
+    "fra": "Ça serait trop cool si je pouvais parler dix langues !",
+    "eng": "It would be so cool if I could speak ten languages!",
+    "char_count": 54
+  },
+  {
+    "id": 4650,
+    "fra": "Tout ce qui est trop stupide pour être dit est chanté.",
+    "eng": "Anything that is too stupid to be spoken is sung.",
+    "char_count": 54
+  },
+  {
+    "id": 4651,
+    "fra": "Je suis vivant, bien que je ne donne pas signe de vie.",
+    "eng": "I am alive even though I am not giving any sign of life.",
+    "char_count": 54
+  },
+  {
+    "id": 4652,
+    "fra": "J’ai passé tout l’après-midi à bavarder avec des amis.",
+    "eng": "I spent the whole afternoon chatting with friends.",
+    "char_count": 54
+  },
+  {
+    "id": 4653,
+    "fra": "Tu penses qu'un jour les hommes coloniseront la lune ?",
+    "eng": "Do you think mankind will someday colonize the Moon?",
+    "char_count": 54
+  },
+  {
+    "id": 4654,
+    "fra": "Il vient de publier une série intéressante d’articles.",
+    "eng": "He has just published an interesting series of articles.",
+    "char_count": 54
+  },
+  {
+    "id": 4655,
+    "fra": "Je te montrerai que l’on peut renaître de ses cendres.",
+    "eng": "I will show that it's possible to be reborn from one's ashes.",
+    "char_count": 54
+  },
+  {
+    "id": 4656,
+    "fra": "Souviens-toi que nous sommes tous dans le même bateau.",
+    "eng": "Remember that we are all in the same boat.",
+    "char_count": 54
+  },
+  {
+    "id": 4657,
+    "fra": "Que cela te plaise ou non, il faudra que tu le fasses.",
+    "eng": "Whether you like it or not, you'll have to do it.",
+    "char_count": 54
+  },
+  {
+    "id": 4658,
+    "fra": "Celui qui ne travaille pas n'a pas le droit de manger.",
+    "eng": "He who does not work does not have the right to eat.",
+    "char_count": 54
+  },
+  {
+    "id": 4659,
+    "fra": "Je trouvais difficile d'être gentil envers les autres.",
+    "eng": "I found it difficult to be kind to others.",
+    "char_count": 54
+  },
+  {
+    "id": 4660,
+    "fra": "En chemin vers la bibliothèque j'ai rencontré mon ami.",
+    "eng": "On my way to the library I met my friend.",
+    "char_count": 54
+  },
+  {
+    "id": 4661,
+    "fra": "Je suis très fière du boulot que j'ai choisi moi-même.",
+    "eng": "I am very proud of the job I chose myself.",
+    "char_count": 54
+  },
+  {
+    "id": 4662,
+    "fra": "J'ai entendu sonner la cloche de la porte de l'entrée.",
+    "eng": "I heard the front doorbell ring.",
+    "char_count": 54
+  },
+  {
+    "id": 4663,
+    "fra": "Je pense qu'il est nécessaire que vous le rencontriez.",
+    "eng": "I think it necessary for you to see him.",
+    "char_count": 54
+  },
+  {
+    "id": 4664,
+    "fra": "Maintenant que je suis enseignant, je pense autrement.",
+    "eng": "Now that I am a teacher, I think otherwise.",
+    "char_count": 54
+  },
+  {
+    "id": 4665,
+    "fra": "Je suis tellement fatigué que je peux à peine marcher.",
+    "eng": "I am so tired that I can hardly walk.",
+    "char_count": 54
+  },
+  {
+    "id": 4666,
+    "fra": "Je lui ai demandé de faire quatre copies de la lettre.",
+    "eng": "I asked her to make four copies of the letter.",
+    "char_count": 54
+  },
+  {
+    "id": 4667,
+    "fra": "Je ne peux pas faire confiance à John avec ma voiture.",
+    "eng": "I can't trust John with my car.",
+    "char_count": 54
+  },
+  {
+    "id": 4668,
+    "fra": "Je suis assez grand pour vivre par mes propres moyens.",
+    "eng": "I'm old enough to live by myself.",
+    "char_count": 54
+  },
+  {
+    "id": 4669,
+    "fra": "Je n'ai pas le droit de rester dehors après 10 heures.",
+    "eng": "I am forbidden to stay out after 10 o'clock.",
+    "char_count": 54
+  },
+  {
+    "id": 4670,
+    "fra": "Mon passe-temps est de collectionner les vieux jouets.",
+    "eng": "My hobby is to collect old toys.",
+    "char_count": 54
+  },
+  {
+    "id": 4671,
+    "fra": "Mon école est à environ dix minutes à pied de la gare.",
+    "eng": "My school is about ten minutes' walk from the station.",
+    "char_count": 54
+  },
+  {
+    "id": 4672,
+    "fra": "Tout ce que je peux faire c'est travailler en silence.",
+    "eng": "All I can do is to work silently.",
+    "char_count": 54
+  },
+  {
+    "id": 4673,
+    "fra": "J'étais près de la rivière quand j'ai perdu le chemin.",
+    "eng": "It was near the river that I lost my way.",
+    "char_count": 54
+  },
+  {
+    "id": 4674,
+    "fra": "C'est parce qu'on m'a demandé de venir que je suis là.",
+    "eng": "It's because I was asked to come that I'm here.",
+    "char_count": 54
+  },
+  {
+    "id": 4675,
+    "fra": "Continuez de travailler pendant que je ne suis pas là.",
+    "eng": "Carry on working while I'm away.",
+    "char_count": 54
+  },
+  {
+    "id": 4676,
+    "fra": "Je suis si furieux que je veux hurler et tout casser !",
+    "eng": "I'm so mad I want to scream and break everything!",
+    "char_count": 54
+  },
+  {
+    "id": 4677,
+    "fra": "Les enfants vont de porte à porte la nuit d'Halloween.",
+    "eng": "Children walk around from door to door on Halloween night.",
+    "char_count": 54
+  },
+  {
+    "id": 4678,
+    "fra": "J'avais l'habitude de jouer seul quand j'étais enfant.",
+    "eng": "I used to play alone when I was a child.",
+    "char_count": 54
+  },
+  {
+    "id": 4679,
+    "fra": "Un jeune homme a cambriolé ma maison la nuit dernière.",
+    "eng": "A young man broke into my house last night.",
+    "char_count": 54
+  },
+  {
+    "id": 4680,
+    "fra": "As-tu senti un tremblement de terre la nuit dernière ?",
+    "eng": "Did you feel an earthquake last night?",
+    "char_count": 54
+  },
+  {
+    "id": 4681,
+    "fra": "Tout ce que tu as à faire, c'est d'obéir à mes ordres.",
+    "eng": "All you have to do is to obey my orders.",
+    "char_count": 54
+  },
+  {
+    "id": 4682,
+    "fra": "Tout ce que tu as à faire est de la rencontrer là-bas.",
+    "eng": "All you have to do is to meet her there.",
+    "char_count": 54
+  },
+  {
+    "id": 4683,
+    "fra": "Pourrons-nous aller sur la lune dans un futur proche ?",
+    "eng": "Can we get to the moon in the near future?",
+    "char_count": 54
+  },
+  {
+    "id": 4684,
+    "fra": "De façon générale, le climat du Japon est plutôt doux.",
+    "eng": "Generally speaking, the climate of Japan is mild.",
+    "char_count": 54
+  },
+  {
+    "id": 4685,
+    "fra": "En général, les élites sont insensibles à la critique.",
+    "eng": "On the whole, the elite are not sensitive to criticism.",
+    "char_count": 54
+  },
+  {
+    "id": 4686,
+    "fra": "N'oublie pas de cirer tes chaussures avant de sortir !",
+    "eng": "Don't forget to polish your shoes before you go out!",
+    "char_count": 54
+  },
+  {
+    "id": 4687,
+    "fra": "Peu de gens parlent parfaitement une langue étrangère.",
+    "eng": "Few people can speak a foreign language perfectly.",
+    "char_count": 54
+  },
+  {
+    "id": 4688,
+    "fra": "J'aimerais savoir le taux exact du change pour le yen.",
+    "eng": "I'd like to know the exact exchange rate for yen.",
+    "char_count": 54
+  },
+  {
+    "id": 4689,
+    "fra": "Montrez-moi le chemin vers la station s'il vous plait.",
+    "eng": "Please show me the way to the station.",
+    "char_count": 54
+  },
+  {
+    "id": 4690,
+    "fra": "« Je comprends ce que tu ressens, Hiroshi », dit Mike.",
+    "eng": "I understand how you feel, Hiroshi, says Mike.",
+    "char_count": 54
+  },
+  {
+    "id": 4691,
+    "fra": "« Est-il sérieusement malade ? » « J'espère que non. »",
+    "eng": "Is he seriously ill? \"I hope not.\"",
+    "char_count": 54
+  },
+  {
+    "id": 4692,
+    "fra": "J'ai pris rendez-vous chez le médecin à quatre heures.",
+    "eng": "I made an appointment to see the doctor at four o'clock.",
+    "char_count": 54
+  },
+  {
+    "id": 4693,
+    "fra": "Il s'est levé à six heures et est parti à sept heures.",
+    "eng": "Got up at six, and left home at seven.",
+    "char_count": 54
+  },
+  {
+    "id": 4694,
+    "fra": "Tout ce que tu as à faire est de faire un commentaire.",
+    "eng": "All you have to do is to make a comment.",
+    "char_count": 54
+  },
+  {
+    "id": 4695,
+    "fra": "Cet homme emprunte de l'argent à beaucoup de prêteurs.",
+    "eng": "That man borrows money from many lenders.",
+    "char_count": 54
+  },
+  {
+    "id": 4696,
+    "fra": "Je veux séjourner en Amérique pendant quelques années.",
+    "eng": "I want to stay in America for a few years.",
+    "char_count": 54
+  },
+  {
+    "id": 4697,
+    "fra": "Raconter des mensonges, est une très vilaine habitude.",
+    "eng": "Telling lies is a very bad habit.",
+    "char_count": 54
+  },
+  {
+    "id": 4698,
+    "fra": "La silhouette d'une jeune fille apparut sur le rideau.",
+    "eng": "A silhouette of a girl appeared on the curtain.",
+    "char_count": 54
+  },
+  {
+    "id": 4699,
+    "fra": "Je pense pouvoir prendre un bus pour Disneyland d'ici.",
+    "eng": "I understand I can get a bus to Disneyland from here.",
+    "char_count": 54
+  },
+  {
+    "id": 4700,
+    "fra": "Allô, c'est Tom à l'appareil. J'aimerais parler à Ann.",
+    "eng": "This is Tom speaking. I'd like to speak to Ann.",
+    "char_count": 54
+  }
+]

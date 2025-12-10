@@ -1,0 +1,602 @@
+[
+  {
+    "id": 801,
+    "fra": "C'est une belle journée.",
+    "eng": "It's a beautiful day.",
+    "char_count": 24
+  },
+  {
+    "id": 802,
+    "fra": "Je t'aide quand tu veux.",
+    "eng": "I am always ready to help you.",
+    "char_count": 24
+  },
+  {
+    "id": 803,
+    "fra": "Venez quand vous voulez.",
+    "eng": "Come whenever you like.",
+    "char_count": 24
+  },
+  {
+    "id": 804,
+    "fra": "L'aérobic est à la mode.",
+    "eng": "Aerobics is all the fashion.",
+    "char_count": 24
+  },
+  {
+    "id": 805,
+    "fra": "Hé, ne sois pas stupide.",
+    "eng": "Hey! Don't be silly.",
+    "char_count": 24
+  },
+  {
+    "id": 806,
+    "fra": "Je suis désolé pour toi.",
+    "eng": "I am sorry for you.",
+    "char_count": 24
+  },
+  {
+    "id": 807,
+    "fra": "Je vais te faire du thé.",
+    "eng": "I'll make tea for you.",
+    "char_count": 24
+  },
+  {
+    "id": 808,
+    "fra": "Carol étudie l'espagnol.",
+    "eng": "Carol is studying Spanish.",
+    "char_count": 24
+  },
+  {
+    "id": 809,
+    "fra": "Noël est le 25 décembre.",
+    "eng": "Christmas Day is December 25th.",
+    "char_count": 24
+  },
+  {
+    "id": 810,
+    "fra": "Ken s'assit à mes côtés.",
+    "eng": "Ken sat next to me.",
+    "char_count": 24
+  },
+  {
+    "id": 811,
+    "fra": "Pouvez-vous signer ici ?",
+    "eng": "Could you sign here?",
+    "char_count": 24
+  },
+  {
+    "id": 812,
+    "fra": "Je suis un étranger ici.",
+    "eng": "I'm a stranger here.",
+    "char_count": 24
+  },
+  {
+    "id": 813,
+    "fra": "C’était un méchant lapin.",
+    "eng": "That was an evil bunny.",
+    "char_count": 25
+  },
+  {
+    "id": 814,
+    "fra": "Je ne parle pas japonais.",
+    "eng": "I don't speak Japanese.",
+    "char_count": 25
+  },
+  {
+    "id": 815,
+    "fra": "Ils restèrent bouche bée.",
+    "eng": "They were left speechless.",
+    "char_count": 25
+  },
+  {
+    "id": 816,
+    "fra": "Tu n'es pas assez rapide.",
+    "eng": "You're not fast enough.",
+    "char_count": 25
+  },
+  {
+    "id": 817,
+    "fra": "Veux-tu danser avec moi ?",
+    "eng": "Do you want to dance with me?",
+    "char_count": 25
+  },
+  {
+    "id": 818,
+    "fra": "Allô ? T'es toujours là ?",
+    "eng": "Hello? Are you still here?",
+    "char_count": 25
+  },
+  {
+    "id": 819,
+    "fra": "Je ne suis plus inspirée.",
+    "eng": "I'm not inspired anymore.",
+    "char_count": 25
+  },
+  {
+    "id": 820,
+    "fra": "Il fait tout noir dehors.",
+    "eng": "It's all dark outside.",
+    "char_count": 25
+  },
+  {
+    "id": 821,
+    "fra": "Ma vie est vide sans lui.",
+    "eng": "My life is hollow without him.",
+    "char_count": 25
+  },
+  {
+    "id": 822,
+    "fra": "Ce n'est pas son affaire.",
+    "eng": "That is no business of his.",
+    "char_count": 25
+  },
+  {
+    "id": 823,
+    "fra": "Ces propos me déplaisent.",
+    "eng": "I don't like these remarks.",
+    "char_count": 25
+  },
+  {
+    "id": 824,
+    "fra": "Il n'y a aucune solution.",
+    "eng": "There isn't any solution.",
+    "char_count": 25
+  },
+  {
+    "id": 825,
+    "fra": "Tu veux un jus de fruit ?",
+    "eng": "Do you want fruit juice?",
+    "char_count": 25
+  },
+  {
+    "id": 826,
+    "fra": "Fais comme bon te semble.",
+    "eng": "Do as you want.",
+    "char_count": 25
+  },
+  {
+    "id": 827,
+    "fra": "J'ai fait de bons achats.",
+    "eng": "I made some good buys.",
+    "char_count": 25
+  },
+  {
+    "id": 828,
+    "fra": "Il a neigé toute la nuit.",
+    "eng": "It's been snowing all night.",
+    "char_count": 25
+  },
+  {
+    "id": 829,
+    "fra": "Je dois me réveiller tôt.",
+    "eng": "I have to get up early.",
+    "char_count": 25
+  },
+  {
+    "id": 830,
+    "fra": "J'ai essayé l'équitation.",
+    "eng": "I experienced horse riding.",
+    "char_count": 25
+  },
+  {
+    "id": 831,
+    "fra": "J'ai reçu une invitation.",
+    "eng": "I received an invitation.",
+    "char_count": 25
+  },
+  {
+    "id": 832,
+    "fra": "Je parle un peu japonais.",
+    "eng": "I speak a little Japanese.",
+    "char_count": 25
+  },
+  {
+    "id": 833,
+    "fra": "Je n'ai pas faim du tout.",
+    "eng": "I'm not hungry at all.",
+    "char_count": 25
+  },
+  {
+    "id": 834,
+    "fra": "J'avais réparé ma montre.",
+    "eng": "I had repaired my watch.",
+    "char_count": 25
+  },
+  {
+    "id": 835,
+    "fra": "Je m'occupe d'une chatte.",
+    "eng": "I keep a female cat.",
+    "char_count": 25
+  },
+  {
+    "id": 836,
+    "fra": "J'ai réparé le vélo hier.",
+    "eng": "I fixed the bike yesterday.",
+    "char_count": 25
+  },
+  {
+    "id": 837,
+    "fra": "Je suis libre maintenant.",
+    "eng": "I'm free now.",
+    "char_count": 25
+  },
+  {
+    "id": 838,
+    "fra": "Je dois rentrer chez moi.",
+    "eng": "I have to go home.",
+    "char_count": 25
+  },
+  {
+    "id": 839,
+    "fra": "Je ne vais pas à l'école.",
+    "eng": "I do not go to school.",
+    "char_count": 25
+  },
+  {
+    "id": 840,
+    "fra": "Quel âge me donnez-vous ?",
+    "eng": "How old do you think I am?",
+    "char_count": 25
+  },
+  {
+    "id": 841,
+    "fra": "Je n'aime pas la musique.",
+    "eng": "I do not like music.",
+    "char_count": 25
+  },
+  {
+    "id": 842,
+    "fra": "Je souhaite être docteur.",
+    "eng": "I wish to be a doctor.",
+    "char_count": 25
+  },
+  {
+    "id": 843,
+    "fra": "J'aime manger des pommes.",
+    "eng": "I like to eat apples.",
+    "char_count": 25
+  },
+  {
+    "id": 844,
+    "fra": "Je n'aime pas les pommes.",
+    "eng": "I don't like apples.",
+    "char_count": 25
+  },
+  {
+    "id": 845,
+    "fra": "La chance est contre moi.",
+    "eng": "Luck is against me.",
+    "char_count": 25
+  },
+  {
+    "id": 846,
+    "fra": "J'ai vu le film en vidéo.",
+    "eng": "I saw the movie on video.",
+    "char_count": 25
+  },
+  {
+    "id": 847,
+    "fra": "J'ai rendu visite à Judy.",
+    "eng": "I called on Judy.",
+    "char_count": 25
+  },
+  {
+    "id": 848,
+    "fra": "Je connais bien ce sujet.",
+    "eng": "I am familiar with this subject.",
+    "char_count": 25
+  },
+  {
+    "id": 849,
+    "fra": "Je suis contre ce projet.",
+    "eng": "I am against this project.",
+    "char_count": 25
+  },
+  {
+    "id": 850,
+    "fra": "Ici, je suis un étranger.",
+    "eng": "I am a stranger here.",
+    "char_count": 25
+  },
+  {
+    "id": 851,
+    "fra": "Il t'aime autant que moi.",
+    "eng": "He loves you as much as I do.",
+    "char_count": 25
+  },
+  {
+    "id": 852,
+    "fra": "J'ai trouvé ta casquette.",
+    "eng": "I found your cap.",
+    "char_count": 25
+  },
+  {
+    "id": 853,
+    "fra": "Je ne vous comprends pas.",
+    "eng": "I do not understand you.",
+    "char_count": 25
+  },
+  {
+    "id": 854,
+    "fra": "Je ne peux pas te suivre.",
+    "eng": "I can't keep up with you.",
+    "char_count": 25
+  },
+  {
+    "id": 855,
+    "fra": "Je repasse mes mouchoirs.",
+    "eng": "I‘m ironing my handkerchiefs.",
+    "char_count": 25
+  },
+  {
+    "id": 856,
+    "fra": "J'ai attendu dix minutes.",
+    "eng": "I waited for ten minutes.",
+    "char_count": 25
+  },
+  {
+    "id": 857,
+    "fra": "Je les ai vus l'entourer.",
+    "eng": "I saw them surrounding him.",
+    "char_count": 25
+  },
+  {
+    "id": 858,
+    "fra": "Je vais à l'école en bus.",
+    "eng": "I go to school by bus.",
+    "char_count": 25
+  },
+  {
+    "id": 859,
+    "fra": "Ma sœur adore la musique.",
+    "eng": "My sister is fond of music.",
+    "char_count": 25
+  },
+  {
+    "id": 860,
+    "fra": "Peux-tu deviner mon âge ?",
+    "eng": "Can you guess my age?",
+    "char_count": 25
+  },
+  {
+    "id": 861,
+    "fra": "J'avais un grand appétit.",
+    "eng": "My appetite was large.",
+    "char_count": 25
+  },
+  {
+    "id": 862,
+    "fra": "Ma sœur chante très bien.",
+    "eng": "My sister sings songs very well.",
+    "char_count": 25
+  },
+  {
+    "id": 863,
+    "fra": "Écoute-moi attentivement.",
+    "eng": "Listen to me carefully.",
+    "char_count": 25
+  },
+  {
+    "id": 864,
+    "fra": "Ma maison est loin d'ici.",
+    "eng": "My house is a long way from here.",
+    "char_count": 25
+  },
+  {
+    "id": 865,
+    "fra": "J'ai deux amis étrangers.",
+    "eng": "I have two foreign friends.",
+    "char_count": 25
+  },
+  {
+    "id": 866,
+    "fra": "Moi, je préfère celui-ci.",
+    "eng": "As for me, I like this better.",
+    "char_count": 25
+  },
+  {
+    "id": 867,
+    "fra": "Je m'appelle Edgar Degas.",
+    "eng": "My name is Edgar Degas.",
+    "char_count": 25
+  },
+  {
+    "id": 868,
+    "fra": "La mort cherche sa proie.",
+    "eng": "Death is seeking for his prey.",
+    "char_count": 25
+  },
+  {
+    "id": 869,
+    "fra": "Les morts ne parlent pas.",
+    "eng": "Dead men tell no tales.",
+    "char_count": 25
+  },
+  {
+    "id": 870,
+    "fra": "Ne te coupe pas le doigt.",
+    "eng": "Don't cut your finger.",
+    "char_count": 25
+  },
+  {
+    "id": 871,
+    "fra": "Ma sœur joue aux poupées.",
+    "eng": "My sister is playing with dolls.",
+    "char_count": 25
+  },
+  {
+    "id": 872,
+    "fra": "L'acide attaque le métal.",
+    "eng": "Acid acts on metals.",
+    "char_count": 25
+  },
+  {
+    "id": 873,
+    "fra": "J'ai fermé mon parapluie.",
+    "eng": "I closed my umbrella.",
+    "char_count": 25
+  },
+  {
+    "id": 874,
+    "fra": "J'ai perdu mon parapluie.",
+    "eng": "I have lost my umbrella.",
+    "char_count": 25
+  },
+  {
+    "id": 875,
+    "fra": "J'étais très occupé hier.",
+    "eng": "I was very busy yesterday.",
+    "char_count": 25
+  },
+  {
+    "id": 876,
+    "fra": "Je vais les voir ce soir.",
+    "eng": "I'm seeing them tonight.",
+    "char_count": 25
+  },
+  {
+    "id": 877,
+    "fra": "Sortons ensemble ce soir.",
+    "eng": "Let's get together tonight.",
+    "char_count": 25
+  },
+  {
+    "id": 878,
+    "fra": "Ce soir, mangeons dehors.",
+    "eng": "Let's eat out tonight.",
+    "char_count": 25
+  },
+  {
+    "id": 879,
+    "fra": "Je serai là tout le mois.",
+    "eng": "I will stay here all this month.",
+    "char_count": 25
+  },
+  {
+    "id": 880,
+    "fra": "Fais-le mais maintenant !",
+    "eng": "Do it right now!",
+    "char_count": 25
+  },
+  {
+    "id": 881,
+    "fra": "Fais comme il te plaira !",
+    "eng": "Do as you like.",
+    "char_count": 25
+  },
+  {
+    "id": 882,
+    "fra": "Un chien a quatre pattes.",
+    "eng": "A dog has four legs.",
+    "char_count": 25
+  },
+  {
+    "id": 883,
+    "fra": "Les chiens peuvent nager.",
+    "eng": "Dogs can swim.",
+    "char_count": 25
+  },
+  {
+    "id": 884,
+    "fra": "J'ai fait un repas léger.",
+    "eng": "I had a light lunch.",
+    "char_count": 25
+  },
+  {
+    "id": 885,
+    "fra": "J'ai un travail pour toi.",
+    "eng": "I have a job for you.",
+    "char_count": 25
+  },
+  {
+    "id": 886,
+    "fra": "As-tu ta propre chambre ?",
+    "eng": "Do you have a room of your own?",
+    "char_count": 25
+  },
+  {
+    "id": 887,
+    "fra": "N'êtes-vous pas heureux ?",
+    "eng": "Aren't you happy?",
+    "char_count": 25
+  },
+  {
+    "id": 888,
+    "fra": "Mêle-toi de tes affaires.",
+    "eng": "Mind your own business!",
+    "char_count": 25
+  },
+  {
+    "id": 889,
+    "fra": "Je veux que vous partiez.",
+    "eng": "I want you to go.",
+    "char_count": 25
+  },
+  {
+    "id": 890,
+    "fra": "J'ai croisé un vieil ami.",
+    "eng": "I ran into an old friend.",
+    "char_count": 25
+  },
+  {
+    "id": 891,
+    "fra": "Attention aux imitations.",
+    "eng": "Beware of imitations.",
+    "char_count": 25
+  },
+  {
+    "id": 892,
+    "fra": "Je serai ravi de l'aider.",
+    "eng": "I'll be glad to help him.",
+    "char_count": 25
+  },
+  {
+    "id": 893,
+    "fra": "J'ai dû faire une erreur.",
+    "eng": "I must have made a mistake.",
+    "char_count": 25
+  },
+  {
+    "id": 894,
+    "fra": "Un étudiant veut te voir.",
+    "eng": "A student wants to see you.",
+    "char_count": 25
+  },
+  {
+    "id": 895,
+    "fra": "Nos plans prennent forme.",
+    "eng": "Our plans are taking shape.",
+    "char_count": 25
+  },
+  {
+    "id": 896,
+    "fra": "Ce qui est fait est fait.",
+    "eng": "It's no use crying over spilt milk.",
+    "char_count": 25
+  },
+  {
+    "id": 897,
+    "fra": "Avez-vous des questions ?",
+    "eng": "Do you have any questions?",
+    "char_count": 25
+  },
+  {
+    "id": 898,
+    "fra": "Je te donnerai un cadeau.",
+    "eng": "I'll give you a present.",
+    "char_count": 25
+  },
+  {
+    "id": 899,
+    "fra": "Je suis un garçon timide.",
+    "eng": "I am a shy boy.",
+    "char_count": 25
+  },
+  {
+    "id": 900,
+    "fra": "100 cents font un dollar.",
+    "eng": "One hundred cents makes one dollar.",
+    "char_count": 25
+  }
+]

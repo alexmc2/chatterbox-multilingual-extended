@@ -1,0 +1,602 @@
+[
+  {
+    "id": 3201,
+    "fra": "Je ne suis pas à la hauteur de la tâche.",
+    "eng": "I'm not equal to doing the task.",
+    "char_count": 40
+  },
+  {
+    "id": 3202,
+    "fra": "J'ai un grand frère du même âge que toi.",
+    "eng": "I have an older brother who's the same age as you.",
+    "char_count": 40
+  },
+  {
+    "id": 3203,
+    "fra": "S'il te plaît laisse-moi essayer le jeu.",
+    "eng": "Please let me try the game.",
+    "char_count": 40
+  },
+  {
+    "id": 3204,
+    "fra": "Essayons de rendre notre monde meilleur.",
+    "eng": "Let's try to make our world better.",
+    "char_count": 40
+  },
+  {
+    "id": 3205,
+    "fra": "Il pense qu'il y a un espion parmi nous.",
+    "eng": "He believes that there is a spy among us.",
+    "char_count": 40
+  },
+  {
+    "id": 3206,
+    "fra": "Je vais reprendre l'affaire de mon père.",
+    "eng": "I am to take over my father's business.",
+    "char_count": 40
+  },
+  {
+    "id": 3207,
+    "fra": "Un chef d'orchestre dirige un orchestre.",
+    "eng": "A conductor directs an orchestra.",
+    "char_count": 40
+  },
+  {
+    "id": 3208,
+    "fra": "On n'est jamais aussi bien que chez soi.",
+    "eng": "Be it ever so humble, there's no place like home.",
+    "char_count": 40
+  },
+  {
+    "id": 3209,
+    "fra": "Je refuse d'être traité comme un enfant.",
+    "eng": "I object to being treated like a child.",
+    "char_count": 40
+  },
+  {
+    "id": 3210,
+    "fra": "Élever un enfant demande de la patience.",
+    "eng": "Rearing a child calls for perseverance.",
+    "char_count": 40
+  },
+  {
+    "id": 3211,
+    "fra": "Ne laisse pas ton travail à moitié fait.",
+    "eng": "Don't leave your work half done.",
+    "char_count": 40
+  },
+  {
+    "id": 3212,
+    "fra": "Désolé, mais je dois travailler ce soir.",
+    "eng": "Sorry, but I have to work tonight.",
+    "char_count": 40
+  },
+  {
+    "id": 3213,
+    "fra": "Laisse-moi t'aider à faire la vaisselle.",
+    "eng": "Let me help you with the dishes.",
+    "char_count": 40
+  },
+  {
+    "id": 3214,
+    "fra": "La nuit dernière, ma montre a été volée.",
+    "eng": "I had my watch stolen last night.",
+    "char_count": 40
+  },
+  {
+    "id": 3215,
+    "fra": "J'ai emprunté le dictionnaire à mon ami.",
+    "eng": "I borrowed the dictionary from my friend.",
+    "char_count": 40
+  },
+  {
+    "id": 3216,
+    "fra": "Permettez-moi de vous présenter M. Sato.",
+    "eng": "Let me introduce Mr Sato to you.",
+    "char_count": 40
+  },
+  {
+    "id": 3217,
+    "fra": "Je l'ai lu dans l'édition d'aujourd'hui.",
+    "eng": "I read it in today's edition.",
+    "char_count": 40
+  },
+  {
+    "id": 3218,
+    "fra": "Je me suis réveillé à 5 heures ce matin.",
+    "eng": "I woke up at five this morning.",
+    "char_count": 40
+  },
+  {
+    "id": 3219,
+    "fra": "Je n'ai jamais vu une aussi belle scène.",
+    "eng": "Never have I seen such a beautiful scene.",
+    "char_count": 40
+  },
+  {
+    "id": 3220,
+    "fra": "Recontacte-moi plus tard, s'il te plaît.",
+    "eng": "Please contact me later.",
+    "char_count": 40
+  },
+  {
+    "id": 3221,
+    "fra": "Le chien est le meilleur ami de l'homme.",
+    "eng": "A dog is a man's best friend.",
+    "char_count": 40
+  },
+  {
+    "id": 3222,
+    "fra": "Peux-tu nager aussi rapidement que lui ?",
+    "eng": "Can you swim as fast as he?",
+    "char_count": 40
+  },
+  {
+    "id": 3223,
+    "fra": "As-tu fini de lire ce livre maintenant ?",
+    "eng": "Have you finished reading that book yet?",
+    "char_count": 40
+  },
+  {
+    "id": 3224,
+    "fra": "J'étais content d'apprendre ta réussite.",
+    "eng": "I was glad to hear of your success.",
+    "char_count": 40
+  },
+  {
+    "id": 3225,
+    "fra": "J'ai quelques bonnes nouvelles pour toi.",
+    "eng": "I have some good news for you.",
+    "char_count": 40
+  },
+  {
+    "id": 3226,
+    "fra": "Je ne peux pas penser à la vie sans toi.",
+    "eng": "I can't think of life without you.",
+    "char_count": 40
+  },
+  {
+    "id": 3227,
+    "fra": "Du chewing-gum s'est collé à ma semelle.",
+    "eng": "Gum got stuck to the bottom of my shoe.",
+    "char_count": 40
+  },
+  {
+    "id": 3228,
+    "fra": "L'argent est la racine de tous les maux.",
+    "eng": "Money is the root of all evil.",
+    "char_count": 40
+  },
+  {
+    "id": 3229,
+    "fra": "Il est riche mais vit comme un mendiant.",
+    "eng": "He is rich yet he lives like a beggar.",
+    "char_count": 40
+  },
+  {
+    "id": 3230,
+    "fra": "L'argent ne peut pas acheter le bonheur.",
+    "eng": "Money cannot buy happiness.",
+    "char_count": 40
+  },
+  {
+    "id": 3231,
+    "fra": "Les vaches nous fournissent du bon lait.",
+    "eng": "Cows provide us with good milk.",
+    "char_count": 40
+  },
+  {
+    "id": 3232,
+    "fra": "Je t'aimerai toujours quoi qu'il arrive.",
+    "eng": "I'll always love you, no matter what happens.",
+    "char_count": 40
+  },
+  {
+    "id": 3233,
+    "fra": "Tout étudiant a accès à la bibliothèque.",
+    "eng": "Every student has access to the library.",
+    "char_count": 40
+  },
+  {
+    "id": 3234,
+    "fra": "Tous les étudiants se levèrent ensemble.",
+    "eng": "All of the students stood up together.",
+    "char_count": 40
+  },
+  {
+    "id": 3235,
+    "fra": "Je préfère les vacances d'été à l'école.",
+    "eng": "I like summer holidays better than school.",
+    "char_count": 40
+  },
+  {
+    "id": 3236,
+    "fra": "L'école commence à huit heures et demie.",
+    "eng": "School begins at eight-thirty.",
+    "char_count": 40
+  },
+  {
+    "id": 3237,
+    "fra": "J'eus la chance de voyager à l'étranger.",
+    "eng": "I had a chance to travel abroad.",
+    "char_count": 40
+  },
+  {
+    "id": 3238,
+    "fra": "Laissez-moi vous aider avec vos bagages.",
+    "eng": "Let me help you with your baggage.",
+    "char_count": 40
+  },
+  {
+    "id": 3239,
+    "fra": "J'ai perdu ma chaussure dans l'incendie.",
+    "eng": "I lost my shoe in the fire.",
+    "char_count": 40
+  },
+  {
+    "id": 3240,
+    "fra": "Je serai là pour toi, quoi qu'il arrive.",
+    "eng": "I'll stand by you whatever happens.",
+    "char_count": 40
+  },
+  {
+    "id": 3241,
+    "fra": "Avez-vous quelque chose d'autre à dire ?",
+    "eng": "Do you have anything further to say?",
+    "char_count": 40
+  },
+  {
+    "id": 3242,
+    "fra": "Il est difficile de maîtriser l'anglais.",
+    "eng": "It's hard to master English.",
+    "char_count": 40
+  },
+  {
+    "id": 3243,
+    "fra": "L'anglais est une langue internationale.",
+    "eng": "English is an international language.",
+    "char_count": 40
+  },
+  {
+    "id": 3244,
+    "fra": "Ne lui parlez pas pendant qu'il conduit.",
+    "eng": "Don't speak to him while he is driving.",
+    "char_count": 40
+  },
+  {
+    "id": 3245,
+    "fra": "Donne-moi une bouteille fraîche, dit-il.",
+    "eng": "Give me a fresh bottle, he said.",
+    "char_count": 40
+  },
+  {
+    "id": 3246,
+    "fra": "Une équipe est composée de onze joueurs.",
+    "eng": "A team is composed of eleven players.",
+    "char_count": 40
+  },
+  {
+    "id": 3247,
+    "fra": "Une fille s'est noyée dans la mare hier.",
+    "eng": "A girl drowned in the pond yesterday.",
+    "char_count": 40
+  },
+  {
+    "id": 3248,
+    "fra": "Je fais des courses tous les deux jours.",
+    "eng": "I go shopping every other day.",
+    "char_count": 40
+  },
+  {
+    "id": 3249,
+    "fra": "Puis-je te rappeler dans vingt minutes ?",
+    "eng": "Can I call you back in twenty minutes?",
+    "char_count": 40
+  },
+  {
+    "id": 3250,
+    "fra": "Chacun des trois garçons a reçu un prix.",
+    "eng": "Each of the three boys got a prize.",
+    "char_count": 40
+  },
+  {
+    "id": 3251,
+    "fra": "Je ne comprends pas de quoi vous parlez.",
+    "eng": "I don't understand what you are talking about.",
+    "char_count": 40
+  },
+  {
+    "id": 3252,
+    "fra": "Y a-t-il deux fenêtres dans ta chambre ?",
+    "eng": "Are there two windows in your room?",
+    "char_count": 40
+  },
+  {
+    "id": 3253,
+    "fra": "Combien as-tu payé pour cet ordinateur ?",
+    "eng": "How much have you paid for this computer?",
+    "char_count": 40
+  },
+  {
+    "id": 3254,
+    "fra": "Je suis mal à l'aise avec ces personnes.",
+    "eng": "I feel uncomfortable with those people.",
+    "char_count": 40
+  },
+  {
+    "id": 3255,
+    "fra": "Oh, appelez-moi Angela, s'il vous plaît.",
+    "eng": "Oh, please call me Angela.",
+    "char_count": 40
+  },
+  {
+    "id": 3256,
+    "fra": "Non, elle n'est jamais tombée amoureuse.",
+    "eng": "No, she has never fallen in love.",
+    "char_count": 40
+  },
+  {
+    "id": 3257,
+    "fra": "Je l'ai rencontré par un heureux hasard.",
+    "eng": "I met him by happy accident.",
+    "char_count": 40
+  },
+  {
+    "id": 3258,
+    "fra": "Quoi qu'elle mange, elle ne grossit pas.",
+    "eng": "However much she eats, she never gains weight.",
+    "char_count": 40
+  },
+  {
+    "id": 3259,
+    "fra": "Augmente la climatisation s'il te plait.",
+    "eng": "Please turn up the air conditioner.",
+    "char_count": 40
+  },
+  {
+    "id": 3260,
+    "fra": "Amy va à la gare à pied tous les matins.",
+    "eng": "Amy walks to the station every morning.",
+    "char_count": 40
+  },
+  {
+    "id": 3261,
+    "fra": "Edison n'était pas un étudiant brillant.",
+    "eng": "Edison was not a bright student.",
+    "char_count": 40
+  },
+  {
+    "id": 3262,
+    "fra": "Mon oncle reste avec nous cette semaine.",
+    "eng": "My uncle is staying with us this week.",
+    "char_count": 40
+  },
+  {
+    "id": 3263,
+    "fra": "Mon oncle a un grand intérêt pour l'art.",
+    "eng": "My uncle has a deep interest in art.",
+    "char_count": 40
+  },
+  {
+    "id": 3264,
+    "fra": "Je pense que ce que vous dites est vrai.",
+    "eng": "I think what you say is true.",
+    "char_count": 40
+  },
+  {
+    "id": 3265,
+    "fra": "Une branche d'olivier symbolise la paix.",
+    "eng": "An olive branch symbolizes peace.",
+    "char_count": 40
+  },
+  {
+    "id": 3266,
+    "fra": "Je suis heureux de vous avoir rencontré.",
+    "eng": "I'm very happy to make your acquaintance.",
+    "char_count": 40
+  },
+  {
+    "id": 3267,
+    "fra": "Ton frère sait-il conduire une voiture ?",
+    "eng": "Can your brother drive a car?",
+    "char_count": 40
+  },
+  {
+    "id": 3268,
+    "fra": "C'est très gentil de ta part de m'aider.",
+    "eng": "It's very kind of you to help me.",
+    "char_count": 40
+  },
+  {
+    "id": 3269,
+    "fra": "Laissez-vous vos enfants boire du café ?",
+    "eng": "Do you let your children drink coffee?",
+    "char_count": 40
+  },
+  {
+    "id": 3270,
+    "fra": "Et si vous me faisiez une tasse de thé ?",
+    "eng": "How about making me a cup of tea?",
+    "char_count": 40
+  },
+  {
+    "id": 3271,
+    "fra": "Je ne pourrai jamais assez te remercier.",
+    "eng": "I can never thank you enough.",
+    "char_count": 40
+  },
+  {
+    "id": 3272,
+    "fra": "Je vais chez le médecin, cet après-midi.",
+    "eng": "I'm going to go to the doctor this afternoon.",
+    "char_count": 40
+  },
+  {
+    "id": 3273,
+    "fra": "Du café lait et sucre, s'il vous plaît !",
+    "eng": "Coffee, please, with cream and sugar.",
+    "char_count": 40
+  },
+  {
+    "id": 3274,
+    "fra": "S'il vous plaît, faites comme chez vous.",
+    "eng": "Please make yourself at home.",
+    "char_count": 40
+  },
+  {
+    "id": 3275,
+    "fra": "C'était agréable de vous rencontrer ici.",
+    "eng": "It was nice meeting you here.",
+    "char_count": 40
+  },
+  {
+    "id": 3276,
+    "fra": "Avez-vous beaucoup d'amis ici au Japon ?",
+    "eng": "Do you have many friends here in Japan?",
+    "char_count": 40
+  },
+  {
+    "id": 3277,
+    "fra": "J'ai besoin d'une boîte de cette taille.",
+    "eng": "I need a box of this size.",
+    "char_count": 40
+  },
+  {
+    "id": 3278,
+    "fra": "C'est parce que tu ne veux pas être seul.",
+    "eng": "It's because you don't want to be alone.",
+    "char_count": 41
+  },
+  {
+    "id": 3279,
+    "fra": "Combien d'amis proches est-ce que tu as ?",
+    "eng": "How many close friends do you have?",
+    "char_count": 41
+  },
+  {
+    "id": 3280,
+    "fra": "Quand je me suis réveillé j'étais triste.",
+    "eng": "When I woke up, I was sad.",
+    "char_count": 41
+  },
+  {
+    "id": 3281,
+    "fra": "Je pense que j'ai une théorie à ce sujet.",
+    "eng": "I think I have a theory about that.",
+    "char_count": 41
+  },
+  {
+    "id": 3282,
+    "fra": "10 ans est une longue période à attendre.",
+    "eng": "Ten years is a long time to wait.",
+    "char_count": 41
+  },
+  {
+    "id": 3283,
+    "fra": "Tu m'as trouvée où personne ne cherchait.",
+    "eng": "You found me where no one else was looking.",
+    "char_count": 41
+  },
+  {
+    "id": 3284,
+    "fra": "Ne songe même pas à manger mon chocolat !",
+    "eng": "Don't you even think of eating my chocolate!",
+    "char_count": 41
+  },
+  {
+    "id": 3285,
+    "fra": "Je n'ai jamais vu de réfrigérateur rouge.",
+    "eng": "I never saw a red fridge.",
+    "char_count": 41
+  },
+  {
+    "id": 3286,
+    "fra": "Est-ce que tu as des copains en Antigua ?",
+    "eng": "Do you have friends in Antigua?",
+    "char_count": 41
+  },
+  {
+    "id": 3287,
+    "fra": "La vie commence quand on paie des impôts.",
+    "eng": "Life begins when you pay taxes.",
+    "char_count": 41
+  },
+  {
+    "id": 3288,
+    "fra": "Il n'est jamais trop tard pour apprendre.",
+    "eng": "It is never too late to learn.",
+    "char_count": 41
+  },
+  {
+    "id": 3289,
+    "fra": "Il souhaite effacer de mauvais souvenirs.",
+    "eng": "He wishes to erase bad memories.",
+    "char_count": 41
+  },
+  {
+    "id": 3290,
+    "fra": "La réponse nous mène à un cercle vicieux.",
+    "eng": "The answer leads us to a vicious circle.",
+    "char_count": 41
+  },
+  {
+    "id": 3291,
+    "fra": "La vie n'est pas longue, elle est large !",
+    "eng": "Life is not long, it is wide!",
+    "char_count": 41
+  },
+  {
+    "id": 3292,
+    "fra": "Couper, laver et sécher, s'il vous plaît.",
+    "eng": "Cut, wash and dry, please.",
+    "char_count": 41
+  },
+  {
+    "id": 3293,
+    "fra": "Pourquoi voulez-vous partir aujourd'hui ?",
+    "eng": "Why do you want to leave today?",
+    "char_count": 41
+  },
+  {
+    "id": 3294,
+    "fra": "Je vous apporte l’addition tout de suite.",
+    "eng": "I'll bring you the bill immediately.",
+    "char_count": 41
+  },
+  {
+    "id": 3295,
+    "fra": "Excusez-moi, je me suis trompé de numéro.",
+    "eng": "I'm sorry. I got the wrong number.",
+    "char_count": 41
+  },
+  {
+    "id": 3296,
+    "fra": "Laisse tomber. Ça n'en vaut pas la peine.",
+    "eng": "Forget it. It's not worth it.",
+    "char_count": 41
+  },
+  {
+    "id": 3297,
+    "fra": "Je suis inférieur à lui en mathématiques.",
+    "eng": "I am inferior to him in mathematics.",
+    "char_count": 41
+  },
+  {
+    "id": 3298,
+    "fra": "J'ai fait réparer mon vélo par mon frère.",
+    "eng": "I had my bicycle fixed by my brother.",
+    "char_count": 41
+  },
+  {
+    "id": 3299,
+    "fra": "Je n'ai aucun regret de ce que j'ai fait.",
+    "eng": "I have no regrets for what I have done.",
+    "char_count": 41
+  },
+  {
+    "id": 3300,
+    "fra": "Je n'avais pas plus de 3 livres sterling.",
+    "eng": "I had no more than three pounds.",
+    "char_count": 41
+  }
+]

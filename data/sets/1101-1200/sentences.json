@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1101,
+    "fra": "J'ai très envie de le voir.",
+    "eng": "I want to see him very much.",
+    "char_count": 27
+  },
+  {
+    "id": 1102,
+    "fra": "Je suis médiocre au tennis.",
+    "eng": "I am poor at tennis.",
+    "char_count": 27
+  },
+  {
+    "id": 1103,
+    "fra": "Je ne sais rien sur l'URSS.",
+    "eng": "I don't know about the USSR at all.",
+    "char_count": 27
+  },
+  {
+    "id": 1104,
+    "fra": "J'ai appelé le chaton Tama.",
+    "eng": "I named the kitten Tama.",
+    "char_count": 27
+  },
+  {
+    "id": 1105,
+    "fra": "Je suis fatigué du travail.",
+    "eng": "I am tired of the work.",
+    "char_count": 27
+  },
+  {
+    "id": 1106,
+    "fra": "Je rejette cette objection.",
+    "eng": "I dismissed the protest.",
+    "char_count": 27
+  },
+  {
+    "id": 1107,
+    "fra": "J'aimerais être guitariste.",
+    "eng": "I'd like to be a guitarist.",
+    "char_count": 27
+  },
+  {
+    "id": 1108,
+    "fra": "Hier j'avais mal aux dents.",
+    "eng": "I had a toothache yesterday.",
+    "char_count": 27
+  },
+  {
+    "id": 1109,
+    "fra": "J'ai perdu tout mon argent.",
+    "eng": "I've lost all my money.",
+    "char_count": 27
+  },
+  {
+    "id": 1110,
+    "fra": "J'aime le cinéma américains.",
+    "eng": "I love American movies.",
+    "char_count": 27
+  },
+  {
+    "id": 1111,
+    "fra": "Je vis dans un appartement.",
+    "eng": "I live in an apartment.",
+    "char_count": 27
+  },
+  {
+    "id": 1112,
+    "fra": "Je ne te voulais aucun mal.",
+    "eng": "I meant you no harm.",
+    "char_count": 27
+  },
+  {
+    "id": 1113,
+    "fra": "J'habite cette maison seul.",
+    "eng": "I live in this house by myself.",
+    "char_count": 27
+  },
+  {
+    "id": 1114,
+    "fra": "Je vis à Tôkyô depuis 1985.",
+    "eng": "I have lived in Tokyo since 1985.",
+    "char_count": 27
+  },
+  {
+    "id": 1115,
+    "fra": "Je suis né à Tokyo en 1968.",
+    "eng": "I was born in Tokyo in 1968.",
+    "char_count": 27
+  },
+  {
+    "id": 1116,
+    "fra": "Mon rêve s'envola en fumée.",
+    "eng": "My dream went up in smoke.",
+    "char_count": 27
+  },
+  {
+    "id": 1117,
+    "fra": "Ma chambre est très petite.",
+    "eng": "My room is very small.",
+    "char_count": 27
+  },
+  {
+    "id": 1118,
+    "fra": "Ma chambre a deux fenêtres.",
+    "eng": "My room has two windows.",
+    "char_count": 27
+  },
+  {
+    "id": 1119,
+    "fra": "Mon fils sait lire l'heure.",
+    "eng": "My son can read a clock.",
+    "char_count": 27
+  },
+  {
+    "id": 1120,
+    "fra": "Je te dois tout mon succès.",
+    "eng": "I owe my success to you.",
+    "char_count": 27
+  },
+  {
+    "id": 1121,
+    "fra": "Ma montre est très précise.",
+    "eng": "My watch is very accurate.",
+    "char_count": 27
+  },
+  {
+    "id": 1122,
+    "fra": "Ma femme déteste les chats.",
+    "eng": "My wife really hates cats.",
+    "char_count": 27
+  },
+  {
+    "id": 1123,
+    "fra": "S'il te plaît, réponds-moi.",
+    "eng": "Please answer me.",
+    "char_count": 27
+  },
+  {
+    "id": 1124,
+    "fra": "Je t'assure de mon soutien.",
+    "eng": "I assure you of my support.",
+    "char_count": 27
+  },
+  {
+    "id": 1125,
+    "fra": "Ma barbe pousse rapidement.",
+    "eng": "My beard grows quickly.",
+    "char_count": 27
+  },
+  {
+    "id": 1126,
+    "fra": "Portez cela sur mon compte.",
+    "eng": "Charge this to my account.",
+    "char_count": 27
+  },
+  {
+    "id": 1127,
+    "fra": "Donne-moi un verre de lait.",
+    "eng": "Give me a glass of milk.",
+    "char_count": 27
+  },
+  {
+    "id": 1128,
+    "fra": "J'ai un ami qui est pilote.",
+    "eng": "I have a friend who is a pilot.",
+    "char_count": 27
+  },
+  {
+    "id": 1129,
+    "fra": "Notre école a neuf classes.",
+    "eng": "Our school has nine classes.",
+    "char_count": 27
+  },
+  {
+    "id": 1130,
+    "fra": "Je suis loin d'être triste.",
+    "eng": "I am far from sad.",
+    "char_count": 27
+  },
+  {
+    "id": 1131,
+    "fra": "Dois-je faire un discours ?",
+    "eng": "Do I have to make a speech?",
+    "char_count": 27
+  },
+  {
+    "id": 1132,
+    "fra": "Dois-je ouvrir la fenêtre ?",
+    "eng": "Must I open the window?",
+    "char_count": 27
+  },
+  {
+    "id": 1133,
+    "fra": "C'est une personne franche.",
+    "eng": "She's an outspoken person.",
+    "char_count": 27
+  },
+  {
+    "id": 1134,
+    "fra": "Un enfant a besoin d'amour.",
+    "eng": "A child needs love.",
+    "char_count": 27
+  },
+  {
+    "id": 1135,
+    "fra": "Ne néglige pas ton travail.",
+    "eng": "Don't neglect your business.",
+    "char_count": 27
+  },
+  {
+    "id": 1136,
+    "fra": "Peux-tu me dire mon solde ?",
+    "eng": "Could you tell me my balance?",
+    "char_count": 27
+  },
+  {
+    "id": 1137,
+    "fra": "Hier, j'ai acheté un livre.",
+    "eng": "I bought a book yesterday.",
+    "char_count": 27
+  },
+  {
+    "id": 1138,
+    "fra": "Je me suis bien amusé hier.",
+    "eng": "I had a good time yesterday.",
+    "char_count": 27
+  },
+  {
+    "id": 1139,
+    "fra": "Ramène-le quand tu as fini.",
+    "eng": "Bring it back when you are through.",
+    "char_count": 27
+  },
+  {
+    "id": 1140,
+    "fra": "Ma femme a semblé surprise.",
+    "eng": "My wife looked surprised.",
+    "char_count": 27
+  },
+  {
+    "id": 1141,
+    "fra": "Il y a du vent aujourd'hui.",
+    "eng": "It is windy today.",
+    "char_count": 27
+  },
+  {
+    "id": 1142,
+    "fra": "Je suis pressé aujourd'hui.",
+    "eng": "I'm in a hurry today.",
+    "char_count": 27
+  },
+  {
+    "id": 1143,
+    "fra": "Je veux un coca rapidement.",
+    "eng": "I am just dying for a Coke right now.",
+    "char_count": 27
+  },
+  {
+    "id": 1144,
+    "fra": "Le parlement a été dissous.",
+    "eng": "The Diet has been dissolved.",
+    "char_count": 27
+  },
+  {
+    "id": 1145,
+    "fra": "Va aider à laver les plats.",
+    "eng": "Go and help wash the dishes.",
+    "char_count": 27
+  },
+  {
+    "id": 1146,
+    "fra": "Voici mon numéro de compte.",
+    "eng": "Here's my account number.",
+    "char_count": 27
+  },
+  {
+    "id": 1147,
+    "fra": "Se battre ne résoudra rien.",
+    "eng": "Fighting won't settle anything.",
+    "char_count": 27
+  },
+  {
+    "id": 1148,
+    "fra": "Kenzi parle bien l'anglais.",
+    "eng": "Kenji is a good speaker of English.",
+    "char_count": 27
+  },
+  {
+    "id": 1149,
+    "fra": "Lundi vient après dimanche.",
+    "eng": "Monday comes after Sunday.",
+    "char_count": 27
+  },
+  {
+    "id": 1150,
+    "fra": "Le mariage est une loterie.",
+    "eng": "Marriage is a lottery.",
+    "char_count": 27
+  },
+  {
+    "id": 1151,
+    "fra": "Qu'est-ce que tu es grand !",
+    "eng": "How tall you are!",
+    "char_count": 27
+  },
+  {
+    "id": 1152,
+    "fra": "J'aime ta façon de sourire.",
+    "eng": "I like the way you smile.",
+    "char_count": 27
+  },
+  {
+    "id": 1153,
+    "fra": "J'espère vous voir bientôt.",
+    "eng": "I hope to see you soon.",
+    "char_count": 27
+  },
+  {
+    "id": 1154,
+    "fra": "Ne m'effraie pas comme ça !",
+    "eng": "Don't scare me like that!",
+    "char_count": 27
+  },
+  {
+    "id": 1155,
+    "fra": "Attention au chien méchant.",
+    "eng": "Look out for the wild dog!",
+    "char_count": 27
+  },
+  {
+    "id": 1156,
+    "fra": "Entrez par la petite porte.",
+    "eng": "Enter by the narrow gate.",
+    "char_count": 27
+  },
+  {
+    "id": 1157,
+    "fra": "Le lait est un bon aliment.",
+    "eng": "Milk is a good beverage.",
+    "char_count": 27
+  },
+  {
+    "id": 1158,
+    "fra": "Fumer est mauvais pour toi.",
+    "eng": "Smoking is bad for you.",
+    "char_count": 27
+  },
+  {
+    "id": 1159,
+    "fra": "Ne montre pas tes émotions.",
+    "eng": "Don't let your feelings show.",
+    "char_count": 27
+  },
+  {
+    "id": 1160,
+    "fra": "J'ai failli rater le train.",
+    "eng": "I almost missed the train.",
+    "char_count": 27
+  },
+  {
+    "id": 1161,
+    "fra": "Est-ce que tu t'apprécies ?",
+    "eng": "Did you enjoy yourself?",
+    "char_count": 27
+  },
+  {
+    "id": 1162,
+    "fra": "Vous allez tous me manquer.",
+    "eng": "I will miss you all.",
+    "char_count": 27
+  },
+  {
+    "id": 1163,
+    "fra": "Je n'aime pas les sciences.",
+    "eng": "I do not like science.",
+    "char_count": 27
+  },
+  {
+    "id": 1164,
+    "fra": "J'ai trois filles à marier.",
+    "eng": "I have three daughters to marry off.",
+    "char_count": 27
+  },
+  {
+    "id": 1165,
+    "fra": "La musique est universelle.",
+    "eng": "Music is universal.",
+    "char_count": 27
+  },
+  {
+    "id": 1166,
+    "fra": "Ne t'inquiète pas pour moi.",
+    "eng": "Don't worry about me.",
+    "char_count": 27
+  },
+  {
+    "id": 1167,
+    "fra": "Laisse-moi m'occuper de ça.",
+    "eng": "Let me handle this.",
+    "char_count": 27
+  },
+  {
+    "id": 1168,
+    "fra": "Si nous allions au cinéma ?",
+    "eng": "How about going to the movies?",
+    "char_count": 27
+  },
+  {
+    "id": 1169,
+    "fra": "La fin justifie les moyens.",
+    "eng": "The end justifies the means.",
+    "char_count": 27
+  },
+  {
+    "id": 1170,
+    "fra": "Commençons par la leçon 10.",
+    "eng": "Let's start with Lesson Ten.",
+    "char_count": 27
+  },
+  {
+    "id": 1171,
+    "fra": "Un siècle fait cent années.",
+    "eng": "A century is one hundred years.",
+    "char_count": 27
+  },
+  {
+    "id": 1172,
+    "fra": "7 dollars, s'il vous plaît.",
+    "eng": "Seven dollars, please.",
+    "char_count": 27
+  },
+  {
+    "id": 1173,
+    "fra": "J'ai osé soutenir son avis.",
+    "eng": "I dared to support his opinion.",
+    "char_count": 27
+  },
+  {
+    "id": 1174,
+    "fra": "Il a disparu en un instant.",
+    "eng": "He disappeared in an instant.",
+    "char_count": 27
+  },
+  {
+    "id": 1175,
+    "fra": "Voici une lettre pour vous.",
+    "eng": "Here is a letter for you.",
+    "char_count": 27
+  },
+  {
+    "id": 1176,
+    "fra": "Quel âge a ton grand-père ?",
+    "eng": "How old is your grandfather?",
+    "char_count": 27
+  },
+  {
+    "id": 1177,
+    "fra": "Je suis d'accord avec vous.",
+    "eng": "I agree with you.",
+    "char_count": 27
+  },
+  {
+    "id": 1178,
+    "fra": "Je veux parler à ton oncle.",
+    "eng": "I want to talk with your uncle.",
+    "char_count": 27
+  },
+  {
+    "id": 1179,
+    "fra": "Avais-tu nettoyé la salle ?",
+    "eng": "Did you clean your room?",
+    "char_count": 27
+  },
+  {
+    "id": 1180,
+    "fra": "Combien de pommes veux-tu ?",
+    "eng": "How many apples do you want?",
+    "char_count": 27
+  },
+  {
+    "id": 1181,
+    "fra": "Savez-vous jouer du piano ?",
+    "eng": "Can you play the piano?",
+    "char_count": 27
+  },
+  {
+    "id": 1182,
+    "fra": "Savez-vous parler anglais ?",
+    "eng": "Can you speak English?",
+    "char_count": 27
+  },
+  {
+    "id": 1183,
+    "fra": "Je t'aime de tout mon cœur.",
+    "eng": "I love you with all my heart.",
+    "char_count": 27
+  },
+  {
+    "id": 1184,
+    "fra": "Pardon ! Je me sens malade.",
+    "eng": "Miss! I feel sick.",
+    "char_count": 27
+  },
+  {
+    "id": 1185,
+    "fra": "Comme ce chien court vite !",
+    "eng": "How fast that dog runs!",
+    "char_count": 27
+  },
+  {
+    "id": 1186,
+    "fra": "Regarde ce grand bâtiment !",
+    "eng": "Look at that tall building.",
+    "char_count": 27
+  },
+  {
+    "id": 1187,
+    "fra": "Il est capable de trahison.",
+    "eng": "He is capable of treachery.",
+    "char_count": 27
+  },
+  {
+    "id": 1188,
+    "fra": "Éloignez-vous de cet étang.",
+    "eng": "Keep away from that pond, please.",
+    "char_count": 27
+  },
+  {
+    "id": 1189,
+    "fra": "Un jour, je l'ai rencontré.",
+    "eng": "One day I met him.",
+    "char_count": 27
+  },
+  {
+    "id": 1190,
+    "fra": "C'est une ceinture en cuir.",
+    "eng": "That is a leather belt.",
+    "char_count": 27
+  },
+  {
+    "id": 1191,
+    "fra": "Anne a l'air d'être malade.",
+    "eng": "Ann seems to be ill.",
+    "char_count": 27
+  },
+  {
+    "id": 1192,
+    "fra": "Je l'ai rencontré une fois.",
+    "eng": "I met him once.",
+    "char_count": 27
+  },
+  {
+    "id": 1193,
+    "fra": "C'est trop tard maintenant.",
+    "eng": "It's too late now.",
+    "char_count": 27
+  },
+  {
+    "id": 1194,
+    "fra": "Emmy plia la nappe en deux.",
+    "eng": "Emmy folded the napkin in half.",
+    "char_count": 27
+  },
+  {
+    "id": 1195,
+    "fra": "Emi va apprendre l'anglais.",
+    "eng": "Emi will study English.",
+    "char_count": 27
+  },
+  {
+    "id": 1196,
+    "fra": "Mon oncle est venu me voir.",
+    "eng": "My uncle came to see me.",
+    "char_count": 27
+  },
+  {
+    "id": 1197,
+    "fra": "Jus d'orange ou champagne ?",
+    "eng": "Orange juice or champagne?",
+    "char_count": 27
+  },
+  {
+    "id": 1198,
+    "fra": "Donnez-moi un peu d'argent.",
+    "eng": "Give me a little money.",
+    "char_count": 27
+  },
+  {
+    "id": 1199,
+    "fra": "Puis-je aller nager, mère ?",
+    "eng": "Can I go swimming, Mother?",
+    "char_count": 27
+  },
+  {
+    "id": 1200,
+    "fra": "Je n'ai pas retenu ton nom.",
+    "eng": "I didn't get your name.",
+    "char_count": 27
+  }
+]

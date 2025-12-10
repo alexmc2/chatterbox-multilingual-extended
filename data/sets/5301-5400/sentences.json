@@ -1,0 +1,602 @@
+[
+  {
+    "id": 5301,
+    "fra": "Après le concert la foule se dirigea vers la porte la plus proche.",
+    "eng": "After the concert, the crowd made for the nearest door.",
+    "char_count": 66
+  },
+  {
+    "id": 5302,
+    "fra": "Il est déjà onze heures. Il est grand temps que vous soyez au lit.",
+    "eng": "It's already eleven. It's high time you were in bed.",
+    "char_count": 66
+  },
+  {
+    "id": 5303,
+    "fra": "J'ai appris à conduire quand j'avais 18 ans et j'ai eu mon permis.",
+    "eng": "I learned to drive a car and got a driver's license when I was eighteen.",
+    "char_count": 66
+  },
+  {
+    "id": 5304,
+    "fra": "D'une part je suis occupé, d'autre part, je ne suis pas intéressé.",
+    "eng": "For one thing, I'm busy; for another, I'm not interested.",
+    "char_count": 66
+  },
+  {
+    "id": 5305,
+    "fra": "Dites-moi la raison pour laquelle vous voulez vivre à la campagne.",
+    "eng": "Tell me the reason why you want to live in the countryside.",
+    "char_count": 66
+  },
+  {
+    "id": 5306,
+    "fra": "Il s'agit juste de faire ce que tu as à faire comme on te l'a dit.",
+    "eng": "You just have to do as you're told.",
+    "char_count": 66
+  },
+  {
+    "id": 5307,
+    "fra": "Êtes-vous partis à l'étranger pour le plaisir ou pour le travail ?",
+    "eng": "Did you go abroad for pleasure or on business?",
+    "char_count": 66
+  },
+  {
+    "id": 5308,
+    "fra": "Avez-vous eu beaucoup d'expériences heureuses dans votre enfance ?",
+    "eng": "Did you have a lot of happy experiences in your childhood?",
+    "char_count": 66
+  },
+  {
+    "id": 5309,
+    "fra": "Une fois tout l'argent dépensé, on commença à chercher du travail.",
+    "eng": "All the money spent, we started looking for work.",
+    "char_count": 66
+  },
+  {
+    "id": 5310,
+    "fra": "Patientez s'il vous plaît. Je vous mets en communication avec lui.",
+    "eng": "Please hang on. I'll put him on the phone.",
+    "char_count": 66
+  },
+  {
+    "id": 5311,
+    "fra": "Ma mère insiste sur le fait que je devrais manger plus de légumes.",
+    "eng": "Mother insists that I should eat more vegetables.",
+    "char_count": 66
+  },
+  {
+    "id": 5312,
+    "fra": "Tu es en train de dire que tu caches intentionnellement ta beauté ?",
+    "eng": "You are saying you intentionally hide your good looks?",
+    "char_count": 67
+  },
+  {
+    "id": 5313,
+    "fra": "Un pauvre n'est pas celui qui a trop peu, mais celui qui veut trop.",
+    "eng": "Poor is not the one who has too little, but the one who wants too much.",
+    "char_count": 67
+  },
+  {
+    "id": 5314,
+    "fra": "Cela prendra cinq à dix ans avant que la technologie ne soit prête.",
+    "eng": "It will take five to ten years for the technology to be ready.",
+    "char_count": 67
+  },
+  {
+    "id": 5315,
+    "fra": "Ne me gâche pas mon plaisir après tout le mal que je me suis donné.",
+    "eng": "Don't ruin my fun after all the pain that I put myself through.",
+    "char_count": 67
+  },
+  {
+    "id": 5316,
+    "fra": "C'est plus facile de draguer les gens sur internet que dans la rue.",
+    "eng": "It is easier to hit on people on the Internet than in the street.",
+    "char_count": 67
+  },
+  {
+    "id": 5317,
+    "fra": "Je peux placer la paume des mains sur le sol sans plier les genoux.",
+    "eng": "I can place the palms of my hands on the floor without bending my knees.",
+    "char_count": 67
+  },
+  {
+    "id": 5318,
+    "fra": "Les mathématiques ne sont pas juste de la mémorisation de formules.",
+    "eng": "Mathematics is not just the memorization of formulas.",
+    "char_count": 67
+  },
+  {
+    "id": 5319,
+    "fra": "On me dit d'apprendre par cœur ce poème avant la fin de la semaine.",
+    "eng": "I was told to learn this poem by heart by the end of this week.",
+    "char_count": 67
+  },
+  {
+    "id": 5320,
+    "fra": "C'est avec beaucoup de difficultés que je lui ai donné une réponse.",
+    "eng": "I gave an answer to him with great difficulty.",
+    "char_count": 67
+  },
+  {
+    "id": 5321,
+    "fra": "Je ne peux pas lire le français, je ne peux pas non plus le parler.",
+    "eng": "I can't read French, nor can I speak it.",
+    "char_count": 67
+  },
+  {
+    "id": 5322,
+    "fra": "J'étais tellement pressé que j'ai oublié de fermer la porte à clef.",
+    "eng": "I was in such a hurry that I forgot to lock the door.",
+    "char_count": 67
+  },
+  {
+    "id": 5323,
+    "fra": "Je suppose que peu importe le club de natation auquel je m'affilie.",
+    "eng": "I guess it doesn't make any difference which swimming club I join.",
+    "char_count": 67
+  },
+  {
+    "id": 5324,
+    "fra": "J'étais en train de jouer quand j'ai senti un tremblement de terre.",
+    "eng": "I was playing a game when I felt an earthquake.",
+    "char_count": 67
+  },
+  {
+    "id": 5325,
+    "fra": "Il nous faut beaucoup de temps pour maîtriser une langue étrangère.",
+    "eng": "It takes us a long time to master a foreign language.",
+    "char_count": 67
+  },
+  {
+    "id": 5326,
+    "fra": "Je venais de me mettre au lit quand le téléphone commença à sonner.",
+    "eng": "I had hardly gotten into bed when the telephone began to ring.",
+    "char_count": 67
+  },
+  {
+    "id": 5327,
+    "fra": "J'allais régulièrement pêcher avec mon père lorsque j'étais enfant.",
+    "eng": "I used to go fishing with my father when I was a child.",
+    "char_count": 67
+  },
+  {
+    "id": 5328,
+    "fra": "Les experts financiers ne savent pas quoi penser de cette tendance.",
+    "eng": "Financial experts don't know what to make of this trend.",
+    "char_count": 67
+  },
+  {
+    "id": 5329,
+    "fra": "La lumière fait le tour de la Terre sept fois et demie par seconde.",
+    "eng": "Light travels around the earth seven and a half times a second.",
+    "char_count": 67
+  },
+  {
+    "id": 5330,
+    "fra": "Connaissez-vous la différence entre un microscope et un télescope ?",
+    "eng": "Do you know the difference between a microscope and a telescope?",
+    "char_count": 67
+  },
+  {
+    "id": 5331,
+    "fra": "Étant seulement étudiant, je ne peux pas me permettre de me marier.",
+    "eng": "Being only a student, I can't afford to get married.",
+    "char_count": 67
+  },
+  {
+    "id": 5332,
+    "fra": "Le Dieu qui nous a donné la vie, nous a donné également la liberté.",
+    "eng": "The God who gave us life, gave us liberty at the same time.",
+    "char_count": 67
+  },
+  {
+    "id": 5333,
+    "fra": "Dès que j'ai quitté la maison, il a commencé à pleuvoir des cordes.",
+    "eng": "I had no sooner left the house than it began to rain hard.",
+    "char_count": 67
+  },
+  {
+    "id": 5334,
+    "fra": "Pouvez-vous me dire à quelle heure le train part, s'il vous plaît ?",
+    "eng": "Can you please tell me what time the train leaves?",
+    "char_count": 67
+  },
+  {
+    "id": 5335,
+    "fra": "Je suis désolé, mais les réservations sont closes pour aujourd'hui.",
+    "eng": "I'm sorry, today is fully booked.",
+    "char_count": 67
+  },
+  {
+    "id": 5336,
+    "fra": "Chaque fois que je trouve quelque chose que j'aime, c'est trop cher.",
+    "eng": "Whenever I find something I like, it's too expensive.",
+    "char_count": 68
+  },
+  {
+    "id": 5337,
+    "fra": "« As-tu fini ? » « Au contraire, je n'ai même pas encore commencé. »",
+    "eng": "Have you finished? \"On the contrary, I have not even begun yet.\"",
+    "char_count": 68
+  },
+  {
+    "id": 5338,
+    "fra": "Si deux hommes ont toujours la même opinion, l'un d'eux est inutile.",
+    "eng": "If two men always have the same opinion, one of them is unnecessary.",
+    "char_count": 68
+  },
+  {
+    "id": 5339,
+    "fra": "Tout le monde aimerait croire que les rêves peuvent devenir réalité.",
+    "eng": "Everyone would like to believe that dreams can come true.",
+    "char_count": 68
+  },
+  {
+    "id": 5340,
+    "fra": "Quand on demande de l'argent, il faut accepter certaines conditions.",
+    "eng": "When we borrow money, we must agree on the conditions.",
+    "char_count": 68
+  },
+  {
+    "id": 5341,
+    "fra": "Comment se fait-il que tu en saches autant sur l'histoire du Japon ?",
+    "eng": "How come you know so much about Japanese history?",
+    "char_count": 68
+  },
+  {
+    "id": 5342,
+    "fra": "J'étire toujours les muscles de mes jambes avant de jouer au tennis.",
+    "eng": "I always stretch my leg muscles before playing tennis.",
+    "char_count": 68
+  },
+  {
+    "id": 5343,
+    "fra": "Je me suis assis pour regarder une excitante partie à la télévision.",
+    "eng": "I sat watching an exciting game on television.",
+    "char_count": 68
+  },
+  {
+    "id": 5344,
+    "fra": "Je t'ai souvent dit de faire ton devoir, mais tu ne m'as pas écouté.",
+    "eng": "I often told you to do your duty, but you would not listen to me.",
+    "char_count": 68
+  },
+  {
+    "id": 5345,
+    "fra": "D'après ce que je sais, ce livre n'a jamais été traduit en japonais.",
+    "eng": "As far as I know, this book has never been translated into Japanese.",
+    "char_count": 68
+  },
+  {
+    "id": 5346,
+    "fra": "Je ne peux pas me permettre de manger dans un restaurant aussi cher.",
+    "eng": "I can't afford to eat in such an expensive restaurant.",
+    "char_count": 68
+  },
+  {
+    "id": 5347,
+    "fra": "Je pense qu'il est temps de changer nos façons de gérer les déchets.",
+    "eng": "I think it is about time we changed our ways of disposing of waste.",
+    "char_count": 68
+  },
+  {
+    "id": 5348,
+    "fra": "Je venais à peine de rentrer dans mon bain quand le téléphone sonna.",
+    "eng": "I had hardly got into the bath when the phone rang.",
+    "char_count": 68
+  },
+  {
+    "id": 5349,
+    "fra": "Une cérémonie d'adieu fut tenue en l'honneur de monsieur Jones hier.",
+    "eng": "A farewell party was held in honor of Mr Jones yesterday.",
+    "char_count": 68
+  },
+  {
+    "id": 5350,
+    "fra": "Aujourd'hui il n'est pas inhabituel pour une femme de voyager seule.",
+    "eng": "Nowadays it is not unusual for a woman to travel alone.",
+    "char_count": 68
+  },
+  {
+    "id": 5351,
+    "fra": "Avec la chaleur qu'il fait aujourd'hui, je n'ai pas envie d'étudier.",
+    "eng": "As it is very hot today, I don't feel like studying.",
+    "char_count": 68
+  },
+  {
+    "id": 5352,
+    "fra": "De nos jours, peu de gens peuvent se permettre d'employer une bonne.",
+    "eng": "Nowadays few people can afford to employ a maid.",
+    "char_count": 68
+  },
+  {
+    "id": 5353,
+    "fra": "Une période de beau temps nous permit de mettre la récolte à l'abri.",
+    "eng": "A spell of fine weather enabled us to get the harvest in safely.",
+    "char_count": 68
+  },
+  {
+    "id": 5354,
+    "fra": "Un chien sauta sur la chaise et resta immobile pendant cinq minutes.",
+    "eng": "A dog jumped onto the chair and lay motionless for five minutes.",
+    "char_count": 68
+  },
+  {
+    "id": 5355,
+    "fra": "Selon les scientifiques, l'atmosphère se réchauffe d'année en année.",
+    "eng": "According to scientists, the atmosphere is getting warmer year after year.",
+    "char_count": 68
+  },
+  {
+    "id": 5356,
+    "fra": "Les progrès de la science ne profitent pas toujours au genre humain.",
+    "eng": "Advances in science don't always benefit humanity.",
+    "char_count": 68
+  },
+  {
+    "id": 5357,
+    "fra": "De plus en plus de couples mariés se partagent les tâches ménagères.",
+    "eng": "More and more married couples share household chores.",
+    "char_count": 68
+  },
+  {
+    "id": 5358,
+    "fra": "La théorie de la relativité d'Einstein, pour moi, c'est du charabia.",
+    "eng": "Einstein's theory of relativity is Greek to me.",
+    "char_count": 68
+  },
+  {
+    "id": 5359,
+    "fra": "Je ne peux pas voir à l'intérieur parce que les rideaux sont fermés.",
+    "eng": "I can't see in because the curtains are closed.",
+    "char_count": 68
+  },
+  {
+    "id": 5360,
+    "fra": "Personne n'est assez pauvre pour ne pas pouvoir avoir l'air correct.",
+    "eng": "No one is so poor that he cannot afford to be neat.",
+    "char_count": 68
+  },
+  {
+    "id": 5361,
+    "fra": "En parlant de musique classique, quel est votre compositeur favori ?",
+    "eng": "Talking of classical music, who is your favorite composer?",
+    "char_count": 68
+  },
+  {
+    "id": 5362,
+    "fra": "Je dus boire le café à petites gorgées parce qu'il était trop chaud.",
+    "eng": "I had to sip the coffee because it was too hot.",
+    "char_count": 68
+  },
+  {
+    "id": 5363,
+    "fra": "Combien de temps cela prend-il en voiture d'ici à la gare de Tokyo ?",
+    "eng": "How long does it take from here to Tokyo Station by car?",
+    "char_count": 68
+  },
+  {
+    "id": 5364,
+    "fra": "Ça serait marrant de voir comment les choses changent au fil des ans.",
+    "eng": "It would be fun to see how things change over the years.",
+    "char_count": 69
+  },
+  {
+    "id": 5365,
+    "fra": "Qu'est-ce que cela signifie d'avoir un esprit éduqué au XXIe siècle ?",
+    "eng": "What does it mean to have an educated mind in the 21st century?",
+    "char_count": 69
+  },
+  {
+    "id": 5366,
+    "fra": "Pourquoi est-ce qu'on dit « Bonjour ! » quand le jour n'est pas bon ?",
+    "eng": "Why does one say \"Good day\" when the day is not good?",
+    "char_count": 69
+  },
+  {
+    "id": 5367,
+    "fra": "La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui.",
+    "eng": "Liberty consists of being able to make everything as harmless as possible.",
+    "char_count": 69
+  },
+  {
+    "id": 5368,
+    "fra": "Les artistes de pop prospèrent sur l'adulation de leurs fans fidèles.",
+    "eng": "Pop artists thrive on the adulation of their loyal fans.",
+    "char_count": 69
+  },
+  {
+    "id": 5369,
+    "fra": "Non, je ne peux pas vous laisser entrer, il y a une personne de trop.",
+    "eng": "No, I cannot let you in, there's one person too many.",
+    "char_count": 69
+  },
+  {
+    "id": 5370,
+    "fra": "Bien que ma voiture soit très vieille, elle roule toujours très bien.",
+    "eng": "Although my car is very old, it still runs very well.",
+    "char_count": 69
+  },
+  {
+    "id": 5371,
+    "fra": "J'ai un fils et une fille. L'un est à New York, et l'autre à Londres.",
+    "eng": "I have a son and a daughter. The one is in New York, and the other in London.",
+    "char_count": 69
+  },
+  {
+    "id": 5372,
+    "fra": "Es-tu toujours fâchée pour la dispute d'hier ? Tu es tellement naïve.",
+    "eng": "Are you still letting last night's fight bother you? That's so naive.",
+    "char_count": 69
+  },
+  {
+    "id": 5373,
+    "fra": "Une fête de bienvenue a été organisée en l'honneur de monsieur Jones.",
+    "eng": "A welcome party was held in honor of Mr Jones.",
+    "char_count": 69
+  },
+  {
+    "id": 5374,
+    "fra": "Devriez-vous encourir des ennuis, je vous aiderai, et mon père aussi.",
+    "eng": "Should you run into trouble, I'll help, and so will my father.",
+    "char_count": 69
+  },
+  {
+    "id": 5375,
+    "fra": "J'aimerais mieux sortir dehors que de rester à la maison aujourd'hui.",
+    "eng": "I feel like going out rather than staying at home today.",
+    "char_count": 69
+  },
+  {
+    "id": 5376,
+    "fra": "La plupart des magasins près de l'école ferment le samedi maintenant.",
+    "eng": "Most shops near the school are closed on Saturdays now.",
+    "char_count": 69
+  },
+  {
+    "id": 5377,
+    "fra": "Un vent en provenance de l'océan souffle en cette période de l'année.",
+    "eng": "A wind from the ocean blows at this time of the year.",
+    "char_count": 69
+  },
+  {
+    "id": 5378,
+    "fra": "Les conditions économiques tendent vers une inflation supplémentaire.",
+    "eng": "Economic conditions point to further inflation.",
+    "char_count": 69
+  },
+  {
+    "id": 5379,
+    "fra": "Il a dit qu'il nous ferait connaître sa décision vendredi sans faute.",
+    "eng": "He said he would give us his decision for sure by Friday.",
+    "char_count": 69
+  },
+  {
+    "id": 5380,
+    "fra": "Certaines personnes préfèrent la mer, d'autres préfèrent la montagne.",
+    "eng": "Some people like the sea; others prefer the mountains.",
+    "char_count": 69
+  },
+  {
+    "id": 5381,
+    "fra": "Toutes les réponses doivent être écrites en suivant les instructions.",
+    "eng": "All answers must be written according to the instructions.",
+    "char_count": 69
+  },
+  {
+    "id": 5382,
+    "fra": "C'est trop loin pour aller à pied à la gare, aussi prenons l'autobus.",
+    "eng": "It's too far to walk to the station, so let's take a bus.",
+    "char_count": 69
+  },
+  {
+    "id": 5383,
+    "fra": "Je préférerais rester à la maison plutôt que de sortir sous la pluie.",
+    "eng": "I would rather stay at home than go out in the rain.",
+    "char_count": 69
+  },
+  {
+    "id": 5384,
+    "fra": "Tournez toute votre attention sur ce que vous êtes en train de faire.",
+    "eng": "Give your whole attention to what you are doing.",
+    "char_count": 69
+  },
+  {
+    "id": 5385,
+    "fra": "Pour une certaine raison le microphone ne marchait pas tout à l'heure.",
+    "eng": "For some reason the microphone didn't work earlier.",
+    "char_count": 70
+  },
+  {
+    "id": 5386,
+    "fra": "Cela m'a pris plus de 2 heures pour traduire quelques pages d'anglais.",
+    "eng": "It took me more than two hours to translate a few pages of English.",
+    "char_count": 70
+  },
+  {
+    "id": 5387,
+    "fra": "Un demi-million d'enfants font encore face à la malnutrition au Niger.",
+    "eng": "Half a million children still face malnutrition in Niger.",
+    "char_count": 70
+  },
+  {
+    "id": 5388,
+    "fra": "Quand on ne peut pas faire ce que l’on veut, on fait ce que l’on peut.",
+    "eng": "When you can't do what you want, you do what you can.",
+    "char_count": 70
+  },
+  {
+    "id": 5389,
+    "fra": "Il y avait toujours trop de passages superficiels dans ses rédactions.",
+    "eng": "There was always too much superfluous writing in his essays.",
+    "char_count": 70
+  },
+  {
+    "id": 5390,
+    "fra": "Nous devons l'emmener d'urgence à l'hôpital, il est gravement blessé !",
+    "eng": "We have to take him to the hospital immediately; he is seriously injured!",
+    "char_count": 70
+  },
+  {
+    "id": 5391,
+    "fra": "Est-ce que tu peux imaginer ce que notre vie serait sans électricité ?",
+    "eng": "Can you imagine what our lives would be like without electricity?",
+    "char_count": 70
+  },
+  {
+    "id": 5392,
+    "fra": "Putain, quel est le connard qui ose m’appeler au milieu de la nuit ! ?",
+    "eng": "Holy crap, who's the asshole who dares call me in the middle of the night?!",
+    "char_count": 70
+  },
+  {
+    "id": 5393,
+    "fra": "La seule manière sur Terre de multiplier le bonheur est de le diviser.",
+    "eng": "The only way on Earth to multiply happiness is to divide it.",
+    "char_count": 70
+  },
+  {
+    "id": 5394,
+    "fra": "Le Mali est l'un des pays les plus pauvres de l'Afrique subsaharienne.",
+    "eng": "Mali is one of the poorest countries in Subsaharan Africa.",
+    "char_count": 70
+  },
+  {
+    "id": 5395,
+    "fra": "Elle a toujours fait de son mieux pour leur rendre la vie plus facile.",
+    "eng": "She has always done her best to make their life easier.",
+    "char_count": 70
+  },
+  {
+    "id": 5396,
+    "fra": "J'ai commencé à apprendre l'anglais dans le but de devenir enseignant.",
+    "eng": "I started to learn English with the aim of becoming a teacher.",
+    "char_count": 70
+  },
+  {
+    "id": 5397,
+    "fra": "J'ai bu une partie du lait et j'ai conservé le reste au réfrigérateur.",
+    "eng": "I drank some of the milk and kept the rest in the refrigerator.",
+    "char_count": 70
+  },
+  {
+    "id": 5398,
+    "fra": "Lorsqu'ils rencontrent une célébrité, ils lui demandent un autographe.",
+    "eng": "On encountering the celebrity, they asked for his autograph.",
+    "char_count": 70
+  },
+  {
+    "id": 5399,
+    "fra": "Un cambrioleur s'est introduit chez moi pendant que j'étais en voyage.",
+    "eng": "A burglar broke into my house while I was away on a trip.",
+    "char_count": 70
+  },
+  {
+    "id": 5400,
+    "fra": "Une somme d'argent considérable a été affectée à la défense nationale.",
+    "eng": "A considerable amount of money was appropriated for the national defense.",
+    "char_count": 70
+  }
+]

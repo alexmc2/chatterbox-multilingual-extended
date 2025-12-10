@@ -1,0 +1,602 @@
+[
+  {
+    "id": 3601,
+    "fra": "Je l'ai rencontré sur le chemin de l'école.",
+    "eng": "I met him on my way to school.",
+    "char_count": 43
+  },
+  {
+    "id": 3602,
+    "fra": "J'écris des poèmes pendant mon temps libre.",
+    "eng": "I write poems in my free time.",
+    "char_count": 43
+  },
+  {
+    "id": 3603,
+    "fra": "J'étudie souvent en écoutant de la musique.",
+    "eng": "I often study while listening to music.",
+    "char_count": 43
+  },
+  {
+    "id": 3604,
+    "fra": "Il alla en Amérique pour étudier l'anglais.",
+    "eng": "He went to America to study English.",
+    "char_count": 43
+  },
+  {
+    "id": 3605,
+    "fra": "Je m'assois souvent tard le soir pour lire.",
+    "eng": "I often sit up late at night to read.",
+    "char_count": 43
+  },
+  {
+    "id": 3606,
+    "fra": "J'aimerais lire des livres sur les Beatles.",
+    "eng": "I'd like to read some books about the Beatles.",
+    "char_count": 43
+  },
+  {
+    "id": 3607,
+    "fra": "Je ne puis me faire comprendre en allemand.",
+    "eng": "I can't make myself understood in German.",
+    "char_count": 43
+  },
+  {
+    "id": 3608,
+    "fra": "Je viens juste de finir mon petit déjeuner.",
+    "eng": "I've just finished breakfast.",
+    "char_count": 43
+  },
+  {
+    "id": 3609,
+    "fra": "J'ai commandé ce livre depuis l'Angleterre.",
+    "eng": "I ordered the book from Britain.",
+    "char_count": 43
+  },
+  {
+    "id": 3610,
+    "fra": "J'ai été capable de répondre à la question.",
+    "eng": "I was able to answer the question.",
+    "char_count": 43
+  },
+  {
+    "id": 3611,
+    "fra": "Je concentrai mon attention sur la lecture.",
+    "eng": "I concentrated my attention on the lecture.",
+    "char_count": 43
+  },
+  {
+    "id": 3612,
+    "fra": "Je fus très surpris par cet énorme poisson.",
+    "eng": "I was very surprised at the huge fish.",
+    "char_count": 43
+  },
+  {
+    "id": 3613,
+    "fra": "Je n'aime pas être traité de cette manière.",
+    "eng": "I don't like being treated like this.",
+    "char_count": 43
+  },
+  {
+    "id": 3614,
+    "fra": "Je suis allé à Tokyo pour acheter ce livre.",
+    "eng": "I went to Tokyo to buy this book.",
+    "char_count": 43
+  },
+  {
+    "id": 3615,
+    "fra": "J'ai commandé ce maillot de bain en France.",
+    "eng": "I ordered this swimsuit from France.",
+    "char_count": 43
+  },
+  {
+    "id": 3616,
+    "fra": "J'aime les fraises sur les gâteaux de Noël.",
+    "eng": "I love strawberries on Christmas cake.",
+    "char_count": 43
+  },
+  {
+    "id": 3617,
+    "fra": "J'ai été kidnappé par des extra-terrestres.",
+    "eng": "I was abducted by aliens.",
+    "char_count": 43
+  },
+  {
+    "id": 3618,
+    "fra": "J'ai un compte ouvert dans cette librairie.",
+    "eng": "I have an account at that book shop.",
+    "char_count": 43
+  },
+  {
+    "id": 3619,
+    "fra": "Je ne peux m'empêcher de rire à tes dépens.",
+    "eng": "I cannot help laughing at you.",
+    "char_count": 43
+  },
+  {
+    "id": 3620,
+    "fra": "J'ai pris mon petit-déjeuner à huit heures.",
+    "eng": "I ate breakfast at eight.",
+    "char_count": 43
+  },
+  {
+    "id": 3621,
+    "fra": "J'ai vu un chat noir courir dans la maison.",
+    "eng": "I saw a black cat run into the house.",
+    "char_count": 43
+  },
+  {
+    "id": 3622,
+    "fra": "J'ai perdu mon appareil photo l'autre jour.",
+    "eng": "I lost my camera the other day.",
+    "char_count": 43
+  },
+  {
+    "id": 3623,
+    "fra": "Mon ami a été arrêté pour excès de vitesse.",
+    "eng": "My friend was arrested for speeding.",
+    "char_count": 43
+  },
+  {
+    "id": 3624,
+    "fra": "Je ne t'ai pas montré ma nouvelle Mustang ?",
+    "eng": "Didn't I show you my new Mustang?",
+    "char_count": 43
+  },
+  {
+    "id": 3625,
+    "fra": "Mon point de vue est le contraire du vôtre.",
+    "eng": "My point of view is contrary to yours.",
+    "char_count": 43
+  },
+  {
+    "id": 3626,
+    "fra": "Tous les étudiants de ma classe sont sympa.",
+    "eng": "All the students in my class are friendly.",
+    "char_count": 43
+  },
+  {
+    "id": 3627,
+    "fra": "Mon oncle est un joueur de cricket amateur.",
+    "eng": "My uncle is an amateur cricket player.",
+    "char_count": 43
+  },
+  {
+    "id": 3628,
+    "fra": "Je resterai ici si vous le voulez vraiment.",
+    "eng": "I'll stay here if you really want me to.",
+    "char_count": 43
+  },
+  {
+    "id": 3629,
+    "fra": "Notre professeur a l'air d'être très jeune.",
+    "eng": "Our teacher looks very young.",
+    "char_count": 43
+  },
+  {
+    "id": 3630,
+    "fra": "Notre ville devient de plus en plus grande.",
+    "eng": "Our city is getting bigger and bigger.",
+    "char_count": 43
+  },
+  {
+    "id": 3631,
+    "fra": "Alors que je déjeunais, le téléphone sonna.",
+    "eng": "As I was having lunch, the phone rang.",
+    "char_count": 43
+  },
+  {
+    "id": 3632,
+    "fra": "Je ne sais pas si je vais gagner ou perdre.",
+    "eng": "I don't know whether I will win or lose.",
+    "char_count": 43
+  },
+  {
+    "id": 3633,
+    "fra": "Les enfants n'aiment pas prendre leur bain.",
+    "eng": "Children don't like to take a bath.",
+    "char_count": 43
+  },
+  {
+    "id": 3634,
+    "fra": "Les enfants détestent souvent les épinards.",
+    "eng": "Children often hate spinach.",
+    "char_count": 43
+  },
+  {
+    "id": 3635,
+    "fra": "Je me levais toujours tôt dans mon enfance.",
+    "eng": "I always got up early in my childhood.",
+    "char_count": 43
+  },
+  {
+    "id": 3636,
+    "fra": "Les enfants ne se tiennent pas tranquilles.",
+    "eng": "Children don't keep still.",
+    "char_count": 43
+  },
+  {
+    "id": 3637,
+    "fra": "Un homme est venu te voir la nuit dernière.",
+    "eng": "A man called on you last night.",
+    "char_count": 43
+  },
+  {
+    "id": 3638,
+    "fra": "Avez-vous pris part à la discussion, hier ?",
+    "eng": "Did you take part in the discussion yesterday?",
+    "char_count": 43
+  },
+  {
+    "id": 3639,
+    "fra": "J'ai beaucoup de choses à faire maintenant.",
+    "eng": "I have many things to do now.",
+    "char_count": 43
+  },
+  {
+    "id": 3640,
+    "fra": "Et si on jouait au tennis samedi prochain ?",
+    "eng": "How about playing tennis next Saturday?",
+    "char_count": 43
+  },
+  {
+    "id": 3641,
+    "fra": "Je n'ai jamais eu l'occasion de l'utiliser.",
+    "eng": "I never have had occasion to use it.",
+    "char_count": 43
+  },
+  {
+    "id": 3642,
+    "fra": "Je n'ai pas besoin d'argent pour le moment.",
+    "eng": "I don't need money at present.",
+    "char_count": 43
+  },
+  {
+    "id": 3643,
+    "fra": "Maintenant je suis trop vieux pour marcher.",
+    "eng": "Now I am too old to walk.",
+    "char_count": 43
+  },
+  {
+    "id": 3644,
+    "fra": "Hiromi va à l'école cinq jours par semaine.",
+    "eng": "Hiromi goes to school five days a week.",
+    "char_count": 43
+  },
+  {
+    "id": 3645,
+    "fra": "Il faut battre le fer tant qu'il est chaud.",
+    "eng": "Strike while the iron is hot.",
+    "char_count": 43
+  },
+  {
+    "id": 3646,
+    "fra": "La lumière se déplace plus vite que le son.",
+    "eng": "Light travels faster than sound.",
+    "char_count": 43
+  },
+  {
+    "id": 3647,
+    "fra": "Dire et faire sont deux choses différentes.",
+    "eng": "Saying is quite different from doing.",
+    "char_count": 43
+  },
+  {
+    "id": 3648,
+    "fra": "Regarde ! L'avion est en train de décoller.",
+    "eng": "Look! The airplane is taking off.",
+    "char_count": 43
+  },
+  {
+    "id": 3649,
+    "fra": "Une foule se massa pour regarder le combat.",
+    "eng": "A crowd collected to watch the fight.",
+    "char_count": 43
+  },
+  {
+    "id": 3650,
+    "fra": "Un artiste doit avoir le sens des couleurs.",
+    "eng": "An artist must have an eye for color.",
+    "char_count": 43
+  },
+  {
+    "id": 3651,
+    "fra": "Comment puis-je me rendre au commissariat ?",
+    "eng": "How can I get to the police station?",
+    "char_count": 43
+  },
+  {
+    "id": 3652,
+    "fra": "Mon frère va à la pêche tous les week-ends.",
+    "eng": "My brother goes fishing every weekend.",
+    "char_count": 43
+  },
+  {
+    "id": 3653,
+    "fra": "Aucune étoile n'était visible dans le ciel.",
+    "eng": "Not a star was to be seen in the sky.",
+    "char_count": 43
+  },
+  {
+    "id": 3654,
+    "fra": "Les poissons sont des animaux à sang froid.",
+    "eng": "Fish are cold-blooded animals.",
+    "char_count": 43
+  },
+  {
+    "id": 3655,
+    "fra": "Un izakaya est un pub à la façon japonaise.",
+    "eng": "An izakaya is a Japanese-style pub.",
+    "char_count": 43
+  },
+  {
+    "id": 3656,
+    "fra": "Comme on s'y attendait, il a gagné le prix.",
+    "eng": "As was expected, he won the prize.",
+    "char_count": 43
+  },
+  {
+    "id": 3657,
+    "fra": "Les instincts de base ne disparaissent pas.",
+    "eng": "Fundamental instincts will not go away.",
+    "char_count": 43
+  },
+  {
+    "id": 3658,
+    "fra": "Chaque pièce est équipée d'un grand bureau.",
+    "eng": "Each room is equipped with large desks.",
+    "char_count": 43
+  },
+  {
+    "id": 3659,
+    "fra": "Apprendre une langue étrangère est amusant.",
+    "eng": "Learning a foreign language is fun.",
+    "char_count": 43
+  },
+  {
+    "id": 3660,
+    "fra": "Pourrait-on avoir une table à l'extérieur ?",
+    "eng": "Could we have a table outside?",
+    "char_count": 43
+  },
+  {
+    "id": 3661,
+    "fra": "Finir le travail pour mardi sera du gâteau.",
+    "eng": "Finishing the job by Tuesday will be a piece of cake.",
+    "char_count": 43
+  },
+  {
+    "id": 3662,
+    "fra": "Je veux aller en Australie avec ma famille.",
+    "eng": "I want to go to Australia with my family.",
+    "char_count": 43
+  },
+  {
+    "id": 3663,
+    "fra": "J'ai oublié ma carte de crédit à la maison.",
+    "eng": "I left my card at home.",
+    "char_count": 43
+  },
+  {
+    "id": 3664,
+    "fra": "Puis-je vous offrir quelque chose à boire ?",
+    "eng": "Can I get you something to drink?",
+    "char_count": 43
+  },
+  {
+    "id": 3665,
+    "fra": "Mon crayon est tombé du coin de mon bureau.",
+    "eng": "My pencil fell off the edge of my desk.",
+    "char_count": 43
+  },
+  {
+    "id": 3666,
+    "fra": "À son arrivée à la gare, il appela un taxi.",
+    "eng": "On his arrival at the station, he called a taxi.",
+    "char_count": 43
+  },
+  {
+    "id": 3667,
+    "fra": "Parler anglais est très difficile pour moi.",
+    "eng": "Speaking English is very difficult for me.",
+    "char_count": 43
+  },
+  {
+    "id": 3668,
+    "fra": "L'anglais est étudié partout dans le monde.",
+    "eng": "English is studied all over the world.",
+    "char_count": 43
+  },
+  {
+    "id": 3669,
+    "fra": "Prenez un parapluie au cas où il pleuvrait.",
+    "eng": "Take an umbrella with you in case it rains.",
+    "char_count": 43
+  },
+  {
+    "id": 3670,
+    "fra": "Référez-vous à la page 10, s'il vous plaît.",
+    "eng": "Please refer to page ten.",
+    "char_count": 43
+  },
+  {
+    "id": 3671,
+    "fra": "J'ai l'intention de rester ici une semaine.",
+    "eng": "I plan to stay there a week.",
+    "char_count": 43
+  },
+  {
+    "id": 3672,
+    "fra": "J'ai eu un enfant mort-né il y a trois ans.",
+    "eng": "I had a stillborn baby three years ago.",
+    "char_count": 43
+  },
+  {
+    "id": 3673,
+    "fra": "Je suis intéressé par l'histoire de l'Asie.",
+    "eng": "I am interested in Asian history.",
+    "char_count": 43
+  },
+  {
+    "id": 3674,
+    "fra": "Je vais vous raconter l'histoire de ma vie.",
+    "eng": "I will tell you the history of my life.",
+    "char_count": 43
+  },
+  {
+    "id": 3675,
+    "fra": "Pouvez-vous épeler votre nom, je vous prie.",
+    "eng": "Could you spell your name, please?",
+    "char_count": 43
+  },
+  {
+    "id": 3676,
+    "fra": "Je pense que je devrais le faire pour vous.",
+    "eng": "I think I should do it for you.",
+    "char_count": 43
+  },
+  {
+    "id": 3677,
+    "fra": "Comment avez-vous passé votre temps libre ?",
+    "eng": "How did you spend your free time?",
+    "char_count": 43
+  },
+  {
+    "id": 3678,
+    "fra": "Un voyage en Amérique est hors de question.",
+    "eng": "A trip to America is out of the question.",
+    "char_count": 43
+  },
+  {
+    "id": 3679,
+    "fra": "Les Étatsuniens mangent beaucoup de viande.",
+    "eng": "Americans eat a lot of meat.",
+    "char_count": 43
+  },
+  {
+    "id": 3680,
+    "fra": "Comme un bon vin, il s'améliore avec l'âge.",
+    "eng": "Like a good wine, he improves with age.",
+    "char_count": 43
+  },
+  {
+    "id": 3681,
+    "fra": "Je pense que nous pourrions être bons amis.",
+    "eng": "I think we could be good friends.",
+    "char_count": 43
+  },
+  {
+    "id": 3682,
+    "fra": "Peu importe l'âge, un enfant est un enfant.",
+    "eng": "No matter the age, a child is a child.",
+    "char_count": 43
+  },
+  {
+    "id": 3683,
+    "fra": "Notre famille se compose de cinq personnes.",
+    "eng": "Our family consists of five members.",
+    "char_count": 43
+  },
+  {
+    "id": 3684,
+    "fra": "Des deux chiens, le mien est le plus grand.",
+    "eng": "My dog is the bigger of the two.",
+    "char_count": 43
+  },
+  {
+    "id": 3685,
+    "fra": "Edison a inventé beaucoup de choses utiles.",
+    "eng": "Edison invented many useful things.",
+    "char_count": 43
+  },
+  {
+    "id": 3686,
+    "fra": "Je suis désolé de vous avoir fait attendre.",
+    "eng": "I'm sorry to have kept you waiting.",
+    "char_count": 43
+  },
+  {
+    "id": 3687,
+    "fra": "J’attends avec impatience de vos nouvelles.",
+    "eng": "I look forward to hearing from you.",
+    "char_count": 43
+  },
+  {
+    "id": 3688,
+    "fra": "Est-ce que tu prendras ton appareil photo ?",
+    "eng": "Are you bringing your camera?",
+    "char_count": 43
+  },
+  {
+    "id": 3689,
+    "fra": "Le karaoké est bon pour diminuer le stress.",
+    "eng": "Karaoke is good for reducing stress.",
+    "char_count": 43
+  },
+  {
+    "id": 3690,
+    "fra": "L'irresponsabilité de Clara me rend dingue.",
+    "eng": "Clara's lack of responsibility drives me mad.",
+    "char_count": 43
+  },
+  {
+    "id": 3691,
+    "fra": "Ken semble avoir attrapé un terrible rhume.",
+    "eng": "Ken seems to have a terrible cold.",
+    "char_count": 43
+  },
+  {
+    "id": 3692,
+    "fra": "J'aimerais parler avec l'un de vos invités.",
+    "eng": "I'd like to talk to one of your guests.",
+    "char_count": 43
+  },
+  {
+    "id": 3693,
+    "fra": "Je leur ai dit de m'envoyer un autre ticket.",
+    "eng": "I told them to send me another ticket.",
+    "char_count": 44
+  },
+  {
+    "id": 3694,
+    "fra": "La plupart des gens pensent que je suis fou.",
+    "eng": "Most people think I'm crazy.",
+    "char_count": 44
+  },
+  {
+    "id": 3695,
+    "fra": "Tu ne fais que fuir les problèmes de la vie.",
+    "eng": "You're just running away from life's problems.",
+    "char_count": 44
+  },
+  {
+    "id": 3696,
+    "fra": "« Ça semble très intéressant », dit Hiroshi.",
+    "eng": "This looks pretty interesting, Hiroshi says.",
+    "char_count": 44
+  },
+  {
+    "id": 3697,
+    "fra": "Ça ne commence pas avant huit heures trente.",
+    "eng": "It doesn't start before eight thirty.",
+    "char_count": 44
+  },
+  {
+    "id": 3698,
+    "fra": "Je veux un bateau qui m'emmènera loin d'ici.",
+    "eng": "I want a boat that will take me far away from here.",
+    "char_count": 44
+  },
+  {
+    "id": 3699,
+    "fra": "Laver avant de porter pour la première fois.",
+    "eng": "Wash before first wearing.",
+    "char_count": 44
+  },
+  {
+    "id": 3700,
+    "fra": "C'est impossible pour moi de te l'expliquer.",
+    "eng": "It's impossible for me to explain it to you.",
+    "char_count": 44
+  }
+]

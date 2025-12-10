@@ -1,0 +1,602 @@
+[
+  {
+    "id": 3501,
+    "fra": "Les enfants devraient jouer à l'extérieur.",
+    "eng": "Children should play outside.",
+    "char_count": 42
+  },
+  {
+    "id": 3502,
+    "fra": "Les enfants aiment regarder la télévision.",
+    "eng": "Children like watching television.",
+    "char_count": 42
+  },
+  {
+    "id": 3503,
+    "fra": "Ma sœur Susan se lève tôt tous les matins.",
+    "eng": "My sister Susan gets up early every morning.",
+    "char_count": 42
+  },
+  {
+    "id": 3504,
+    "fra": "M. Yamada, vous êtes attendu au téléphone.",
+    "eng": "Mr Yamada, you are wanted on the phone.",
+    "char_count": 42
+  },
+  {
+    "id": 3505,
+    "fra": "La floraison des cerisiers est très belle.",
+    "eng": "Cherry blossoms are very beautiful.",
+    "char_count": 42
+  },
+  {
+    "id": 3506,
+    "fra": "Je me rappelle avoir posté la lettre hier.",
+    "eng": "I remember posting the letter yesterday.",
+    "char_count": 42
+  },
+  {
+    "id": 3507,
+    "fra": "Il faisait plus froid hier qu'aujourd'hui.",
+    "eng": "It was colder yesterday than today.",
+    "char_count": 42
+  },
+  {
+    "id": 3508,
+    "fra": "Je tourne à gauche au prochain feu rouge ?",
+    "eng": "Do I turn left at the first stoplight?",
+    "char_count": 42
+  },
+  {
+    "id": 3509,
+    "fra": "Avez-vous une chambre libre pour la nuit ?",
+    "eng": "Do you have any rooms left for tonight?",
+    "char_count": 42
+  },
+  {
+    "id": 3510,
+    "fra": "Je suis vraiment très fatigué aujourd'hui.",
+    "eng": "I'm really tired today.",
+    "char_count": 42
+  },
+  {
+    "id": 3511,
+    "fra": "Pour cette fois j'excuse votre négligence.",
+    "eng": "I'll excuse your carelessness this time.",
+    "char_count": 42
+  },
+  {
+    "id": 3512,
+    "fra": "Pouvez-vous m'indiquer le chemin du port ?",
+    "eng": "Could you tell me the way to the port?",
+    "char_count": 42
+  },
+  {
+    "id": 3513,
+    "fra": "L'occasion se présente rarement deux fois.",
+    "eng": "Opportunity seldom knocks twice.",
+    "char_count": 42
+  },
+  {
+    "id": 3514,
+    "fra": "Je serai absent de la maison l'après-midi.",
+    "eng": "I'll be absent from home in the afternoon.",
+    "char_count": 42
+  },
+  {
+    "id": 3515,
+    "fra": "N'ouvrez pas votre parapluie dans le hall.",
+    "eng": "Don't open your umbrella in the hall.",
+    "char_count": 42
+  },
+  {
+    "id": 3516,
+    "fra": "Un homme étrange l'a menacée d'un couteau.",
+    "eng": "A strange man menaced her with a knife.",
+    "char_count": 42
+  },
+  {
+    "id": 3517,
+    "fra": "Rien n'est meilleur que ne l'est la santé.",
+    "eng": "Nothing is better than health.",
+    "char_count": 42
+  },
+  {
+    "id": 3518,
+    "fra": "Ken est allé au parc pour rencontrer Yumi.",
+    "eng": "Ken went to the park to meet Yumi.",
+    "char_count": 42
+  },
+  {
+    "id": 3519,
+    "fra": "Une éclipse de lune est un phénomène rare.",
+    "eng": "An eclipse of the moon is a rare phenomenon.",
+    "char_count": 42
+  },
+  {
+    "id": 3520,
+    "fra": "Faites-le-moi savoir dès que c'est décidé.",
+    "eng": "Please let me know as soon as it's decided.",
+    "char_count": 42
+  },
+  {
+    "id": 3521,
+    "fra": "Un détective arriva sur la scène du crime.",
+    "eng": "A detective arrived upon the scene of the crime.",
+    "char_count": 42
+  },
+  {
+    "id": 3522,
+    "fra": "Peut-on justifier l'usage de la violence ?",
+    "eng": "Can you justify the use of violence?",
+    "char_count": 42
+  },
+  {
+    "id": 3523,
+    "fra": "Combien de temps comptez-vous rester ici ?",
+    "eng": "How long will you stay here?",
+    "char_count": 42
+  },
+  {
+    "id": 3524,
+    "fra": "S'il vous plaît, continuez votre histoire.",
+    "eng": "Please go on with your story.",
+    "char_count": 42
+  },
+  {
+    "id": 3525,
+    "fra": "Tout ce que tu peux faire, c'est attendre.",
+    "eng": "All you can do is to wait.",
+    "char_count": 42
+  },
+  {
+    "id": 3526,
+    "fra": "Je ne comprends pas du tout ce que tu dis.",
+    "eng": "I have no idea what you mean.",
+    "char_count": 42
+  },
+  {
+    "id": 3527,
+    "fra": "Son avion part pour Hong Kong à 14 heures.",
+    "eng": "His plane leaves for Hong Kong at 2:00 p.m.",
+    "char_count": 42
+  },
+  {
+    "id": 3528,
+    "fra": "L'argent n'est pas un critère de réussite.",
+    "eng": "Money is not a criterion of success.",
+    "char_count": 42
+  },
+  {
+    "id": 3529,
+    "fra": "Kyoto est connue pour ses temples anciens.",
+    "eng": "Kyoto is famous for its old temples.",
+    "char_count": 42
+  },
+  {
+    "id": 3530,
+    "fra": "Il y a beaucoup d'endroits à voir à Kyôto.",
+    "eng": "Kyoto has many places to see.",
+    "char_count": 42
+  },
+  {
+    "id": 3531,
+    "fra": "Dépêchez-vous ou vous raterez votre avion.",
+    "eng": "Hurry up, or you'll miss your plane.",
+    "char_count": 42
+  },
+  {
+    "id": 3532,
+    "fra": "Dépêchez-vous, ou vous manquerez le train.",
+    "eng": "Hurry up, or you will miss the train.",
+    "char_count": 42
+  },
+  {
+    "id": 3533,
+    "fra": "Puis-je déposer les objets de valeur ici ?",
+    "eng": "Can I deposit valuables here?",
+    "char_count": 42
+  },
+  {
+    "id": 3534,
+    "fra": "Les machines usent beaucoup d'électricité.",
+    "eng": "Machinery uses a lot of electricity.",
+    "char_count": 42
+  },
+  {
+    "id": 3535,
+    "fra": "Pressons pour être à l'heure à la réunion.",
+    "eng": "Let's hurry to be in time for the meeting.",
+    "char_count": 42
+  },
+  {
+    "id": 3536,
+    "fra": "Soyez vigilant quant au risque d'incendie.",
+    "eng": "Be on your guard against fire.",
+    "char_count": 42
+  },
+  {
+    "id": 3537,
+    "fra": "Je me fais construire une nouvelle maison.",
+    "eng": "I'm getting a new house built.",
+    "char_count": 42
+  },
+  {
+    "id": 3538,
+    "fra": "Quelques garçons entrèrent dans la classe.",
+    "eng": "Some boys came into the classroom.",
+    "char_count": 42
+  },
+  {
+    "id": 3539,
+    "fra": "N'ayez aucune hésitation à dire la vérité.",
+    "eng": "Never hesitate to tell the truth.",
+    "char_count": 42
+  },
+  {
+    "id": 3540,
+    "fra": "J'ai tout essayé pour le maintenir en vie.",
+    "eng": "I tried everything to keep him alive.",
+    "char_count": 42
+  },
+  {
+    "id": 3541,
+    "fra": "Comme tu es vilain ! Arrête de m'ennuyer !",
+    "eng": "How naughty you are! Stop bothering me!",
+    "char_count": 42
+  },
+  {
+    "id": 3542,
+    "fra": "Enlevez son nom de la liste des candidats.",
+    "eng": "Delete his name from the list of the applicants.",
+    "char_count": 42
+  },
+  {
+    "id": 3543,
+    "fra": "Madame, puis-je prendre vos mensurations ?",
+    "eng": "May I take your size, madam?",
+    "char_count": 42
+  },
+  {
+    "id": 3544,
+    "fra": "L'anglais est parlé dans de nombreux pays.",
+    "eng": "English is spoken in a lot of countries.",
+    "char_count": 42
+  },
+  {
+    "id": 3545,
+    "fra": "L'anglais est parlé partout dans le monde.",
+    "eng": "English is spoken all over the world.",
+    "char_count": 42
+  },
+  {
+    "id": 3546,
+    "fra": "Allons-y dès qu'il s'arrêtera de pleuvoir.",
+    "eng": "Let's go as soon as it stops raining.",
+    "char_count": 42
+  },
+  {
+    "id": 3547,
+    "fra": "Repartons avant qu'il commence à pleuvoir.",
+    "eng": "Let's go back before it begins to rain.",
+    "char_count": 42
+  },
+  {
+    "id": 3548,
+    "fra": "Ne manquez pas de venir ici à cinq heures.",
+    "eng": "Don't fail to come here by five.",
+    "char_count": 42
+  },
+  {
+    "id": 3549,
+    "fra": "Un tiers des six membres était des femmes.",
+    "eng": "One-third of the six members were women.",
+    "char_count": 42
+  },
+  {
+    "id": 3550,
+    "fra": "Certains croient aux OVNI et d'autres non.",
+    "eng": "Some believe in UFOs and others do not.",
+    "char_count": 42
+  },
+  {
+    "id": 3551,
+    "fra": "Je serai couché à l'heure où tu rentreras.",
+    "eng": "I'll be in bed by the time you get home.",
+    "char_count": 42
+  },
+  {
+    "id": 3552,
+    "fra": "Je connais ce garçon dont tu ne sais rien.",
+    "eng": "I know that boy whom you don't know.",
+    "char_count": 42
+  },
+  {
+    "id": 3553,
+    "fra": "Lorsque je suis avec toi, je suis heureux.",
+    "eng": "Being with you makes me feel happy.",
+    "char_count": 42
+  },
+  {
+    "id": 3554,
+    "fra": "Aviez-vous une leçon de piano ce jour-là ?",
+    "eng": "Did you have a piano lesson that day?",
+    "char_count": 42
+  },
+  {
+    "id": 3555,
+    "fra": "Je pense que tu devrais le faire toi-même.",
+    "eng": "I think you should do it yourself.",
+    "char_count": 42
+  },
+  {
+    "id": 3556,
+    "fra": "Je suis désolée de vous avoir mal compris.",
+    "eng": "I'm sorry I misunderstood you.",
+    "char_count": 42
+  },
+  {
+    "id": 3557,
+    "fra": "Cet auteur italien est peu connu au Japon.",
+    "eng": "That Italian author is little known in Japan.",
+    "char_count": 42
+  },
+  {
+    "id": 3558,
+    "fra": "Sa santé s'est dégradée depuis l'accident.",
+    "eng": "His health has declined since the accident.",
+    "char_count": 42
+  },
+  {
+    "id": 3559,
+    "fra": "Il est docteur et professeur d'université.",
+    "eng": "He is a doctor and a university professor.",
+    "char_count": 42
+  },
+  {
+    "id": 3560,
+    "fra": "Anne joue souvent au tennis après l'école.",
+    "eng": "Ann often plays tennis after school.",
+    "char_count": 42
+  },
+  {
+    "id": 3561,
+    "fra": "Je viendrai dans ton pays un de ces jours.",
+    "eng": "I will come to your country some day.",
+    "char_count": 42
+  },
+  {
+    "id": 3562,
+    "fra": "Non, les plats chinois sont les meilleurs.",
+    "eng": "No, Chinese dishes are the best.",
+    "char_count": 42
+  },
+  {
+    "id": 3563,
+    "fra": "L'Angleterre a été envahie par les Danois.",
+    "eng": "England was invaded by the Danes.",
+    "char_count": 42
+  },
+  {
+    "id": 3564,
+    "fra": "Le Mont Everest est le plus haut du monde.",
+    "eng": "Mt. Everest is the highest peak in the world.",
+    "char_count": 42
+  },
+  {
+    "id": 3565,
+    "fra": "Je peux bien comprendre ce que tu ressens.",
+    "eng": "I know how you feel.",
+    "char_count": 42
+  },
+  {
+    "id": 3566,
+    "fra": "Puis-je avoir un peu d'eau, je vous prie ?",
+    "eng": "Can I have some water, please?",
+    "char_count": 42
+  },
+  {
+    "id": 3567,
+    "fra": "Les dinosaures faisaient la loi sur terre.",
+    "eng": "Dinosaurs used to rule the earth.",
+    "char_count": 42
+  },
+  {
+    "id": 3568,
+    "fra": "La Californie est célèbre pour ses fruits.",
+    "eng": "California is famous for its fruit.",
+    "char_count": 42
+  },
+  {
+    "id": 3569,
+    "fra": "Carol regarde souvent des films d'horreur.",
+    "eng": "Carol often watches horror movies.",
+    "char_count": 42
+  },
+  {
+    "id": 3570,
+    "fra": "Clive veut être ingénieur en électronique.",
+    "eng": "Clive wants to be an electronic engineer.",
+    "char_count": 42
+  },
+  {
+    "id": 3571,
+    "fra": "J'ai besoin de sucre pour faire un gâteau.",
+    "eng": "I need some sugar to make a cake.",
+    "char_count": 42
+  },
+  {
+    "id": 3572,
+    "fra": "Je voudrais avoir une autre tasse de café.",
+    "eng": "I'd like to have another cup of coffee.",
+    "char_count": 42
+  },
+  {
+    "id": 3573,
+    "fra": "Les enfants peuvent jouer ici sans danger.",
+    "eng": "Children can play without danger here.",
+    "char_count": 42
+  },
+  {
+    "id": 3574,
+    "fra": "Non je ne le suis pas, c'est toi qui l'es !",
+    "eng": "No I'm not; you are!",
+    "char_count": 43
+  },
+  {
+    "id": 3575,
+    "fra": "Réfléchissons au pire qui pourrait arriver.",
+    "eng": "Let's consider the worst that could happen.",
+    "char_count": 43
+  },
+  {
+    "id": 3576,
+    "fra": "Il se peut qu'il gèle la semaine prochaine.",
+    "eng": "It may freeze next week.",
+    "char_count": 43
+  },
+  {
+    "id": 3577,
+    "fra": "Je déteste absolument l'écriture formelle !",
+    "eng": "I utterly despise formal writing!",
+    "char_count": 43
+  },
+  {
+    "id": 3578,
+    "fra": "Tu es à mes côtés, maintenant tout va bien.",
+    "eng": "You're by my side; everything's fine now.",
+    "char_count": 43
+  },
+  {
+    "id": 3579,
+    "fra": "Comment vas-tu ? As-tu fait un bon voyage ?",
+    "eng": "How are you? Did you have a good trip?",
+    "char_count": 43
+  },
+  {
+    "id": 3580,
+    "fra": "Le cerveau n'est qu'une machine compliquée.",
+    "eng": "The brain is just a complicated machine.",
+    "char_count": 43
+  },
+  {
+    "id": 3581,
+    "fra": "C'est fini entre nous, rends-moi ma bague !",
+    "eng": "It's over between us. Give me back my ring!",
+    "char_count": 43
+  },
+  {
+    "id": 3582,
+    "fra": "Tim est un énorme fan de comédie satirique.",
+    "eng": "Tim is a huge fan of satirical comedy.",
+    "char_count": 43
+  },
+  {
+    "id": 3583,
+    "fra": "C’est difficile d'avoir des idées géniales.",
+    "eng": "It's difficult to have great ideas.",
+    "char_count": 43
+  },
+  {
+    "id": 3584,
+    "fra": "Je prends habituellement ma douche le soir.",
+    "eng": "I usually take a shower in the evening.",
+    "char_count": 43
+  },
+  {
+    "id": 3585,
+    "fra": "Je comprends ce que tu es en train de dire.",
+    "eng": "I understand what you're saying.",
+    "char_count": 43
+  },
+  {
+    "id": 3586,
+    "fra": "J'allais sortir quand le téléphone a sonné.",
+    "eng": "I was about to go out when the phone rang.",
+    "char_count": 43
+  },
+  {
+    "id": 3587,
+    "fra": "Ne l'écoute pas, il raconte n'importe quoi.",
+    "eng": "Don't listen to him, he's talking nonsense.",
+    "char_count": 43
+  },
+  {
+    "id": 3588,
+    "fra": "Je ne sais pas s'il l'aurait fait pour moi.",
+    "eng": "I don't know if he would have done it for me.",
+    "char_count": 43
+  },
+  {
+    "id": 3589,
+    "fra": "Je suis allé boire une bière avec des amis.",
+    "eng": "I went to drink a beer with friends.",
+    "char_count": 43
+  },
+  {
+    "id": 3590,
+    "fra": "L'esprit est fort mais la chair est faible.",
+    "eng": "The spirit is willing, but the flesh is weak.",
+    "char_count": 43
+  },
+  {
+    "id": 3591,
+    "fra": "J'ai loué une chambre pour un mois à Paris.",
+    "eng": "I've rented a room in Paris for a month.",
+    "char_count": 43
+  },
+  {
+    "id": 3592,
+    "fra": "J'ai beau y réfléchir, je ne comprends pas.",
+    "eng": "No matter how much I consider it I do not understand.",
+    "char_count": 43
+  },
+  {
+    "id": 3593,
+    "fra": "Je suis indifférent à l'opinion des autres.",
+    "eng": "I am indifferent to others' opinions.",
+    "char_count": 43
+  },
+  {
+    "id": 3594,
+    "fra": "Je l'ai rencontré tout à fait fortuitement.",
+    "eng": "I met him quite unexpectedly.",
+    "char_count": 43
+  },
+  {
+    "id": 3595,
+    "fra": "Je me rappelle qu'une lettre a été envoyée.",
+    "eng": "I remember that a letter is sent.",
+    "char_count": 43
+  },
+  {
+    "id": 3596,
+    "fra": "Je fis un effort pour terminer mon travail.",
+    "eng": "I made an effort to finish my work.",
+    "char_count": 43
+  },
+  {
+    "id": 3597,
+    "fra": "J'ai fait un mauvais rêve la nuit dernière.",
+    "eng": "I had a bad dream last night.",
+    "char_count": 43
+  },
+  {
+    "id": 3598,
+    "fra": "J'ai rencontré un de mes amis à l'aéroport.",
+    "eng": "I met a friend of mine at the airport.",
+    "char_count": 43
+  },
+  {
+    "id": 3599,
+    "fra": "J'ai fait sa connaissance l'année dernière.",
+    "eng": "I got acquainted with him last year.",
+    "char_count": 43
+  },
+  {
+    "id": 3600,
+    "fra": "Je n'ai pas vu de docteur l'année dernière.",
+    "eng": "I didn't see a doctor last year.",
+    "char_count": 43
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1001,
+    "fra": "Mangez ce que vous voulez.",
+    "eng": "Eat whatever food you like.",
+    "char_count": 26
+  },
+  {
+    "id": 1002,
+    "fra": "Après la mort, le docteur.",
+    "eng": "After death, the doctor.",
+    "char_count": 26
+  },
+  {
+    "id": 1003,
+    "fra": "Un tigre est un prédateur.",
+    "eng": "A tiger is a beast of prey.",
+    "char_count": 26
+  },
+  {
+    "id": 1004,
+    "fra": "Chambre simple ou double ?",
+    "eng": "Single or double room?",
+    "char_count": 26
+  },
+  {
+    "id": 1005,
+    "fra": "Pourrais-je avoir la clé ?",
+    "eng": "May I have the key?",
+    "char_count": 26
+  },
+  {
+    "id": 1006,
+    "fra": "Je vais te rendre heureux.",
+    "eng": "I'll make you happy.",
+    "char_count": 26
+  },
+  {
+    "id": 1007,
+    "fra": "Es-tu plus jeune que lui ?",
+    "eng": "Are you younger than him?",
+    "char_count": 26
+  },
+  {
+    "id": 1008,
+    "fra": "Peux-tu monter un cheval ?",
+    "eng": "Can you ride a horse?",
+    "char_count": 26
+  },
+  {
+    "id": 1009,
+    "fra": "As-tu déjà vu ce poisson ?",
+    "eng": "Did you ever see the fish?",
+    "char_count": 26
+  },
+  {
+    "id": 1010,
+    "fra": "J'aimerais des chaussures.",
+    "eng": "I'd like some shoes.",
+    "char_count": 26
+  },
+  {
+    "id": 1011,
+    "fra": "Enseigner c'est apprendre.",
+    "eng": "Teaching is learning.",
+    "char_count": 26
+  },
+  {
+    "id": 1012,
+    "fra": "Comment vous sentez-vous ?",
+    "eng": "How do you feel now?",
+    "char_count": 26
+  },
+  {
+    "id": 1013,
+    "fra": "L'école débute le 8 avril.",
+    "eng": "School begins on April 8.",
+    "char_count": 26
+  },
+  {
+    "id": 1014,
+    "fra": "Un sucre, s'il vous plaît.",
+    "eng": "One lump of sugar, please.",
+    "char_count": 26
+  },
+  {
+    "id": 1015,
+    "fra": "Ne touchez pas les fleurs.",
+    "eng": "Don't touch the flowers.",
+    "char_count": 26
+  },
+  {
+    "id": 1016,
+    "fra": "J'ai pleuré toute la nuit.",
+    "eng": "I cried all night long.",
+    "char_count": 26
+  },
+  {
+    "id": 1017,
+    "fra": "J'ai vu le rivage au loin.",
+    "eng": "I saw land in the distance.",
+    "char_count": 26
+  },
+  {
+    "id": 1018,
+    "fra": "La pluie menace de tomber.",
+    "eng": "It's threatening to rain.",
+    "char_count": 26
+  },
+  {
+    "id": 1019,
+    "fra": "Son anglais est excellent.",
+    "eng": "Her English is excellent.",
+    "char_count": 26
+  },
+  {
+    "id": 1020,
+    "fra": "Je peux venir à 11 heures.",
+    "eng": "Eleven o'clock is good for me.",
+    "char_count": 26
+  },
+  {
+    "id": 1021,
+    "fra": "3 multiplié par 5 égal 15.",
+    "eng": "3 multiplied by 5 is 15.",
+    "char_count": 26
+  },
+  {
+    "id": 1022,
+    "fra": "Mai se trouve après avril.",
+    "eng": "May comes after April.",
+    "char_count": 26
+  },
+  {
+    "id": 1023,
+    "fra": "Oh ! Je connais cet homme.",
+    "eng": "Oh! I know the man.",
+    "char_count": 26
+  },
+  {
+    "id": 1024,
+    "fra": "Oh, oui, je m'en souviens.",
+    "eng": "Oh, yes, I remember.",
+    "char_count": 26
+  },
+  {
+    "id": 1025,
+    "fra": "Noël est dans une semaine.",
+    "eng": "Christmas is a week away.",
+    "char_count": 26
+  },
+  {
+    "id": 1026,
+    "fra": "Je t'appellerai plus tard.",
+    "eng": "I'll call you later.",
+    "char_count": 26
+  },
+  {
+    "id": 1027,
+    "fra": "Si vous y allez, j'y vais.",
+    "eng": "I will go if you come.",
+    "char_count": 26
+  },
+  {
+    "id": 1028,
+    "fra": "J'apprécierais votre aide.",
+    "eng": "I'd appreciate your help.",
+    "char_count": 26
+  },
+  {
+    "id": 1029,
+    "fra": "Vas-tu écrire à ton père ?",
+    "eng": "Are you going to write to your father?",
+    "char_count": 26
+  },
+  {
+    "id": 1030,
+    "fra": "Avez-vous lu cet article ?",
+    "eng": "Have you read this article?",
+    "char_count": 26
+  },
+  {
+    "id": 1031,
+    "fra": "Connaissez-vous M. Brown ?",
+    "eng": "Do you know Mr. Brown?",
+    "char_count": 26
+  },
+  {
+    "id": 1032,
+    "fra": "Es-tu un nouvel étudiant ?",
+    "eng": "Are you a new student?",
+    "char_count": 26
+  },
+  {
+    "id": 1033,
+    "fra": "Croyez-vous aux fantômes ?",
+    "eng": "Do you believe in ghosts?",
+    "char_count": 26
+  },
+  {
+    "id": 1034,
+    "fra": "Aimez-vous aussi le jazz ?",
+    "eng": "Do you also like jazz?",
+    "char_count": 26
+  },
+  {
+    "id": 1035,
+    "fra": "Puis-je manger ce gâteau ?",
+    "eng": "May I eat that cake?",
+    "char_count": 26
+  },
+  {
+    "id": 1036,
+    "fra": "Change de bus à cet arrêt.",
+    "eng": "Change buses at that stop.",
+    "char_count": 26
+  },
+  {
+    "id": 1037,
+    "fra": "Anne est une petite fille.",
+    "eng": "Ann is a little girl.",
+    "char_count": 26
+  },
+  {
+    "id": 1038,
+    "fra": "Voulez-vous vous asseoir ?",
+    "eng": "Do you want to sit down?",
+    "char_count": 26
+  },
+  {
+    "id": 1039,
+    "fra": "Il nage comme une enclume.",
+    "eng": "He cannot swim any more than a hammer can.",
+    "char_count": 26
+  },
+  {
+    "id": 1040,
+    "fra": "Ma femme essaye de dormir.",
+    "eng": "My wife's trying to sleep.",
+    "char_count": 26
+  },
+  {
+    "id": 1041,
+    "fra": "Le verre casse facilement.",
+    "eng": "Glass breaks easily.",
+    "char_count": 26
+  },
+  {
+    "id": 1042,
+    "fra": "Qui aime bien châtie bien.",
+    "eng": "Spare the rod and spoil the child.",
+    "char_count": 26
+  },
+  {
+    "id": 1043,
+    "fra": "Attention aux voleurs ici.",
+    "eng": "Beware of pickpockets here.",
+    "char_count": 26
+  },
+  {
+    "id": 1044,
+    "fra": "Merci de garder ça secret.",
+    "eng": "Please keep this a secret.",
+    "char_count": 26
+  },
+  {
+    "id": 1045,
+    "fra": "Je ne supporte pas ce type.",
+    "eng": "I can't abide that fellow.",
+    "char_count": 27
+  },
+  {
+    "id": 1046,
+    "fra": "Je serai bientôt de retour.",
+    "eng": "I will be back soon.",
+    "char_count": 27
+  },
+  {
+    "id": 1047,
+    "fra": "J'étais dans les montagnes.",
+    "eng": "I was in the mountains.",
+    "char_count": 27
+  },
+  {
+    "id": 1048,
+    "fra": "C'est malheureusement vrai.",
+    "eng": "It is unfortunately true.",
+    "char_count": 27
+  },
+  {
+    "id": 1049,
+    "fra": "Alors il y a un problème...",
+    "eng": "Then there is a problem...",
+    "char_count": 27
+  },
+  {
+    "id": 1050,
+    "fra": "Merci pour ton explication.",
+    "eng": "Thanks for your explanation.",
+    "char_count": 27
+  },
+  {
+    "id": 1051,
+    "fra": "Qu'est-ce qui s'est passé ?",
+    "eng": "What happened?",
+    "char_count": 27
+  },
+  {
+    "id": 1052,
+    "fra": "Les étrangers m'intriguent.",
+    "eng": "Foreign people intrigue me.",
+    "char_count": 27
+  },
+  {
+    "id": 1053,
+    "fra": "L'addition s'il vous plaît.",
+    "eng": "The check, please.",
+    "char_count": 27
+  },
+  {
+    "id": 1054,
+    "fra": "Il joue très bien du piano.",
+    "eng": "He plays the piano very well.",
+    "char_count": 27
+  },
+  {
+    "id": 1055,
+    "fra": "Prends un livre et lis-le !",
+    "eng": "Take a book and read it.",
+    "char_count": 27
+  },
+  {
+    "id": 1056,
+    "fra": "J'ai besoin que tu m'aides.",
+    "eng": "I need your help.",
+    "char_count": 27
+  },
+  {
+    "id": 1057,
+    "fra": "Elle ne veut pas en parler.",
+    "eng": "She doesn't want to talk about it.",
+    "char_count": 27
+  },
+  {
+    "id": 1058,
+    "fra": "J'ai perdu mon inspiration.",
+    "eng": "I lost my inspiration.",
+    "char_count": 27
+  },
+  {
+    "id": 1059,
+    "fra": "Nous avons beaucoup marché.",
+    "eng": "We walked a lot.",
+    "char_count": 27
+  },
+  {
+    "id": 1060,
+    "fra": "Je n'ai pas que ça à faire.",
+    "eng": "I have not only that to do.",
+    "char_count": 27
+  },
+  {
+    "id": 1061,
+    "fra": "Ton secret sera bien gardé.",
+    "eng": "Your secret will be safe with me.",
+    "char_count": 27
+  },
+  {
+    "id": 1062,
+    "fra": "Laquelle est votre valise ?",
+    "eng": "Which is your luggage?",
+    "char_count": 27
+  },
+  {
+    "id": 1063,
+    "fra": "J’ai besoin de ton conseil.",
+    "eng": "I need your advice.",
+    "char_count": 27
+  },
+  {
+    "id": 1064,
+    "fra": "Elle est toute cousue d'or.",
+    "eng": "She's rolling in money.",
+    "char_count": 27
+  },
+  {
+    "id": 1065,
+    "fra": "Je vais prendre ma voiture.",
+    "eng": "I'm going to take my car.",
+    "char_count": 27
+  },
+  {
+    "id": 1066,
+    "fra": "Mieux vaut tard que jamais.",
+    "eng": "Better late than never.",
+    "char_count": 27
+  },
+  {
+    "id": 1067,
+    "fra": "Je ne l'ai pas fait exprès.",
+    "eng": "I didn't mean it.",
+    "char_count": 27
+  },
+  {
+    "id": 1068,
+    "fra": "Nous sommes de même farine.",
+    "eng": "We are cut from the same cloth.",
+    "char_count": 27
+  },
+  {
+    "id": 1069,
+    "fra": "J'ai un chat dans la gorge.",
+    "eng": "I've got a frog in my throat.",
+    "char_count": 27
+  },
+  {
+    "id": 1070,
+    "fra": "Il est venu plusieurs fois.",
+    "eng": "He came several times.",
+    "char_count": 27
+  },
+  {
+    "id": 1071,
+    "fra": "Tu as laissé un pourboire ?",
+    "eng": "Did you leave a tip?",
+    "char_count": 27
+  },
+  {
+    "id": 1072,
+    "fra": "Il faut s'attendre au pire.",
+    "eng": "We have to expect the worst.",
+    "char_count": 27
+  },
+  {
+    "id": 1073,
+    "fra": "Nous n'aimons pas la pluie.",
+    "eng": "We don't like the rain.",
+    "char_count": 27
+  },
+  {
+    "id": 1074,
+    "fra": "Je me promène dans un parc.",
+    "eng": "I'm taking a walk in a park.",
+    "char_count": 27
+  },
+  {
+    "id": 1075,
+    "fra": "Je n'en crois pas mes yeux.",
+    "eng": "I can't believe my eyes.",
+    "char_count": 27
+  },
+  {
+    "id": 1076,
+    "fra": "Je n'ai pas perdu de poids.",
+    "eng": "I haven't lost any weight.",
+    "char_count": 27
+  },
+  {
+    "id": 1077,
+    "fra": "J'ai acheté un nouveau sac.",
+    "eng": "I bought a new bag.",
+    "char_count": 27
+  },
+  {
+    "id": 1078,
+    "fra": "Je n'aime pas le printemps.",
+    "eng": "I do not like spring.",
+    "char_count": 27
+  },
+  {
+    "id": 1079,
+    "fra": "Dois-je écrire une lettre ?",
+    "eng": "Do I have to write a letter?",
+    "char_count": 27
+  },
+  {
+    "id": 1080,
+    "fra": "Je n'aime pas être dérangé.",
+    "eng": "I don't like to be disturbed.",
+    "char_count": 27
+  },
+  {
+    "id": 1081,
+    "fra": "Je vais rarement au cinéma.",
+    "eng": "I rarely go to the movies.",
+    "char_count": 27
+  },
+  {
+    "id": 1082,
+    "fra": "Je dois faire de mon mieux.",
+    "eng": "I gotta try to do my best.",
+    "char_count": 27
+  },
+  {
+    "id": 1083,
+    "fra": "Je suis en train d'étudier.",
+    "eng": "I am studying now.",
+    "char_count": 27
+  },
+  {
+    "id": 1084,
+    "fra": "Je me sens mal aujourd'hui.",
+    "eng": "I feel a little bad today.",
+    "char_count": 27
+  },
+  {
+    "id": 1085,
+    "fra": "J'ai rencontré Ken au parc.",
+    "eng": "I met Ken at the park.",
+    "char_count": 27
+  },
+  {
+    "id": 1086,
+    "fra": "J'ai été blessé à l'épaule.",
+    "eng": "I got hurt in the shoulder.",
+    "char_count": 27
+  },
+  {
+    "id": 1087,
+    "fra": "J'aime vraiment les chiens.",
+    "eng": "I like dogs very much.",
+    "char_count": 27
+  },
+  {
+    "id": 1088,
+    "fra": "Je peux lire sans lunettes.",
+    "eng": "I can read without glasses.",
+    "char_count": 27
+  },
+  {
+    "id": 1089,
+    "fra": "J'aime beaucoup la musique.",
+    "eng": "I like music very much.",
+    "char_count": 27
+  },
+  {
+    "id": 1090,
+    "fra": "J'en ai assez de l'anglais.",
+    "eng": "I'm fed up with English.",
+    "char_count": 27
+  },
+  {
+    "id": 1091,
+    "fra": "J'aime apprendre l'anglais.",
+    "eng": "I like to study English.",
+    "char_count": 27
+  },
+  {
+    "id": 1092,
+    "fra": "J'en ai marre de l'anglais.",
+    "eng": "I'm fed up with English.",
+    "char_count": 27
+  },
+  {
+    "id": 1093,
+    "fra": "J'admets que j'ai mal fait.",
+    "eng": "I admit having done wrong.",
+    "char_count": 27
+  },
+  {
+    "id": 1094,
+    "fra": "J'aimerais aller à Londres.",
+    "eng": "I'd like to go to London.",
+    "char_count": 27
+  },
+  {
+    "id": 1095,
+    "fra": "Je n'écoutais pas la radio.",
+    "eng": "I wasn't listening to the radio.",
+    "char_count": 27
+  },
+  {
+    "id": 1096,
+    "fra": "J'ai un autre ami en Chine.",
+    "eng": "I have another friend in China.",
+    "char_count": 27
+  },
+  {
+    "id": 1097,
+    "fra": "Je vais avoir quatorze ans.",
+    "eng": "I am going to be fourteen.",
+    "char_count": 27
+  },
+  {
+    "id": 1098,
+    "fra": "Je n'ai pas encore déjeuné.",
+    "eng": "I haven't eaten lunch yet.",
+    "char_count": 27
+  },
+  {
+    "id": 1099,
+    "fra": "J'adore les films français.",
+    "eng": "I love French films.",
+    "char_count": 27
+  },
+  {
+    "id": 1100,
+    "fra": "Je ne bois jamais de bière.",
+    "eng": "I never touch beer.",
+    "char_count": 27
+  }
+]

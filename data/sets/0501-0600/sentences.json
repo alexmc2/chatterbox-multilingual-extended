@@ -1,0 +1,602 @@
+[
+  {
+    "id": 501,
+    "fra": "On n'a rien sans rien.",
+    "eng": "No pain, no gain.",
+    "char_count": 22
+  },
+  {
+    "id": 502,
+    "fra": "Je paierai par chèque.",
+    "eng": "I'll pay by cheque.",
+    "char_count": 22
+  },
+  {
+    "id": 503,
+    "fra": "J'ai parlé à des amis.",
+    "eng": "I talked to friends.",
+    "char_count": 22
+  },
+  {
+    "id": 504,
+    "fra": "Tu as beaucoup changé.",
+    "eng": "You changed a lot.",
+    "char_count": 22
+  },
+  {
+    "id": 505,
+    "fra": "Je pensais à l'avenir.",
+    "eng": "I thought about the future.",
+    "char_count": 22
+  },
+  {
+    "id": 506,
+    "fra": "J'ai écrit une lettre.",
+    "eng": "I wrote a letter.",
+    "char_count": 22
+  },
+  {
+    "id": 507,
+    "fra": "Je pense avec ma tête.",
+    "eng": "I think with my head.",
+    "char_count": 22
+  },
+  {
+    "id": 508,
+    "fra": "Mes parents m'adorent.",
+    "eng": "I am loved by my parents.",
+    "char_count": 22
+  },
+  {
+    "id": 509,
+    "fra": "Je cherche du travail.",
+    "eng": "I'm looking for a job.",
+    "char_count": 22
+  },
+  {
+    "id": 510,
+    "fra": "Hier, j'étais heureux.",
+    "eng": "I was happy yesterday.",
+    "char_count": 22
+  },
+  {
+    "id": 511,
+    "fra": "J'ai attrapé un rhume.",
+    "eng": "I have caught a cold.",
+    "char_count": 22
+  },
+  {
+    "id": 512,
+    "fra": "Je veux t'accompagner.",
+    "eng": "I want to go with you.",
+    "char_count": 22
+  },
+  {
+    "id": 513,
+    "fra": "Mon nom est Hashimoto.",
+    "eng": "My name is Hashimoto.",
+    "char_count": 22
+  },
+  {
+    "id": 514,
+    "fra": "Je veux aller à Tokyo.",
+    "eng": "I want to go to Tokyo.",
+    "char_count": 22
+  },
+  {
+    "id": 515,
+    "fra": "J'ai un visa étudiant.",
+    "eng": "I have a student visa.",
+    "char_count": 22
+  },
+  {
+    "id": 516,
+    "fra": "J'ai envie de chanter.",
+    "eng": "I feel like singing.",
+    "char_count": 22
+  },
+  {
+    "id": 517,
+    "fra": "J'ai parlé de musique.",
+    "eng": "I talked about music.",
+    "char_count": 22
+  },
+  {
+    "id": 518,
+    "fra": "J'ai perdu mon crayon.",
+    "eng": "I have lost my pencil.",
+    "char_count": 22
+  },
+  {
+    "id": 519,
+    "fra": "J'aime vraiment nager.",
+    "eng": "I like swimming very much.",
+    "char_count": 22
+  },
+  {
+    "id": 520,
+    "fra": "Je soufflai la bougie.",
+    "eng": "I blew the candle out.",
+    "char_count": 22
+  },
+  {
+    "id": 521,
+    "fra": "J'ai bu tout mon lait.",
+    "eng": "I have drunk all my milk.",
+    "char_count": 22
+  },
+  {
+    "id": 522,
+    "fra": "J'aime la musique pop.",
+    "eng": "I like pop music.",
+    "char_count": 22
+  },
+  {
+    "id": 523,
+    "fra": "J'ai un mauvais rhume.",
+    "eng": "I have a bad cold.",
+    "char_count": 22
+  },
+  {
+    "id": 524,
+    "fra": "J'aime jouer du piano.",
+    "eng": "I like playing the piano.",
+    "char_count": 22
+  },
+  {
+    "id": 525,
+    "fra": "Je l'ai aperçu du bus.",
+    "eng": "I caught a glimpse of him from the bus.",
+    "char_count": 22
+  },
+  {
+    "id": 526,
+    "fra": "Je ne vais nulle part.",
+    "eng": "I am not going anywhere.",
+    "char_count": 22
+  },
+  {
+    "id": 527,
+    "fra": "J'achète une cassette.",
+    "eng": "I buy a tape.",
+    "char_count": 22
+  },
+  {
+    "id": 528,
+    "fra": "Je l'ai étudié à fond.",
+    "eng": "I studied it thoroughly.",
+    "char_count": 22
+  },
+  {
+    "id": 529,
+    "fra": "Je n'y suis pour rien.",
+    "eng": "I have nothing to do with it.",
+    "char_count": 22
+  },
+  {
+    "id": 530,
+    "fra": "J'ai appelé chez Judy.",
+    "eng": "I called at Judy's house.",
+    "char_count": 22
+  },
+  {
+    "id": 531,
+    "fra": "J'y suis souvent allé.",
+    "eng": "I have often been there.",
+    "char_count": 22
+  },
+  {
+    "id": 532,
+    "fra": "Je l'ai battu au golf.",
+    "eng": "I beat him at golf.",
+    "char_count": 22
+  },
+  {
+    "id": 533,
+    "fra": "Je veux lire ce livre.",
+    "eng": "I want to read this book.",
+    "char_count": 22
+  },
+  {
+    "id": 534,
+    "fra": "Je sais où tu habites.",
+    "eng": "I know where you live.",
+    "char_count": 22
+  },
+  {
+    "id": 535,
+    "fra": "Je vis dans un duplex.",
+    "eng": "I live in a two story house.",
+    "char_count": 22
+  },
+  {
+    "id": 536,
+    "fra": "Ma tante paraît jeune.",
+    "eng": "My aunt looks young.",
+    "char_count": 22
+  },
+  {
+    "id": 537,
+    "fra": "Mon frère vit à Tokyo.",
+    "eng": "My brother lives in Tokyo.",
+    "char_count": 22
+  },
+  {
+    "id": 538,
+    "fra": "Ma maison est en bois.",
+    "eng": "My house is built of wood.",
+    "char_count": 22
+  },
+  {
+    "id": 539,
+    "fra": "J'ai un cousin avocat.",
+    "eng": "I have a cousin who is a lawyer.",
+    "char_count": 22
+  },
+  {
+    "id": 540,
+    "fra": "Je n'ai pas de frères.",
+    "eng": "I don't have any brothers.",
+    "char_count": 22
+  },
+  {
+    "id": 541,
+    "fra": "Laisse-moi tranquille.",
+    "eng": "Leave me alone.",
+    "char_count": 22
+  },
+  {
+    "id": 542,
+    "fra": "Savez-vous qui c'est ?",
+    "eng": "Do you know who he is?",
+    "char_count": 22
+  },
+  {
+    "id": 543,
+    "fra": "Il faisait chaud hier.",
+    "eng": "It was hot yesterday.",
+    "char_count": 22
+  },
+  {
+    "id": 544,
+    "fra": "Il faisait froid hier.",
+    "eng": "It was cold yesterday.",
+    "char_count": 22
+  },
+  {
+    "id": 545,
+    "fra": "Sors-tu avec Sachiko ?",
+    "eng": "Are you going out with Sachiko?",
+    "char_count": 22
+  },
+  {
+    "id": 546,
+    "fra": "Partez tout de suite !",
+    "eng": "Go away right now!",
+    "char_count": 22
+  },
+  {
+    "id": 547,
+    "fra": "N'avez-vous pas soif ?",
+    "eng": "Aren't you thirsty?",
+    "char_count": 22
+  },
+  {
+    "id": 548,
+    "fra": "J'ai mauvaise haleine.",
+    "eng": "I have bad breath.",
+    "char_count": 22
+  },
+  {
+    "id": 549,
+    "fra": "Je vais bien, et toi ?",
+    "eng": "I'm fine. How about you?",
+    "char_count": 22
+  },
+  {
+    "id": 550,
+    "fra": "Bien, merci. Et vous ?",
+    "eng": "Fine, thank you. And you?",
+    "char_count": 22
+  },
+  {
+    "id": 551,
+    "fra": "Je l'ai appris de toi.",
+    "eng": "I heard it from you.",
+    "char_count": 22
+  },
+  {
+    "id": 552,
+    "fra": "Enlève tes chaussures.",
+    "eng": "Take off your shoes.",
+    "char_count": 22
+  },
+  {
+    "id": 553,
+    "fra": "Remplissez les blancs.",
+    "eng": "Fill in the blanks.",
+    "char_count": 22
+  },
+  {
+    "id": 554,
+    "fra": "Appelez une ambulance.",
+    "eng": "Call an ambulance.",
+    "char_count": 22
+  },
+  {
+    "id": 555,
+    "fra": "Appelle une ambulance.",
+    "eng": "Call an ambulance.",
+    "char_count": 22
+  },
+  {
+    "id": 556,
+    "fra": "Faites un bon voyage !",
+    "eng": "Enjoy your trip.",
+    "char_count": 22
+  },
+  {
+    "id": 557,
+    "fra": "Bonjour tout le monde.",
+    "eng": "Good morning, everybody.",
+    "char_count": 22
+  },
+  {
+    "id": 558,
+    "fra": "Combien de personnes ?",
+    "eng": "How many people?",
+    "char_count": 22
+  },
+  {
+    "id": 559,
+    "fra": "Ne fais rien à moitié.",
+    "eng": "Don't do anything by halves.",
+    "char_count": 22
+  },
+  {
+    "id": 560,
+    "fra": "N'as-tu rien à faire ?",
+    "eng": "Don't you have anything to do?",
+    "char_count": 22
+  },
+  {
+    "id": 561,
+    "fra": "Montrez-m'en d'autres.",
+    "eng": "Show me some others.",
+    "char_count": 22
+  },
+  {
+    "id": 562,
+    "fra": "Je t'aimerai toujours.",
+    "eng": "I will love you always.",
+    "char_count": 22
+  },
+  {
+    "id": 563,
+    "fra": "Tais-toi murmura-t-il.",
+    "eng": "Shut up, he whispered.",
+    "char_count": 22
+  },
+  {
+    "id": 564,
+    "fra": "Je dois en acheter un.",
+    "eng": "I must buy one.",
+    "char_count": 22
+  },
+  {
+    "id": 565,
+    "fra": "Les deux sont vivants.",
+    "eng": "Both are alive.",
+    "char_count": 22
+  },
+  {
+    "id": 566,
+    "fra": "Croyez-vous aux OVNI ?",
+    "eng": "Do you believe in UFOs?",
+    "char_count": 22
+  },
+  {
+    "id": 567,
+    "fra": "Aimez-vous l'anglais ?",
+    "eng": "Do you like English?",
+    "char_count": 22
+  },
+  {
+    "id": 568,
+    "fra": "Je suis de votre côté.",
+    "eng": "I'm on your side.",
+    "char_count": 22
+  },
+  {
+    "id": 569,
+    "fra": "Ce film était amusant.",
+    "eng": "That movie was amusing.",
+    "char_count": 22
+  },
+  {
+    "id": 570,
+    "fra": "Ne t'oppose pas à lui.",
+    "eng": "You're better off not getting in his way!",
+    "char_count": 22
+  },
+  {
+    "id": 571,
+    "fra": "Anne est pom-pom girl.",
+    "eng": "Ann is a cheerleader.",
+    "char_count": 22
+  },
+  {
+    "id": 572,
+    "fra": "Je viens d'Angleterre.",
+    "eng": "I come from England.",
+    "char_count": 22
+  },
+  {
+    "id": 573,
+    "fra": "N'avez-vous pas faim ?",
+    "eng": "Aren't you hungry?",
+    "char_count": 22
+  },
+  {
+    "id": 574,
+    "fra": "Mon corps me fait mal.",
+    "eng": "I ache all over.",
+    "char_count": 22
+  },
+  {
+    "id": 575,
+    "fra": "Êtes-vous tous prêts ?",
+    "eng": "Are you all ready?",
+    "char_count": 22
+  },
+  {
+    "id": 576,
+    "fra": "Kent est un meneur-né.",
+    "eng": "Kent is a born leader.",
+    "char_count": 22
+  },
+  {
+    "id": 577,
+    "fra": "J'aime mon café léger.",
+    "eng": "I'd like my coffee weak.",
+    "char_count": 22
+  },
+  {
+    "id": 578,
+    "fra": "Sydney est loin d'ici.",
+    "eng": "Sydney is far from here.",
+    "char_count": 22
+  },
+  {
+    "id": 579,
+    "fra": "Ne parle pas fort ici.",
+    "eng": "Don't talk in a loud voice here.",
+    "char_count": 22
+  },
+  {
+    "id": 580,
+    "fra": "Viens ici et aide-moi.",
+    "eng": "Come here and help me.",
+    "char_count": 22
+  },
+  {
+    "id": 581,
+    "fra": "N'en parle pas à papa.",
+    "eng": "Don't tell Father about this.",
+    "char_count": 22
+  },
+  {
+    "id": 582,
+    "fra": "Qu'est-ce que tu fais ?",
+    "eng": "What are you doing?",
+    "char_count": 23
+  },
+  {
+    "id": 583,
+    "fra": "Je ne fais que parler !",
+    "eng": "I'm just saying!",
+    "char_count": 23
+  },
+  {
+    "id": 584,
+    "fra": "Ce n'est pas important.",
+    "eng": "This is not important.",
+    "char_count": 23
+  },
+  {
+    "id": 585,
+    "fra": "T'es vraiment pas bête.",
+    "eng": "You're really not stupid.",
+    "char_count": 23
+  },
+  {
+    "id": 586,
+    "fra": "Je ne peux qu'attendre.",
+    "eng": "I can only wait.",
+    "char_count": 23
+  },
+  {
+    "id": 587,
+    "fra": "Tu m'oublieras un jour.",
+    "eng": "You'll forget about me someday.",
+    "char_count": 23
+  },
+  {
+    "id": 588,
+    "fra": "Ce n'est pas ma faute !",
+    "eng": "It's not my fault!",
+    "char_count": 23
+  },
+  {
+    "id": 589,
+    "fra": "Où peut-on téléphoner ?",
+    "eng": "Where can one make a phone call?",
+    "char_count": 23
+  },
+  {
+    "id": 590,
+    "fra": "Je ne me sens pas bien.",
+    "eng": "I don't feel well.",
+    "char_count": 23
+  },
+  {
+    "id": 591,
+    "fra": "Tu aurais dû m'écouter.",
+    "eng": "You should have listened to me.",
+    "char_count": 23
+  },
+  {
+    "id": 592,
+    "fra": "Qui ne dit mot consent.",
+    "eng": "Silence gives consent.",
+    "char_count": 23
+  },
+  {
+    "id": 593,
+    "fra": "Tu ne lui as rien dit ?",
+    "eng": "You didn't tell him anything?",
+    "char_count": 23
+  },
+  {
+    "id": 594,
+    "fra": "T'avais plein de temps.",
+    "eng": "You had plenty of time.",
+    "char_count": 23
+  },
+  {
+    "id": 595,
+    "fra": "Prends l'autre chaise !",
+    "eng": "Take the other chair!",
+    "char_count": 23
+  },
+  {
+    "id": 596,
+    "fra": "« Merci. » « De rien. »",
+    "eng": "Thank you. \"You're welcome.\"",
+    "char_count": 23
+  },
+  {
+    "id": 597,
+    "fra": "De quel pays viens-tu ?",
+    "eng": "Which country are you from?",
+    "char_count": 23
+  },
+  {
+    "id": 598,
+    "fra": "Où sont les toilettes ?",
+    "eng": "Where is the bathroom?",
+    "char_count": 23
+  },
+  {
+    "id": 599,
+    "fra": "C'est une sale affaire.",
+    "eng": "It's a messy situation.",
+    "char_count": 23
+  },
+  {
+    "id": 600,
+    "fra": "Il ne fait pas son âge.",
+    "eng": "He doesn't look his age.",
+    "char_count": 23
+  }
+]

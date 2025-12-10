@@ -1,0 +1,602 @@
+[
+  {
+    "id": 2101,
+    "fra": "Lui et moi sommes des âmes sœurs.",
+    "eng": "He and I are kindred spirits.",
+    "char_count": 33
+  },
+  {
+    "id": 2102,
+    "fra": "Quant à moi, je préfère celui-ci.",
+    "eng": "For me, I like this better.",
+    "char_count": 33
+  },
+  {
+    "id": 2103,
+    "fra": "Acceptez-vous notre proposition ?",
+    "eng": "Do you agree to our proposal?",
+    "char_count": 33
+  },
+  {
+    "id": 2104,
+    "fra": "Pouvez-vous deviner ce que j'ai ?",
+    "eng": "Can you guess what I have?",
+    "char_count": 33
+  },
+  {
+    "id": 2105,
+    "fra": "Je dois ce que je suis à mon ami.",
+    "eng": "I owe what I am to my friend.",
+    "char_count": 33
+  },
+  {
+    "id": 2106,
+    "fra": "Je pense que c'est un homme bien.",
+    "eng": "I think he is a good man.",
+    "char_count": 33
+  },
+  {
+    "id": 2107,
+    "fra": "Il faisait très froid hier matin.",
+    "eng": "It was very cold yesterday morning.",
+    "char_count": 33
+  },
+  {
+    "id": 2108,
+    "fra": "Passe-moi le sucre s'il te plaît.",
+    "eng": "Pass the sugar, please.",
+    "char_count": 33
+  },
+  {
+    "id": 2109,
+    "fra": "Si nous mangions dehors ce soir ?",
+    "eng": "How about dining out tonight?",
+    "char_count": 33
+  },
+  {
+    "id": 2110,
+    "fra": "J'étais très fatigué aujourd'hui.",
+    "eng": "I was very tired today.",
+    "char_count": 33
+  },
+  {
+    "id": 2111,
+    "fra": "Je n'ai rien à faire aujourd'hui.",
+    "eng": "I have nothing to do today.",
+    "char_count": 33
+  },
+  {
+    "id": 2112,
+    "fra": "Cette salade a un goût de citron.",
+    "eng": "This salad tastes of lemon.",
+    "char_count": 33
+  },
+  {
+    "id": 2113,
+    "fra": "Je suis moins heureux maintenant.",
+    "eng": "I'm not as happy now.",
+    "char_count": 33
+  },
+  {
+    "id": 2114,
+    "fra": "L'action vaut mieux que les mots.",
+    "eng": "Actions speak louder than words.",
+    "char_count": 33
+  },
+  {
+    "id": 2115,
+    "fra": "Une pièce est tombée de sa poche.",
+    "eng": "A coin dropped out of his pocket.",
+    "char_count": 33
+  },
+  {
+    "id": 2116,
+    "fra": "Corrigez les erreurs s'il y en a.",
+    "eng": "Correct errors, if any.",
+    "char_count": 33
+  },
+  {
+    "id": 2117,
+    "fra": "Ne lance pas de caillou au chien.",
+    "eng": "Don't throw a stone at the dog.",
+    "char_count": 33
+  },
+  {
+    "id": 2118,
+    "fra": "Le sang est plus épais que l'eau.",
+    "eng": "Blood is thicker than water.",
+    "char_count": 33
+  },
+  {
+    "id": 2119,
+    "fra": "Il s'enfuit à la vue du policier.",
+    "eng": "He ran away at the sight of a policeman.",
+    "char_count": 33
+  },
+  {
+    "id": 2120,
+    "fra": "Les affaires reprendront bientôt.",
+    "eng": "Business will recover soon.",
+    "char_count": 33
+  },
+  {
+    "id": 2121,
+    "fra": "Es-tu pour ou contre mon projet ?",
+    "eng": "Are you for or against my plan?",
+    "char_count": 33
+  },
+  {
+    "id": 2122,
+    "fra": "Savez-vous qui est Rie Miyazawa ?",
+    "eng": "Do you know who Rie Miyazawa is?",
+    "char_count": 33
+  },
+  {
+    "id": 2123,
+    "fra": "Aimez-vous la musique de Mozart ?",
+    "eng": "Do you like Mozart's music?",
+    "char_count": 33
+  },
+  {
+    "id": 2124,
+    "fra": "Avez-vous enregistré ce concert ?",
+    "eng": "Did you tape that concert?",
+    "char_count": 33
+  },
+  {
+    "id": 2125,
+    "fra": "Es-tu pour ou contre notre plan ?",
+    "eng": "Are you for or against the plan?",
+    "char_count": 33
+  },
+  {
+    "id": 2126,
+    "fra": "L'air est indispensable à la vie.",
+    "eng": "Air is indispensable to life.",
+    "char_count": 33
+  },
+  {
+    "id": 2127,
+    "fra": "Je préfère être pauvre que riche.",
+    "eng": "I prefer being poor to being rich.",
+    "char_count": 33
+  },
+  {
+    "id": 2128,
+    "fra": "Je n'ai pas bien dormi récemment.",
+    "eng": "I haven't slept well recently.",
+    "char_count": 33
+  },
+  {
+    "id": 2129,
+    "fra": "J'étais trop étonnée pour parler.",
+    "eng": "I was too astonished to speak.",
+    "char_count": 33
+  },
+  {
+    "id": 2130,
+    "fra": "L'éducation commence à la maison.",
+    "eng": "Education starts at home.",
+    "char_count": 33
+  },
+  {
+    "id": 2131,
+    "fra": "Un vent fort commença à souffler.",
+    "eng": "A strong wind began to set in.",
+    "char_count": 33
+  },
+  {
+    "id": 2132,
+    "fra": "J'ai perdu ma femme l'an dernier.",
+    "eng": "I lost my wife last year.",
+    "char_count": 33
+  },
+  {
+    "id": 2133,
+    "fra": "Avez-vous passé un bon week-end ?",
+    "eng": "Did you have a good weekend?",
+    "char_count": 33
+  },
+  {
+    "id": 2134,
+    "fra": "Ne soyez pas en retard à l'école.",
+    "eng": "Don't be late for school.",
+    "char_count": 33
+  },
+  {
+    "id": 2135,
+    "fra": "Il est l'heure d'aller à l'école.",
+    "eng": "It's time to go to school.",
+    "char_count": 33
+  },
+  {
+    "id": 2136,
+    "fra": "Avez-vous déjà été à l'étranger ?",
+    "eng": "Have you been abroad?",
+    "char_count": 33
+  },
+  {
+    "id": 2137,
+    "fra": "Pourriez-vous le laisser sortir ?",
+    "eng": "Could you let him out?",
+    "char_count": 33
+  },
+  {
+    "id": 2138,
+    "fra": "J'aime parler du bon vieux temps.",
+    "eng": "I like to talk about the good old days.",
+    "char_count": 33
+  },
+  {
+    "id": 2139,
+    "fra": "Quelques bateaux sont sur le lac.",
+    "eng": "Some boats are on the lake.",
+    "char_count": 33
+  },
+  {
+    "id": 2140,
+    "fra": "J'ai réussi à trouver son bureau.",
+    "eng": "I managed to find his office.",
+    "char_count": 33
+  },
+  {
+    "id": 2141,
+    "fra": "Donnez-moi quelque chose à faire.",
+    "eng": "Give me something to do.",
+    "char_count": 33
+  },
+  {
+    "id": 2142,
+    "fra": "Ne faites pas de bruit. J'étudie.",
+    "eng": "Don't make any noise, I'm studying.",
+    "char_count": 33
+  },
+  {
+    "id": 2143,
+    "fra": "C'est toi que j'aimerai toujours.",
+    "eng": "You're the one I'll always love.",
+    "char_count": 33
+  },
+  {
+    "id": 2144,
+    "fra": "J'ai pris un taxi devant la gare.",
+    "eng": "I got a taxi in front of the station.",
+    "char_count": 33
+  },
+  {
+    "id": 2145,
+    "fra": "Un Américain m'a parlé à la gare.",
+    "eng": "An American spoke to me at the station.",
+    "char_count": 33
+  },
+  {
+    "id": 2146,
+    "fra": "L'anglais est dur, n'est-ce pas ?",
+    "eng": "English is difficult, isn't it?",
+    "char_count": 33
+  },
+  {
+    "id": 2147,
+    "fra": "L'anglais est un langage mondial.",
+    "eng": "English is a global language.",
+    "char_count": 33
+  },
+  {
+    "id": 2148,
+    "fra": "L'anglais est facile à apprendre.",
+    "eng": "English is easy to learn.",
+    "char_count": 33
+  },
+  {
+    "id": 2149,
+    "fra": "As-tu un livre écrit en anglais ?",
+    "eng": "Do you have a book written in English?",
+    "char_count": 33
+  },
+  {
+    "id": 2150,
+    "fra": "Un nuage passe à travers la lune.",
+    "eng": "A cloud passed across the moon.",
+    "char_count": 33
+  },
+  {
+    "id": 2151,
+    "fra": "Ses yeux étaient noyés de larmes.",
+    "eng": "His eyes were full of tears.",
+    "char_count": 33
+  },
+  {
+    "id": 2152,
+    "fra": "Puis-je vous poser une question ?",
+    "eng": "May I ask you a question?",
+    "char_count": 33
+  },
+  {
+    "id": 2153,
+    "fra": "Un mile fait environ 1600 mètres.",
+    "eng": "A mile is equal to about 1,600 meters.",
+    "char_count": 33
+  },
+  {
+    "id": 2154,
+    "fra": "Il sera de retour dans une heure.",
+    "eng": "He will be back in an hour.",
+    "char_count": 33
+  },
+  {
+    "id": 2155,
+    "fra": "Je vous rappelle dans la semaine.",
+    "eng": "I'll call you within a week.",
+    "char_count": 33
+  },
+  {
+    "id": 2156,
+    "fra": "Aha, tu l'as fait, n'est-ce pas ?",
+    "eng": "Aha, you did it, didn't you?",
+    "char_count": 33
+  },
+  {
+    "id": 2157,
+    "fra": "Il se trouve qu'elle est absente.",
+    "eng": "As it happens, she is absent.",
+    "char_count": 33
+  },
+  {
+    "id": 2158,
+    "fra": "Einstein adorait jouer du violon.",
+    "eng": "Einstein loved playing the violin.",
+    "char_count": 33
+  },
+  {
+    "id": 2159,
+    "fra": "L'un de nous deux devra le faire.",
+    "eng": "Either you or I will have to do it.",
+    "char_count": 33
+  },
+  {
+    "id": 2160,
+    "fra": "Je suis assez d'accord avec vous.",
+    "eng": "I quite agree with you.",
+    "char_count": 33
+  },
+  {
+    "id": 2161,
+    "fra": "J'aimerais que tu lises ce livre.",
+    "eng": "I'd like you to read this book.",
+    "char_count": 33
+  },
+  {
+    "id": 2162,
+    "fra": "J'attends impatiemment ta lettre.",
+    "eng": "I am looking forward to your letter.",
+    "char_count": 33
+  },
+  {
+    "id": 2163,
+    "fra": "Pouvez-vous traverser à la nage ?",
+    "eng": "Can you swim across?",
+    "char_count": 33
+  },
+  {
+    "id": 2164,
+    "fra": "As-tu un dictionnaire d'anglais ?",
+    "eng": "Do you have an English dictionary?",
+    "char_count": 33
+  },
+  {
+    "id": 2165,
+    "fra": "Je crois que tu aimes ton métier.",
+    "eng": "I believe you like your job.",
+    "char_count": 33
+  },
+  {
+    "id": 2166,
+    "fra": "J'aimerais t'inviter à la soirée.",
+    "eng": "I'd like to invite you to the party.",
+    "char_count": 33
+  },
+  {
+    "id": 2167,
+    "fra": "Ce vélo appartient à notre école.",
+    "eng": "That bicycle belongs to our school.",
+    "char_count": 33
+  },
+  {
+    "id": 2168,
+    "fra": "Je ne sais pas qui est cet homme.",
+    "eng": "I don't know who that man is.",
+    "char_count": 33
+  },
+  {
+    "id": 2169,
+    "fra": "Ce livre vaut la peine d'être lu.",
+    "eng": "That book is worth reading.",
+    "char_count": 33
+  },
+  {
+    "id": 2170,
+    "fra": "Assure-toi de ne pas trop manger.",
+    "eng": "Be sure not to eat too much.",
+    "char_count": 33
+  },
+  {
+    "id": 2171,
+    "fra": "Les États-Unis bordent le Canada.",
+    "eng": "The United States borders Canada.",
+    "char_count": 33
+  },
+  {
+    "id": 2172,
+    "fra": "Alice glissa sur la longue pente.",
+    "eng": "Alice slid down the long slide.",
+    "char_count": 33
+  },
+  {
+    "id": 2173,
+    "fra": "Anne fit le récit de son évasion.",
+    "eng": "Ann gave an account of how she had escaped.",
+    "char_count": 33
+  },
+  {
+    "id": 2174,
+    "fra": "Est-ce que quelqu'un vous croit ?",
+    "eng": "Can anyone believe you?",
+    "char_count": 33
+  },
+  {
+    "id": 2175,
+    "fra": "Je pense que c'est mal de mentir.",
+    "eng": "I think it's wrong to tell a lie.",
+    "char_count": 33
+  },
+  {
+    "id": 2176,
+    "fra": "Notre réfrigérateur est en panne.",
+    "eng": "Our refrigerator is out of order.",
+    "char_count": 33
+  },
+  {
+    "id": 2177,
+    "fra": "Edward est plus jeune que Robert.",
+    "eng": "Edward is junior to Robert.",
+    "char_count": 33
+  },
+  {
+    "id": 2178,
+    "fra": "Ottawa est la capitale du Canada.",
+    "eng": "Ottawa is the capital of Canada.",
+    "char_count": 33
+  },
+  {
+    "id": 2179,
+    "fra": "Prenez-en autant que vous voulez.",
+    "eng": "Take as much as you like.",
+    "char_count": 33
+  },
+  {
+    "id": 2180,
+    "fra": "Comment chauffez-vous la maison ?",
+    "eng": "How do you heat the house?",
+    "char_count": 33
+  },
+  {
+    "id": 2181,
+    "fra": "N'utilise pas toute l'eau chaude.",
+    "eng": "Don't use all the hot water.",
+    "char_count": 33
+  },
+  {
+    "id": 2182,
+    "fra": "C'est l'heure de prendre un bain.",
+    "eng": "It's time to take a bath.",
+    "char_count": 33
+  },
+  {
+    "id": 2183,
+    "fra": "Puis-je vous demander votre nom ?",
+    "eng": "Might I ask your name?",
+    "char_count": 33
+  },
+  {
+    "id": 2184,
+    "fra": "À l'époque ils vivaient à Nagoya.",
+    "eng": "At one time they lived in Nagoya.",
+    "char_count": 33
+  },
+  {
+    "id": 2185,
+    "fra": "Hier, j'ai rencontré tes parents.",
+    "eng": "I met your parents yesterday.",
+    "char_count": 33
+  },
+  {
+    "id": 2186,
+    "fra": "Allez-vous souvent à l'étranger ?",
+    "eng": "Do you often travel abroad?",
+    "char_count": 33
+  },
+  {
+    "id": 2187,
+    "fra": "Arrête de paresser et bouge-toi !",
+    "eng": "Quit lazing around and get moving!",
+    "char_count": 33
+  },
+  {
+    "id": 2188,
+    "fra": "Mme Crouch, avez-vous un emploi ?",
+    "eng": "Mrs. Crouch, do you have a job?",
+    "char_count": 33
+  },
+  {
+    "id": 2189,
+    "fra": "Mlle. Green m'a appris l'anglais.",
+    "eng": "Miss Green taught me English.",
+    "char_count": 33
+  },
+  {
+    "id": 2190,
+    "fra": "Grace arborait un regard indigné.",
+    "eng": "Grace wore an indignant look.",
+    "char_count": 33
+  },
+  {
+    "id": 2191,
+    "fra": "Ken parle comme s'il savait tout.",
+    "eng": "Ken talks as if he knew everything.",
+    "char_count": 33
+  },
+  {
+    "id": 2192,
+    "fra": "Que diriez-vous de plus de café ?",
+    "eng": "How about some more coffee?",
+    "char_count": 33
+  },
+  {
+    "id": 2193,
+    "fra": "Voici quelques lettres pour vous.",
+    "eng": "Here are some letters for you.",
+    "char_count": 33
+  },
+  {
+    "id": 2194,
+    "fra": "Voici ton chien. Où est le mien ?",
+    "eng": "Here is your dog. Where is mine?",
+    "char_count": 33
+  },
+  {
+    "id": 2195,
+    "fra": "Voici un panier plein de légumes.",
+    "eng": "Here is a basket full of vegetables.",
+    "char_count": 33
+  },
+  {
+    "id": 2196,
+    "fra": "Un nuage est une masse de vapeur.",
+    "eng": "A cloud is a mass of vapor.",
+    "char_count": 33
+  },
+  {
+    "id": 2197,
+    "fra": "On peut toujours trouver du temps.",
+    "eng": "One can always find time.",
+    "char_count": 34
+  },
+  {
+    "id": 2198,
+    "fra": "Je n'aurais pas dû me déconnecter.",
+    "eng": "I shouldn't have logged off.",
+    "char_count": 34
+  },
+  {
+    "id": 2199,
+    "fra": "Supporter peut être insupportable.",
+    "eng": "Bearing can be unbearable.",
+    "char_count": 34
+  },
+  {
+    "id": 2200,
+    "fra": "Arrête ! Tu la mets mal à l'aise !",
+    "eng": "Stop it! You're making her feel uncomfortable!",
+    "char_count": 34
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": 401,
+    "fra": "N'ai-je pas raison ?",
+    "eng": "Am I not right?",
+    "char_count": 20
+  },
+  {
+    "id": 402,
+    "fra": "Devrais-je t'aider ?",
+    "eng": "Shall I help you?",
+    "char_count": 20
+  },
+  {
+    "id": 403,
+    "fra": "Comment va ta mère ?",
+    "eng": "How is your mother?",
+    "char_count": 20
+  },
+  {
+    "id": 404,
+    "fra": "Il fait assez froid.",
+    "eng": "It's pretty cold.",
+    "char_count": 20
+  },
+  {
+    "id": 405,
+    "fra": "J'ai une toux sèche.",
+    "eng": "I have a dry cough.",
+    "char_count": 20
+  },
+  {
+    "id": 406,
+    "fra": "Kate élève un chien.",
+    "eng": "Kate keeps a dog.",
+    "char_count": 20
+  },
+  {
+    "id": 407,
+    "fra": "Ken baissa les bras.",
+    "eng": "Ken laid down his arms.",
+    "char_count": 20
+  },
+  {
+    "id": 408,
+    "fra": "Qu'est-ce que c'est ?",
+    "eng": "What is it?",
+    "char_count": 21
+  },
+  {
+    "id": 409,
+    "fra": "Je vais le descendre.",
+    "eng": "I'm gonna shoot him.",
+    "char_count": 21
+  },
+  {
+    "id": 410,
+    "fra": "Je dois aller au lit.",
+    "eng": "I have to go to bed.",
+    "char_count": 21
+  },
+  {
+    "id": 411,
+    "fra": "Je déteste la chimie.",
+    "eng": "I hate chemistry.",
+    "char_count": 21
+  },
+  {
+    "id": 412,
+    "fra": "Demain, il va alunir.",
+    "eng": "Tomorrow, he will land on the moon.",
+    "char_count": 21
+  },
+  {
+    "id": 413,
+    "fra": "C’est un jeu de mots.",
+    "eng": "This is a pun.",
+    "char_count": 21
+  },
+  {
+    "id": 414,
+    "fra": "L'archer tua le cerf.",
+    "eng": "The archer killed the deer.",
+    "char_count": 21
+  },
+  {
+    "id": 415,
+    "fra": "Ça me plaît beaucoup.",
+    "eng": "I like it very much.",
+    "char_count": 21
+  },
+  {
+    "id": 416,
+    "fra": "Quelle heure est-il ?",
+    "eng": "What time is it?",
+    "char_count": 21
+  },
+  {
+    "id": 417,
+    "fra": "Où sont les douches ?",
+    "eng": "Where are the showers?",
+    "char_count": 21
+  },
+  {
+    "id": 418,
+    "fra": "C'est la pure vérité.",
+    "eng": "That's the absolute truth.",
+    "char_count": 21
+  },
+  {
+    "id": 419,
+    "fra": "J'adore les lasagnes.",
+    "eng": "I love lasagna.",
+    "char_count": 21
+  },
+  {
+    "id": 420,
+    "fra": "Je ne le connais pas.",
+    "eng": "I don't know him.",
+    "char_count": 21
+  },
+  {
+    "id": 421,
+    "fra": "Il n'y a aucun doute.",
+    "eng": "There's no doubt.",
+    "char_count": 21
+  },
+  {
+    "id": 422,
+    "fra": "J'ai mangé du caviar.",
+    "eng": "I ate caviar.",
+    "char_count": 21
+  },
+  {
+    "id": 423,
+    "fra": "J'ai réussi à entrer.",
+    "eng": "I managed to get in.",
+    "char_count": 21
+  },
+  {
+    "id": 424,
+    "fra": "Je connais la vérité.",
+    "eng": "I know the truth.",
+    "char_count": 21
+  },
+  {
+    "id": 425,
+    "fra": "J'ai un peu d'argent.",
+    "eng": "I have a little money.",
+    "char_count": 21
+  },
+  {
+    "id": 426,
+    "fra": "J'adore les voitures.",
+    "eng": "I am fond of cars.",
+    "char_count": 21
+  },
+  {
+    "id": 427,
+    "fra": "On m'a volé mon vélo.",
+    "eng": "I had my bicycle stolen.",
+    "char_count": 21
+  },
+  {
+    "id": 428,
+    "fra": "Je sens avec mon nez.",
+    "eng": "I smell with my nose.",
+    "char_count": 21
+  },
+  {
+    "id": 429,
+    "fra": "J'ai pris froid hier.",
+    "eng": "I caught a cold yesterday.",
+    "char_count": 21
+  },
+  {
+    "id": 430,
+    "fra": "Hier, j'étais malade.",
+    "eng": "I was ill yesterday.",
+    "char_count": 21
+  },
+  {
+    "id": 431,
+    "fra": "J'ai dû y aller hier.",
+    "eng": "I had to go there yesterday.",
+    "char_count": 21
+  },
+  {
+    "id": 432,
+    "fra": "J'ai peur des chiens.",
+    "eng": "I am afraid of dogs.",
+    "char_count": 21
+  },
+  {
+    "id": 433,
+    "fra": "J'aime votre voiture.",
+    "eng": "I like your car.",
+    "char_count": 21
+  },
+  {
+    "id": 434,
+    "fra": "Je tremblais de peur.",
+    "eng": "I was trembling with fear.",
+    "char_count": 21
+  },
+  {
+    "id": 435,
+    "fra": "Je n'ai peur de rien.",
+    "eng": "I am not frightened of anything.",
+    "char_count": 21
+  },
+  {
+    "id": 436,
+    "fra": "J'enseigne l'anglais.",
+    "eng": "I teach English.",
+    "char_count": 21
+  },
+  {
+    "id": 437,
+    "fra": "J'ai eu de la chance.",
+    "eng": "I was lucky.",
+    "char_count": 21
+  },
+  {
+    "id": 438,
+    "fra": "J’ai éteint la radio.",
+    "eng": "I turned off the radio.",
+    "char_count": 21
+  },
+  {
+    "id": 439,
+    "fra": "Je ne le verrai plus.",
+    "eng": "I will not see him any more.",
+    "char_count": 21
+  },
+  {
+    "id": 440,
+    "fra": "Je connais ce garçon.",
+    "eng": "I know the boy.",
+    "char_count": 21
+  },
+  {
+    "id": 441,
+    "fra": "Il regardait l'image.",
+    "eng": "He looked at the picture.",
+    "char_count": 21
+  },
+  {
+    "id": 442,
+    "fra": "Je cherchais la clef.",
+    "eng": "I looked for the key.",
+    "char_count": 21
+  },
+  {
+    "id": 443,
+    "fra": "Je veux voir le film.",
+    "eng": "I want to see the movie.",
+    "char_count": 21
+  },
+  {
+    "id": 444,
+    "fra": "Je finis mes devoirs.",
+    "eng": "I'm finishing my homework.",
+    "char_count": 21
+  },
+  {
+    "id": 445,
+    "fra": "Je suis étranger ici.",
+    "eng": "I am a stranger here.",
+    "char_count": 21
+  },
+  {
+    "id": 446,
+    "fra": "J'aime votre cravate.",
+    "eng": "I like that tie of yours.",
+    "char_count": 21
+  },
+  {
+    "id": 447,
+    "fra": "Ma mère adore le thé.",
+    "eng": "My mother likes tea very much.",
+    "char_count": 21
+  },
+  {
+    "id": 448,
+    "fra": "Mon père est médecin.",
+    "eng": "My father is a doctor.",
+    "char_count": 21
+  },
+  {
+    "id": 449,
+    "fra": "Mon travail est fini.",
+    "eng": "My work is finished.",
+    "char_count": 21
+  },
+  {
+    "id": 450,
+    "fra": "Ma valise est cassée.",
+    "eng": "My suitcase is broken.",
+    "char_count": 21
+  },
+  {
+    "id": 451,
+    "fra": "Ma maison est grande.",
+    "eng": "My house is big.",
+    "char_count": 21
+  },
+  {
+    "id": 452,
+    "fra": "Notre école a 80 ans.",
+    "eng": "Our school is 80 years old.",
+    "char_count": 21
+  },
+  {
+    "id": 453,
+    "fra": "Fais comme je te dis.",
+    "eng": "Do as I tell you.",
+    "char_count": 21
+  },
+  {
+    "id": 454,
+    "fra": "Espérons le meilleur.",
+    "eng": "Let's hope for the best.",
+    "char_count": 21
+  },
+  {
+    "id": 455,
+    "fra": "Es-tu libre ce soir ?",
+    "eng": "Are you free tonight?",
+    "char_count": 21
+  },
+  {
+    "id": 456,
+    "fra": "Fais ce que tu aimes.",
+    "eng": "Do what you like.",
+    "char_count": 21
+  },
+  {
+    "id": 457,
+    "fra": "Corrigez des erreurs.",
+    "eng": "Correct errors.",
+    "char_count": 21
+  },
+  {
+    "id": 458,
+    "fra": "C'est un vieux piano.",
+    "eng": "It's an old piano.",
+    "char_count": 21
+  },
+  {
+    "id": 459,
+    "fra": "Kenji joue au tennis.",
+    "eng": "Kenji plays tennis.",
+    "char_count": 21
+  },
+  {
+    "id": 460,
+    "fra": "La santé, c'est tout.",
+    "eng": "Health means everything.",
+    "char_count": 21
+  },
+  {
+    "id": 461,
+    "fra": "N'es-tu pas fatigué ?",
+    "eng": "Are you not tired?",
+    "char_count": 21
+  },
+  {
+    "id": 462,
+    "fra": "Parlez-vous anglais ?",
+    "eng": "Do you speak English?",
+    "char_count": 21
+  },
+  {
+    "id": 463,
+    "fra": "Ne change pas d'avis.",
+    "eng": "Don't change your mind.",
+    "char_count": 21
+  },
+  {
+    "id": 464,
+    "fra": "Je ne sais quoi dire.",
+    "eng": "I don't know what to say.",
+    "char_count": 21
+  },
+  {
+    "id": 465,
+    "fra": "Je ne sais que faire.",
+    "eng": "I don't know what to do.",
+    "char_count": 21
+  },
+  {
+    "id": 466,
+    "fra": "Le devoir avant tout.",
+    "eng": "Duty should come before anything else.",
+    "char_count": 21
+  },
+  {
+    "id": 467,
+    "fra": "Qu'elle chante bien !",
+    "eng": "How well she is singing!",
+    "char_count": 21
+  },
+  {
+    "id": 468,
+    "fra": "Parfois, tout va mal.",
+    "eng": "Sometimes everything goes wrong.",
+    "char_count": 21
+  },
+  {
+    "id": 469,
+    "fra": "C'est un enfant gâté.",
+    "eng": "He is a spoiled child.",
+    "char_count": 21
+  },
+  {
+    "id": 470,
+    "fra": "Crois-tu aux OVNIs  ?",
+    "eng": "Do you believe in UFOs?",
+    "char_count": 21
+  },
+  {
+    "id": 471,
+    "fra": "Aimez-vous le piano ?",
+    "eng": "Do you like the piano?",
+    "char_count": 21
+  },
+  {
+    "id": 472,
+    "fra": "Les connaissez-vous ?",
+    "eng": "Do you know them?",
+    "char_count": 21
+  },
+  {
+    "id": 473,
+    "fra": "Croyez-vous en Dieu ?",
+    "eng": "Do you believe in God?",
+    "char_count": 21
+  },
+  {
+    "id": 474,
+    "fra": "Je reste à cet hôtel.",
+    "eng": "I'm staying at that hotel.",
+    "char_count": 21
+  },
+  {
+    "id": 475,
+    "fra": "Regarde cette maison.",
+    "eng": "Look at that house.",
+    "char_count": 21
+  },
+  {
+    "id": 476,
+    "fra": "Cette fleur sent bon.",
+    "eng": "This flower smells nice.",
+    "char_count": 21
+  },
+  {
+    "id": 477,
+    "fra": "Quel âge a ce chien ?",
+    "eng": "How old is that dog?",
+    "char_count": 21
+  },
+  {
+    "id": 478,
+    "fra": "Une idée m'est venue.",
+    "eng": "An idea occurred to me.",
+    "char_count": 21
+  },
+  {
+    "id": 479,
+    "fra": "Anne tardait à venir.",
+    "eng": "Ann was long coming.",
+    "char_count": 21
+  },
+  {
+    "id": 480,
+    "fra": "As-tu des écouteurs ?",
+    "eng": "Do you have earphones?",
+    "char_count": 21
+  },
+  {
+    "id": 481,
+    "fra": "Les prix sont élevés.",
+    "eng": "Prices are high.",
+    "char_count": 21
+  },
+  {
+    "id": 482,
+    "fra": "Entrez, je vous prie.",
+    "eng": "Come right in.",
+    "char_count": 21
+  },
+  {
+    "id": 483,
+    "fra": "Il dort profondément.",
+    "eng": "He's sound asleep.",
+    "char_count": 21
+  },
+  {
+    "id": 484,
+    "fra": "Sortez d'ici et vite.",
+    "eng": "Get out of here, and quickly.",
+    "char_count": 21
+  },
+  {
+    "id": 485,
+    "fra": "As-tu vu un sac ici ?",
+    "eng": "Did you see a bag here?",
+    "char_count": 21
+  },
+  {
+    "id": 486,
+    "fra": "J'ai souvent été ici.",
+    "eng": "I have often been here.",
+    "char_count": 21
+  },
+  {
+    "id": 487,
+    "fra": "Ça ne va jamais finir.",
+    "eng": "This is never going to end.",
+    "char_count": 22
+  },
+  {
+    "id": 488,
+    "fra": "Est-ce que tu es sûr ?",
+    "eng": "Are you sure?",
+    "char_count": 22
+  },
+  {
+    "id": 489,
+    "fra": "Ça ne me surprend pas.",
+    "eng": "It doesn't surprise me.",
+    "char_count": 22
+  },
+  {
+    "id": 490,
+    "fra": "Ça dépend du contexte.",
+    "eng": "It depends on the context.",
+    "char_count": 22
+  },
+  {
+    "id": 491,
+    "fra": "Pourquoi demandes-tu ?",
+    "eng": "Why do you ask?",
+    "char_count": 22
+  },
+  {
+    "id": 492,
+    "fra": "C’est une bonne idée !",
+    "eng": "That's a good idea!",
+    "char_count": 22
+  },
+  {
+    "id": 493,
+    "fra": "C'est assez inattendu.",
+    "eng": "That is rather unexpected.",
+    "char_count": 22
+  },
+  {
+    "id": 494,
+    "fra": "Il est déjà 11 heures.",
+    "eng": "It is already eleven.",
+    "char_count": 22
+  },
+  {
+    "id": 495,
+    "fra": "Ce n'est pas mon type.",
+    "eng": "This is not my type.",
+    "char_count": 22
+  },
+  {
+    "id": 496,
+    "fra": "Vouloir c'est pouvoir.",
+    "eng": "Where there's a will, there's a way.",
+    "char_count": 22
+  },
+  {
+    "id": 497,
+    "fra": "J'ai pris ma décision.",
+    "eng": "I made my decision.",
+    "char_count": 22
+  },
+  {
+    "id": 498,
+    "fra": "Je te donne ma parole.",
+    "eng": "I give you my word.",
+    "char_count": 22
+  },
+  {
+    "id": 499,
+    "fra": "La justice coûte cher.",
+    "eng": "Justice is expensive.",
+    "char_count": 22
+  },
+  {
+    "id": 500,
+    "fra": "Je n'aime pas l'école.",
+    "eng": "I don't like school.",
+    "char_count": 22
+  }
+]

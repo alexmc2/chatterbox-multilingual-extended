@@ -1,0 +1,602 @@
+[
+  {
+    "id": 5701,
+    "fra": "Ferme les volets et tire les rideaux. Il faut qu'il y ait le moins de lumière possible.",
+    "eng": "Close the shutters and draw the curtains. There must be as little light as possible.",
+    "char_count": 87
+  },
+  {
+    "id": 5702,
+    "fra": "Les enfants aiment faire un plouf dans l'eau lorsqu'ils glissent sur un toboggan à eau.",
+    "eng": "Children enjoy making a splash in the water as they come off a waterslide.",
+    "char_count": 87
+  },
+  {
+    "id": 5703,
+    "fra": "Juste parce qu'un homme est riche, il ne s'ensuit pas nécessairement qu'il est heureux.",
+    "eng": "Just because a man is rich it does not necessarily follow that he is happy.",
+    "char_count": 87
+  },
+  {
+    "id": 5704,
+    "fra": "Je suis sûr que je l'ai rencontré quelque part, mais je ne me rappelle plus qui il est.",
+    "eng": "I am sure I met him somewhere, but I do not remember who he is.",
+    "char_count": 87
+  },
+  {
+    "id": 5705,
+    "fra": "Il était la dernière personne que je m'attendais à voir pendant mon séjour en Amérique.",
+    "eng": "He was the last person I had expected to see during my stay in America.",
+    "char_count": 87
+  },
+  {
+    "id": 5706,
+    "fra": "Aucun écolier ne se plaint jamais d'avoir \"mal au lobe frontal de l'hémisphère gauche\" !",
+    "eng": "No student has ever complained of pains in the front lobe of the left side of the brain.",
+    "char_count": 88
+  },
+  {
+    "id": 5707,
+    "fra": "La question clé n'est pas qu'est-ce que je peux gagner mais qu'est-ce que j'ai à perdre.",
+    "eng": "The key question is not what can I gain but what do I have to lose.",
+    "char_count": 88
+  },
+  {
+    "id": 5708,
+    "fra": "Ma mère préfère la sélection arbitraire des machines de loterie à mes chiffres fétiches.",
+    "eng": "My mother prefers the arbitrary selection of the lottery machines over my lucky numbers.",
+    "char_count": 88
+  },
+  {
+    "id": 5709,
+    "fra": "Si seulement on arrêtait d'essayer d'être heureux on pourrait passer un très bon moment.",
+    "eng": "If only we'd stop trying to be happy we could have a pretty good time.",
+    "char_count": 88
+  },
+  {
+    "id": 5710,
+    "fra": "Le réel problème n'est pas de savoir si les machines pensent mais si les hommes le font.",
+    "eng": "The real problem is not whether machines think but whether men do.",
+    "char_count": 88
+  },
+  {
+    "id": 5711,
+    "fra": "Si vous prenez soin des petites choses, les grandes choses prendront soin d'elles-mêmes.",
+    "eng": "If you take care of the small things, the big things will take care of themselves.",
+    "char_count": 88
+  },
+  {
+    "id": 5712,
+    "fra": "Chaque fois que je vois Mary, j'apprends d'elle quelque chose de nouveau et d'important.",
+    "eng": "Each time I see Mary, I learn something new and important from her.",
+    "char_count": 88
+  },
+  {
+    "id": 5713,
+    "fra": "De même que nous avons besoin d'air frais, de même les poissons ont besoin d'eau propre.",
+    "eng": "As we need fresh air, so fish need clean water.",
+    "char_count": 88
+  },
+  {
+    "id": 5714,
+    "fra": "La nuit dernière, j'étais tellement fatigué que je me suis endormi avec la télé allumée.",
+    "eng": "Last night, I was so tired that I fell asleep with the TV on.",
+    "char_count": 88
+  },
+  {
+    "id": 5715,
+    "fra": "Retrouvez-moi dans le vestibule de l'hôtel Impérial à six heures trente de l'après-midi.",
+    "eng": "Meet me at the lobby of the Imperial Hotel at 6:30 p.m.",
+    "char_count": 88
+  },
+  {
+    "id": 5716,
+    "fra": "D'un point de vue strictement scientifique, l'histoire ne peut être appelée une science.",
+    "eng": "From a strictly scientific point of view, history cannot be called a science.",
+    "char_count": 88
+  },
+  {
+    "id": 5717,
+    "fra": "Le cycle d'une entreprise est une succession de périodes de prospérité et de dépression.",
+    "eng": "A business cycle is a recurring succession of periods of prosperity and periods of depression.",
+    "char_count": 88
+  },
+  {
+    "id": 5718,
+    "fra": "Une république est une nation dirigée non par un roi ou une reine mais par un président.",
+    "eng": "A republic is a nation whose head is not a king or queen, but a president.",
+    "char_count": 88
+  },
+  {
+    "id": 5719,
+    "fra": "J'ai réussi à attraper le train de 8h en courant tout au long du chemin jusqu'à la gare.",
+    "eng": "I managed to catch the 8 o'clock train by running all the way to the station.",
+    "char_count": 88
+  },
+  {
+    "id": 5720,
+    "fra": "Constatant qu'il est déjà 8 heures, je pense que tu devrais partir bientôt pour l'école.",
+    "eng": "Seeing that it is 8 o'clock, I think you should leave for school soon.",
+    "char_count": 88
+  },
+  {
+    "id": 5721,
+    "fra": "Je suis trop bête... J'essaie de t'expliquer des choses que je ne comprends pas moi-même.",
+    "eng": "I'm so dumb... I'm trying to explain things to you that I don't understand myself.",
+    "char_count": 89
+  },
+  {
+    "id": 5722,
+    "fra": "Je ne peux pas réfléchir avec ce bruit, dit-elle, en fixant des yeux la machine à écrire.",
+    "eng": "I can't think with that noise, she said, as she stared at the typewriter.",
+    "char_count": 89
+  },
+  {
+    "id": 5723,
+    "fra": "J'ai entendu dire qu'un magasin de barbe à papa vient juste d'ouvrir. Allons-y, les mecs.",
+    "eng": "I heard a cotton candy shop has just opened. Let's go, dudes.",
+    "char_count": 89
+  },
+  {
+    "id": 5724,
+    "fra": "Je me suis convaincu que les règles strictes de mes parents étaient pour mon propre bien.",
+    "eng": "I got it through my head that my parent's strict rules were for my own benefit.",
+    "char_count": 89
+  },
+  {
+    "id": 5725,
+    "fra": "Les bandes dessinées actuelles comportent beaucoup trop de scènes violentes et sexuelles.",
+    "eng": "Recent comics have too many violent and sexual scenes.",
+    "char_count": 89
+  },
+  {
+    "id": 5726,
+    "fra": "Personnellement, je pense que cela ne fait aucune différence, quiconque gagne l'élection.",
+    "eng": "Personally, I don't think it makes any difference who wins the election.",
+    "char_count": 89
+  },
+  {
+    "id": 5727,
+    "fra": "« Pas de bonnes nouvelles dans le journal d'aujourd'hui ? » « Non, rien de particulier. »",
+    "eng": "Any good news in today's paper? \"No, nothing in particular.\"",
+    "char_count": 89
+  },
+  {
+    "id": 5728,
+    "fra": "En janvier les exportations ont totalisé 10 milliards de dollars, un record pour le mois.",
+    "eng": "Exports in January totalled $10 billion, a record for the month.",
+    "char_count": 89
+  },
+  {
+    "id": 5729,
+    "fra": "Combien de temps s'est-il passé depuis que vous avez cessé d'enseigner dans cette école ?",
+    "eng": "How long has it been since you gave up teaching at that school?",
+    "char_count": 89
+  },
+  {
+    "id": 5730,
+    "fra": "Lorsqu'il a demandé qui avait cassé la fenêtre, tous les garçons ont pris un air innocent.",
+    "eng": "When he asked who had broken the window, all the boys put on an air of innocence.",
+    "char_count": 90
+  },
+  {
+    "id": 5731,
+    "fra": "Je suis une personne qui a des défauts, mais ces défauts peuvent être facilement corrigés.",
+    "eng": "I am a flawed person, but these are flaws that can easily be fixed.",
+    "char_count": 90
+  },
+  {
+    "id": 5732,
+    "fra": "Si je voulais te faire peur, je te raconterais ce dont j'ai rêvé il y a quelques semaines.",
+    "eng": "If I wanted to scare you, I would tell you what I dreamt about a few weeks ago.",
+    "char_count": 90
+  },
+  {
+    "id": 5733,
+    "fra": "Tu pourrais au moins essayer d'être un peu plus poli, même si ce n'est pas dans ta nature.",
+    "eng": "You could at least try to be a bit more polite, even though it's not like you.",
+    "char_count": 90
+  },
+  {
+    "id": 5734,
+    "fra": "« Qu'est-ce qu'il se passe dans la grotte ? Je suis curieux. » « Je n'en ai aucune idée. »",
+    "eng": "What's going on in the cave? I'm curious. \"I have no idea.\"",
+    "char_count": 90
+  },
+  {
+    "id": 5735,
+    "fra": "Quand on commence à ressembler à la photo de son passeport, on devrait partir en vacances.",
+    "eng": "When you're beginning to look like the photo in your passport, you should go on a holiday.",
+    "char_count": 90
+  },
+  {
+    "id": 5736,
+    "fra": "Un petit feu de forêt peut facilement se répandre et rapidement devenir un grand incendie.",
+    "eng": "A small forest fire can easily spread and quickly become a great conflagration.",
+    "char_count": 90
+  },
+  {
+    "id": 5737,
+    "fra": "L'ennui est le sentiment que tout est une perte de temps ; la sérénité, que rien ne l'est.",
+    "eng": "Boredom is the feeling that everything is a waste of time; serenity, that nothing is.",
+    "char_count": 90
+  },
+  {
+    "id": 5738,
+    "fra": "Si vous pensez que l'éducation coûte cher, attendez de voir ce que l'ignorance vous coûte.",
+    "eng": "If you think education is expensive, wait till you see what ignorance costs you.",
+    "char_count": 90
+  },
+  {
+    "id": 5739,
+    "fra": "C'est dommage qu'on ne puisse pas acheter des miracles comme on achète des pommes de terre.",
+    "eng": "It's a pity that you can't buy miracles like you would buy potatoes.",
+    "char_count": 91
+  },
+  {
+    "id": 5740,
+    "fra": "Quand on envoie un télégramme, la brièveté est essentielle car on est facturé à chaque mot.",
+    "eng": "When you send a telegram, brevity is essential because you will be charged for every word.",
+    "char_count": 91
+  },
+  {
+    "id": 5741,
+    "fra": "Évite d’ouvrir la fenêtre, je n'ai pas trop envie de sentir de courants d’air dans mon dos.",
+    "eng": "Avoid opening the window; I have no great desire to feel air currents on my back.",
+    "char_count": 91
+  },
+  {
+    "id": 5742,
+    "fra": "Le problème avec beaucoup de choses sont les idées préconçues que nous avons à leur sujet !",
+    "eng": "The problem with many things is the pre-conceived ideas we have about them!",
+    "char_count": 91
+  },
+  {
+    "id": 5743,
+    "fra": "En général, on en sait peu sur les équations différentielles non linéaires du second ordre.",
+    "eng": "In general, little is known about nonlinear second order differential equations.",
+    "char_count": 91
+  },
+  {
+    "id": 5744,
+    "fra": "Je prends des leçons de ballet depuis l'âge de trois ans et j'espère devenir une ballerine.",
+    "eng": "I have been taking ballet lessons since I was three and hope to be a ballerina.",
+    "char_count": 91
+  },
+  {
+    "id": 5745,
+    "fra": "C'était réellement prévenant à vous de me prêter 500 dollars quand j'avais des difficultés.",
+    "eng": "It was really considerate of you to lend me $500 when I was in difficulties.",
+    "char_count": 91
+  },
+  {
+    "id": 5746,
+    "fra": "Les enfants ont besoin de beaucoup de choses, mais par-dessus tout, ils ont besoin d'amour.",
+    "eng": "Children need many things, but above all they need love.",
+    "char_count": 91
+  },
+  {
+    "id": 5747,
+    "fra": "Je suis occupé par mon travail, mais j'ai trouvé un appartement au loyer vraiment pas cher.",
+    "eng": "My job keeps me busy. But my new apartment is cheap.",
+    "char_count": 91
+  },
+  {
+    "id": 5748,
+    "fra": "J'ai essayé toute la matinée de joindre monsieur Jones, mais sa ligne est toujours occupée.",
+    "eng": "I have been trying all morning to get in touch with Mr Jones, but his line is always busy.",
+    "char_count": 91
+  },
+  {
+    "id": 5749,
+    "fra": "De la part de mes camarades de classe, laissez-moi vous dire quelques mots de remerciement.",
+    "eng": "On behalf of my classmates, let me say a few words of thanks to you.",
+    "char_count": 91
+  },
+  {
+    "id": 5750,
+    "fra": "Pensez-vous qu'ils franchiront la barrière des dix secondes dans l'épreuve du cent mètres ?",
+    "eng": "Do you think they'll break the 10-second barrier in the 100-meter dash?",
+    "char_count": 91
+  },
+  {
+    "id": 5751,
+    "fra": "Je prends des risques, mais je pense que si nous faisons ça, nous ferons une énorme erreur.",
+    "eng": "At the risk of sticking my neck out, I think that if we do that, we're making a big, big mistake.",
+    "char_count": 91
+  },
+  {
+    "id": 5752,
+    "fra": "C'est une tâche difficile, choisir ce qui est « bon » ou « mauvais », mais il faut le faire.",
+    "eng": "It is a difficult task, choosing what is \"right\" or \"wrong\", but you have to do it.",
+    "char_count": 92
+  },
+  {
+    "id": 5753,
+    "fra": "J'ai trouvé une solution, mais je l'ai trouvée tellement vite que ça peut pas être la bonne.",
+    "eng": "I found a solution, but I found it so fast that it can't be the right solution.",
+    "char_count": 92
+  },
+  {
+    "id": 5754,
+    "fra": "Ça fait si longtemps depuis la dernière fois que je suis allée à Disneyland avec ma famille.",
+    "eng": "It has been so long since I last went to Disneyland with my family.",
+    "char_count": 92
+  },
+  {
+    "id": 5755,
+    "fra": "La plupart des avancées scientifiques ne sont rien d'autre que la découverte d'une évidence.",
+    "eng": "Most scientific breakthroughs are nothing else than the discovery of the obvious.",
+    "char_count": 92
+  },
+  {
+    "id": 5756,
+    "fra": "Mes amis disent que je suis un écrivain prolifique, mais je n’ai rien écrit depuis des mois.",
+    "eng": "My friends say I'm a prolific writer, but I haven't written anything for months.",
+    "char_count": 92
+  },
+  {
+    "id": 5757,
+    "fra": "Est-il nécessaire d'élargir la connaissance de l'Homme à travers l'exploration de l'espace ?",
+    "eng": "Is it necessary to expand human knowledge with space exploration?",
+    "char_count": 92
+  },
+  {
+    "id": 5758,
+    "fra": "Avez-vous des difficultés à comprendre ce que vous disent les femmes ou les petits enfants ?",
+    "eng": "Do you have difficulty understanding what women or small children say to you?",
+    "char_count": 92
+  },
+  {
+    "id": 5759,
+    "fra": "Je n'avais pas besoin d'arroser les fleurs. Juste après avoir fini, il s'est mis à pleuvoir.",
+    "eng": "I need not have watered the flowers. Just after I finished it started raining.",
+    "char_count": 92
+  },
+  {
+    "id": 5760,
+    "fra": "Je n'aurais jamais pensé qu'il y ait là un tel endroit tranquille dans cette ville bruyante.",
+    "eng": "I never dreamed of there being such a quiet place in this noisy city.",
+    "char_count": 92
+  },
+  {
+    "id": 5761,
+    "fra": "Je ne peux me résoudre à lui dire qu'il n'y a aucun espoir pour qu'on lui attribue le poste.",
+    "eng": "I can't bring myself to tell him that there is no hope of his being given the position.",
+    "char_count": 92
+  },
+  {
+    "id": 5762,
+    "fra": "Selon une étude récente, la durée de vie moyenne des Japonais est en constante augmentation.",
+    "eng": "According to a recent study, the average life span of the Japanese is still increasing.",
+    "char_count": 92
+  },
+  {
+    "id": 5763,
+    "fra": "Il se peut que je sois antisocial, mais ça ne veut pas dire pas que je ne parle pas aux gens.",
+    "eng": "I may be antisocial, but it doesn't mean I don't talk to people.",
+    "char_count": 93
+  },
+  {
+    "id": 5764,
+    "fra": "Il y aura toujours des choses que je n'apprendrai jamais, je n'ai pas l'éternité devant moi !",
+    "eng": "There will always be things I will never learn, I don't have eternity before me!",
+    "char_count": 93
+  },
+  {
+    "id": 5765,
+    "fra": "Mes parents n'arrêtent pas de se disputer sur des choses stupides. C'est tellement énervant !",
+    "eng": "My parents keep arguing about stupid things. It's so annoying!",
+    "char_count": 93
+  },
+  {
+    "id": 5766,
+    "fra": "Les mathématiciens sont des poètes, sauf qu'ils doivent démontrer ce que leur fantaisie crée.",
+    "eng": "Mathematicians are poets, except that they have to prove what their fantasy creates.",
+    "char_count": 93
+  },
+  {
+    "id": 5767,
+    "fra": "Il en avait assez d'être sans cesse diffamé par des gens qui étaient jaloux de ses capacités.",
+    "eng": "He was sick of being vilified all the time by people who were jealous of his ability.",
+    "char_count": 93
+  },
+  {
+    "id": 5768,
+    "fra": "C'est très frustrant d'essayer de retrouver ses lunettes quand on ne voit rien sans lunettes.",
+    "eng": "It's very frustrating to try to find your glasses when you can't see anything without glasses.",
+    "char_count": 93
+  },
+  {
+    "id": 5769,
+    "fra": "Faites cuire les pommes de terre pelées et coupées en morceaux 20 minutes à l’eau bouillante.",
+    "eng": "Cook the peeled and chopped potatoes for 20 minutes in boiling water.",
+    "char_count": 93
+  },
+  {
+    "id": 5770,
+    "fra": "La mort n'est qu'un horizon ; et un horizon n'est rien si ce n'est la limite de notre vision.",
+    "eng": "Death is only a horizon, and a horizon is nothing save the limit of our sight.",
+    "char_count": 93
+  },
+  {
+    "id": 5771,
+    "fra": "Pour celui qui n'a qu'un marteau dans sa trousse à outils, tout problème ressemble à un clou.",
+    "eng": "To the man who only has a hammer in the toolkit, every problem looks like a nail.",
+    "char_count": 93
+  },
+  {
+    "id": 5772,
+    "fra": "Le meilleur moyen de prendre un train à l'heure, c'est de s'arranger pour rater le précédent.",
+    "eng": "The best way to catch a train on time is to make sure to miss the one that precedes it.",
+    "char_count": 93
+  },
+  {
+    "id": 5773,
+    "fra": "J'aimerais envoyer une carte de félicitations à Madonna pour la naissance de sa petite fille.",
+    "eng": "I'd like to send a congratulations card to Madonna for the birth of her baby girl.",
+    "char_count": 93
+  },
+  {
+    "id": 5774,
+    "fra": "Alex décrirait correctement l'objet et sa couleur, même s'il ne l'avait jamais vu auparavant.",
+    "eng": "Alex would correctly describe the object and color, even if he had never seen that object before.",
+    "char_count": 93
+  },
+  {
+    "id": 5775,
+    "fra": "Trop énervant... J'peux même plus utiliser un ordinateur sans avoir mal à la tête maintenant !",
+    "eng": "So annoying... Now I get a headache whenever I use the computer!",
+    "char_count": 94
+  },
+  {
+    "id": 5776,
+    "fra": "Ma sœur aura étudié l'anglais durant dix ans quand elle obtiendra son diplôme de l'université.",
+    "eng": "My sister will have been studying English for ten years when she graduates from her college.",
+    "char_count": 94
+  },
+  {
+    "id": 5777,
+    "fra": "J'aime cette peinture, non pas parce que c'est un chef-d'œuvre mais parce qu'elle a du charme.",
+    "eng": "I like this picture, not because it is a masterpiece, but because it has charm.",
+    "char_count": 94
+  },
+  {
+    "id": 5778,
+    "fra": "À partir de l'aéroport, le Skyliner de la Keisei vous conduira à la gare d'Ueno en 75 minutes.",
+    "eng": "From the airport, the Keisei Line Sky-Liner will take you to Ueno Station in 75 minutes.",
+    "char_count": 94
+  },
+  {
+    "id": 5779,
+    "fra": "Pendant les vacances ma sœur et moi sommes restées dans un petit village au pied du mont Fuji.",
+    "eng": "During the vacation my sister and I stayed at a small village at the foot of Mt. Fuji.",
+    "char_count": 94
+  },
+  {
+    "id": 5780,
+    "fra": "Un reporter est en train d'interviewer Docteur Patterson à propos de Koko, un gorille parlant.",
+    "eng": "A reporter is interviewing Dr. Patterson about Koko, a talking gorilla.",
+    "char_count": 94
+  },
+  {
+    "id": 5781,
+    "fra": "Cela m'est égal de vous prêter de l'argent pourvu que vous me le rendiez avant la fin du mois.",
+    "eng": "I don't mind lending you the money provided you pay it back within a month.",
+    "char_count": 94
+  },
+  {
+    "id": 5782,
+    "fra": "C'est difficile d'entretenir une conversation avec quelqu'un qui ne dit que « oui » et « non ».",
+    "eng": "It is difficult to keep up a conversation with someone who only says \"yes\" and \"no\".",
+    "char_count": 95
+  },
+  {
+    "id": 5783,
+    "fra": "La plupart des gens ont une grande réticence à sortir de leurs lits tôt, même s'ils le doivent.",
+    "eng": "Most people have a great disinclination to get out of bed early, even if they have to.",
+    "char_count": 95
+  },
+  {
+    "id": 5784,
+    "fra": "Jimmy essaya de persuader ses parents de le laisser traverser le pays en voiture avec ses amis.",
+    "eng": "Jimmy tried to cajole his parents into letting him drive across the country with his friends.",
+    "char_count": 95
+  },
+  {
+    "id": 5785,
+    "fra": "Son ton sévère et sa voix forte masquaient sa sensibilité intérieure et sa nature attentionnée.",
+    "eng": "His stern tone and loud voice belied his inner sensitivity and caring nature.",
+    "char_count": 95
+  },
+  {
+    "id": 5786,
+    "fra": "Les étudiants trouvent souvent très difficile de comprendre une conférence en langue étrangère.",
+    "eng": "Students often find it very difficult to understand a lecture in a foreign language.",
+    "char_count": 95
+  },
+  {
+    "id": 5787,
+    "fra": "La politique monétaire aux États-Unis a été caractérisée par un crédit faible pendant des mois.",
+    "eng": "Monetary policy in United States has been characterized by tight credit over the months.",
+    "char_count": 95
+  },
+  {
+    "id": 5788,
+    "fra": "Il faut de la sagesse pour comprendre la sagesse : la musique n'est rien si le public est sourd.",
+    "eng": "It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.",
+    "char_count": 96
+  },
+  {
+    "id": 5789,
+    "fra": "Tous les sujets du roi, craignant son courroux, se comportaient souvent de manière très servile.",
+    "eng": "All the king's subjects, fearing his wrath, often acted quite servile.",
+    "char_count": 96
+  },
+  {
+    "id": 5790,
+    "fra": "L'article de journal décrivait l'accusé comme un coupable, bien qu'il avait été prouvé innocent.",
+    "eng": "The news article painted the defendant as a guilty man, even though he had been proven innocent.",
+    "char_count": 96
+  },
+  {
+    "id": 5791,
+    "fra": "Il y a des choses dans ce monde qui ne peuvent simplement pas être exprimées sous forme de mots.",
+    "eng": "There are things in this world which simply cannot be expressed in the form of words.",
+    "char_count": 96
+  },
+  {
+    "id": 5792,
+    "fra": "Tant qu'il y a des nations souveraines détentrices d'un grand pouvoir, la guerre est inévitable.",
+    "eng": "As long as there are sovereign nations possessing great power, war is inevitable.",
+    "char_count": 96
+  },
+  {
+    "id": 5793,
+    "fra": "Je n'étais pas encore né qu'une guerre éclata entre le Japon et les États-Unis en décembre 1941.",
+    "eng": "I was not yet born when a war between Japan and the U.S. broke out in December 1941.",
+    "char_count": 96
+  },
+  {
+    "id": 5794,
+    "fra": "« Maman, est-ce que je peux manger un biscuit ? » « Non. Il ne faut pas manger entre les repas. »",
+    "eng": "Mom, please can I have a biscuit? \"No, you can't; you shouldn't eat between meals.\"",
+    "char_count": 97
+  },
+  {
+    "id": 5795,
+    "fra": "Je pense que c'est bien que les livres existent encore, mais ils me donnent bien envie de dormir.",
+    "eng": "I think it is good that books still exist, but they do make me sleepy.",
+    "char_count": 97
+  },
+  {
+    "id": 5796,
+    "fra": "La logique est une méthode systématique pour arriver à la mauvaise conclusion en toute confiance.",
+    "eng": "Logic is a systematic method of coming to the wrong conclusion with confidence.",
+    "char_count": 97
+  },
+  {
+    "id": 5797,
+    "fra": "Non seulement ma fille mais certains de ses camarades de classe disent qu'ils virent le criminel.",
+    "eng": "Not only my daughter but some of her classmates say that they saw the criminal.",
+    "char_count": 97
+  },
+  {
+    "id": 5798,
+    "fra": "Je venais de terminer mon repas quand mon ami m'a téléphoné pour m'inviter à aller manger dehors.",
+    "eng": "I had hardly finished my meal when my friend phoned me and invited me out for dinner.",
+    "char_count": 97
+  },
+  {
+    "id": 5799,
+    "fra": "Au début plusieurs choses semblaient différentes, mais je me suis vite habitué à ma nouvelle vie.",
+    "eng": "At first many things seemed different, but I soon got involved in my new life.",
+    "char_count": 97
+  },
+  {
+    "id": 5800,
+    "fra": "Le mariage, dans la paix, c'est le paradis sur terre ; dans la lutte, c'est la vie au purgatoire.",
+    "eng": "Marriage, in peace, is this world's paradise; in strife, this life's purgatory.",
+    "char_count": 97
+  }
+]

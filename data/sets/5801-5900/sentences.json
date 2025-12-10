@@ -1,0 +1,602 @@
+[
+  {
+    "id": 5801,
+    "fra": "Dans beaucoup de couples en Amérique, les deux conjoints travaillent pour joindre les deux bouts.",
+    "eng": "Many couples in America both work to make ends meet.",
+    "char_count": 97
+  },
+  {
+    "id": 5802,
+    "fra": "La démocratie est la pire forme de gouvernement, mis à part toutes les autres que l'on a essayées.",
+    "eng": "Democracy is the worst form of government, except all the others that have been tried.",
+    "char_count": 98
+  },
+  {
+    "id": 5803,
+    "fra": "Si vous ne comprenez pas quelque chose, c'est parce que vous n'êtes pas conscient de son contexte.",
+    "eng": "If you don't understand something, it's because you aren't aware of its context.",
+    "char_count": 98
+  },
+  {
+    "id": 5804,
+    "fra": "Sarah était assez perspicace pour se rendre compte que ses amis essayaient de lui faire une farce.",
+    "eng": "Sarah was discerning enough to realize that her friends were trying to prank her.",
+    "char_count": 98
+  },
+  {
+    "id": 5805,
+    "fra": "Les gens sont assez souvent sceptiques sur les choses sauf si on leur fournit une preuve crédible.",
+    "eng": "People are often quite skeptical about things unless given believable proof.",
+    "char_count": 98
+  },
+  {
+    "id": 5806,
+    "fra": "J'aime toujours pas Cavalieri, Tonelli et Fubini... et demain j'ai déjà mon examen oral d'analyse.",
+    "eng": "I still don't like Cavalieri, Tonelli, or Fubini... and my oral calculus exam is already tomorrow.",
+    "char_count": 98
+  },
+  {
+    "id": 5807,
+    "fra": "Est-ce que tu savais que les hommes qui prennent régulièrement la pilule ne tombent pas enceints ?",
+    "eng": "Did you know that men who regularly take the birth control pill don't get pregnant?",
+    "char_count": 98
+  },
+  {
+    "id": 5808,
+    "fra": "Amnistie internationale organise souvent des manifestations en soutien aux prisonniers politiques.",
+    "eng": "Amnesty International often organizes public protests in support of political prisoners.",
+    "char_count": 98
+  },
+  {
+    "id": 5809,
+    "fra": "Les sorties de secours doivent être laissées libres de toutes entraves pour la sécurité du public.",
+    "eng": "Emergency exits must be kept free of blockages for public safety.",
+    "char_count": 98
+  },
+  {
+    "id": 5810,
+    "fra": "Un comptable enregistre toutes les rentrées et toutes les dépenses de l'entreprise chaque semaine.",
+    "eng": "A bookkeeper computes all the company's income and expenses each week.",
+    "char_count": 98
+  },
+  {
+    "id": 5811,
+    "fra": "Je déteste ces araignées, elles sont toujours là pour me ficher la trouille quand j'fais le ménage.",
+    "eng": "I hate those spiders. They're always there to freak me out when I'm cleaning.",
+    "char_count": 99
+  },
+  {
+    "id": 5812,
+    "fra": "La plupart des écoles ont été conçues non pas pour transformer la société, mais pour la reproduire.",
+    "eng": "Most schools were designed not to transform society, but to reproduce it.",
+    "char_count": 99
+  },
+  {
+    "id": 5813,
+    "fra": "Un fin lecteur devrait être disposé à considérer tout ce qu'il lit, y compris les sources anonymes.",
+    "eng": "An astute reader should be willing to weigh everything they read, including anonymous sources.",
+    "char_count": 99
+  },
+  {
+    "id": 5814,
+    "fra": "La prolifération de l'utilisation d'Internet a donné naissance à une nouvelle génération de jeunes.",
+    "eng": "The proliferation of Internet usage has given birth to a new generation of young people.",
+    "char_count": 99
+  },
+  {
+    "id": 5815,
+    "fra": "Un étranger, derrière moi, me tapa sur l'épaule. Je suis sûr qu'il m'a pris pour quelqu'un d'autre.",
+    "eng": "A stranger tapped me on the shoulder from behind. He took me for some other person, I'm sure.",
+    "char_count": 99
+  },
+  {
+    "id": 5816,
+    "fra": "Nous devons apprendre à vivre ensemble comme des frères, ou nous périrons ensemble comme des idiots.",
+    "eng": "We must learn to live together as brothers, or we will perish together as fools.",
+    "char_count": 100
+  },
+  {
+    "id": 5817,
+    "fra": "Ceux qui seront sélectionnés devront faire face à de considérables tests médicaux et psychologiques.",
+    "eng": "Those selected will have to face extensive medical and psychological tests.",
+    "char_count": 100
+  },
+  {
+    "id": 5818,
+    "fra": "Dans un dictionnaire comme celui-ci il devrait y avoir au moins deux phrases avec « réfrigérateur ».",
+    "eng": "In a dictionary like this one there should be at least two sentences with \"fridge\".",
+    "char_count": 100
+  },
+  {
+    "id": 5819,
+    "fra": "Même les gens qui ne croient pas en l'église catholique vénèrent le Pape comme un leader symbolique.",
+    "eng": "Even people who don't believe in the Catholic church venerate the Pope as a symbolic leader.",
+    "char_count": 100
+  },
+  {
+    "id": 5820,
+    "fra": "Les idées de Freud sur le comportement humain l'ont amené à être honoré en tant que profond penseur.",
+    "eng": "Freud's insights into human behavior led to him being honored as a profound thinker.",
+    "char_count": 100
+  },
+  {
+    "id": 5821,
+    "fra": "Parfois, les joueurs de hockey se provoquent tellement les uns les autres que des bagarres éclatent.",
+    "eng": "Sometimes hockey players get so competitive that fights break out.",
+    "char_count": 100
+  },
+  {
+    "id": 5822,
+    "fra": "Les données suggèrent que la durée optimale d’un cours magistral serait de 30 au lieu de 60 minutes.",
+    "eng": "The data suggest that the optimum length of a lecture may be 30 instead of 60 minutes.",
+    "char_count": 100
+  },
+  {
+    "id": 5823,
+    "fra": "Plus de gens se mettent dans le pétrin pour les choses qu'ils disent plutôt que pour ce qu'ils font.",
+    "eng": "More people get into trouble for things they say rather than for what they do.",
+    "char_count": 100
+  },
+  {
+    "id": 5824,
+    "fra": "Je suppose que derrière chaque chose que l'on doit faire, il y a quelque chose que l'on veut faire...",
+    "eng": "I suppose that behind each thing we have to do, there's something we want to do...",
+    "char_count": 101
+  },
+  {
+    "id": 5825,
+    "fra": "On ne peut que connaître le passé, pas le changer. On ne peut que changer le futur, pas le connaître.",
+    "eng": "The past can only be known, not changed. The future can only be changed, not known.",
+    "char_count": 101
+  },
+  {
+    "id": 5826,
+    "fra": "En théorie, il n'y a pas de différence entre la théorie et la pratique. Mais, en pratique, il y en a.",
+    "eng": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+    "char_count": 101
+  },
+  {
+    "id": 5827,
+    "fra": "La formation et le mouvement des ouragans sont capricieux, même avec notre technologie contemporaine.",
+    "eng": "The formation and movement of hurricanes are capricious, even with our present-day technology.",
+    "char_count": 101
+  },
+  {
+    "id": 5828,
+    "fra": "« Que veulent dire les initiales O.V.N.I. ? » « Cela signifie Objet Volant Non-Identifié, je crois. »",
+    "eng": "What does U.F.O. stand for? \"It means Unidentified Flying Object, I guess.\"",
+    "char_count": 101
+  },
+  {
+    "id": 5829,
+    "fra": "Madame Green, de qui mes enfants reçoivent des leçons de chant, tiendra un récital dimanche prochain.",
+    "eng": "Mrs. Green, from whom my children have lessons in singing, is to have a recital next Sunday.",
+    "char_count": 101
+  },
+  {
+    "id": 5830,
+    "fra": "C'est presque difficile de croire que toutes ces choses ont été faites à la main il y a si longtemps.",
+    "eng": "It's almost hard to believe all these beautiful things were made by hand such a long time ago.",
+    "char_count": 101
+  },
+  {
+    "id": 5831,
+    "fra": "Si le monde n'était pas dans l'état où il est maintenant, je pourrais faire confiance à n'importe qui.",
+    "eng": "If the world weren't in the shape it is now, I could trust anyone.",
+    "char_count": 102
+  },
+  {
+    "id": 5832,
+    "fra": "Chaque fois que je rejoins une partie de Warcraft, je suis opposé à une nouvelle équipe d'adversaires.",
+    "eng": "Every time I join a new game of Warcraft, I am pitted against a new team of adversaries.",
+    "char_count": 102
+  },
+  {
+    "id": 5833,
+    "fra": "Un énorme déficit dans le budget fédéral empoisonne l'économie américaine depuis de nombreuses années.",
+    "eng": "A huge federal budget deficit has been plaguing the American economy for many years.",
+    "char_count": 102
+  },
+  {
+    "id": 5834,
+    "fra": "Je pensais que ce serait une bonne idée de reprendre contact avec la culture et l'histoire japonaises.",
+    "eng": "I thought it would be a good idea to get back in touch with Japanese culture and history.",
+    "char_count": 102
+  },
+  {
+    "id": 5835,
+    "fra": "Je ne supporte pas la théorie selon laquelle on doit étudier le latin pour mieux comprendre l'anglais.",
+    "eng": "I do not support the theory that one has to study Latin in order to understand English better.",
+    "char_count": 102
+  },
+  {
+    "id": 5836,
+    "fra": "Il y a des gens dans le monde si affamés que Dieu ne peut pas leur apparaître, sauf sous forme de pain.",
+    "eng": "There are people in the world so hungry, that God cannot appear to them except in the form of bread.",
+    "char_count": 103
+  },
+  {
+    "id": 5837,
+    "fra": "Le proviseur réprouvait sévèrement les élèves chaque fois qu'ils mettaient le désordre dans le couloir.",
+    "eng": "The principal severely reproved the students whenever they made a mess in the hallway.",
+    "char_count": 103
+  },
+  {
+    "id": 5838,
+    "fra": "Quelques-uns de mes camarades de classe aiment le volley-ball tandis que d'autres apprécient le tennis.",
+    "eng": "Some of my classmates like volleyball and the others enjoy tennis.",
+    "char_count": 103
+  },
+  {
+    "id": 5839,
+    "fra": "D'ici la fin du siècle, la terre aura fait l'expérience d'une alarmante augmentation de la température.",
+    "eng": "By the end of the century, the earth will have experienced a dramatic increase in temperature.",
+    "char_count": 103
+  },
+  {
+    "id": 5840,
+    "fra": "Seulement en interdisant les armes nucléaires, tous ensemble, nous pouvons arrêter la course aux armes.",
+    "eng": "Only by prohibiting nuclear weapons altogether can we stop the arms race.",
+    "char_count": 103
+  },
+  {
+    "id": 5841,
+    "fra": "Ce n'est pas la peine de faire semblant de me faire croire que je crois des choses que tu ne crois pas !",
+    "eng": "It's no use pretending to make me believe that I believe things you don't believe!",
+    "char_count": 104
+  },
+  {
+    "id": 5842,
+    "fra": "Dans les années 50, on citait les Finnois comme ayant les régimes alimentaires les moins sains du monde.",
+    "eng": "In the 1950's, the Finns were cited as having one of the least healthy diets in the world.",
+    "char_count": 104
+  },
+  {
+    "id": 5843,
+    "fra": "Mes amis disent toujours que je suis trop calme, mais ma famille dit toujours que je suis trop agaçante.",
+    "eng": "My friends always say I'm too calm, but my family always says I'm too annoying.",
+    "char_count": 104
+  },
+  {
+    "id": 5844,
+    "fra": "Le politicien fit pression pour une réforme en dénonçant la corruption des responsables gouvernementaux.",
+    "eng": "The politician pushed for reform by denouncing the corruption of the government officials.",
+    "char_count": 104
+  },
+  {
+    "id": 5845,
+    "fra": "Nous nous sommes tellement efforcés d'améliorer les choses pour nos enfants que nous les avons empirées.",
+    "eng": "We tried so hard to make things better for our kids that we made them worse.",
+    "char_count": 104
+  },
+  {
+    "id": 5846,
+    "fra": "Le poisson et la viande sont tous les deux nourrissants, mais la dernière est plus chère que le premier.",
+    "eng": "Fish and meat are both nourishing, but the latter is more expensive than the former.",
+    "char_count": 104
+  },
+  {
+    "id": 5847,
+    "fra": "Eriko travailla si longtemps et si fort, sans s'arrêter pour manger, que j'eus peur qu'elle ne défaille.",
+    "eng": "Eriko worked so long and so hard, without stopping to eat, that I feared she would faint.",
+    "char_count": 104
+  },
+  {
+    "id": 5848,
+    "fra": "Nous sommes ce que nous prétendons être, donc il nous faut faire attention à ce que nous prétendons être.",
+    "eng": "We are what we pretend to be, so we must be careful what we pretend to be.",
+    "char_count": 105
+  },
+  {
+    "id": 5849,
+    "fra": "Après avoir réfléchi sur ma vie jusqu'à présent, j'ai décidé que j'avais besoin de changer mes objectifs.",
+    "eng": "After reflecting on my life up to now, I decided that I needed to change my goals.",
+    "char_count": 105
+  },
+  {
+    "id": 5850,
+    "fra": "Les câbles de fibre optique sont faits de minuscules fibres de verre aussi fines que des cheveux humains.",
+    "eng": "Fiber-optic cables are made up of tiny glass fibers which are as thin as human hairs.",
+    "char_count": 105
+  },
+  {
+    "id": 5851,
+    "fra": "En installant deux carburateurs ce passionné de courses automobiles a considérablement gonflé son moteur.",
+    "eng": "By installing two carburetors that racing-car enthusiast souped up his motor considerably.",
+    "char_count": 105
+  },
+  {
+    "id": 5852,
+    "fra": "Il est présomptueux pour les humains de présumer que notre tâche est de faire ce que seul Dieu peut faire.",
+    "eng": "It's presumptuous for humans to assume that our task is to do what only God can do.",
+    "char_count": 106
+  },
+  {
+    "id": 5853,
+    "fra": "Les aveugles développent parfois une aptitude compensatoire à sentir la proximité des objets autour d'eux.",
+    "eng": "Blind people sometimes develop a compensatory ability to sense the proximity of objects around them.",
+    "char_count": 106
+  },
+  {
+    "id": 5854,
+    "fra": "D'après l'expression sinistre du docteur, il était clair qu'il avait de sombres nouvelles pour le patient.",
+    "eng": "From the doctor's grim expression, it was clear he had somber news for the patient.",
+    "char_count": 106
+  },
+  {
+    "id": 5855,
+    "fra": "Ce fut une surprise de voir tous les étudiants se comporter avec convenance le soir du bal de fin d’année.",
+    "eng": "It was a surprise to see all the students behaving with decorum on prom night.",
+    "char_count": 106
+  },
+  {
+    "id": 5856,
+    "fra": "Je ne saurais pas dire quand exactement dans ma vie il m’est venu à l’esprit que je serais pilote un jour.",
+    "eng": "I couldn't say when exactly in my life it occurred to me that I would be a pilot someday.",
+    "char_count": 106
+  },
+  {
+    "id": 5857,
+    "fra": "Il y a 10 sortes de gens dans le monde : ceux qui comprennent le binaire et ceux qui ne le comprennent pas.",
+    "eng": "There are 10 types of people in the world: those who understand binary, and those who don't.",
+    "char_count": 107
+  },
+  {
+    "id": 5858,
+    "fra": "La manière la plus perfide de nuire à une cause consiste à la défendre délibérément avec de faux arguments.",
+    "eng": "The most perfidious way of harming a cause consists of defending it deliberately with faulty arguments.",
+    "char_count": 107
+  },
+  {
+    "id": 5859,
+    "fra": "Jusqu'à ce que vous fassiez la paix avec qui vous êtes, vous ne serez jamais satisfait de ce que vous avez.",
+    "eng": "Until you make peace with who you are, you'll never be content with what you have.",
+    "char_count": 107
+  },
+  {
+    "id": 5860,
+    "fra": "Je suis resté au Japon seulement quelques mois, pendant lesquels j'ai fait face à des difficultés en série.",
+    "eng": "I stayed in Japan only a few months, during which time I went through a series of hardships.",
+    "char_count": 107
+  },
+  {
+    "id": 5861,
+    "fra": "Le produit national brut est la somme de la production totale de biens et de services en valeur financière.",
+    "eng": "Gross national product is a nation's total output of goods and services as measured in monetary value.",
+    "char_count": 107
+  },
+  {
+    "id": 5862,
+    "fra": "En tant qu'Anglais, il est particulièrement sensible aux différences entre les usages anglais et étasunien.",
+    "eng": "As an Englishman, he is particularly sensitive to the differences between English and American usage.",
+    "char_count": 107
+  },
+  {
+    "id": 5863,
+    "fra": "Il se peut que le bonheur qui nous attend là-bas ne soit pas du tout le genre de bonheur que nous voudrions.",
+    "eng": "It may be that the happiness awaiting us is not at all the sort of happiness we would want.",
+    "char_count": 108
+  },
+  {
+    "id": 5864,
+    "fra": "Mon voisin d'à côté est un virtuose dont les talents au piano lui ont valu un nom chez les experts musicaux.",
+    "eng": "My next door neighbor is a virtuoso whose skills with the piano have earned him a name among music experts.",
+    "char_count": 108
+  },
+  {
+    "id": 5865,
+    "fra": "Les sept questions que doit se poser un ingénieur sont : qui, quoi, quand, où, pourquoi, comment et combien.",
+    "eng": "The seven questions that an engineer has to ask himself are: who, what, when, where, why, how and how much.",
+    "char_count": 108
+  },
+  {
+    "id": 5866,
+    "fra": "J'ai toujours pensé qu'avoir une crise cardiaque est la manière qu'a la nature de te dire que tu dois mourir.",
+    "eng": "I always thought that having a heart attack was the way nature told you to die.",
+    "char_count": 109
+  },
+  {
+    "id": 5867,
+    "fra": "Le gouvernement français a lancé un jeu en ligne qui défie les contribuables d'équilibrer le budget national.",
+    "eng": "The French government has launched an online game that challenges taxpayers to balance the national budget.",
+    "char_count": 109
+  },
+  {
+    "id": 5868,
+    "fra": "Jason était un individu taciturne, c'était donc toujours une réelle surprise quand il disait quoique ce soit.",
+    "eng": "Jason was a taciturn individual, so it was always a real surprise when he said anything.",
+    "char_count": 109
+  },
+  {
+    "id": 5869,
+    "fra": "La statue du Minute Man rend hommage aux vaillants soldats qui ont combattu pendant la guerre d'indépendance.",
+    "eng": "The statue of the Minute Man commemorates the valiant soldiers who fought in the Revolutionary War.",
+    "char_count": 109
+  },
+  {
+    "id": 5870,
+    "fra": "La dépravation du roi amena les gens à croire qu’il n’était rien d’autre qu’un tyran qu’il fallait renverser.",
+    "eng": "The depravity of the king's deeds led the people to believe he was nothing more than a tyrant that needed to be overthrown.",
+    "char_count": 109
+  },
+  {
+    "id": 5871,
+    "fra": "En dépit des déclarations d'amour régulières de Trang, Spenser a encore peur qu'elle cesse un jour de l'aimer.",
+    "eng": "Despite Trang's constant affirmations of love, Spenser is still afraid someday she will fall out of love with him.",
+    "char_count": 110
+  },
+  {
+    "id": 5872,
+    "fra": "Jeanne d'Arc refusa de renoncer à sa conviction que les voix qu'elle entendait étaient de Dieu et nulle autre.",
+    "eng": "Joan of Arc refused to renounce her belief that the voice she heard was from God and none other.",
+    "char_count": 110
+  },
+  {
+    "id": 5873,
+    "fra": "Bill Clinton parla dans un langage ambigu lorsqu'on lui a demandé de décrire sa relation avec Monica Lewinsky.",
+    "eng": "Bill Clinton spoke in ambiguous language when asked to describe his relationship with Monica Lewinsky.",
+    "char_count": 110
+  },
+  {
+    "id": 5874,
+    "fra": "Je me suis fait une règle de ne pas manger trop, car il est évident que trop manger est mauvais pour la santé.",
+    "eng": "I make it a rule not to eat too much, for it is plain that overeating is bad for the health.",
+    "char_count": 110
+  },
+  {
+    "id": 5875,
+    "fra": "Comme les scientifiques ne cessent de le dire, il n'y a ni bon ni mauvais dans aucune découverte scientifique.",
+    "eng": "As scientists keep insisting, there is neither good nor bad in any scientific discovery.",
+    "char_count": 110
+  },
+  {
+    "id": 5876,
+    "fra": "Hé, attendez une minute. J'espère que vous n'essayez pas de me dire que vous n'allez pas me rendre mon argent.",
+    "eng": "Now just a minute there. I hope you're not trying to tell me you're not going to pay the money back.",
+    "char_count": 110
+  },
+  {
+    "id": 5877,
+    "fra": "Je ne comprends pas pourquoi les gens sont effrayés par les nouvelles idées. Je suis effrayé par les anciennes.",
+    "eng": "I can't understand why people are frightened of new ideas. I'm frightened of the old ones.",
+    "char_count": 111
+  },
+  {
+    "id": 5878,
+    "fra": "Axiome de Cole : La somme de l’intelligence répartie sur la planète est une constante ; la population augmente.",
+    "eng": "Cole's Axiom: The sum of the intelligence on the planet is a constant; the population is growing.",
+    "char_count": 111
+  },
+  {
+    "id": 5879,
+    "fra": "La richesse vient à ceux qui font en sorte que les choses arrivent, pas à ceux qui laissent les choses arriver.",
+    "eng": "Wealth comes to those who make things happen, not to those who let things happen.",
+    "char_count": 111
+  },
+  {
+    "id": 5880,
+    "fra": "C'est mieux d'apporter des baguettes en plastique et de les laver plutôt que d'utiliser des baguettes jetables.",
+    "eng": "It's better to carry plastic chopsticks and wash them than to use disposable chopsticks to throw away.",
+    "char_count": 111
+  },
+  {
+    "id": 5881,
+    "fra": "Vous connaissez la phrase, « on récolte ce que l’on sème. » Moi, j’ai semé le vent, maintenant voilà ma tempête.",
+    "eng": "You know the phrase, we reap what we sow. I have sown the wind and this is my storm.",
+    "char_count": 112
+  },
+  {
+    "id": 5882,
+    "fra": "Tu diras et feras des choses que tes parents disaient et faisaient, même si tu avais juré de ne jamais le faire.",
+    "eng": "You will say and do things your parents said and did, even if you swore you would never do them.",
+    "char_count": 112
+  },
+  {
+    "id": 5883,
+    "fra": "Smith a passé des années à étudier l'effet du sommeil et du manque de sommeil sur la mémoire et l'apprentissage.",
+    "eng": "Smith has spent years studying the effects of sleep and sleep loss on memory and learning.",
+    "char_count": 112
+  },
+  {
+    "id": 5884,
+    "fra": "Regarde comme tous médisent derrière mon dos parce que je me suis marié avec une femme de trente ans ma cadette.",
+    "eng": "Look how they all speak ill of me behind my back because I married a woman thirty years younger than me.",
+    "char_count": 112
+  },
+  {
+    "id": 5885,
+    "fra": "Nous pouvons voyager à travers le temps. Et nous le faisons à une vitesse remarquable d'une seconde par seconde.",
+    "eng": "We can travel through time. And we do at the remarkable rate of one second per second.",
+    "char_count": 112
+  },
+  {
+    "id": 5886,
+    "fra": "C'était un vieil homme bienveillant qui se portait volontaire pour tondre la pelouse de ses voisins gratuitement.",
+    "eng": "He was a benevolent old man who volunteered to mow his neighbors' lawns for free.",
+    "char_count": 113
+  },
+  {
+    "id": 5887,
+    "fra": "Si vous prêtez 20$ à quelqu'un et que vous ne revoyez plus jamais cette personne, ça valait probablement le coup.",
+    "eng": "If you lend someone $20 and never see that person again, it was probably worth it.",
+    "char_count": 113
+  },
+  {
+    "id": 5888,
+    "fra": "Certaines personnes regardent de haut les autres pour la simple raison qu'elles n'ont pas autant d'argent qu'eux.",
+    "eng": "Some people look down on others because they have less money.",
+    "char_count": 113
+  },
+  {
+    "id": 5889,
+    "fra": "Je n'aime pas quand les mathématiciens qui en savent beaucoup plus que moi ne savent pas s'exprimer explicitement.",
+    "eng": "I don't like it when mathematicians who know much more than I do can't express themselves explicitly.",
+    "char_count": 114
+  },
+  {
+    "id": 5890,
+    "fra": "Le fromage est un aliment solide fabriqué à partir du lait de vache, de chèvre, de brebis, et d'autres mammifères.",
+    "eng": "Cheese is a solid food made from the milk of cows, goats, sheep, and other mammals.",
+    "char_count": 114
+  },
+  {
+    "id": 5891,
+    "fra": "Nous sommes hantés par une vie idéale, et c'est parce que nous avons en nous le début et la possibilité pour cela.",
+    "eng": "We are haunted by an ideal life, and it is because we have within us the beginning and the possibility for it.",
+    "char_count": 114
+  },
+  {
+    "id": 5892,
+    "fra": "Les choses anciennes que mon père a laissées quand il est mort se révélèrent n'être qu'un bric-à-brac sans valeur.",
+    "eng": "The antiques my father left when he died turned out to be nothing but worthless junk.",
+    "char_count": 114
+  },
+  {
+    "id": 5893,
+    "fra": "Elle était très timide à propos de son problème urgent, et elle demanda au gynécologue de bien vouloir l'examiner.",
+    "eng": "She was very shy about her emergency problem, and asked the gynecologist to please examine her.",
+    "char_count": 114
+  },
+  {
+    "id": 5894,
+    "fra": "Ne sachant avec quel prétendant elle voulait se marier, la princesse hésitait, nommant tantôt l'un, tantôt l'autre.",
+    "eng": "Unsure of which suitor she wanted to marry, the princess vacillated, saying now one, now the other.",
+    "char_count": 115
+  },
+  {
+    "id": 5895,
+    "fra": "C'est une croyance répandue, d'après un sondage national aux États-Unis, que les musulmans sont liés au terrorisme.",
+    "eng": "It is a prevalent belief, according to a nationwide poll in the United States, that Muslims are linked with terrorism.",
+    "char_count": 115
+  },
+  {
+    "id": 5896,
+    "fra": "Pourquoi tu me parles d'hippopotames tout à coup ? Je ne vois pas le rapport entre ça et tes douze poissons rouges.",
+    "eng": "Why are you telling me about hippos all of the sudden? I don't see the connection between that and your twelve red goldfishes.",
+    "char_count": 115
+  },
+  {
+    "id": 5897,
+    "fra": "Le roi Henri VIII avait un court de tennis à Hampton court, son palais près de la Tamise, pas très loin de Londres.",
+    "eng": "King Henry VIII had a tennis court at Hampton Court, his palace on the River Thames, not very far from London.",
+    "char_count": 115
+  },
+  {
+    "id": 5898,
+    "fra": "Le premier avril, Nanyo foods Co Ltd (société d'aliments Nanyo) emménagera dans ses nouveaux bâtiments de Yokohama.",
+    "eng": "On April 1, Nanyo Foods Co. Ltd. will move to its new building in Yokohama.",
+    "char_count": 115
+  },
+  {
+    "id": 5899,
+    "fra": "Dans tous les cas, si vous voulez en savoir plus sur mon pays, je vous enverrai une lettre quand je serai chez moi.",
+    "eng": "Anyway, if you want to know more about my country, I'll send you a letter when I get home.",
+    "char_count": 115
+  },
+  {
+    "id": 5900,
+    "fra": "Tout univers suffisamment simple pour être compris est trop simple pour produire un esprit capable de le comprendre.",
+    "eng": "Any universe simple enough to be understood is too simple to produce a mind able to understand it.",
+    "char_count": 116
+  }
+]

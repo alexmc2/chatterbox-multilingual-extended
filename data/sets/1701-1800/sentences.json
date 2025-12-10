@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1701,
+    "fra": "Je ne voulais pas me lever tôt.",
+    "eng": "I didn't want to get up early.",
+    "char_count": 31
+  },
+  {
+    "id": 1702,
+    "fra": "Je l'ai vu le week-end dernier.",
+    "eng": "I saw him last weekend.",
+    "char_count": 31
+  },
+  {
+    "id": 1703,
+    "fra": "Je suis allé à la bibliothèque.",
+    "eng": "I have been to the library.",
+    "char_count": 31
+  },
+  {
+    "id": 1704,
+    "fra": "Je suis fatigué de mon travail.",
+    "eng": "I am tired of my work.",
+    "char_count": 31
+  },
+  {
+    "id": 1705,
+    "fra": "Je me suis allongé sur mon lit.",
+    "eng": "I lay on my bed.",
+    "char_count": 31
+  },
+  {
+    "id": 1706,
+    "fra": "J'ai plus de robes que ma sœur.",
+    "eng": "I have more dresses than my sister.",
+    "char_count": 31
+  },
+  {
+    "id": 1707,
+    "fra": "J'ai regardé la télé hier soir.",
+    "eng": "I watched TV last night.",
+    "char_count": 31
+  },
+  {
+    "id": 1708,
+    "fra": "Nous avons joué au tennis hier.",
+    "eng": "We played tennis yesterday.",
+    "char_count": 31
+  },
+  {
+    "id": 1709,
+    "fra": "J'ai récemment arrêté de fumer.",
+    "eng": "I have recently given up smoking.",
+    "char_count": 31
+  },
+  {
+    "id": 1710,
+    "fra": "Tu me prends pour un imbécile ?",
+    "eng": "Do you take me for a fool?",
+    "char_count": 31
+  },
+  {
+    "id": 1711,
+    "fra": "Je suis prêt à aller avec vous.",
+    "eng": "I am ready to go with you.",
+    "char_count": 31
+  },
+  {
+    "id": 1712,
+    "fra": "J'attends cela avec impatience.",
+    "eng": "I'm looking forward to it.",
+    "char_count": 31
+  },
+  {
+    "id": 1713,
+    "fra": "J'ai raté l'avion d'une minute.",
+    "eng": "I missed the airplane by a minute.",
+    "char_count": 31
+  },
+  {
+    "id": 1714,
+    "fra": "J’ai demandé à Mike de m’aider.",
+    "eng": "I asked Mike to help me.",
+    "char_count": 31
+  },
+  {
+    "id": 1715,
+    "fra": "J'ai acheté ça pour 10 dollars.",
+    "eng": "I bought it for ten dollars.",
+    "char_count": 31
+  },
+  {
+    "id": 1716,
+    "fra": "Je me souviens de cette lettre.",
+    "eng": "I remember the letter.",
+    "char_count": 31
+  },
+  {
+    "id": 1717,
+    "fra": "J'ai essayé de calmer l'enfant.",
+    "eng": "I tried to soothe the child.",
+    "char_count": 31
+  },
+  {
+    "id": 1718,
+    "fra": "Je me présenterai à la réunion.",
+    "eng": "I will present myself at the meeting.",
+    "char_count": 31
+  },
+  {
+    "id": 1719,
+    "fra": "Je suis très médiocre en sport.",
+    "eng": "I am very poor at sports.",
+    "char_count": 31
+  },
+  {
+    "id": 1720,
+    "fra": "Je suis complètement essoufflé.",
+    "eng": "I am completely out of breath.",
+    "char_count": 31
+  },
+  {
+    "id": 1721,
+    "fra": "J'aimerais aller faire du vélo.",
+    "eng": "I'd like to go cycling.",
+    "char_count": 31
+  },
+  {
+    "id": 1722,
+    "fra": "Je m'intéresse aux ordinateurs.",
+    "eng": "I am interested in computers.",
+    "char_count": 31
+  },
+  {
+    "id": 1723,
+    "fra": "Je n'ai pas lu tous ces livres.",
+    "eng": "I haven't read all of these books.",
+    "char_count": 31
+  },
+  {
+    "id": 1724,
+    "fra": "J'ai obtenu ma licence cet été.",
+    "eng": "I got my license this summer.",
+    "char_count": 31
+  },
+  {
+    "id": 1725,
+    "fra": "J'attends Noël avec impatience.",
+    "eng": "I am looking forward to Christmas.",
+    "char_count": 31
+  },
+  {
+    "id": 1726,
+    "fra": "Je ne bois pas beaucoup de vin.",
+    "eng": "I don't drink much wine.",
+    "char_count": 31
+  },
+  {
+    "id": 1727,
+    "fra": "Je voudrais vous rendre visite.",
+    "eng": "I would like to visit you.",
+    "char_count": 31
+  },
+  {
+    "id": 1728,
+    "fra": "Je suis en congé cette semaine.",
+    "eng": "I am on holiday this week.",
+    "char_count": 31
+  },
+  {
+    "id": 1729,
+    "fra": "J'ai arrêté d'écouter la radio.",
+    "eng": "I stopped listening to the radio.",
+    "char_count": 31
+  },
+  {
+    "id": 1730,
+    "fra": "Tous mes amis sont invités ici.",
+    "eng": "All my friends are invited here.",
+    "char_count": 31
+  },
+  {
+    "id": 1731,
+    "fra": "Mon ami s’est souvenu où aller.",
+    "eng": "My friend remembered which way to go.",
+    "char_count": 31
+  },
+  {
+    "id": 1732,
+    "fra": "Mon but est de devenir médecin.",
+    "eng": "My aim is to be a doctor.",
+    "char_count": 31
+  },
+  {
+    "id": 1733,
+    "fra": "Ma fille est encore une enfant.",
+    "eng": "My daughter is but a child.",
+    "char_count": 31
+  },
+  {
+    "id": 1734,
+    "fra": "Mon rêve est de devenir pilote.",
+    "eng": "My dream is to become a pilot.",
+    "char_count": 31
+  },
+  {
+    "id": 1735,
+    "fra": "Ne rentrez pas dans ma chambre.",
+    "eng": "Don't come into my room.",
+    "char_count": 31
+  },
+  {
+    "id": 1736,
+    "fra": "J'ai seulement un petit jardin.",
+    "eng": "I have only a small garden.",
+    "char_count": 31
+  },
+  {
+    "id": 1737,
+    "fra": "Ma musique favorite est la pop.",
+    "eng": "My favorite music is pop music.",
+    "char_count": 31
+  },
+  {
+    "id": 1738,
+    "fra": "Il ira à la réunion à ma place.",
+    "eng": "He will go to the meeting instead of me.",
+    "char_count": 31
+  },
+  {
+    "id": 1739,
+    "fra": "Ma bicyclette a un pneu à plat.",
+    "eng": "My bicycle has a flat tire.",
+    "char_count": 31
+  },
+  {
+    "id": 1740,
+    "fra": "Ma montre est à l'heure exacte.",
+    "eng": "My watch keeps very good time.",
+    "char_count": 31
+  },
+  {
+    "id": 1741,
+    "fra": "Mon plan est différent du tien.",
+    "eng": "My plan is different from yours.",
+    "char_count": 31
+  },
+  {
+    "id": 1742,
+    "fra": "Ma maison est vieille et laide.",
+    "eng": "My house is old and ugly.",
+    "char_count": 31
+  },
+  {
+    "id": 1743,
+    "fra": "Les pompiers ont éteint le feu.",
+    "eng": "The fire fighters put out the fire.",
+    "char_count": 31
+  },
+  {
+    "id": 1744,
+    "fra": "Voilà mon adresse électronique.",
+    "eng": "This is my email address.",
+    "char_count": 31
+  },
+  {
+    "id": 1745,
+    "fra": "Ne vous inquiétez pas pour moi.",
+    "eng": "Don't trouble about me.",
+    "char_count": 31
+  },
+  {
+    "id": 1746,
+    "fra": "Mon appareil photo est étanche.",
+    "eng": "My camera is waterproof.",
+    "char_count": 31
+  },
+  {
+    "id": 1747,
+    "fra": "Mon grand-père se réveille tôt.",
+    "eng": "My grandfather gets up early.",
+    "char_count": 31
+  },
+  {
+    "id": 1748,
+    "fra": "Il me semble qu'il est honnête.",
+    "eng": "It seems to me that he is honest.",
+    "char_count": 31
+  },
+  {
+    "id": 1749,
+    "fra": "Entrez dans la pièce après moi.",
+    "eng": "Come into the room after me.",
+    "char_count": 31
+  },
+  {
+    "id": 1750,
+    "fra": "Nous grimpâmes une pente raide.",
+    "eng": "We climbed the steep slope.",
+    "char_count": 31
+  },
+  {
+    "id": 1751,
+    "fra": "Les enfants ont besoin d'amour.",
+    "eng": "Children need loving.",
+    "char_count": 31
+  },
+  {
+    "id": 1752,
+    "fra": "Soyez gentils avec les enfants.",
+    "eng": "Be kind to the children.",
+    "char_count": 31
+  },
+  {
+    "id": 1753,
+    "fra": "Suivez l'exemple de votre sœur.",
+    "eng": "Follow the example of your sister.",
+    "char_count": 31
+  },
+  {
+    "id": 1754,
+    "fra": "Consacrez-vous à votre travail.",
+    "eng": "Have some enthusiasm for your job.",
+    "char_count": 31
+  },
+  {
+    "id": 1755,
+    "fra": "J'ai peur qu'il pleuve ce soir.",
+    "eng": "I'm afraid it'll rain tonight.",
+    "char_count": 31
+  },
+  {
+    "id": 1756,
+    "fra": "Il fait très froid aujourd'hui.",
+    "eng": "It is very cold today.",
+    "char_count": 31
+  },
+  {
+    "id": 1757,
+    "fra": "Papa est impatient aujourd'hui.",
+    "eng": "Dad's in an impatient mood today.",
+    "char_count": 31
+  },
+  {
+    "id": 1758,
+    "fra": "Tu t'es bien tenu aujourd'hui ?",
+    "eng": "Did you behave today?",
+    "char_count": 31
+  },
+  {
+    "id": 1759,
+    "fra": "Il faisait très froid ce matin.",
+    "eng": "It was very cold this morning.",
+    "char_count": 31
+  },
+  {
+    "id": 1760,
+    "fra": "Il peut pleuvoir à tout moment.",
+    "eng": "It may rain at any moment.",
+    "char_count": 31
+  },
+  {
+    "id": 1761,
+    "fra": "Maintenant il est temps d'agir.",
+    "eng": "Now is the time for action.",
+    "char_count": 31
+  },
+  {
+    "id": 1762,
+    "fra": "Ne parlez pas la bouche pleine.",
+    "eng": "Don't speak with your mouth full.",
+    "char_count": 31
+  },
+  {
+    "id": 1763,
+    "fra": "Un chien l'a mordue à la jambe.",
+    "eng": "A dog bit her on the leg.",
+    "char_count": 31
+  },
+  {
+    "id": 1764,
+    "fra": "Un chien courait après un chat.",
+    "eng": "A dog was running after a cat.",
+    "char_count": 31
+  },
+  {
+    "id": 1765,
+    "fra": "La santé prime sur la richesse.",
+    "eng": "Health is above wealth.",
+    "char_count": 31
+  },
+  {
+    "id": 1766,
+    "fra": "Ken est trop occupé pour venir.",
+    "eng": "Ken is so busy that he can't come.",
+    "char_count": 31
+  },
+  {
+    "id": 1767,
+    "fra": "Finissez ce travail pour lundi.",
+    "eng": "Please get this work finished by Monday.",
+    "char_count": 31
+  },
+  {
+    "id": 1768,
+    "fra": "Pas un étudiant n'était absent.",
+    "eng": "No students were absent.",
+    "char_count": 31
+  },
+  {
+    "id": 1769,
+    "fra": "Keiko est en tête de sa classe.",
+    "eng": "Keiko is at the head of her class.",
+    "char_count": 31
+  },
+  {
+    "id": 1770,
+    "fra": "Comment te rends-tu à l'école ?",
+    "eng": "How do you get to school?",
+    "char_count": 31
+  },
+  {
+    "id": 1771,
+    "fra": "Savez-vous taper à la machine ?",
+    "eng": "Are you able to type?",
+    "char_count": 31
+  },
+  {
+    "id": 1772,
+    "fra": "L'or est plus lourd que le fer.",
+    "eng": "Gold is heavier than iron.",
+    "char_count": 31
+  },
+  {
+    "id": 1773,
+    "fra": "Ne fume pas pendant le travail.",
+    "eng": "Don't smoke while you are on duty.",
+    "char_count": 31
+  },
+  {
+    "id": 1774,
+    "fra": "Demandez, et l'on vous donnera.",
+    "eng": "Ask, and it shall be given you.",
+    "char_count": 31
+  },
+  {
+    "id": 1775,
+    "fra": "Famine et maladie vont de pair.",
+    "eng": "Disease and famine go together.",
+    "char_count": 31
+  },
+  {
+    "id": 1776,
+    "fra": "Lève-toi. Il est vraiment tard.",
+    "eng": "Do get up, it's very late.",
+    "char_count": 31
+  },
+  {
+    "id": 1777,
+    "fra": "J'ai couru pour être à l'heure.",
+    "eng": "I ran so I would be on time.",
+    "char_count": 31
+  },
+  {
+    "id": 1778,
+    "fra": "Avez-vous une bière étrangère ?",
+    "eng": "Do you have any imported beer?",
+    "char_count": 31
+  },
+  {
+    "id": 1779,
+    "fra": "Il a l'air de faire bon dehors.",
+    "eng": "It seems warm outside.",
+    "char_count": 31
+  },
+  {
+    "id": 1780,
+    "fra": "Je n'en ai pas la moindre idée.",
+    "eng": "I don't have the slightest idea.",
+    "char_count": 31
+  },
+  {
+    "id": 1781,
+    "fra": "Fixez une date pour la réunion.",
+    "eng": "Fix a date for the meeting.",
+    "char_count": 31
+  },
+  {
+    "id": 1782,
+    "fra": "Tous nos efforts ont été vains.",
+    "eng": "All our efforts were in vain.",
+    "char_count": 31
+  },
+  {
+    "id": 1783,
+    "fra": "Toute ma famille se porte bien.",
+    "eng": "All my family is very well.",
+    "char_count": 31
+  },
+  {
+    "id": 1784,
+    "fra": "Sais-tu quel jour nous sommes ?",
+    "eng": "Do you know what day it is?",
+    "char_count": 31
+  },
+  {
+    "id": 1785,
+    "fra": "Veuillez appuyer sur le bouton.",
+    "eng": "Push the button, please.",
+    "char_count": 31
+  },
+  {
+    "id": 1786,
+    "fra": "La chance sourit aux audacieux.",
+    "eng": "Luck comes to those who look for it.",
+    "char_count": 31
+  },
+  {
+    "id": 1787,
+    "fra": "«Oui, je l'ai fait» a-t-il dit.",
+    "eng": "Yes, I did, he said.",
+    "char_count": 31
+  },
+  {
+    "id": 1788,
+    "fra": "1980 est l'année où je suis né.",
+    "eng": "1980 was the year when I was born.",
+    "char_count": 31
+  },
+  {
+    "id": 1789,
+    "fra": "Un yard est égal à trois pieds.",
+    "eng": "A yard is equal to three feet.",
+    "char_count": 31
+  },
+  {
+    "id": 1790,
+    "fra": "Un homme est apparu à la porte.",
+    "eng": "A man appeared at the door.",
+    "char_count": 31
+  },
+  {
+    "id": 1791,
+    "fra": "Une feuille morte tomba au sol.",
+    "eng": "A dead leaf fell to the ground.",
+    "char_count": 31
+  },
+  {
+    "id": 1792,
+    "fra": "J'ai quelques minutes à perdre.",
+    "eng": "I have a few minutes to spare.",
+    "char_count": 31
+  },
+  {
+    "id": 1793,
+    "fra": "Résumez ce passage en 200 mots.",
+    "eng": "Sum up the passage within 200 words.",
+    "char_count": 31
+  },
+  {
+    "id": 1794,
+    "fra": "Je dois être là avant 7 heures.",
+    "eng": "I have to be there by 7:00.",
+    "char_count": 31
+  },
+  {
+    "id": 1795,
+    "fra": "Je souhaiterais être un oiseau.",
+    "eng": "I wish I were a bird.",
+    "char_count": 31
+  },
+  {
+    "id": 1796,
+    "fra": "Je resterai à la maison demain.",
+    "eng": "I will stay home tomorrow.",
+    "char_count": 31
+  },
+  {
+    "id": 1797,
+    "fra": "Je viendrai chez toi plus tard.",
+    "eng": "I'll come to your house later.",
+    "char_count": 31
+  },
+  {
+    "id": 1798,
+    "fra": "L'un de nous deux devra partir.",
+    "eng": "Either you or I will have to go.",
+    "char_count": 31
+  },
+  {
+    "id": 1799,
+    "fra": "Comment se passent tes études ?",
+    "eng": "How are your studies going?",
+    "char_count": 31
+  },
+  {
+    "id": 1800,
+    "fra": "Puis-je utiliser votre bureau ?",
+    "eng": "Could I use your desk?",
+    "char_count": 31
+  }
+]

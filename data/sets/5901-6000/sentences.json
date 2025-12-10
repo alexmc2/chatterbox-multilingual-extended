@@ -1,0 +1,602 @@
+[
+  {
+    "id": 5901,
+    "fra": "Si Spenser ne continue pas d’ajouter et de traduire des phrases, les autres contributeurs vont sûrement le dépasser.",
+    "eng": "If Spenser doesn't keep adding and translating sentences, the other contributors will surely surpass him.",
+    "char_count": 116
+  },
+  {
+    "id": 5902,
+    "fra": "Même si tes phrases étaient effectivement vides de sens, au moins tu as la chance de savoir faire de belles phrases.",
+    "eng": "Even if your sentences were actually senseless, you at least have the luck to be able to form beautiful sentences.",
+    "char_count": 116
+  },
+  {
+    "id": 5903,
+    "fra": "Je n'étais pas content, mais il semblait raisonnable que ses prix augmentent comme tout le reste, donc j'ai accepté.",
+    "eng": "I wasn't happy, but it seemed reasonable that his prices should go up like everything else, so I agreed.",
+    "char_count": 116
+  },
+  {
+    "id": 5904,
+    "fra": "Les gens accepteront beaucoup plus volontiers votre idée si vous leur dites que Benjamin Franklin l'a dit en premier.",
+    "eng": "People will accept your idea much more readily if you tell them Benjamin Franklin said it first.",
+    "char_count": 117
+  },
+  {
+    "id": 5905,
+    "fra": "Si vous voyez un homme s'approcher de vous avec l'intention évidente de vous faire du bien, vous devriez vous sauver.",
+    "eng": "If you see a man approaching you with the obvious intention of doing you good, you should run for your life.",
+    "char_count": 117
+  },
+  {
+    "id": 5906,
+    "fra": "Les chances de succès sont plus grandes si l'homme d'affaire s'y connaît et aussi s'il dispose de davantage de fonds.",
+    "eng": "The chances of success are greater if the business man knows the ropes, and also has more funds at his disposal.",
+    "char_count": 117
+  },
+  {
+    "id": 5907,
+    "fra": "On ne se marie pas avec quelqu'un avec qui on peut vivre - on se marie avec la personne sans qui on ne peut pas vivre.",
+    "eng": "You don't marry someone you can live with — you marry the person whom you cannot live without.",
+    "char_count": 118
+  },
+  {
+    "id": 5908,
+    "fra": "Les professeurs doivent être fatigués de rectifier encore et encore les mêmes erreurs dans les copies de leurs élèves.",
+    "eng": "Teachers must get tired of rectifying the same mistakes over and over again in their students' papers.",
+    "char_count": 118
+  },
+  {
+    "id": 5909,
+    "fra": "Les chambres de cet hôtel sont vraiment très mal insonorisées. J’arrive à entendre mon voisin mâcher son chewing-gum !",
+    "eng": "The rooms in this hotel are really very bad at muffling sounds. I can hear my neighbor chewing his gum!",
+    "char_count": 118
+  },
+  {
+    "id": 5910,
+    "fra": "La théorie scientifique que j'aime le plus est que les anneaux de Saturne sont entièrement composés de bagages perdus.",
+    "eng": "The scientific theory I like the best is that the rings of Saturn are composed entirely of lost luggage.",
+    "char_count": 118
+  },
+  {
+    "id": 5911,
+    "fra": "Dans son tour de l'Italie, il a visité plusieurs villes célèbres pour leur beauté théâtrale, comme Naples et Florence.",
+    "eng": "On his tour of Italy, he visited several cities which are famous for their scenic beauty, for instance, Naples and Florence.",
+    "char_count": 118
+  },
+  {
+    "id": 5912,
+    "fra": "Quiconque disposant d'un QI comportant au moins deux chiffres sait qu'il s'agissait d'un choix pour raisons politiques.",
+    "eng": "Anybody with at least a two-digit IQ knows this was a politically biased choice.",
+    "char_count": 119
+  },
+  {
+    "id": 5913,
+    "fra": "L'employé de bureau demanda : « Puis-je voir votre permis de conduire comme justificatif d'identité, s'il vous plaît ? »",
+    "eng": "May I please see your driver's license for identification? said the clerk.",
+    "char_count": 120
+  },
+  {
+    "id": 5914,
+    "fra": "La guerre en Irak est un sujet explosif de débat politique ; un mot de travers et une dispute enflammée pourrait éclater.",
+    "eng": "The war on Iraq is a volatile subject of political debate; any wrong word and a heated argument could spark.",
+    "char_count": 121
+  },
+  {
+    "id": 5915,
+    "fra": "Les bouteilles de bière que j’avais apporté à la fête étaient de trop ; la famille de notre hôte possédait une brasserie.",
+    "eng": "The bottles of beer that I brought to the party were redundant; the host's family owned a brewery.",
+    "char_count": 121
+  },
+  {
+    "id": 5916,
+    "fra": "Il y avait une sensation de retenue dans la pièce ; personne n'osait dire au roi à quel point sa décision était insensée.",
+    "eng": "There was a feeling of constraint in the room; no one dared to tell the king how foolish his decision was.",
+    "char_count": 121
+  },
+  {
+    "id": 5917,
+    "fra": "Lorsque nous cherchons à découvrir le meilleur des autres, nous faisons ressortir quelque part le meilleur de nous-mêmes.",
+    "eng": "When we seek to discover the best in others, we somehow bring out the best in ourselves.",
+    "char_count": 121
+  },
+  {
+    "id": 5918,
+    "fra": "J'ai peur que cela ne ressemble à une exigence, mais pourriez-vous me rendre l'argent que je vous ai prêté l'autre jour ?",
+    "eng": "I'm afraid this sounds like a demand, but could you return the money I lent you the other day?",
+    "char_count": 121
+  },
+  {
+    "id": 5919,
+    "fra": "Je suis contre l'utilisation de la mort en tant que punition. Je suis aussi contre son utilisation en tant que récompense.",
+    "eng": "I am against using death as a punishment. I am also against using it as a reward.",
+    "char_count": 122
+  },
+  {
+    "id": 5920,
+    "fra": "Un bon diplomate est une personne qui a acquis la technique consistant à laisser à une autre le soin de révéler un secret.",
+    "eng": "A good diplomat is a person who practises the technique of letting someone else let the cat out of the bag.",
+    "char_count": 122
+  },
+  {
+    "id": 5921,
+    "fra": "Un emploi du temps, c'est une carte d'identité du temps, seulement, si on n'a pas d'emploi du temps, le temps n'est pas là.",
+    "eng": "A schedule is an identity card for time, but, if you don't have a schedule, the time isn't there.",
+    "char_count": 123
+  },
+  {
+    "id": 5922,
+    "fra": "Cette association humanitaire recherche des bénévoles pour distribuer des repas aux sans-abris pendant le mois de décembre.",
+    "eng": "This humanitarian group looks for volunteers to distribute meals to the homeless during the month of December.",
+    "char_count": 123
+  },
+  {
+    "id": 5923,
+    "fra": "La publicité peut être décrite comme la science de stopper l'intelligence humaine assez longtemps pour en tirer de l'argent.",
+    "eng": "Advertising may be described as the science of arresting the human intelligence long enough to get money from it.",
+    "char_count": 124
+  },
+  {
+    "id": 5924,
+    "fra": "Ce n'est pas l'espèce la plus forte qui survit, pas la plus intelligente, mais celle qui est la plus réactive au changement.",
+    "eng": "It is not the strongest of the species that survives, not the most intelligent, but the one most responsive to change.",
+    "char_count": 124
+  },
+  {
+    "id": 5925,
+    "fra": "Ray était prêt à corroborer l'histoire de Gary, mais la police n'était toujours pas convaincue que l'un d'eux dise la vérité.",
+    "eng": "Ray was willing to corroborate Gary's story, but the police were still unconvinced that either of them were telling the truth.",
+    "char_count": 125
+  },
+  {
+    "id": 5926,
+    "fra": "La seconde moitié de la vie d'un homme n'est composée de rien sauf des habitudes qu'il a acquises pendant la première moitié.",
+    "eng": "The second half of a man's life is made up of nothing but the habits he has acquired during the first half.",
+    "char_count": 125
+  },
+  {
+    "id": 5927,
+    "fra": "À l'heure actuelle, il n'existe pas encore de politique claire concernant l'apport d'énergie décentralisée aux zones rurales.",
+    "eng": "At this stage there is still not a clear energy policy for bringing decentralised power to rural areas.",
+    "char_count": 125
+  },
+  {
+    "id": 5928,
+    "fra": "Il y a un professeur qui affirme que si Alex utilise bien des mots, ce serait une grossière erreur d'appeler cela un langage.",
+    "eng": "One professor says that even if Alex is using words, it's wrong to call it a language.",
+    "char_count": 125
+  },
+  {
+    "id": 5929,
+    "fra": "Tous les pull-overs de ce type sont en rupture de stock en ce moment. Nous les commanderons à la boutique principale à Tokyo.",
+    "eng": "All sweaters of this type are out of stock now. We'll order them from the main store in Tokyo.",
+    "char_count": 125
+  },
+  {
+    "id": 5930,
+    "fra": "Si tu ne veux pas mettre de crème solaire c'est ton problème, mais ne viens pas te plaindre quand t'auras des coups de soleil.",
+    "eng": "If you don't want to put on sunscreen, that's your problem. Just don't come complaining to me when you get a sunburn.",
+    "char_count": 126
+  },
+  {
+    "id": 5931,
+    "fra": "« Si t'es fatigué, pourquoi ne vas-tu pas dormir ? » « Parce que si j'vais dormir tout de suite, je me réveillerai trop tôt. »",
+    "eng": "If you're tired, why don't you go to sleep? \"Because if I go to sleep now I will wake up too early.\"",
+    "char_count": 126
+  },
+  {
+    "id": 5932,
+    "fra": "J'ai navigué autour de la Méditerranée dans une goélette quand j'avais dix-sept ans, déclama-t-elle lentement et soigneusement.",
+    "eng": "I sailed around the Mediterranean in a schooner when I was seventeen, she recited slowly and carefully.",
+    "char_count": 127
+  },
+  {
+    "id": 5933,
+    "fra": "Un Canadien de 19 ans a battu le record du monde le mois dernier pour un aller-retour sans arrêt à la nage à travers la Manche.",
+    "eng": "A 19-year-old Canadian broke the world record last month for a nonstop, round-trip swim across the English Channel.",
+    "char_count": 127
+  },
+  {
+    "id": 5934,
+    "fra": "Les gens qui viennent à l'émission de Maury Povich font souvent des déclarations prétentieuses sur leur partenaire les trompant.",
+    "eng": "The people who come on the Maury Povich show often make pretentious claims about their lovers cheating on them.",
+    "char_count": 128
+  },
+  {
+    "id": 5935,
+    "fra": "Une des choses les plus curieuses qui ait forcé mon attention est qu'il n'y a pas de continuité dans l'appréciation de la beauté.",
+    "eng": "One of the most curious things that has forced itself on my notice is that there is no permanence in the judgement of beauty.",
+    "char_count": 129
+  },
+  {
+    "id": 5936,
+    "fra": "De nos jours nous désirons que nos enfants prennent leurs propres décisions, mais nous voulons que ces décisions nous conviennent.",
+    "eng": "Nowadays we want our children to make their own decisions, but we expect those decisions to please us.",
+    "char_count": 130
+  },
+  {
+    "id": 5937,
+    "fra": "Pour conquérir son audience, l’orateur a eu recours à des techniques rhétoriques qu’il a apprises dans ses cours de communication.",
+    "eng": "To win his audience, the speaker resorted to using rhetorical techniques he learned from his communication courses.",
+    "char_count": 130
+  },
+  {
+    "id": 5938,
+    "fra": "La NASA dit qu'elle possède déjà les informations suffisantes pour affirmer qu'une visite humaine de la planète rouge est faisable.",
+    "eng": "NASA says it has sufficient information to say that a human visit to the red planet is feasible.",
+    "char_count": 131
+  },
+  {
+    "id": 5939,
+    "fra": "Et bien que la phrase \"paix au monde\" paraisse attirante, le chemin de la paix dans le monde est très long et rempli de turpitudes.",
+    "eng": "Although the phrase \"world peace\" sounds attractive, the road to world peace is very long and full of troubles.",
+    "char_count": 131
+  },
+  {
+    "id": 5940,
+    "fra": "Un expert est quelqu'un qui connaît quelques-unes des pires erreurs qui peuvent être faites dans son domaine, et comment les éviter.",
+    "eng": "An expert is someone who knows some of the worst mistakes that can be made in his field, and how to avoid them.",
+    "char_count": 132
+  },
+  {
+    "id": 5941,
+    "fra": "L'an dernier je suis retourné à la maison, et j'ai été surpris de voir que le village et les habitants avaient complètement changés.",
+    "eng": "Last year I returned home and was surprised to find both the village and the people completely changed.",
+    "char_count": 132
+  },
+  {
+    "id": 5942,
+    "fra": "Son père n'aurait jamais approuvé ses fiançailles avec une fille qui ne partageait pas les mêmes croyances religieuses que sa famille.",
+    "eng": "His father would never sanction his engagement to a girl who did not share the same religious beliefs as their family.",
+    "char_count": 134
+  },
+  {
+    "id": 5943,
+    "fra": "À six ans il avait appris à se servir d’une machine à écrire et dit au maître qu’il n’avait pas besoin d’apprendre à écrire à la main !",
+    "eng": "At the age of six he had learned to use the typewriter and told the teacher that he did not need to learn to write by hand.",
+    "char_count": 135
+  },
+  {
+    "id": 5944,
+    "fra": "Après tout le mal que l'on s'était donné pour faire aboutir ce projet, il leur a seulement pris une seconde pour l'éliminer au congrès.",
+    "eng": "After all the trouble we went to in coming up with that project, it only took them a second to shoot it down in the meeting.",
+    "char_count": 135
+  },
+  {
+    "id": 5945,
+    "fra": "L'art de la guerre moderne ne demande pas nécessairement des soldats armés jusqu'aux dents pour être efficaces en tant que combattants.",
+    "eng": "The art of modern warfare does not necessarily require soldiers to be armed to the teeth to be effective as combatants.",
+    "char_count": 135
+  },
+  {
+    "id": 5946,
+    "fra": "Avec le roi sans héritier devenant fou et la famille royale empoisonnée, le général de l'armée avait enfin sa chance d'usurper le trône.",
+    "eng": "With the heirless king going crazy and royal family poisoned, the general of the army finally had his chance to usurp the throne.",
+    "char_count": 136
+  },
+  {
+    "id": 5947,
+    "fra": "C'est ça le truc avec les gens qui pensent qu'ils détestent les ordinateurs. Ce qu'ils détestent vraiment sont les mauvais programmeurs.",
+    "eng": "That's the thing about people who think they hate computers. What they really hate is lousy programmers.",
+    "char_count": 136
+  },
+  {
+    "id": 5948,
+    "fra": "Tous ces talents nous sont attribués par transmission génétique ; nous les recevons au moyen des gènes que nous héritons de nos parents.",
+    "eng": "All of these abilities are passed on to us by genetic transmission; we receive them by way of the genes that we inherit from our parents.",
+    "char_count": 136
+  },
+  {
+    "id": 5949,
+    "fra": "Entre mille huit cent vingt et mille neuf cent soixante-treize les États-Unis ont accueillis plus de quarante six millions d'immigrants.",
+    "eng": "Between 1820 and 1973, the United States admitted more than 46 million immigrants.",
+    "char_count": 136
+  },
+  {
+    "id": 5950,
+    "fra": "Nous sommes dans le creux des affaires, on s'en sort à peine, c'est pourquoi nous n'avons pas la possibilité de prendre un temps partiel.",
+    "eng": "We're in a slump, barely scraping by, so we certainly don't have the margin to take on a part-time worker.",
+    "char_count": 137
+  },
+  {
+    "id": 5951,
+    "fra": "Quand on sait que quelque chose de désagréable va se passer, qu'on va aller chez le dentiste par exemple, ou en France, ce n'est pas bien.",
+    "eng": "If you know that something unpleasant will happen, that you will go to the dentist for example, or to France, then that is not good.",
+    "char_count": 138
+  },
+  {
+    "id": 5952,
+    "fra": "Confus face aux remarques obscures de Sherlock Holmes, Watson se demandait si Holmes dissimulait intentionnellement ses vues sur le crime.",
+    "eng": "Baffled by Sherlock Holmes' cryptic remarks, Watson wondered whether Holmes was intentionally concealing his thoughts about the crime.",
+    "char_count": 138
+  },
+  {
+    "id": 5953,
+    "fra": "Pourquoi tu m'as réveillé pour me dire quelque chose d'aussi important ? Maintenant, j'vais jamais pouvoir me concentrer sur mon travail !",
+    "eng": "Why did you wake me up to tell me something that big? Now, I'll never be able to concentrate on my work!",
+    "char_count": 138
+  },
+  {
+    "id": 5954,
+    "fra": "Pendant 4 ans, il a coupé l'herbe au prix de base, mais j'ai remarqué qu'à la fin de cette année, il avait un aide avec lui assez souvent.",
+    "eng": "For four years, he cut the grass at the original price, but I noticed that toward the end of that year, he had a helper with him quite often.",
+    "char_count": 138
+  },
+  {
+    "id": 5955,
+    "fra": "Lorsque les deux filles annoncèrent à John qu’elles avaient des sentiments envers lui, il ne savait pas avec quelle fille il devrait sortir.",
+    "eng": "When both girls told John they had feelings for him, he was in a quandary as to which girl he should be with.",
+    "char_count": 140
+  },
+  {
+    "id": 5956,
+    "fra": "Choqués par les évènements du 11 septembre, des politiciens partout dans le monde condamnèrent les terroristes pour leur acte répréhensible.",
+    "eng": "Shocked by the events of September 11th, politicians all over the world condemned the terrorists for their reprehensible deed.",
+    "char_count": 140
+  },
+  {
+    "id": 5957,
+    "fra": "Assise dans son fauteuil en peau de panthère, la jeune femme en lingerie rouge lisait à haute voix un livre intitulé « La princesse noire ».",
+    "eng": "Sitting in her panther hide chair, the young woman, clad in red lingerie, was reading aloud a book titled \"The Black Princess\".",
+    "char_count": 140
+  },
+  {
+    "id": 5958,
+    "fra": "Qui sont les idiots qui ont dit que les enseignants devraient préconiser plus de devoirs à la maison car les élèves ne travaillent pas assez ?",
+    "eng": "Who are the idiots who said that teachers should push for larger amounts of homework, seeing as the students don't work enough?",
+    "char_count": 142
+  },
+  {
+    "id": 5959,
+    "fra": "Malheureusement, beaucoup de gens croiront des choses qu'on leur aura dites via un e-mail qu'ils ne trouveraient pas plausibles en face à face.",
+    "eng": "Sadly many people will believe things told to them via an email which they would find implausible face-to-face.",
+    "char_count": 143
+  },
+  {
+    "id": 5960,
+    "fra": "La crise monétaire britannique s'est transformée en crise politique avec l'échec du gouvernement d'arrêter la chute libre de la livre sterling.",
+    "eng": "Britain's currency crisis has turned into a political one over government failure to stop the pound from going into free-fall.",
+    "char_count": 143
+  },
+  {
+    "id": 5961,
+    "fra": "J'ai laissé libres les après-midi du 20 et du 21, et je voudrais savoir si M. Grant pourrait participer à une réunion à l'une de ces deux dates.",
+    "eng": "I have kept available the afternoon of the 20th and the 21st, and would like to know if Mr Grant will be available for a meeting on either of those two days.",
+    "char_count": 144
+  },
+  {
+    "id": 5962,
+    "fra": "Déniant qu'elle était une anarchiste, Katja soutenait qu'elle souhaitait seulement faire des changements dans notre gouvernement, pas le détruire.",
+    "eng": "Denying she was an anarchist, Katja maintained she wished only to make changes in our government, not to destroy it.",
+    "char_count": 146
+  },
+  {
+    "id": 5963,
+    "fra": "Près de la moitié des hommes en Grande-Bretagne offrent régulièrement du chocolat à leur partenaire comme cadeau, notamment pour leur anniversaire.",
+    "eng": "Almost half the men in Great Britain regularly give chocolate to their partner, especially for their birthday.",
+    "char_count": 147
+  },
+  {
+    "id": 5964,
+    "fra": "Les mathématiques sont la partie des sciences qu'on pourrait continuer à faire si on se réveillait demain et découvrait que l'univers avait disparu.",
+    "eng": "Mathematics is the part of science you could continue to do if you woke up tomorrow and discovered the universe was gone.",
+    "char_count": 148
+  },
+  {
+    "id": 5965,
+    "fra": "Les remarques sarcastiques et de plaisanterie de Spenser sont souvent mal interprétées comme signes d'ambivalence et souvent prises trop au sérieux.",
+    "eng": "Spenser's sarcastic and joking remarks are often misinterpreted as signs of ambivalence and often taken too seriously.",
+    "char_count": 148
+  },
+  {
+    "id": 5966,
+    "fra": "Au fur et à mesure que l'avion s'approchait de turbulences, le pilote demanda aux passagers à bord de l'avion d'attacher leurs ceintures de sécurité.",
+    "eng": "As the plane was approaching turbulence, the pilot asked the passengers aboard the plane to fasten their seat belts.",
+    "char_count": 149
+  },
+  {
+    "id": 5967,
+    "fra": "Peter était un joueur de jeux vidéo altruiste ; il donnait des objets aux gens qui en avaient besoin, plutôt que de les vendre par intérêt personnel.",
+    "eng": "Peter was an altruistic video game player; he would give items to people who needed them, rather than selling them for personal profit.",
+    "char_count": 149
+  },
+  {
+    "id": 5968,
+    "fra": "Je suppose que mon point de vue sur l’amitié est assez morne parce que je n’ai jamais réellement eu à compter sur qui que ce soit pour quoi que soit.",
+    "eng": "I guess my view on friendship is pretty bleak because I've never really had to rely on anyone for anything.",
+    "char_count": 149
+  },
+  {
+    "id": 5969,
+    "fra": "Toute œuvre d'un homme, que ce soit littérature ou musique ou image ou architecture ou quoi que ce soit d'autre, est toujours un portrait de lui-même.",
+    "eng": "Every man's work, whether it be literature or music or a picture or architecture or anything else, is always a portrait of himself.",
+    "char_count": 150
+  },
+  {
+    "id": 5970,
+    "fra": "Au fur et à mesure que les siècles passaient et plus l'Angleterre se peuplait, le peuple constata que son approvisionnement devenait un grand problème.",
+    "eng": "As the centuries went by and England became more crowded, the people found their food supply a great problem.",
+    "char_count": 151
+  },
+  {
+    "id": 5971,
+    "fra": "Bien que les forêts tropicales ne couvrent que 2% de la surface de la terre, plus de la moitié des espèces animales, végétales et des insectes y vivent.",
+    "eng": "Although rainforests make up only two percent of the earth's surface, over half the world's wild plant, animal and insect species live there.",
+    "char_count": 152
+  },
+  {
+    "id": 5972,
+    "fra": "Après avoir enterré d'innombrables fois la hache de guerre, nous l'avons toujours redéterrée. Il ne semble pas qu'il y ait quelque signe de paix durable.",
+    "eng": "After countless burials of the hatchet, we always dig it up again. There doesn't seem to be any sign of an ever-lasting peace.",
+    "char_count": 153
+  },
+  {
+    "id": 5973,
+    "fra": "Quand le corps est touché, des récepteurs dans la peau envoient des messages au cerveau causant la libération de produits chimiques tels que l'endorphine.",
+    "eng": "When the body is touched, receptors in the skin send messages to the brain causing the release of chemicals such as endorphins.",
+    "char_count": 154
+  },
+  {
+    "id": 5974,
+    "fra": "Quand je demande aux gens ce qu'ils regrettent le plus concernant le lycée, ils répondent presque tous la même chose : qu'ils ont perdu tellement de temps.",
+    "eng": "When I ask people what they regret most about high school, they nearly all say the same thing: that they wasted so much time.",
+    "char_count": 155
+  },
+  {
+    "id": 5975,
+    "fra": "Sa rédaction ne donnait qu’une analyse superficielle du problème, donc ce fut pour lui une réelle surprise lorsqu’il obtint la meilleure note de la classe.",
+    "eng": "His essay gave only a superficial analysis of the problem, so it was a real surprise to him when he got the highest grade in the class.",
+    "char_count": 155
+  },
+  {
+    "id": 5976,
+    "fra": "Les professeurs devraient tout expliquer en détail, ne pas être succincts et toujours dire à leurs étudiants de lire leurs livres quand ils rentrent chez eux.",
+    "eng": "Professors should explain everything in detail, not be succinct and always tell students to go home and read their books.",
+    "char_count": 158
+  },
+  {
+    "id": 5977,
+    "fra": "Le 18 mai, un jeune couple japonais a été arrêté après que leur bébé âgé d'un an a été retrouvé enveloppé dans un sac plastique et abandonné dans un caniveau.",
+    "eng": "On May 18, a young Japanese couple was arrested after their one-year-old baby was found wrapped in a plastic bag and dumped in a gutter.",
+    "char_count": 158
+  },
+  {
+    "id": 5978,
+    "fra": "J'aimerais pouvoir m'inquiéter plus pour mes notes mais il semblerait qu'à un certain moment de ma vie, j'ai décidé que cela n'était finalement pas si important.",
+    "eng": "I wish I could care more about my grades but it seems that, at a certain point of my life, I decided they wouldn't be so important anymore.",
+    "char_count": 161
+  },
+  {
+    "id": 5979,
+    "fra": "Un mathématicien est un homme qui ne comprend pas seulement une pensée qui lui est exposée, mais qui voit aussi sur quelle erreur de raisonnement elle est fondée.",
+    "eng": "A mathematician is a man who not only understands the idea put forth before him, but who sees as well the error in its foundations.",
+    "char_count": 162
+  },
+  {
+    "id": 5980,
+    "fra": "Les investissements de capitaux projetés cette année par d'importantes sociétés japonaises ont été révisés à la hausse à cause d'une conjoncture économique favorable.",
+    "eng": "Capital investments planned by major Japanese businesses for this year have been revised upward in view of an improving economic outlook.",
+    "char_count": 166
+  },
+  {
+    "id": 5981,
+    "fra": "Les nombres premiers sont comme la vie, ils sont tout à fait logiques, mais il est impossible d'en trouver les règles, même si on consacre tout son temps à y réfléchir.",
+    "eng": "Prime numbers are like life; they are completely logical, but impossible to find the rules for, even if you spend all your time thinking about it.",
+    "char_count": 168
+  },
+  {
+    "id": 5982,
+    "fra": "« Tu vois, dit le frère ainé, j'avais raison. J'ai vécu ici tranquille et bien, tandis que vous, bien qu'ayant pu être roi, avez traversé un bon nombre de difficultés. »",
+    "eng": "You see, said the elder brother, \"I was right. Here I have lived quietly and well, while you, though you may have been a king, have seen a great deal of trouble.\"",
+    "char_count": 169
+  },
+  {
+    "id": 5983,
+    "fra": "Les mathématiciens sont comme les Français : quoi que vous leur disiez ils le traduisent dans leur propre langue et le transforment en quelque chose de totalement différent.",
+    "eng": "Mathematicians are like French people: whatever you tell them they translate it into their own language and turn it into something totally different.",
+    "char_count": 173
+  },
+  {
+    "id": 5984,
+    "fra": "Si on lève un sourcil, ça peut signifier « J'ai envie d'avoir des relations sexuelles avec toi » mais aussi « Je trouve que ce que tu viens de dire est complètement idiot. »",
+    "eng": "If you raise an eyebrow, it can mean \"I want to have sex with you\", but also \"I find that what you just said is completely idiotic.\"",
+    "char_count": 173
+  },
+  {
+    "id": 5985,
+    "fra": "Quelques scientifiques pensent que les dauphins sont les animaux les plus intelligents du monde, les hommes mis à part, et que nous serons, un jour, capables de parler avec eux.",
+    "eng": "Some scientists think that dolphins are the most intelligent animals in the world except for man, and that we may be able to talk with them one day.",
+    "char_count": 177
+  },
+  {
+    "id": 5986,
+    "fra": "David a un vif intérêt pour l'esthétique - les qualités qui rendent une peinture, une sculpture, une composition musicale ou un poème agréable à l'œil, à l'oreille ou à l'esprit.",
+    "eng": "David has a keen interest in aesthetics — the qualities that make a painting, sculpture, musical composition, or poem pleasing to the eye, ear, or mind.",
+    "char_count": 178
+  },
+  {
+    "id": 5987,
+    "fra": "La cécité est responsable d'un nombre sidérant de problèmes de santé, de souffrance, et de perte de dignité et de diminution de la qualité de vie de personnes dans le monde entier.",
+    "eng": "Blindness is responsible for a staggering toll of poor health, suffering, and loss of dignity and diminution in the quality of lives of people worldwide.",
+    "char_count": 180
+  },
+  {
+    "id": 5988,
+    "fra": "Bien que son séjour en Europe fut éphémère, Spenser sentait qu'il avait beaucoup plus appris sur les interactions avec les autres en voyageant qu'il ne l'avait fait à l'université.",
+    "eng": "Though his stay in Europe was transient, Spenser felt he had learned much more about interactions with other people from traveling than he did at college.",
+    "char_count": 180
+  },
+  {
+    "id": 5989,
+    "fra": "Les boissons et la nourriture étaient servies avec une telle profusion au mariage que les jeunes mariés commencèrent à se demander s'ils n'auraient pas dû inviter plus de convives.",
+    "eng": "Food and drink were served in such profusion at the wedding that the bride and groom began to wonder if they should not have invited more guests.",
+    "char_count": 180
+  },
+  {
+    "id": 5990,
+    "fra": "Le caractère obligatoire de la scolarité est rarement analysé dans la multitude d'ouvrages consacrés à l'étude des divers moyens de développer chez les enfants un désir d'apprendre.",
+    "eng": "The mandatory character of schooling is rarely analyzed in the multitude of works dedicated to the study of the various ways to develop within children the desire to learn.",
+    "char_count": 181
+  },
+  {
+    "id": 5991,
+    "fra": "Le cours d’analyse commence avec les notions fondamentales de la logique mathématique, des techniques de démonstration importantes et la construction des nombres réels et complexes.",
+    "eng": "Courses in analysis begin with the fundamental notions of mathematical logic, important proof techniques, and the construction of real and complex numbers.",
+    "char_count": 181
+  },
+  {
+    "id": 5992,
+    "fra": "Les filles sont plus à même que les garçons d'être mal nourries, de souffrir de pauvreté, de faire face à la violence et de se voir refuser une éducation, d'après un nouveau rapport.",
+    "eng": "Girls are more likely than boys to be malnourished, suffer poverty, face violence and be refused an education, according to a new report.",
+    "char_count": 182
+  },
+  {
+    "id": 5993,
+    "fra": "La police est douée pour comprendre que quelqu'un a volé ma carte de crédit et a amassé plein d'argent. C'est beaucoup plus dur de leur faire avaler que \"quelqu'un a volé mon épée magique\".",
+    "eng": "The police are really good at understanding \"Someone stole my credit card and ran up a lot of charges.\" It's a lot harder to get them to buy into \"Someone stole my magic sword.\"",
+    "char_count": 189
+  },
+  {
+    "id": 5994,
+    "fra": "Les enfants japonais élevés à l'étranger font parfois face à une grande difficulté pour s'adapter aux écoles japonaises après leur retour, même s'ils possèdent une parfaite maîtrise du japonais.",
+    "eng": "Japanese children brought up overseas sometimes face great difficulty in adjusting themselves to Japanese schools after returning, even though they have a perfect command of Japanese.",
+    "char_count": 194
+  },
+  {
+    "id": 5995,
+    "fra": "Même maintenant, des années après la Guerre Froide, il y a encore beaucoup de rancoeur entre les Russes et les Allemands, en particulier dans les régions autrefois occupées par l'Union Soviétique.",
+    "eng": "Even now, many years after the Cold War, there is still much rancor between the Russians and the Germans, especially in areas once occupied by the Soviet Union.",
+    "char_count": 196
+  },
+  {
+    "id": 5996,
+    "fra": "Ne perdez jamais de vue l'importance d'un beau lever de soleil, ou de regarder vos enfants dormir, ou de l'odeur de la pluie. Ce sont souvent les petites choses qui importent vraiment dans la vie.",
+    "eng": "Never lose sight of the importance of a beautiful sunrise, or watching your kids sleep, or the smell of rain. It's often the small things that really matter in life.",
+    "char_count": 196
+  },
+  {
+    "id": 5997,
+    "fra": "Même à la fin du dix-neuvième siècle, les marins de la marine britannique n'étaient pas autorisés à utiliser des couteaux et des fourchettes parce que c'était considéré comme un signe de faiblesse.",
+    "eng": "Even at the end of the nineteenth century, sailors in the British Navy were not permitted to use knives and forks because using them was considered a sign of weakness.",
+    "char_count": 197
+  },
+  {
+    "id": 5998,
+    "fra": "Je ne le pousserais pas à bout. Tu ne sais pas ce qu'il pourrait faire. À mon avis, on n'est jamais trop prudent. On dit même qu'une souris à l'agonie mordrait un chat si elle n'avait pas le choix.",
+    "eng": "I wouldn't push him too far. You don't know what he might do. I'd say you can't be too careful. They say even a doomed mouse will bite a cat if he has no choice.",
+    "char_count": 197
+  },
+  {
+    "id": 5999,
+    "fra": "À propos du mariage... C'est une chance unique d'être le centre de l'attention, donc plutôt que de faire ça à la va-vite, pourquoi ne pas mettre les petits plats dans les grands et en faire un spectacle grandiose ?",
+    "eng": "About the wedding ... It's a once-in-a-lifetime chance to be the main attraction, so instead of doing it on a shoestring, why not pull out all the stops and make a great show of it?",
+    "char_count": 214
+  },
+  {
+    "id": 6000,
+    "fra": "À l'époque Tony était au milieu de la soixantaine et encore capable de travailler dur, mais il avait un camion flambant-neuf, une nouvelle tondeuse, un ensemble d'autres équipements et trois personnes pour l'aider.",
+    "eng": "By then Tony was in his middle sixties and still able to work hard, but he had a brand-new truck now, a new mower, a lot of other equipment and three people helping him.",
+    "char_count": 214
+  }
+]

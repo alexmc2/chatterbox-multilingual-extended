@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "fra": "Faux.",
+    "eng": "Wrong.",
+    "char_count": 5
+  },
+  {
+    "id": 2,
+    "fra": "Non !",
+    "eng": "No!",
+    "char_count": 5
+  },
+  {
+    "id": 3,
+    "fra": "Sors.",
+    "eng": "Get out.",
+    "char_count": 5
+  },
+  {
+    "id": 4,
+    "fra": "Santé !",
+    "eng": "Bottoms up!",
+    "char_count": 7
+  },
+  {
+    "id": 5,
+    "fra": "Pardon ?",
+    "eng": "Come again?",
+    "char_count": 8
+  },
+  {
+    "id": 6,
+    "fra": "À midi !",
+    "eng": "See you at lunch.",
+    "char_count": 8
+  },
+  {
+    "id": 7,
+    "fra": "Il pleut.",
+    "eng": "It is raining.",
+    "char_count": 9
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": 2401,
+    "fra": "Je ne supporte plus sa fainéantise.",
+    "eng": "I cannot put up with his idleness any longer.",
+    "char_count": 35
+  },
+  {
+    "id": 2402,
+    "fra": "J'ai déjà mangé mon petit déjeuner.",
+    "eng": "I've already eaten breakfast.",
+    "char_count": 35
+  },
+  {
+    "id": 2403,
+    "fra": "Je suis plutôt meilleur maintenant.",
+    "eng": "I'm rather better now.",
+    "char_count": 35
+  },
+  {
+    "id": 2404,
+    "fra": "Je peux courir aussi vite que Bill.",
+    "eng": "I can run as fast as Bill.",
+    "char_count": 35
+  },
+  {
+    "id": 2405,
+    "fra": "J'ai assez d'argent pour l'acheter.",
+    "eng": "I have money enough to buy it.",
+    "char_count": 35
+  },
+  {
+    "id": 2406,
+    "fra": "Je viens de finir de lire le livre.",
+    "eng": "I have just finished reading the book.",
+    "char_count": 35
+  },
+  {
+    "id": 2407,
+    "fra": "J'ai un rapport avec cette affaire.",
+    "eng": "I have a concern in the business.",
+    "char_count": 35
+  },
+  {
+    "id": 2408,
+    "fra": "Cette lecture m'a vraiment stimulé.",
+    "eng": "That lecture really stimulated me.",
+    "char_count": 35
+  },
+  {
+    "id": 2409,
+    "fra": "J'ai connaissance de cette coutume.",
+    "eng": "I am acquainted with the custom.",
+    "char_count": 35
+  },
+  {
+    "id": 2410,
+    "fra": "J'ai rencontré un certain M. Smith.",
+    "eng": "I met a certain Mr Smith.",
+    "char_count": 35
+  },
+  {
+    "id": 2411,
+    "fra": "J'ai visité Kyoto il y a longtemps.",
+    "eng": "I visited Kyoto long ago.",
+    "char_count": 35
+  },
+  {
+    "id": 2412,
+    "fra": "Je ne cours pas aussi vite que Jim.",
+    "eng": "I cannot run as fast as Jim.",
+    "char_count": 35
+  },
+  {
+    "id": 2413,
+    "fra": "Je suis un étudiant de cette école.",
+    "eng": "I am a student of this school.",
+    "char_count": 35
+  },
+  {
+    "id": 2414,
+    "fra": "Je vais rester ici plusieurs jours.",
+    "eng": "I'm going to stay here for several days.",
+    "char_count": 35
+  },
+  {
+    "id": 2415,
+    "fra": "Je me lève d'habitude à six heures.",
+    "eng": "I usually get up at six.",
+    "char_count": 35
+  },
+  {
+    "id": 2416,
+    "fra": "Puis-je regarder ton prochain jeu ?",
+    "eng": "Can I watch your next game?",
+    "char_count": 35
+  },
+  {
+    "id": 2417,
+    "fra": "Je veux que tu chantes une chanson.",
+    "eng": "I want you to sing a song.",
+    "char_count": 35
+  },
+  {
+    "id": 2418,
+    "fra": "Je l'ai attendu jusqu'à dix heures.",
+    "eng": "I waited for him till ten.",
+    "char_count": 35
+  },
+  {
+    "id": 2419,
+    "fra": "Je crois que le garçon est honnête.",
+    "eng": "I believe that the boy is honest.",
+    "char_count": 35
+  },
+  {
+    "id": 2420,
+    "fra": "Mon père ne sera pas occupé demain.",
+    "eng": "My father will not be busy tomorrow.",
+    "char_count": 35
+  },
+  {
+    "id": 2421,
+    "fra": "Mon père va à l'église le dimanche.",
+    "eng": "My father goes to church on Sunday.",
+    "char_count": 35
+  },
+  {
+    "id": 2422,
+    "fra": "Mon fils veut ressembler à Lincoln.",
+    "eng": "My son wants to be a Lincoln.",
+    "char_count": 35
+  },
+  {
+    "id": 2423,
+    "fra": "Ma grand-mère habite à la campagne.",
+    "eng": "My grandmother lives in the country.",
+    "char_count": 35
+  },
+  {
+    "id": 2424,
+    "fra": "Laissez-moi vous présenter ma sœur.",
+    "eng": "Let me introduce my sister.",
+    "char_count": 35
+  },
+  {
+    "id": 2425,
+    "fra": "J'ai entendu un bruit derrière moi.",
+    "eng": "I heard a noise behind me.",
+    "char_count": 35
+  },
+  {
+    "id": 2426,
+    "fra": "Ne vous appuyez pas sur mon bureau.",
+    "eng": "Don't lean on my desk.",
+    "char_count": 35
+  },
+  {
+    "id": 2427,
+    "fra": "Ma maison se tient sur une colline.",
+    "eng": "My house stands on a hill.",
+    "char_count": 35
+  },
+  {
+    "id": 2428,
+    "fra": "Ma maison est complètement assurée.",
+    "eng": "My house is fully insured.",
+    "char_count": 35
+  },
+  {
+    "id": 2429,
+    "fra": "Ne mets pas de sucre dans mon café.",
+    "eng": "Don't put sugar in my coffee.",
+    "char_count": 35
+  },
+  {
+    "id": 2430,
+    "fra": "Mon oncle conduit une voiture Ford.",
+    "eng": "My uncle drives a Ford.",
+    "char_count": 35
+  },
+  {
+    "id": 2431,
+    "fra": "Nous sommes tous les deux de Tampa.",
+    "eng": "Both of us are from Tampa.",
+    "char_count": 35
+  },
+  {
+    "id": 2432,
+    "fra": "Il m'a attendu jusqu'à mon arrivée.",
+    "eng": "He waited for me until I arrived.",
+    "char_count": 35
+  },
+  {
+    "id": 2433,
+    "fra": "Les enfants jouent avec les jouets.",
+    "eng": "Children play with toys.",
+    "char_count": 35
+  },
+  {
+    "id": 2434,
+    "fra": "L'Histoire n'est pas sa spécialité.",
+    "eng": "History is not his major subject.",
+    "char_count": 35
+  },
+  {
+    "id": 2435,
+    "fra": "Je suis désolé mais je ne peux pas.",
+    "eng": "I'm afraid I can't.",
+    "char_count": 35
+  },
+  {
+    "id": 2436,
+    "fra": "C'était un jour idéal pour marcher.",
+    "eng": "It was an ideal day for walking.",
+    "char_count": 35
+  },
+  {
+    "id": 2437,
+    "fra": "C'est comme si je parlais à un mur.",
+    "eng": "It's like I was talking to a wall.",
+    "char_count": 35
+  },
+  {
+    "id": 2438,
+    "fra": "Je n'ai pu dormir la nuit dernière.",
+    "eng": "I couldn't sleep last night.",
+    "char_count": 35
+  },
+  {
+    "id": 2439,
+    "fra": "J'ai rencontré mon ami dans la rue.",
+    "eng": "I met my friend on the street.",
+    "char_count": 35
+  },
+  {
+    "id": 2440,
+    "fra": "Il faisait terriblement froid hier.",
+    "eng": "It was terribly cold yesterday.",
+    "char_count": 35
+  },
+  {
+    "id": 2441,
+    "fra": "Je ne suis pas en forme maintenant.",
+    "eng": "I'm not in good shape now.",
+    "char_count": 35
+  },
+  {
+    "id": 2442,
+    "fra": "Ne confonds pas le sucre et le sel.",
+    "eng": "Don't confuse sugar with salt.",
+    "char_count": 35
+  },
+  {
+    "id": 2443,
+    "fra": "Je n'ai pas envie de bière ce soir.",
+    "eng": "I do not feel like drinking beer tonight.",
+    "char_count": 35
+  },
+  {
+    "id": 2444,
+    "fra": "Noël tombe un dimanche cette année.",
+    "eng": "Christmas falls on Sunday this year.",
+    "char_count": 35
+  },
+  {
+    "id": 2445,
+    "fra": "Il fait trop chaud pour travailler.",
+    "eng": "It is too hot to work.",
+    "char_count": 35
+  },
+  {
+    "id": 2446,
+    "fra": "Ce matin j'ai beaucoup de courrier.",
+    "eng": "I got a lot of mail this morning.",
+    "char_count": 35
+  },
+  {
+    "id": 2447,
+    "fra": "L'avez-vous vu à la gare ce matin ?",
+    "eng": "Did you see him at the station this morning?",
+    "char_count": 35
+  },
+  {
+    "id": 2448,
+    "fra": "J'ai été très occupé cette semaine.",
+    "eng": "I have been very busy this week.",
+    "char_count": 35
+  },
+  {
+    "id": 2449,
+    "fra": "Les États-Unis comportent 50 États.",
+    "eng": "The United States comprises 50 states.",
+    "char_count": 35
+  },
+  {
+    "id": 2450,
+    "fra": "N'y va pas si tu n'en as pas envie.",
+    "eng": "Don't go if you don't want to.",
+    "char_count": 35
+  },
+  {
+    "id": 2451,
+    "fra": "J'ai ouvert la boîte par curiosité.",
+    "eng": "I opened the box out of curiosity.",
+    "char_count": 35
+  },
+  {
+    "id": 2452,
+    "fra": "Prenez-en tant que vous en voulez !",
+    "eng": "Take as much as you like.",
+    "char_count": 35
+  },
+  {
+    "id": 2453,
+    "fra": "Peux-tu voir quelque chose là-bas ?",
+    "eng": "Can you see anything over there?",
+    "char_count": 35
+  },
+  {
+    "id": 2454,
+    "fra": "Ajoutez la saveur du citron au thé.",
+    "eng": "Please add lemon flavor to the tea.",
+    "char_count": 35
+  },
+  {
+    "id": 2455,
+    "fra": "Un chien est un animal intelligent.",
+    "eng": "A dog is a clever animal.",
+    "char_count": 35
+  },
+  {
+    "id": 2456,
+    "fra": "Un chien aboiera sur les étrangers.",
+    "eng": "A dog will bark at strangers.",
+    "char_count": 35
+  },
+  {
+    "id": 2457,
+    "fra": "Un chien a un flair très développé.",
+    "eng": "A dog has a sharp sense of smell.",
+    "char_count": 35
+  },
+  {
+    "id": 2458,
+    "fra": "J'ai toujours le cafard les lundis.",
+    "eng": "I always feel blue on Mondays.",
+    "char_count": 35
+  },
+  {
+    "id": 2459,
+    "fra": "Ne jugez jamais sur les apparences.",
+    "eng": "Never judge by appearance.",
+    "char_count": 35
+  },
+  {
+    "id": 2460,
+    "fra": "J'espère que votre frère est mieux.",
+    "eng": "I hope your brother is better.",
+    "char_count": 35
+  },
+  {
+    "id": 2461,
+    "fra": "Une foule se rassembla sur le lieu.",
+    "eng": "A crowd gathered at the scene.",
+    "char_count": 35
+  },
+  {
+    "id": 2462,
+    "fra": "Devez-vous y aller tous les jours ?",
+    "eng": "Do you have to go there every day?",
+    "char_count": 35
+  },
+  {
+    "id": 2463,
+    "fra": "Peux-tu lire ce caractère chinois ?",
+    "eng": "Can you read this kanji?",
+    "char_count": 35
+  },
+  {
+    "id": 2464,
+    "fra": "Choisissez votre raquette préférée.",
+    "eng": "Choose your favorite racket.",
+    "char_count": 35
+  },
+  {
+    "id": 2465,
+    "fra": "J'ai aimé ton idée et l'ai adoptée.",
+    "eng": "I liked your idea and adopted it.",
+    "char_count": 35
+  },
+  {
+    "id": 2466,
+    "fra": "J'ai envie que tu viennes avec moi.",
+    "eng": "I would like you to come with me.",
+    "char_count": 35
+  },
+  {
+    "id": 2467,
+    "fra": "Vous avez tous fait du bon travail.",
+    "eng": "All of you did good work.",
+    "char_count": 35
+  },
+  {
+    "id": 2468,
+    "fra": "Quel âge aurez-vous l'an prochain ?",
+    "eng": "How old will you be next year?",
+    "char_count": 35
+  },
+  {
+    "id": 2469,
+    "fra": "Je suis heureux que tu l'aies aimé.",
+    "eng": "I'm glad you liked it.",
+    "char_count": 35
+  },
+  {
+    "id": 2470,
+    "fra": "Un ours ne touchera pas un cadavre.",
+    "eng": "A bear will not touch a dead body.",
+    "char_count": 35
+  },
+  {
+    "id": 2471,
+    "fra": "Garde l'argent dans un endroit sûr.",
+    "eng": "Keep the money in a safe place.",
+    "char_count": 35
+  },
+  {
+    "id": 2472,
+    "fra": "Ne tuez pas la poule aux œufs d'or.",
+    "eng": "Don't kill the goose that lays the golden eggs.",
+    "char_count": 35
+  },
+  {
+    "id": 2473,
+    "fra": "Un feu est apparu près de chez moi.",
+    "eng": "A fire broke out near my house.",
+    "char_count": 35
+  },
+  {
+    "id": 2474,
+    "fra": "J'ai hâte d'avoir de tes nouvelles.",
+    "eng": "I am looking forward to hearing from you soon.",
+    "char_count": 35
+  },
+  {
+    "id": 2475,
+    "fra": "Ne fume pas quand tu es en service.",
+    "eng": "Don't smoke while you are on duty.",
+    "char_count": 35
+  },
+  {
+    "id": 2476,
+    "fra": "Je te conseille d'arrêter de fumer.",
+    "eng": "I advise you to stop smoking.",
+    "char_count": 35
+  },
+  {
+    "id": 2477,
+    "fra": "Kyoto vaut la peine d'être visitée.",
+    "eng": "Kyoto is worth visiting.",
+    "char_count": 35
+  },
+  {
+    "id": 2478,
+    "fra": "Dépêche-toi, ou tu seras en retard.",
+    "eng": "Hurry up, or you'll be late.",
+    "char_count": 35
+  },
+  {
+    "id": 2479,
+    "fra": "Je me précipitai hors de la maison.",
+    "eng": "I rushed out of my house.",
+    "char_count": 35
+  },
+  {
+    "id": 2480,
+    "fra": "Une infirmière prit ma température.",
+    "eng": "A nurse took my temperature.",
+    "char_count": 35
+  },
+  {
+    "id": 2481,
+    "fra": "J'espère que tu as fait bon voyage.",
+    "eng": "I hope you had a nice trip.",
+    "char_count": 35
+  },
+  {
+    "id": 2482,
+    "fra": "Ne sois pas en retard pour l'école.",
+    "eng": "Don't be late for school.",
+    "char_count": 35
+  },
+  {
+    "id": 2483,
+    "fra": "Je n'ai rien de particulier à dire.",
+    "eng": "I have nothing particular to say.",
+    "char_count": 35
+  },
+  {
+    "id": 2484,
+    "fra": "Rester chez soi n'a rien d'amusant.",
+    "eng": "Staying home isn't fun.",
+    "char_count": 35
+  },
+  {
+    "id": 2485,
+    "fra": "L'été est la saison que je préfère.",
+    "eng": "Summer is the season I like best.",
+    "char_count": 35
+  },
+  {
+    "id": 2486,
+    "fra": "J'aimerais rejoindre le camp d'été.",
+    "eng": "I would like to join the summer camp.",
+    "char_count": 35
+  },
+  {
+    "id": 2487,
+    "fra": "Vous restez pour combien de temps ?",
+    "eng": "How long are you going to stay here?",
+    "char_count": 35
+  },
+  {
+    "id": 2488,
+    "fra": "Apporte-moi quelque chose à manger.",
+    "eng": "Bring me something to eat.",
+    "char_count": 35
+  },
+  {
+    "id": 2489,
+    "fra": "J'ai une idée de ce qui est arrivé.",
+    "eng": "I have some idea of what happened.",
+    "char_count": 35
+  },
+  {
+    "id": 2490,
+    "fra": "La musique rend notre vie heureuse.",
+    "eng": "Music makes our life happy.",
+    "char_count": 35
+  },
+  {
+    "id": 2491,
+    "fra": "Passez-moi le sel, s'il vous plaît.",
+    "eng": "Pass me the salt, will you?",
+    "char_count": 35
+  },
+  {
+    "id": 2492,
+    "fra": "Les choses au loin semblent floues.",
+    "eng": "Distant things look blurred.",
+    "char_count": 35
+  },
+  {
+    "id": 2493,
+    "fra": "J'ai vu une silhouette s'approcher.",
+    "eng": "I saw a figure approaching in the distance.",
+    "char_count": 35
+  },
+  {
+    "id": 2494,
+    "fra": "Dépose-moi à la gare s'il te plaît.",
+    "eng": "Please drop me off at the station.",
+    "char_count": 35
+  },
+  {
+    "id": 2495,
+    "fra": "Nos rues s'inondent quand il pleut.",
+    "eng": "Our streets flood when we have rain.",
+    "char_count": 35
+  },
+  {
+    "id": 2496,
+    "fra": "Elle cria « À l'aide ! À l'aide ! »",
+    "eng": "Help, help, she cried.",
+    "char_count": 35
+  },
+  {
+    "id": 2497,
+    "fra": "1, 3 et 5 sont des nombres impairs.",
+    "eng": "One, three, and five are odd numbers.",
+    "char_count": 35
+  },
+  {
+    "id": 2498,
+    "fra": "Je serai de retour dans 10 minutes.",
+    "eng": "I'll be back in ten minutes.",
+    "char_count": 35
+  },
+  {
+    "id": 2499,
+    "fra": "Peux-tu me prêter cinq cents yens ?",
+    "eng": "Can you lend me 500 yen?",
+    "char_count": 35
+  },
+  {
+    "id": 2500,
+    "fra": "Commençons à partir de huit heures.",
+    "eng": "Let's get cracking at 8.",
+    "char_count": 35
+  }
+]

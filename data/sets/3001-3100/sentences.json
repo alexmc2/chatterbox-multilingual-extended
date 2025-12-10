@@ -1,0 +1,602 @@
+[
+  {
+    "id": 3001,
+    "fra": "Les grenouilles ont peur des serpents.",
+    "eng": "Frogs are afraid of snakes.",
+    "char_count": 38
+  },
+  {
+    "id": 3002,
+    "fra": "Un bon nombre de personnes étaient là.",
+    "eng": "A good many people were there.",
+    "char_count": 38
+  },
+  {
+    "id": 3003,
+    "fra": "Gulliver a voyagé en quête d'aventure.",
+    "eng": "Gulliver traveled in quest of adventure.",
+    "char_count": 38
+  },
+  {
+    "id": 3004,
+    "fra": "Les chrétiens croient en Jésus-Christ.",
+    "eng": "Christians believe in Jesus Christ.",
+    "char_count": 38
+  },
+  {
+    "id": 3005,
+    "fra": "Joli coucher de soleil, n'est-ce pas ?",
+    "eng": "A beautiful sunset, isn't it?",
+    "char_count": 38
+  },
+  {
+    "id": 3006,
+    "fra": "Tant que cela n'interrompt pas le jeu.",
+    "eng": "As long as it doesn't interrupt the game!",
+    "char_count": 38
+  },
+  {
+    "id": 3007,
+    "fra": "À l'aéroport Kennedy, s'il vous plaît.",
+    "eng": "Kennedy Airport, please.",
+    "char_count": 38
+  },
+  {
+    "id": 3008,
+    "fra": "Vendez-vous des lampes de bureau ici ?",
+    "eng": "Do you sell desk lamps here?",
+    "char_count": 38
+  },
+  {
+    "id": 3009,
+    "fra": "Combien de temps as-tu travaillé ici ?",
+    "eng": "How long have you been working here?",
+    "char_count": 38
+  },
+  {
+    "id": 3010,
+    "fra": "Tester le QI de Koko n'est pas facile.",
+    "eng": "Testing Koko's IQ is not easy.",
+    "char_count": 38
+  },
+  {
+    "id": 3011,
+    "fra": "Quand je serai grand, je veux être roi.",
+    "eng": "When I grow up, I want to be a king.",
+    "char_count": 39
+  },
+  {
+    "id": 3012,
+    "fra": "J'aimerais bien pouvoir aller au Japon.",
+    "eng": "I wish I could go to Japan.",
+    "char_count": 39
+  },
+  {
+    "id": 3013,
+    "fra": "La police vous fera trouver les balles.",
+    "eng": "The police will get you to find the bullets.",
+    "char_count": 39
+  },
+  {
+    "id": 3014,
+    "fra": "Oh, mon pantalon blanc ! Il était neuf.",
+    "eng": "Oh, my white pants! And they were new.",
+    "char_count": 39
+  },
+  {
+    "id": 3015,
+    "fra": "Allez, joue avec moi, j'm'ennuie trop !",
+    "eng": "Come on, play with me, I'm so bored!",
+    "char_count": 39
+  },
+  {
+    "id": 3016,
+    "fra": "Parlez plus lentement s'il vous plaît !",
+    "eng": "Speak more slowly, please!",
+    "char_count": 39
+  },
+  {
+    "id": 3017,
+    "fra": "Un mètre cube correspond à 1000 litres.",
+    "eng": "A cubic meter corresponds to 1000 liters.",
+    "char_count": 39
+  },
+  {
+    "id": 3018,
+    "fra": "Qu'est-ce qui t'a fait changer d'avis ?",
+    "eng": "What made you change your mind?",
+    "char_count": 39
+  },
+  {
+    "id": 3019,
+    "fra": "J'ai changé la disposition de mon site.",
+    "eng": "I've changed my website's layout.",
+    "char_count": 39
+  },
+  {
+    "id": 3020,
+    "fra": "Je n'ai jamais dit que j'étais fragile.",
+    "eng": "I never said I was fragile.",
+    "char_count": 39
+  },
+  {
+    "id": 3021,
+    "fra": "Je ne veux plus t'entendre te plaindre.",
+    "eng": "I don't want to hear any more of your complaining.",
+    "char_count": 39
+  },
+  {
+    "id": 3022,
+    "fra": "Ouais ! J’ai gagné deux fois de suite !",
+    "eng": "Yes! I won twice in a row!",
+    "char_count": 39
+  },
+  {
+    "id": 3023,
+    "fra": "Il a passé la soirée à lire un bouquin.",
+    "eng": "He spent the evening reading a book.",
+    "char_count": 39
+  },
+  {
+    "id": 3024,
+    "fra": "J'aimerais essayer la jupe bleue rayée.",
+    "eng": "I would like to try the blue striped skirt.",
+    "char_count": 39
+  },
+  {
+    "id": 3025,
+    "fra": "Je veux récupérer mes objets de valeur.",
+    "eng": "I want to recover my valuables.",
+    "char_count": 39
+  },
+  {
+    "id": 3026,
+    "fra": "L'eau gèle à zéro degré, n'est-ce pas ?",
+    "eng": "Water freezes at zero degrees Celsius, doesn't it?",
+    "char_count": 39
+  },
+  {
+    "id": 3027,
+    "fra": "Vous n'avez pas besoin de venir demain.",
+    "eng": "You don't have to come tomorrow.",
+    "char_count": 39
+  },
+  {
+    "id": 3028,
+    "fra": "Je n'ai pas plus de dix livres anglais.",
+    "eng": "I have no more than ten English books.",
+    "char_count": 39
+  },
+  {
+    "id": 3029,
+    "fra": "Je suis entièrement d'accord avec vous.",
+    "eng": "I quite agree with you.",
+    "char_count": 39
+  },
+  {
+    "id": 3030,
+    "fra": "Je veux consacrer ma vie à l'éducation.",
+    "eng": "I want to devote my life to education.",
+    "char_count": 39
+  },
+  {
+    "id": 3031,
+    "fra": "Je désire acheter un nouvel ordinateur.",
+    "eng": "I want to buy a new computer.",
+    "char_count": 39
+  },
+  {
+    "id": 3032,
+    "fra": "Je lis au moins un livre tous les mois.",
+    "eng": "I read at least one book every month.",
+    "char_count": 39
+  },
+  {
+    "id": 3033,
+    "fra": "J'ai vu un koala pour la première fois.",
+    "eng": "I saw a koala for the first time.",
+    "char_count": 39
+  },
+  {
+    "id": 3034,
+    "fra": "J'ai fait plusieurs erreurs à l'examen.",
+    "eng": "I made several mistakes in the exam.",
+    "char_count": 39
+  },
+  {
+    "id": 3035,
+    "fra": "Je vais jouer au tennis cet après-midi.",
+    "eng": "I will play tennis this afternoon.",
+    "char_count": 39
+  },
+  {
+    "id": 3036,
+    "fra": "Je n'ai pas envie de sortir maintenant.",
+    "eng": "I don't feel like going out right now.",
+    "char_count": 39
+  },
+  {
+    "id": 3037,
+    "fra": "J'aime autant les chats que les chiens.",
+    "eng": "I like both dogs and cats.",
+    "char_count": 39
+  },
+  {
+    "id": 3038,
+    "fra": "J'ai la chance d'avoir une bonne santé.",
+    "eng": "I am blessed with good health.",
+    "char_count": 39
+  },
+  {
+    "id": 3039,
+    "fra": "Je ne dis jamais ce qui n'est pas vrai.",
+    "eng": "I never say what is not true.",
+    "char_count": 39
+  },
+  {
+    "id": 3040,
+    "fra": "J'ai un grand frère et une petite sœur.",
+    "eng": "I have one elder brother and a younger sister.",
+    "char_count": 39
+  },
+  {
+    "id": 3041,
+    "fra": "Je ne suis pas aussi occupé que Yoshio.",
+    "eng": "I am not as busy as Yoshio.",
+    "char_count": 39
+  },
+  {
+    "id": 3042,
+    "fra": "Je cultive des orchidées dans ma serre.",
+    "eng": "I grow orchids in my greenhouse.",
+    "char_count": 39
+  },
+  {
+    "id": 3043,
+    "fra": "J'ai reçu une lettre écrite en anglais.",
+    "eng": "I received a letter written in English.",
+    "char_count": 39
+  },
+  {
+    "id": 3044,
+    "fra": "J'aime plus les bananes que les pommes.",
+    "eng": "I like bananas more than apples.",
+    "char_count": 39
+  },
+  {
+    "id": 3045,
+    "fra": "J'ai trouvé votre maison difficilement.",
+    "eng": "I found your house with difficulty.",
+    "char_count": 39
+  },
+  {
+    "id": 3046,
+    "fra": "Je suis employé par un avocat français.",
+    "eng": "I'm employed by a French lawyer.",
+    "char_count": 39
+  },
+  {
+    "id": 3047,
+    "fra": "Je dois faire renouveler mon passeport.",
+    "eng": "I must renew my passport.",
+    "char_count": 39
+  },
+  {
+    "id": 3048,
+    "fra": "J'ai besoin de stylos, de cahiers, etc.",
+    "eng": "I need pens, notebooks and so on.",
+    "char_count": 39
+  },
+  {
+    "id": 3049,
+    "fra": "Avant tout, je prends soin de ma santé.",
+    "eng": "Above all, I take care of my health.",
+    "char_count": 39
+  },
+  {
+    "id": 3050,
+    "fra": "J'ai demandé à Tom d'ouvrir la fenêtre.",
+    "eng": "I asked Tom to open the window.",
+    "char_count": 39
+  },
+  {
+    "id": 3051,
+    "fra": "Je ne peux pas me passer de télévision.",
+    "eng": "I can't dispense with watching television.",
+    "char_count": 39
+  },
+  {
+    "id": 3052,
+    "fra": "Je suis d'accord avec lui sur ce point.",
+    "eng": "I agree with him on that point.",
+    "char_count": 39
+  },
+  {
+    "id": 3053,
+    "fra": "Je n'ai rien à voir avec cette affaire.",
+    "eng": "I have nothing to do with the affair.",
+    "char_count": 39
+  },
+  {
+    "id": 3054,
+    "fra": "Je n'ai pas pu dormir à cause du bruit.",
+    "eng": "I could not sleep because of the noise.",
+    "char_count": 39
+  },
+  {
+    "id": 3055,
+    "fra": "Je suis d'accord avec toi sur ce point.",
+    "eng": "I agree with you on this point.",
+    "char_count": 39
+  },
+  {
+    "id": 3056,
+    "fra": "Je viens de rentrer de Grande-Bretagne.",
+    "eng": "I have just returned from Britain.",
+    "char_count": 39
+  },
+  {
+    "id": 3057,
+    "fra": "J'étais occupé ces deux derniers jours.",
+    "eng": "I have been busy for two days.",
+    "char_count": 39
+  },
+  {
+    "id": 3058,
+    "fra": "Je ne lis que des histoires policières.",
+    "eng": "I read detective stories exclusively.",
+    "char_count": 39
+  },
+  {
+    "id": 3059,
+    "fra": "J'ai déjà travaillé dans un restaurant.",
+    "eng": "I once worked in a restaurant.",
+    "char_count": 39
+  },
+  {
+    "id": 3060,
+    "fra": "J'ai un ami dont le surnom est \"stylo\".",
+    "eng": "I have a friend whose nickname is \"Pencil.\"",
+    "char_count": 39
+  },
+  {
+    "id": 3061,
+    "fra": "Ma sœur aura treize ans l'été prochain.",
+    "eng": "My sister will be thirteen years old next summer.",
+    "char_count": 39
+  },
+  {
+    "id": 3062,
+    "fra": "Mon patron a été forcé de démissionner.",
+    "eng": "My boss was forced to resign.",
+    "char_count": 39
+  },
+  {
+    "id": 3063,
+    "fra": "Mon passe-temps est de lire des livres.",
+    "eng": "My hobby is reading novels.",
+    "char_count": 39
+  },
+  {
+    "id": 3064,
+    "fra": "Ma maison est couverte par l'assurance.",
+    "eng": "My house is covered by insurance.",
+    "char_count": 39
+  },
+  {
+    "id": 3065,
+    "fra": "J'ai un ami dont la femme est pianiste.",
+    "eng": "I have a friend whose wife is a pianist.",
+    "char_count": 39
+  },
+  {
+    "id": 3066,
+    "fra": "Nous avons tous regardé par la fenêtre.",
+    "eng": "All of us looked through the window.",
+    "char_count": 39
+  },
+  {
+    "id": 3067,
+    "fra": "Chante-nous une chanson, s'il te plaît.",
+    "eng": "Sing us a song, please.",
+    "char_count": 39
+  },
+  {
+    "id": 3068,
+    "fra": "Les morts ne racontent pas d'histoires.",
+    "eng": "Dead men tell no tales.",
+    "char_count": 39
+  },
+  {
+    "id": 3069,
+    "fra": "Je saigne facilement quand je me coupe.",
+    "eng": "I bleed easily when I am cut.",
+    "char_count": 39
+  },
+  {
+    "id": 3070,
+    "fra": "Les enfants sont passionnés d'aventure.",
+    "eng": "Children are fond of adventure.",
+    "char_count": 39
+  },
+  {
+    "id": 3071,
+    "fra": "J'ai été au Canada quand j'étais jeune.",
+    "eng": "I went to Canada when I was a child.",
+    "char_count": 39
+  },
+  {
+    "id": 3072,
+    "fra": "Ne sois pas indulgent avec les enfants.",
+    "eng": "Don't be soft with kids.",
+    "char_count": 39
+  },
+  {
+    "id": 3073,
+    "fra": "L'oxygène et l'hydrogène forment l'eau.",
+    "eng": "Oxygen and hydrogen make water.",
+    "char_count": 39
+  },
+  {
+    "id": 3074,
+    "fra": "Une montagne n'est pas forcément verte.",
+    "eng": "Mountains are not necessarily green.",
+    "char_count": 39
+  },
+  {
+    "id": 3075,
+    "fra": "Conduisez avec la plus grande prudence.",
+    "eng": "Drive with the utmost care.",
+    "char_count": 39
+  },
+  {
+    "id": 3076,
+    "fra": "Ma femme a fauté. Néanmoins, je l'aime.",
+    "eng": "My wife has faults. None the less, I love her.",
+    "char_count": 39
+  },
+  {
+    "id": 3077,
+    "fra": "Je n'ai pas envie de sortir cette nuit.",
+    "eng": "I don't feel like going out tonight.",
+    "char_count": 39
+  },
+  {
+    "id": 3078,
+    "fra": "Je suis libre jusqu'à 6 heures ce soir.",
+    "eng": "I am free till 6 o'clock this evening.",
+    "char_count": 39
+  },
+  {
+    "id": 3079,
+    "fra": "Aujourd'hui, j'ai un léger mal de tête.",
+    "eng": "I have a slight headache today.",
+    "char_count": 39
+  },
+  {
+    "id": 3080,
+    "fra": "Je pense qu'il va pleuvoir aujourd'hui.",
+    "eng": "I think it'll rain today.",
+    "char_count": 39
+  },
+  {
+    "id": 3081,
+    "fra": "Qu'est ce qu'il fait beau aujourd'hui !",
+    "eng": "How fine it is today.",
+    "char_count": 39
+  },
+  {
+    "id": 3082,
+    "fra": "Il fait horriblement chaud aujourd'hui.",
+    "eng": "It's awfully hot today.",
+    "char_count": 39
+  },
+  {
+    "id": 3083,
+    "fra": "Il se peut qu'il pleuve cet après-midi.",
+    "eng": "It may rain this afternoon.",
+    "char_count": 39
+  },
+  {
+    "id": 3084,
+    "fra": "Pour l'instant je m'entraîne seulement.",
+    "eng": "I am just warming up now.",
+    "char_count": 39
+  },
+  {
+    "id": 3085,
+    "fra": "Le dernier examen a été très difficile.",
+    "eng": "The last examination was very difficult.",
+    "char_count": 39
+  },
+  {
+    "id": 3086,
+    "fra": "Je n'ai pas envie de manger maintenant.",
+    "eng": "I don't feel like eating now.",
+    "char_count": 39
+  },
+  {
+    "id": 3087,
+    "fra": "Tous mes efforts se sont révélés vains.",
+    "eng": "All my effort went for nothing.",
+    "char_count": 39
+  },
+  {
+    "id": 3088,
+    "fra": "Je préfèrerais plutôt mourir que céder.",
+    "eng": "I would rather die than yield.",
+    "char_count": 39
+  },
+  {
+    "id": 3089,
+    "fra": "Il a évité d'être blessé, heureusement.",
+    "eng": "He escaped injury, happily.",
+    "char_count": 39
+  },
+  {
+    "id": 3090,
+    "fra": "Continuez de nager jusqu'à vos limites.",
+    "eng": "Keep on swimming up to your limit.",
+    "char_count": 39
+  },
+  {
+    "id": 3091,
+    "fra": "Rien n'est plus important que la santé.",
+    "eng": "Nothing is more important than health.",
+    "char_count": 39
+  },
+  {
+    "id": 3092,
+    "fra": "Un policier regardait les bras croisés.",
+    "eng": "A policeman was watching it, with his arms crossed.",
+    "char_count": 39
+  },
+  {
+    "id": 3093,
+    "fra": "L'armée a progressé jusqu'à la rivière.",
+    "eng": "The army has advanced to the river.",
+    "char_count": 39
+  },
+  {
+    "id": 3094,
+    "fra": "Je suis fatigué d'écouter tes plaintes.",
+    "eng": "I'm sick of listening to your complaints.",
+    "char_count": 39
+  },
+  {
+    "id": 3095,
+    "fra": "D'après l'aspect du ciel, il va neiger.",
+    "eng": "Judging from the look of the sky, it is going to snow.",
+    "char_count": 39
+  },
+  {
+    "id": 3096,
+    "fra": "L'or est beaucoup plus lourd que l'eau.",
+    "eng": "Gold is far heavier than water.",
+    "char_count": 39
+  },
+  {
+    "id": 3097,
+    "fra": "L'or a une couleur similaire au cuivre.",
+    "eng": "Gold is similar in color to brass.",
+    "char_count": 39
+  },
+  {
+    "id": 3098,
+    "fra": "On érigea des églises dans toute l'île.",
+    "eng": "Churches were erected all over the island.",
+    "char_count": 39
+  },
+  {
+    "id": 3099,
+    "fra": "Il fait horriblement froid aujourd'hui.",
+    "eng": "It's awfully cold today.",
+    "char_count": 39
+  },
+  {
+    "id": 3100,
+    "fra": "Dépêche-toi, ou tu vas rater ton train.",
+    "eng": "Hurry up, or you will miss the train.",
+    "char_count": 39
+  }
+]

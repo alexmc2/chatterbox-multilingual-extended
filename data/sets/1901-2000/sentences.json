@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1901,
+    "fra": "J'ai été ici depuis cinq heures.",
+    "eng": "I have been here since five o'clock.",
+    "char_count": 32
+  },
+  {
+    "id": 1902,
+    "fra": "J'ai mémorisé 2000 mots anglais.",
+    "eng": "I have memorized 2,000 English words.",
+    "char_count": 32
+  },
+  {
+    "id": 1903,
+    "fra": "Ma montre avance de dix minutes.",
+    "eng": "My watch is ten minutes fast.",
+    "char_count": 32
+  },
+  {
+    "id": 1904,
+    "fra": "Mon rêve est de devenir médecin.",
+    "eng": "My dream is to be a doctor.",
+    "char_count": 32
+  },
+  {
+    "id": 1905,
+    "fra": "Ma sœur habite près de Yokohama.",
+    "eng": "My sister lives near Yokohama.",
+    "char_count": 32
+  },
+  {
+    "id": 1906,
+    "fra": "Mon père aime voyager par avion.",
+    "eng": "My father likes traveling by air.",
+    "char_count": 32
+  },
+  {
+    "id": 1907,
+    "fra": "Mon mari est très bon cuisinier.",
+    "eng": "My husband is a very good cook.",
+    "char_count": 32
+  },
+  {
+    "id": 1908,
+    "fra": "Mes cheveux bouclent facilement.",
+    "eng": "My hair curls easily.",
+    "char_count": 32
+  },
+  {
+    "id": 1909,
+    "fra": "Mon village a deux supermarchés.",
+    "eng": "My town has two supermarkets.",
+    "char_count": 32
+  },
+  {
+    "id": 1910,
+    "fra": "Ma voiture est à ta disposition.",
+    "eng": "My car is at your disposal.",
+    "char_count": 32
+  },
+  {
+    "id": 1911,
+    "fra": "Ma voiture est garée près d'ici.",
+    "eng": "My car is parked not far from here.",
+    "char_count": 32
+  },
+  {
+    "id": 1912,
+    "fra": "Ma sœur est plus petite que toi.",
+    "eng": "My sister is shorter than you.",
+    "char_count": 32
+  },
+  {
+    "id": 1913,
+    "fra": "Mon grand frère aime la musique.",
+    "eng": "My brother has a taste for music.",
+    "char_count": 32
+  },
+  {
+    "id": 1914,
+    "fra": "Mes jambes me font toujours mal.",
+    "eng": "My legs still hurt.",
+    "char_count": 32
+  },
+  {
+    "id": 1915,
+    "fra": "Je n'ai pas d'amis à qui parler.",
+    "eng": "I have no friend to talk with.",
+    "char_count": 32
+  },
+  {
+    "id": 1916,
+    "fra": "J'aurais pu faire mieux que lui.",
+    "eng": "I could have done better than he.",
+    "char_count": 32
+  },
+  {
+    "id": 1917,
+    "fra": "Ne va pas trop loin devant nous.",
+    "eng": "Don't go too far ahead of us.",
+    "char_count": 32
+  },
+  {
+    "id": 1918,
+    "fra": "Je vais rester dans cette ville.",
+    "eng": "I plan to stay in the city.",
+    "char_count": 32
+  },
+  {
+    "id": 1919,
+    "fra": "Une idée est exprimée en action.",
+    "eng": "An idea is expressed in terms of action.",
+    "char_count": 32
+  },
+  {
+    "id": 1920,
+    "fra": "Comment se portent les enfants ?",
+    "eng": "How are the kids?",
+    "char_count": 32
+  },
+  {
+    "id": 1921,
+    "fra": "La cruauté est contre sa nature.",
+    "eng": "Cruelty is quite alien to his nature.",
+    "char_count": 32
+  },
+  {
+    "id": 1922,
+    "fra": "Hier n'était juste pas mon jour.",
+    "eng": "It just was not my day yesterday.",
+    "char_count": 32
+  },
+  {
+    "id": 1923,
+    "fra": "John est en service aujourd'hui.",
+    "eng": "John is on duty today.",
+    "char_count": 32
+  },
+  {
+    "id": 1924,
+    "fra": "Êtes-vous libre cet après-midi ?",
+    "eng": "Are you free this afternoon?",
+    "char_count": 32
+  },
+  {
+    "id": 1925,
+    "fra": "Jouons au tennis cet après-midi.",
+    "eng": "Let's play tennis this afternoon.",
+    "char_count": 32
+  },
+  {
+    "id": 1926,
+    "fra": "Comment te sens-tu aujourd'hui ?",
+    "eng": "How are you feeling today?",
+    "char_count": 32
+  },
+  {
+    "id": 1927,
+    "fra": "As-tu nourri le chien ce matin ?",
+    "eng": "Did you feed the dog this morning?",
+    "char_count": 32
+  },
+  {
+    "id": 1928,
+    "fra": "Actuellement êtes-vous occupés ?",
+    "eng": "Are you busy now?",
+    "char_count": 32
+  },
+  {
+    "id": 1929,
+    "fra": "Je viens juste de lire ce livre.",
+    "eng": "I have just read this book.",
+    "char_count": 32
+  },
+  {
+    "id": 1930,
+    "fra": "Un grand bâtiment se dresse ici.",
+    "eng": "A tall building stands there.",
+    "char_count": 32
+  },
+  {
+    "id": 1931,
+    "fra": "Heureusement, il n'est pas mort.",
+    "eng": "Happily he did not die.",
+    "char_count": 32
+  },
+  {
+    "id": 1932,
+    "fra": "Je regardais de vieilles photos.",
+    "eng": "I was looking at old pictures.",
+    "char_count": 32
+  },
+  {
+    "id": 1933,
+    "fra": "J'ai passé le test haut la main.",
+    "eng": "I passed the test with flying colors.",
+    "char_count": 32
+  },
+  {
+    "id": 1934,
+    "fra": "Un chien est sensible à l'odeur.",
+    "eng": "A dog is sensitive to smell.",
+    "char_count": 32
+  },
+  {
+    "id": 1935,
+    "fra": "Ken joue au foot tous les jours.",
+    "eng": "Ken plays soccer every day.",
+    "char_count": 32
+  },
+  {
+    "id": 1936,
+    "fra": "J'avais du sang dans mes urines.",
+    "eng": "I had blood in my urine.",
+    "char_count": 32
+  },
+  {
+    "id": 1937,
+    "fra": "La police l'a accusé de meurtre.",
+    "eng": "The police accused him of murder.",
+    "char_count": 32
+  },
+  {
+    "id": 1938,
+    "fra": "Avez-vous déjà voyagé en avion ?",
+    "eng": "Have you ever traveled in a plane?",
+    "char_count": 32
+  },
+  {
+    "id": 1939,
+    "fra": "Êtes-vous un étudiant japonais ?",
+    "eng": "Are you a Japanese student?",
+    "char_count": 32
+  },
+  {
+    "id": 1940,
+    "fra": "Comment expliquez-vous ce fait ?",
+    "eng": "How do you account for the fact?",
+    "char_count": 32
+  },
+  {
+    "id": 1941,
+    "fra": "Il est à la hauteur de la tâche.",
+    "eng": "He is equal to the task.",
+    "char_count": 32
+  },
+  {
+    "id": 1942,
+    "fra": "J'insiste que vous devez partir.",
+    "eng": "I'm adamant that you should go.",
+    "char_count": 32
+  },
+  {
+    "id": 1943,
+    "fra": "Il ne saurait être bon pour toi.",
+    "eng": "He couldn't be good for you.",
+    "char_count": 32
+  },
+  {
+    "id": 1944,
+    "fra": "Êtes-vous élèves à cette école ?",
+    "eng": "Are you students at this school?",
+    "char_count": 32
+  },
+  {
+    "id": 1945,
+    "fra": "Je partage la même idée que toi.",
+    "eng": "I share your idea.",
+    "char_count": 32
+  },
+  {
+    "id": 1946,
+    "fra": "Un ours peut grimper à un arbre.",
+    "eng": "A bear can climb a tree.",
+    "char_count": 32
+  },
+  {
+    "id": 1947,
+    "fra": "Lis le chapitre 4 pour vendredi.",
+    "eng": "Read chapter 4 for Friday.",
+    "char_count": 32
+  },
+  {
+    "id": 1948,
+    "fra": "Les poissons vivent dans la mer.",
+    "eng": "Fish live in the sea.",
+    "char_count": 32
+  },
+  {
+    "id": 1949,
+    "fra": "Les vaches nous donnent du lait.",
+    "eng": "Cows give us milk.",
+    "char_count": 32
+  },
+  {
+    "id": 1950,
+    "fra": "Les vaches paissent dans le pré.",
+    "eng": "Cows are eating grass in the meadow.",
+    "char_count": 32
+  },
+  {
+    "id": 1951,
+    "fra": "Le malheur ne vient jamais seul.",
+    "eng": "Misfortunes never come singly.",
+    "char_count": 32
+  },
+  {
+    "id": 1952,
+    "fra": "Fumer est mauvais pour la santé.",
+    "eng": "Smoking is bad for the health.",
+    "char_count": 32
+  },
+  {
+    "id": 1953,
+    "fra": "Tout ce qui brille n'est pas or.",
+    "eng": "All that glitters is not gold.",
+    "char_count": 32
+  },
+  {
+    "id": 1954,
+    "fra": "Un livre est posé sur le bureau.",
+    "eng": "A book is lying on the desk.",
+    "char_count": 32
+  },
+  {
+    "id": 1955,
+    "fra": "N'ayez pas peur de vous tromper.",
+    "eng": "Don't be afraid of making mistakes.",
+    "char_count": 32
+  },
+  {
+    "id": 1956,
+    "fra": "Participerez-vous à la réunion ?",
+    "eng": "Are you going to attend the meeting?",
+    "char_count": 32
+  },
+  {
+    "id": 1957,
+    "fra": "Un moustique vient de me piquer.",
+    "eng": "A mosquito just bit me.",
+    "char_count": 32
+  },
+  {
+    "id": 1958,
+    "fra": "N'oubliez pas d'éteindre le feu.",
+    "eng": "Don't forget to put out the fire.",
+    "char_count": 32
+  },
+  {
+    "id": 1959,
+    "fra": "M. Kato nous enseigne l'anglais.",
+    "eng": "Mr. Kato teaches us English.",
+    "char_count": 32
+  },
+  {
+    "id": 1960,
+    "fra": "Surtout, il faut vous entraider.",
+    "eng": "Above all, you must help each other.",
+    "char_count": 32
+  },
+  {
+    "id": 1961,
+    "fra": "Passe-moi le sel, s'il te plaît.",
+    "eng": "Pass me the salt, please.",
+    "char_count": 32
+  },
+  {
+    "id": 1962,
+    "fra": "Je l'ai entendu gronder au loin.",
+    "eng": "I heard it thunder in the distance.",
+    "char_count": 32
+  },
+  {
+    "id": 1963,
+    "fra": "Fumer est une mauvaise habitude.",
+    "eng": "Smoking is a bad habit.",
+    "char_count": 32
+  },
+  {
+    "id": 1964,
+    "fra": "Parler anglais n'est pas facile.",
+    "eng": "Speaking English is not easy.",
+    "char_count": 32
+  },
+  {
+    "id": 1965,
+    "fra": "L'anglais est parlé en Amérique.",
+    "eng": "English is spoken in America.",
+    "char_count": 32
+  },
+  {
+    "id": 1966,
+    "fra": "Un athlète doit rester en forme.",
+    "eng": "An athlete must keep in good condition.",
+    "char_count": 32
+  },
+  {
+    "id": 1967,
+    "fra": "Tu peux me faire dix moins six ?",
+    "eng": "Can you subtract six from ten?",
+    "char_count": 32
+  },
+  {
+    "id": 1968,
+    "fra": "Un dollar est égal à cent cents.",
+    "eng": "A dollar is equal to a hundred cents.",
+    "char_count": 32
+  },
+  {
+    "id": 1969,
+    "fra": "Un homme laid frappa à ma porte.",
+    "eng": "An ugly man knocked on my door.",
+    "char_count": 32
+  },
+  {
+    "id": 1970,
+    "fra": "Laisse-moi te payer une boisson.",
+    "eng": "Let me buy you a drink.",
+    "char_count": 32
+  },
+  {
+    "id": 1971,
+    "fra": "Jean est le plus grand des deux.",
+    "eng": "John is the taller of the two.",
+    "char_count": 32
+  },
+  {
+    "id": 1972,
+    "fra": "Six mois, c'est long à attendre.",
+    "eng": "Six months is a long time to wait.",
+    "char_count": 32
+  },
+  {
+    "id": 1973,
+    "fra": "Je vous appellerai à six heures.",
+    "eng": "I'll call for you at six.",
+    "char_count": 32
+  },
+  {
+    "id": 1974,
+    "fra": "Akira sait bien jouer au tennis.",
+    "eng": "Akira can play tennis well.",
+    "char_count": 32
+  },
+  {
+    "id": 1975,
+    "fra": "Je serai libre dans dix minutes.",
+    "eng": "I will be free in ten minutes.",
+    "char_count": 32
+  },
+  {
+    "id": 1976,
+    "fra": "Je suis heureux que vous veniez.",
+    "eng": "I'm glad that you'll come.",
+    "char_count": 32
+  },
+  {
+    "id": 1977,
+    "fra": "Puis-je emprunter ce parapluie ?",
+    "eng": "Can I borrow this umbrella?",
+    "char_count": 32
+  },
+  {
+    "id": 1978,
+    "fra": "Est-ce que tu aimes la musique ?",
+    "eng": "Do you love music?",
+    "char_count": 32
+  },
+  {
+    "id": 1979,
+    "fra": "Avez-vous quelque chose à dire ?",
+    "eng": "Do you have anything to say?",
+    "char_count": 32
+  },
+  {
+    "id": 1980,
+    "fra": "Es-tu intéressé par les fleurs ?",
+    "eng": "Are you interested in flowers?",
+    "char_count": 32
+  },
+  {
+    "id": 1981,
+    "fra": "Avez-vous des livres étrangers ?",
+    "eng": "Do you have any foreign books?",
+    "char_count": 32
+  },
+  {
+    "id": 1982,
+    "fra": "Savez-vous cuisiner le poisson ?",
+    "eng": "Do you know how to cook fish?",
+    "char_count": 32
+  },
+  {
+    "id": 1983,
+    "fra": "Cette robe lui va vraiment bien.",
+    "eng": "That dress really becomes her.",
+    "char_count": 32
+  },
+  {
+    "id": 1984,
+    "fra": "Ce nuage a une forme de poisson.",
+    "eng": "That cloud is in the shape of a fish.",
+    "char_count": 32
+  },
+  {
+    "id": 1985,
+    "fra": "C'est un vieil homme chaleureux.",
+    "eng": "He is a cheerful old man.",
+    "char_count": 32
+  },
+  {
+    "id": 1986,
+    "fra": "Mets ce livre de côté pour moi !",
+    "eng": "Put that book aside for me.",
+    "char_count": 32
+  },
+  {
+    "id": 1987,
+    "fra": "C'est notre terrain de baseball.",
+    "eng": "That is our baseball field.",
+    "char_count": 32
+  },
+  {
+    "id": 1988,
+    "fra": "Ann ne viendra pas à notre fête.",
+    "eng": "Ann will not come to our party.",
+    "char_count": 32
+  },
+  {
+    "id": 1989,
+    "fra": "Non, il est déjà parti déjeuner.",
+    "eng": "No, he has gone out for lunch already.",
+    "char_count": 32
+  },
+  {
+    "id": 1990,
+    "fra": "De nombreux livres furent volés.",
+    "eng": "A number of books were stolen.",
+    "char_count": 32
+  },
+  {
+    "id": 1991,
+    "fra": "Avez-vous déjà visité l'Italie ?",
+    "eng": "Did you ever visit Italy?",
+    "char_count": 32
+  },
+  {
+    "id": 1992,
+    "fra": "Venez le jour qui vous convient.",
+    "eng": "Come on any day you like.",
+    "char_count": 32
+  },
+  {
+    "id": 1993,
+    "fra": "Quand vas-tu faire des courses ?",
+    "eng": "How soon are you going shopping?",
+    "char_count": 32
+  },
+  {
+    "id": 1994,
+    "fra": "Non merci. J'ai le ventre plein.",
+    "eng": "No more, thank you. I'm full.",
+    "char_count": 32
+  },
+  {
+    "id": 1995,
+    "fra": "Amy fit un effort pour se lever.",
+    "eng": "Amy made an effort to stand up.",
+    "char_count": 32
+  },
+  {
+    "id": 1996,
+    "fra": "Merci pour le merveilleux dîner.",
+    "eng": "Thank you for the wonderful dinner.",
+    "char_count": 32
+  },
+  {
+    "id": 1997,
+    "fra": "Êtes-vous allé voir un médecin ?",
+    "eng": "Did you go to see a doctor?",
+    "char_count": 32
+  },
+  {
+    "id": 1998,
+    "fra": "Désolé de t'avoir fait attendre.",
+    "eng": "Sorry to have kept you waiting.",
+    "char_count": 32
+  },
+  {
+    "id": 1999,
+    "fra": "Le thé a été introduit de Chine.",
+    "eng": "Tea was introduced from China.",
+    "char_count": 32
+  },
+  {
+    "id": 2000,
+    "fra": "Voudriez-vous une tasse de thé ?",
+    "eng": "Would you like a cup of tea?",
+    "char_count": 32
+  }
+]

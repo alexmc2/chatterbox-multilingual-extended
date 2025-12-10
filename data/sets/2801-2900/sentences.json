@@ -1,0 +1,602 @@
+[
+  {
+    "id": 2801,
+    "fra": "Je suis heureux que tu aies apprécié.",
+    "eng": "I'm glad you enjoyed it.",
+    "char_count": 37
+  },
+  {
+    "id": 2802,
+    "fra": "N'ayez pas peur de faire des erreurs.",
+    "eng": "Don't be afraid of making mistakes.",
+    "char_count": 37
+  },
+  {
+    "id": 2803,
+    "fra": "Ils seront mariés d'ici peu de temps.",
+    "eng": "It won't be long before they get married.",
+    "char_count": 37
+  },
+  {
+    "id": 2804,
+    "fra": "Le marché des changes est très actif.",
+    "eng": "The stock market is very active.",
+    "char_count": 37
+  },
+  {
+    "id": 2805,
+    "fra": "Notre école a été réduite en cendres.",
+    "eng": "Our school was reduced to ashes.",
+    "char_count": 37
+  },
+  {
+    "id": 2806,
+    "fra": "L'uniforme scolaire est juste démodé.",
+    "eng": "School uniforms are just out of fashion.",
+    "char_count": 37
+  },
+  {
+    "id": 2807,
+    "fra": "Tout à coup la mariée éclata de rire.",
+    "eng": "All at once the bride burst into laughter.",
+    "char_count": 37
+  },
+  {
+    "id": 2808,
+    "fra": "Tout était silencieux dans la maison.",
+    "eng": "All was silent in the house.",
+    "char_count": 37
+  },
+  {
+    "id": 2809,
+    "fra": "Les étés j'allais d'habitude à Miami.",
+    "eng": "During summers, I used to go to Miami.",
+    "char_count": 37
+  },
+  {
+    "id": 2810,
+    "fra": "Les crayons se vendent par douzaines.",
+    "eng": "Pencils are sold by the dozen.",
+    "char_count": 37
+  },
+  {
+    "id": 2811,
+    "fra": "N'hésite pas à demander des conseils.",
+    "eng": "Don't hesitate to ask for advice.",
+    "char_count": 37
+  },
+  {
+    "id": 2812,
+    "fra": "On pouvait voir le Mont Fuji au loin.",
+    "eng": "Mt. Fuji could be seen in the distance.",
+    "char_count": 37
+  },
+  {
+    "id": 2813,
+    "fra": "Comment puis-je me rendre à la gare ?",
+    "eng": "How can I get to the station?",
+    "char_count": 37
+  },
+  {
+    "id": 2814,
+    "fra": "L'anglais n'est pas facile pour nous.",
+    "eng": "English is not easy for us.",
+    "char_count": 37
+  },
+  {
+    "id": 2815,
+    "fra": "L'anglais n'est pas ma langue natale.",
+    "eng": "English is not my native language.",
+    "char_count": 37
+  },
+  {
+    "id": 2816,
+    "fra": "Combien de clés ? demanda Pepperberg.",
+    "eng": "How many keys? asked Pepperberg.",
+    "char_count": 37
+  },
+  {
+    "id": 2817,
+    "fra": "Est-ce que le vol 123 a été retardé ?",
+    "eng": "Has Flight 123 been delayed?",
+    "char_count": 37
+  },
+  {
+    "id": 2818,
+    "fra": "Il jouait au tennis toute la journée.",
+    "eng": "He was playing tennis all day.",
+    "char_count": 37
+  },
+  {
+    "id": 2819,
+    "fra": "Pas moins de 50 passagers sont morts.",
+    "eng": "No fewer than 50 passengers were killed.",
+    "char_count": 37
+  },
+  {
+    "id": 2820,
+    "fra": "Prenez l'ascenseur jusqu'au 5e étage.",
+    "eng": "Take the elevator to the fifth floor.",
+    "char_count": 37
+  },
+  {
+    "id": 2821,
+    "fra": "Six heures me conviendrait très bien.",
+    "eng": "Six o'clock will suit me very well.",
+    "char_count": 37
+  },
+  {
+    "id": 2822,
+    "fra": "Ça m'est égal de me lever à 6 heures.",
+    "eng": "I don't mind getting up at six.",
+    "char_count": 37
+  },
+  {
+    "id": 2823,
+    "fra": "Je serai de retour avant neuf heures.",
+    "eng": "I will be back by nine.",
+    "char_count": 37
+  },
+  {
+    "id": 2824,
+    "fra": "Les CD ont pris la place des vinyles.",
+    "eng": "CDs have taken the place of records.",
+    "char_count": 37
+  },
+  {
+    "id": 2825,
+    "fra": "Je dois témoigner au Tribunal demain.",
+    "eng": "I have to give a testimony in the courtroom tomorrow.",
+    "char_count": 37
+  },
+  {
+    "id": 2826,
+    "fra": "Je ne te forcerai jamais à l'épouser.",
+    "eng": "I will never force you to marry him.",
+    "char_count": 37
+  },
+  {
+    "id": 2827,
+    "fra": "Je vous achèterai ce que vous voulez.",
+    "eng": "I'll get you whatever you want.",
+    "char_count": 37
+  },
+  {
+    "id": 2828,
+    "fra": "J'étais convaincu que vous viendriez.",
+    "eng": "I took it for granted that you would come.",
+    "char_count": 37
+  },
+  {
+    "id": 2829,
+    "fra": "Elle viendra si vous le lui demandez.",
+    "eng": "She will come if you ask her.",
+    "char_count": 37
+  },
+  {
+    "id": 2830,
+    "fra": "Avez-vous une photo récente de vous ?",
+    "eng": "Do you have a recent photo of yourself?",
+    "char_count": 37
+  },
+  {
+    "id": 2831,
+    "fra": "Pourrais-je emprunter votre voiture ?",
+    "eng": "May I borrow your car?",
+    "char_count": 37
+  },
+  {
+    "id": 2832,
+    "fra": "Combien de temps as-tu vécu à Sanda ?",
+    "eng": "How long have you lived in Sanda?",
+    "char_count": 37
+  },
+  {
+    "id": 2833,
+    "fra": "Est-ce que tu as déjà été en France ?",
+    "eng": "Have you ever been to France?",
+    "char_count": 37
+  },
+  {
+    "id": 2834,
+    "fra": "Dites-moi à quoi ressemble cet homme.",
+    "eng": "Tell me what that man is like.",
+    "char_count": 37
+  },
+  {
+    "id": 2835,
+    "fra": "L'Amérique a du pétrole en abondance.",
+    "eng": "America abounds in oil.",
+    "char_count": 37
+  },
+  {
+    "id": 2836,
+    "fra": "Avez-vous quelque chose sans alcool ?",
+    "eng": "Do you have anything non-alcoholic?",
+    "char_count": 37
+  },
+  {
+    "id": 2837,
+    "fra": "Un jour, il marcha le long de la rue.",
+    "eng": "One day he was walking along the street.",
+    "char_count": 37
+  },
+  {
+    "id": 2838,
+    "fra": "Andersen avait aussi peur des chiens.",
+    "eng": "Andersen was afraid of dogs, too.",
+    "char_count": 37
+  },
+  {
+    "id": 2839,
+    "fra": "Ann tient toujours sa chambre propre.",
+    "eng": "Ann always keeps her room clean.",
+    "char_count": 37
+  },
+  {
+    "id": 2840,
+    "fra": "Une bonne idée m'a traversé l'esprit.",
+    "eng": "A good idea came into my head.",
+    "char_count": 37
+  },
+  {
+    "id": 2841,
+    "fra": "Un jour je peindrai un grand tableau.",
+    "eng": "Some day I'll paint a great picture.",
+    "char_count": 37
+  },
+  {
+    "id": 2842,
+    "fra": "M. et Mme. West sont en lune de miel.",
+    "eng": "Mr. and Mrs. West are on their honeymoon.",
+    "char_count": 37
+  },
+  {
+    "id": 2843,
+    "fra": "Il a arrêté de fumer il y a deux ans.",
+    "eng": "He gave up smoking two years ago.",
+    "char_count": 37
+  },
+  {
+    "id": 2844,
+    "fra": "Combien d'argent avez-vous sur vous ?",
+    "eng": "How much money do you have with you?",
+    "char_count": 37
+  },
+  {
+    "id": 2845,
+    "fra": "Trop boire est mauvais pour la santé.",
+    "eng": "Drinking too much is bad for the health.",
+    "char_count": 37
+  },
+  {
+    "id": 2846,
+    "fra": "J'ai choisi le vert pour les rideaux.",
+    "eng": "I have settled on green for the curtains.",
+    "char_count": 37
+  },
+  {
+    "id": 2847,
+    "fra": "Galilée soutenait que la Terre bouge.",
+    "eng": "Galileo argued that the earth moves.",
+    "char_count": 37
+  },
+  {
+    "id": 2848,
+    "fra": "Est-ce que vous croyez aux fantômes ?",
+    "eng": "Do you believe in ghosts?",
+    "char_count": 37
+  },
+  {
+    "id": 2849,
+    "fra": "Carole n'a pas pu retenir ses larmes.",
+    "eng": "Carol couldn't choke back her tears.",
+    "char_count": 37
+  },
+  {
+    "id": 2850,
+    "fra": "La mère de Cookie mourut d'un cancer.",
+    "eng": "Cookie's mother died of cancer.",
+    "char_count": 37
+  },
+  {
+    "id": 2851,
+    "fra": "Pouvez-vous m'amener au Grand Hotel ?",
+    "eng": "Could you take me to the Grand Hotel?",
+    "char_count": 37
+  },
+  {
+    "id": 2852,
+    "fra": "Connaissez-vous un certain M. Green ?",
+    "eng": "Do you know a certain Mr. Green?",
+    "char_count": 37
+  },
+  {
+    "id": 2853,
+    "fra": "Acceptez-vous les cartes de crédits ?",
+    "eng": "Do you accept credit cards?",
+    "char_count": 37
+  },
+  {
+    "id": 2854,
+    "fra": "Peux-tu apporter cette fleur à Kate ?",
+    "eng": "Could you bring this flower to Kate?",
+    "char_count": 37
+  },
+  {
+    "id": 2855,
+    "fra": "Ken a pris le mauvais bus par erreur.",
+    "eng": "Ken took the wrong bus by mistake.",
+    "char_count": 37
+  },
+  {
+    "id": 2856,
+    "fra": "S'il vous plaît, attendez un peu ici.",
+    "eng": "Please wait here for a while.",
+    "char_count": 37
+  },
+  {
+    "id": 2857,
+    "fra": "Beaucoup de soldats ont été tués ici.",
+    "eng": "A lot of soldiers were killed here.",
+    "char_count": 37
+  },
+  {
+    "id": 2858,
+    "fra": "De là, il découle qu'il est innocent.",
+    "eng": "From this, it follows that he is innocent.",
+    "char_count": 37
+  },
+  {
+    "id": 2859,
+    "fra": "Ne tenez aucun compte de ce qu'il dit.",
+    "eng": "Don't take any notice of what he says.",
+    "char_count": 38
+  },
+  {
+    "id": 2860,
+    "fra": "Je ne sais simplement pas quoi dire...",
+    "eng": "I just don't know what to say.",
+    "char_count": 38
+  },
+  {
+    "id": 2861,
+    "fra": "Il y a un problème que tu ne vois pas.",
+    "eng": "There's a problem there that you don't see.",
+    "char_count": 38
+  },
+  {
+    "id": 2862,
+    "fra": "Mais la possibilité semble improbable.",
+    "eng": "But the possibility seems unlikely.",
+    "char_count": 38
+  },
+  {
+    "id": 2863,
+    "fra": "En quittant la gare, j'ai vu un homme.",
+    "eng": "When I left the train station, I saw a man.",
+    "char_count": 38
+  },
+  {
+    "id": 2864,
+    "fra": "Aller-retour ? Aller simple seulement.",
+    "eng": "Round trip? Only one-way.",
+    "char_count": 38
+  },
+  {
+    "id": 2865,
+    "fra": "Je prépare le déjeuner tous les jours.",
+    "eng": "I make lunch every day.",
+    "char_count": 38
+  },
+  {
+    "id": 2866,
+    "fra": "Je ne sais pas danser un pas de salsa.",
+    "eng": "I cannot dance one single step of Salsa.",
+    "char_count": 38
+  },
+  {
+    "id": 2867,
+    "fra": "Tu peux finir ta rédaction maintenant.",
+    "eng": "You can finish your essay now.",
+    "char_count": 38
+  },
+  {
+    "id": 2868,
+    "fra": "Quand est-ce qu'on mange ? J'ai faim !",
+    "eng": "When are we eating? I'm hungry!",
+    "char_count": 38
+  },
+  {
+    "id": 2869,
+    "fra": "J’ai passé douze heures dans le train.",
+    "eng": "I spent twelve hours on the train.",
+    "char_count": 38
+  },
+  {
+    "id": 2870,
+    "fra": "Elle est au bord de la crise de nerfs.",
+    "eng": "She is on the verge of a nervous breakdown.",
+    "char_count": 38
+  },
+  {
+    "id": 2871,
+    "fra": "Je propose que l'on sorte le vendredi.",
+    "eng": "I suggest that we go out on Friday.",
+    "char_count": 38
+  },
+  {
+    "id": 2872,
+    "fra": "Le dossier a été adressé au ministère.",
+    "eng": "The record was sent to the ministry.",
+    "char_count": 38
+  },
+  {
+    "id": 2873,
+    "fra": "Il n'y a point d'amours sans jalousie.",
+    "eng": "There's no love without jealousy.",
+    "char_count": 38
+  },
+  {
+    "id": 2874,
+    "fra": "Je voudrais que tu me dises la vérité.",
+    "eng": "I want you to tell me the truth.",
+    "char_count": 38
+  },
+  {
+    "id": 2875,
+    "fra": "Tu es arrivée au moment où je sortais.",
+    "eng": "You arrived at the moment I left.",
+    "char_count": 38
+  },
+  {
+    "id": 2876,
+    "fra": "Il y a autant de musées que d'églises.",
+    "eng": "There are as many museums as there are churches.",
+    "char_count": 38
+  },
+  {
+    "id": 2877,
+    "fra": "Je n'ai pas plus d'un millier de yens.",
+    "eng": "I have no more than one thousand yen.",
+    "char_count": 38
+  },
+  {
+    "id": 2878,
+    "fra": "J'ai une grande collection de timbres.",
+    "eng": "I have a large collection of stamps.",
+    "char_count": 38
+  },
+  {
+    "id": 2879,
+    "fra": "Ce sont les maths que j'aime le moins.",
+    "eng": "I like math least of all.",
+    "char_count": 38
+  },
+  {
+    "id": 2880,
+    "fra": "J’ai senti mon cœur battre violemment.",
+    "eng": "I felt my heart beating violently.",
+    "char_count": 38
+  },
+  {
+    "id": 2881,
+    "fra": "Je dois dix mille dollars à mon oncle.",
+    "eng": "I'm in debt to my uncle for $10,000.",
+    "char_count": 38
+  },
+  {
+    "id": 2882,
+    "fra": "Peu de filles peuvent même lui parler.",
+    "eng": "Few girls can even speak to him.",
+    "char_count": 38
+  },
+  {
+    "id": 2883,
+    "fra": "Je quitterai Tokyo pour Osaka ce soir.",
+    "eng": "I'll leave Tokyo for Osaka tonight.",
+    "char_count": 38
+  },
+  {
+    "id": 2884,
+    "fra": "Je dois préparer le dîner aujourd'hui.",
+    "eng": "I have to cook dinner today.",
+    "char_count": 38
+  },
+  {
+    "id": 2885,
+    "fra": "Je ne peux pas y aller, ni ne le veux.",
+    "eng": "I can't go, nor do I want to.",
+    "char_count": 38
+  },
+  {
+    "id": 2886,
+    "fra": "Je travaille dans le domaine de l'art.",
+    "eng": "I work in the field of art.",
+    "char_count": 38
+  },
+  {
+    "id": 2887,
+    "fra": "Je l'ai aperçue au milieu de la foule.",
+    "eng": "I caught sight of her in the crowd.",
+    "char_count": 38
+  },
+  {
+    "id": 2888,
+    "fra": "Je vais rester avec mon oncle à Kyoto.",
+    "eng": "I'm going to stay with my uncle in Kyoto.",
+    "char_count": 38
+  },
+  {
+    "id": 2889,
+    "fra": "J'ai vécu à New York l'année dernière.",
+    "eng": "I lived in New York last year.",
+    "char_count": 38
+  },
+  {
+    "id": 2890,
+    "fra": "Je prends un bain chaque matin en été.",
+    "eng": "I take a bath every morning in summer.",
+    "char_count": 38
+  },
+  {
+    "id": 2891,
+    "fra": "Je sais ce qu'il y a dans cette boîte.",
+    "eng": "I know what's in the box.",
+    "char_count": 38
+  },
+  {
+    "id": 2892,
+    "fra": "J'ai acheté deux douzaines de crayons.",
+    "eng": "I bought two dozen pencils.",
+    "char_count": 38
+  },
+  {
+    "id": 2893,
+    "fra": "Je l'ai reconnu au premier coup d'œil.",
+    "eng": "I recognized him at first glance.",
+    "char_count": 38
+  },
+  {
+    "id": 2894,
+    "fra": "J'ai entendu les nouvelles à la radio.",
+    "eng": "I heard the news on the radio.",
+    "char_count": 38
+  },
+  {
+    "id": 2895,
+    "fra": "J'ai fini mes devoirs avec difficulté.",
+    "eng": "I finished my homework with difficulty.",
+    "char_count": 38
+  },
+  {
+    "id": 2896,
+    "fra": "Je suis allé nager au lac avec Hiroko.",
+    "eng": "I went swimming in the lake with Hiroko.",
+    "char_count": 38
+  },
+  {
+    "id": 2897,
+    "fra": "J'ai oublié mon parapluie dans un bus.",
+    "eng": "I have left my umbrella in a bus.",
+    "char_count": 38
+  },
+  {
+    "id": 2898,
+    "fra": "J'aime le volley autant que le basket.",
+    "eng": "I like volleyball as well as basketball.",
+    "char_count": 38
+  },
+  {
+    "id": 2899,
+    "fra": "J'ai demandé à Tom de fermer la porte.",
+    "eng": "I asked Tom to close the door.",
+    "char_count": 38
+  },
+  {
+    "id": 2900,
+    "fra": "J'ai dû voir cette fille quelque part.",
+    "eng": "I may have seen that girl somewhere.",
+    "char_count": 38
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": 4501,
+    "fra": "C'est la chose la plus stupide que j'ai jamais dite.",
+    "eng": "That's the stupidest thing I've ever said.",
+    "char_count": 52
+  },
+  {
+    "id": 4502,
+    "fra": "Je serais malheureux, mais je ne me suiciderais pas.",
+    "eng": "I'd be unhappy, but I wouldn't kill myself.",
+    "char_count": 52
+  },
+  {
+    "id": 4503,
+    "fra": "Quoi que je fasse, elle dit que je peux faire mieux.",
+    "eng": "Whatever I do, she says I can do better.",
+    "char_count": 52
+  },
+  {
+    "id": 4504,
+    "fra": "C'est à toi de décider si nous allons là-bas ou non.",
+    "eng": "It is up to you to decide whether we will go there or not.",
+    "char_count": 52
+  },
+  {
+    "id": 4505,
+    "fra": "Si tu vois une faute alors corrige-la s'il te plaît.",
+    "eng": "If you see a mistake, then please correct it.",
+    "char_count": 52
+  },
+  {
+    "id": 4506,
+    "fra": "L'imagination affecte tous les aspects de notre vie.",
+    "eng": "Imagination affects every aspect of our lives.",
+    "char_count": 52
+  },
+  {
+    "id": 4507,
+    "fra": "Donne-moi du temps pour te donner tout ce que j'ai !",
+    "eng": "Give me time to give you everything I have!",
+    "char_count": 52
+  },
+  {
+    "id": 4508,
+    "fra": "Je trouve les langues étrangères très intéressantes.",
+    "eng": "I find foreign languages very interesting.",
+    "char_count": 52
+  },
+  {
+    "id": 4509,
+    "fra": "J’ai envie d’un massage. J'ai besoin de me détendre.",
+    "eng": "I want a massage. I need to relax.",
+    "char_count": 52
+  },
+  {
+    "id": 4510,
+    "fra": "La beauté réside dans les yeux de celui qui regarde.",
+    "eng": "Beauty lies in the eyes of the one who sees.",
+    "char_count": 52
+  },
+  {
+    "id": 4511,
+    "fra": "Est-ce que tu sais par hasard où j'ai mis mes clés ?",
+    "eng": "Any chance you know where I put my keys?",
+    "char_count": 52
+  },
+  {
+    "id": 4512,
+    "fra": "Ça semble intéressant. Qu'est-ce que tu lui as dit ?",
+    "eng": "That sounds interesting. What did you tell her?",
+    "char_count": 52
+  },
+  {
+    "id": 4513,
+    "fra": "Je lui ai posé beaucoup de questions sur l'écologie.",
+    "eng": "I asked him many questions about ecology.",
+    "char_count": 52
+  },
+  {
+    "id": 4514,
+    "fra": "Je me suis fait couper les cheveux chez le coiffeur.",
+    "eng": "I had my hair cut at the barber's.",
+    "char_count": 52
+  },
+  {
+    "id": 4515,
+    "fra": "Je lui ai donné le peu d'argent que j'avais sur moi.",
+    "eng": "I gave him what little money I had with me.",
+    "char_count": 52
+  },
+  {
+    "id": 4516,
+    "fra": "Je pense que je prendrai des vacances cette semaine.",
+    "eng": "I think I will take a vacation this week.",
+    "char_count": 52
+  },
+  {
+    "id": 4517,
+    "fra": "Je ne peux pas me permettre de prendre des vacances.",
+    "eng": "I cannot afford a holiday.",
+    "char_count": 52
+  },
+  {
+    "id": 4518,
+    "fra": "Je dois rattraper le temps perdu en conduisant vite.",
+    "eng": "I must make up for lost time by driving fast.",
+    "char_count": 52
+  },
+  {
+    "id": 4519,
+    "fra": "Je prends toujours un bain avant d'aller me coucher.",
+    "eng": "I always take a bath before going to bed.",
+    "char_count": 52
+  },
+  {
+    "id": 4520,
+    "fra": "Je n'aime pas me charger de lourdes responsabilités.",
+    "eng": "I don't like to take on the heavy responsibilities.",
+    "char_count": 52
+  },
+  {
+    "id": 4521,
+    "fra": "Je ne peux pas m'enlever ces doutes concernant cela.",
+    "eng": "I couldn't get rid of my doubt about it.",
+    "char_count": 52
+  },
+  {
+    "id": 4522,
+    "fra": "Sur ce point je ne peux pas être d'accord avec vous.",
+    "eng": "I can't agree with you on this matter.",
+    "char_count": 52
+  },
+  {
+    "id": 4523,
+    "fra": "J'ai l'intention de rester à Nagoya pendant 3 jours.",
+    "eng": "I intend to stay in Nagoya for three days.",
+    "char_count": 52
+  },
+  {
+    "id": 4524,
+    "fra": "Je regarde la télévision tout au long de la journée.",
+    "eng": "I watch television all day long.",
+    "char_count": 52
+  },
+  {
+    "id": 4525,
+    "fra": "Ma chambre est trois fois plus grande que la tienne.",
+    "eng": "My room is three times as large as yours.",
+    "char_count": 52
+  },
+  {
+    "id": 4526,
+    "fra": "Mon frère a été blessé durant l'accident de voiture.",
+    "eng": "My brother was injured in the car accident.",
+    "char_count": 52
+  },
+  {
+    "id": 4527,
+    "fra": "En ce qui me concerne, je préfère le poulet au porc.",
+    "eng": "As for me, I like chicken better than pork.",
+    "char_count": 52
+  },
+  {
+    "id": 4528,
+    "fra": "Il est probable que notre équipe va gagner le match.",
+    "eng": "Our team is likely to win the game.",
+    "char_count": 52
+  },
+  {
+    "id": 4529,
+    "fra": "Tu n'as pas remarqué que nous sortions de la pièce ?",
+    "eng": "Didn't you notice us going out of the room?",
+    "char_count": 52
+  },
+  {
+    "id": 4530,
+    "fra": "Te souviens-tu du jour où nous avons vu l'accident ?",
+    "eng": "Do you remember the day when we saw the accident?",
+    "char_count": 52
+  },
+  {
+    "id": 4531,
+    "fra": "Cela vous dérange-t-il que je fasse une suggestion ?",
+    "eng": "Do you mind my making a suggestion?",
+    "char_count": 52
+  },
+  {
+    "id": 4532,
+    "fra": "Je ne viendrai pas à la fête de fin d'année ce soir.",
+    "eng": "I am not going to join the year-end party tonight.",
+    "char_count": 52
+  },
+  {
+    "id": 4533,
+    "fra": "Quelques enfants sont en train de jouer sur l'herbe.",
+    "eng": "Some children are playing on the grass.",
+    "char_count": 52
+  },
+  {
+    "id": 4534,
+    "fra": "Ne laisse pas les enfants monopoliser la télévision.",
+    "eng": "Don't let the children monopolize the television.",
+    "char_count": 52
+  },
+  {
+    "id": 4535,
+    "fra": "Une étrange créature marine vient d'être découverte.",
+    "eng": "A strange marine creature was found recently.",
+    "char_count": 52
+  },
+  {
+    "id": 4536,
+    "fra": "J'habite à des kilomètres de la gare la plus proche.",
+    "eng": "I live miles away from the nearest station.",
+    "char_count": 52
+  },
+  {
+    "id": 4537,
+    "fra": "Est-ce que tu peux m'appeler ce soir s'il te plaît ?",
+    "eng": "Could you call me tonight, please?",
+    "char_count": 52
+  },
+  {
+    "id": 4538,
+    "fra": "C'est mieux pour vous de ne pas voir mon grand-père.",
+    "eng": "It's better for you not to see my grandpa.",
+    "char_count": 52
+  },
+  {
+    "id": 4539,
+    "fra": "Avez-vous arrêté la cigarette une fois pour toutes ?",
+    "eng": "Have you given up smoking for good and all?",
+    "char_count": 52
+  },
+  {
+    "id": 4540,
+    "fra": "La superficie de l'usine est de mille mètres carrés.",
+    "eng": "The area of the factory is 1,000 square meters.",
+    "char_count": 52
+  },
+  {
+    "id": 4541,
+    "fra": "La liberté de parole est limitée dans certains pays.",
+    "eng": "Freedom of speech is restricted in some countries.",
+    "char_count": 52
+  },
+  {
+    "id": 4542,
+    "fra": "Actuellement, la cause de la maladie reste inconnue.",
+    "eng": "At present, the cause of the disease is unknown.",
+    "char_count": 52
+  },
+  {
+    "id": 4543,
+    "fra": "L'économie c'est l'étude des mécanismes économiques.",
+    "eng": "Economics is the study of economic mechanisms.",
+    "char_count": 52
+  },
+  {
+    "id": 4544,
+    "fra": "Tout ce que tu as à faire c'est attendre sa réponse.",
+    "eng": "All that you have to do is to wait for his reply.",
+    "char_count": 52
+  },
+  {
+    "id": 4545,
+    "fra": "Je ne pense pas que tu puisses être entendu par lui.",
+    "eng": "I don't think you can gain his ear.",
+    "char_count": 52
+  },
+  {
+    "id": 4546,
+    "fra": "Je ne peux pas être d'accord avec votre proposition.",
+    "eng": "I cannot agree to your proposal.",
+    "char_count": 52
+  },
+  {
+    "id": 4547,
+    "fra": "J'aimerais avoir plus de temps pour parler avec toi.",
+    "eng": "I wish I had more time to talk to you.",
+    "char_count": 52
+  },
+  {
+    "id": 4548,
+    "fra": "Comme vous l'avez insulté, il est fâché contre vous.",
+    "eng": "As you have insulted him, he is cross with you.",
+    "char_count": 52
+  },
+  {
+    "id": 4549,
+    "fra": "Quelle est la distance entre l’aéroport et l'hôtel ?",
+    "eng": "How far is it from the airport to the hotel?",
+    "char_count": 52
+  },
+  {
+    "id": 4550,
+    "fra": "N'attendez de moi aucune aide sauf en cas d'urgence.",
+    "eng": "Don't look to me for any help except in case of emergency.",
+    "char_count": 52
+  },
+  {
+    "id": 4551,
+    "fra": "Connais-tu l'homme qui se tient debout sur le pont ?",
+    "eng": "Do you know the man standing on the bridge?",
+    "char_count": 52
+  },
+  {
+    "id": 4552,
+    "fra": "Kyoto est visitée par beaucoup de gens chaque année.",
+    "eng": "Kyoto is visited by many people every year.",
+    "char_count": 52
+  },
+  {
+    "id": 4553,
+    "fra": "Dépêchez-vous ou vous serez en retard pour déjeuner.",
+    "eng": "Hurry up, otherwise you'll be late for lunch.",
+    "char_count": 52
+  },
+  {
+    "id": 4554,
+    "fra": "Dépêchons-nous ! Nous n'avons pas de temps à perdre.",
+    "eng": "Hurry up. We've little time to waste.",
+    "char_count": 52
+  },
+  {
+    "id": 4555,
+    "fra": "Je ressens une profonde sympathie pour les victimes.",
+    "eng": "I feel profound sympathy for the victims.",
+    "char_count": 52
+  },
+  {
+    "id": 4556,
+    "fra": "Montrez-moi votre ticket de retour, s'il vous plaît.",
+    "eng": "Could you show me your return ticket?",
+    "char_count": 52
+  },
+  {
+    "id": 4557,
+    "fra": "La nourriture coréenne est généralement très épicée.",
+    "eng": "Korean food is generally very spicy.",
+    "char_count": 52
+  },
+  {
+    "id": 4558,
+    "fra": "Assurez-vous que vous arrivez à 7 heures exactement.",
+    "eng": "Make sure that you arrive at seven o'clock.",
+    "char_count": 52
+  },
+  {
+    "id": 4559,
+    "fra": "C'est vrai qu'elle est jolie, mais elle est égoïste.",
+    "eng": "It is true that she is pretty, but she is selfish.",
+    "char_count": 52
+  },
+  {
+    "id": 4560,
+    "fra": "Pouvez-vous m'indiquer comment me rendre à la gare ?",
+    "eng": "Can you tell me how to get to the station?",
+    "char_count": 52
+  },
+  {
+    "id": 4561,
+    "fra": "Ne traduisez pas mot à mot de l'anglais au japonais.",
+    "eng": "Don't translate English into Japanese word for word.",
+    "char_count": 52
+  },
+  {
+    "id": 4562,
+    "fra": "« C'est à lui que je dois ma popularité », dit-elle.",
+    "eng": "She said, \"I owe it to him that I am popular.\"",
+    "char_count": 52
+  },
+  {
+    "id": 4563,
+    "fra": "C'est mon premier vol, je suis nerveux, dit Hiroshi.",
+    "eng": "This is my first flight. I'm nervous, says Hiroshi.",
+    "char_count": 52
+  },
+  {
+    "id": 4564,
+    "fra": "Il revint chez lui pour la première fois en dix ans.",
+    "eng": "He returned home for the first time in ten years.",
+    "char_count": 52
+  },
+  {
+    "id": 4565,
+    "fra": "Après dix minutes, ils passèrent à un nouveau sujet.",
+    "eng": "After ten minutes, they passed on to a new topic.",
+    "char_count": 52
+  },
+  {
+    "id": 4566,
+    "fra": "Une bombe atomique fut lâchée sur Hiroshima en 1945.",
+    "eng": "An atomic bomb was dropped on Hiroshima in 1945.",
+    "char_count": 52
+  },
+  {
+    "id": 4567,
+    "fra": "Prière de régler ce compte avant le 28 octobre 1998.",
+    "eng": "Please settle this account by October 28, 1998.",
+    "char_count": 52
+  },
+  {
+    "id": 4568,
+    "fra": "Transférez 450 dollars sur mon compte, je vous prie.",
+    "eng": "Please transfer 450 dollars to my account.",
+    "char_count": 52
+  },
+  {
+    "id": 4569,
+    "fra": "Je viendrai vous prendre en voiture vers six heures.",
+    "eng": "I will pick you up around six.",
+    "char_count": 52
+  },
+  {
+    "id": 4570,
+    "fra": "J'ai pris comme acquis que vous étiez de notre côté.",
+    "eng": "I took it for granted that you were on our side.",
+    "char_count": 52
+  },
+  {
+    "id": 4571,
+    "fra": "Tout ce que tu dois faire est de faire de ton mieux.",
+    "eng": "All you have to do is to do your best.",
+    "char_count": 52
+  },
+  {
+    "id": 4572,
+    "fra": "Ne grimpez pas à cette échelle, elle n'est pas sûre.",
+    "eng": "Don't climb that ladder – it's not secure.",
+    "char_count": 52
+  },
+  {
+    "id": 4573,
+    "fra": "L'Afrique était autrefois appelée le continent noir.",
+    "eng": "Africa was once called the Dark Continent.",
+    "char_count": 52
+  },
+  {
+    "id": 4574,
+    "fra": "Les Étatsuniens admirent Lincoln pour son honnêteté.",
+    "eng": "Americans admire Lincoln for his honesty.",
+    "char_count": 52
+  },
+  {
+    "id": 4575,
+    "fra": "La nièce de M. Eliot va dans un collège pour filles.",
+    "eng": "Mr Eliot's niece goes to a women's college.",
+    "char_count": 52
+  },
+  {
+    "id": 4576,
+    "fra": "Il n'a pas d'égal dans le domaine de l'électronique.",
+    "eng": "He has no equal in the field of electronics.",
+    "char_count": 52
+  },
+  {
+    "id": 4577,
+    "fra": "Entre toi et moi, le gros homme laid suit un régime.",
+    "eng": "Between you and me, the fat ugly man is on a diet.",
+    "char_count": 52
+  },
+  {
+    "id": 4578,
+    "fra": "Les articles achetés ici seront livrés gratuitement.",
+    "eng": "Articles bought here will be delivered free of charge.",
+    "char_count": 52
+  },
+  {
+    "id": 4579,
+    "fra": "Je ne veux pas être lamentable, je veux être cool ! !",
+    "eng": "I don't want to be lame; I want to be cool!!",
+    "char_count": 53
+  },
+  {
+    "id": 4580,
+    "fra": "Tu n'as jamais le temps pour les choses importantes !",
+    "eng": "You never have time for important things!",
+    "char_count": 53
+  },
+  {
+    "id": 4581,
+    "fra": "« C'est très gentil de votre part », répondit Willie.",
+    "eng": "That's very nice of you, Willie answered.",
+    "char_count": 53
+  },
+  {
+    "id": 4582,
+    "fra": "Place le jeu de cartes sur la table en bois de chêne.",
+    "eng": "Place the deck of cards on the oaken table.",
+    "char_count": 53
+  },
+  {
+    "id": 4583,
+    "fra": "Est-ce qu'il y a une auberge de jeunesse près d'ici ?",
+    "eng": "Is there a youth hostel near here?",
+    "char_count": 53
+  },
+  {
+    "id": 4584,
+    "fra": "L'écurie est bien vide depuis que le cheval est mort.",
+    "eng": "It's lonely in the saddle since the horse died.",
+    "char_count": 53
+  },
+  {
+    "id": 4585,
+    "fra": "Il n'a pas envie que tu lui racontes ta vie sexuelle.",
+    "eng": "He doesn't want you to tell him about your sex life.",
+    "char_count": 53
+  },
+  {
+    "id": 4586,
+    "fra": "Il ne peut pas y avoir de progrès sans communication.",
+    "eng": "There cannot be progress without communication.",
+    "char_count": 53
+  },
+  {
+    "id": 4587,
+    "fra": "Gonzales offre un vélo à tous ses employés en Europe.",
+    "eng": "Gonzales offers a bike to all his employees in Europe.",
+    "char_count": 53
+  },
+  {
+    "id": 4588,
+    "fra": "Il y a pas mal de choses à faire, tu veux de l'aide ?",
+    "eng": "There's quite a lot of things to do; do you want some help?",
+    "char_count": 53
+  },
+  {
+    "id": 4589,
+    "fra": "Je ne pouvais pas me faire entendre à cause du bruit.",
+    "eng": "I could not make myself heard on account of the noise.",
+    "char_count": 53
+  },
+  {
+    "id": 4590,
+    "fra": "Je ne vois jamais cette photo sans penser à mon père.",
+    "eng": "I never see this picture without thinking of my father.",
+    "char_count": 53
+  },
+  {
+    "id": 4591,
+    "fra": "En vacances, je pouvais passer des heures à la pêche.",
+    "eng": "I used to fish for hours on holidays.",
+    "char_count": 53
+  },
+  {
+    "id": 4592,
+    "fra": "Je ne pense jamais à l'été sans penser à mon enfance.",
+    "eng": "I never think of summer without thinking of my childhood.",
+    "char_count": 53
+  },
+  {
+    "id": 4593,
+    "fra": "Ne sachant pas quoi faire, je lui ai demandé conseil.",
+    "eng": "Not knowing what to do, I asked him for advice.",
+    "char_count": 53
+  },
+  {
+    "id": 4594,
+    "fra": "Je suis tombé sur mon professeur en allant à la gare.",
+    "eng": "I met my teacher on the way to the station.",
+    "char_count": 53
+  },
+  {
+    "id": 4595,
+    "fra": "J'aime l'anglais, mais je ne peux pas bien le parler.",
+    "eng": "I like English, but I cannot speak well.",
+    "char_count": 53
+  },
+  {
+    "id": 4596,
+    "fra": "J'ai été très impressionné par l'architecture romane.",
+    "eng": "I was deeply impressed by Roman architecture.",
+    "char_count": 53
+  },
+  {
+    "id": 4597,
+    "fra": "J'ai payé deux fois le prix pour ce livre d'occasion.",
+    "eng": "I paid double the price for the secondhand book.",
+    "char_count": 53
+  },
+  {
+    "id": 4598,
+    "fra": "J'écris toujours les lettres à la plume et à l'encre.",
+    "eng": "I always write letters with pen and ink.",
+    "char_count": 53
+  },
+  {
+    "id": 4599,
+    "fra": "Je l'ai rencontré pour la première fois il y a 3 ans.",
+    "eng": "I first met him three years ago.",
+    "char_count": 53
+  },
+  {
+    "id": 4600,
+    "fra": "Je ne peux me passer de ce dictionnaire un seul jour.",
+    "eng": "I cannot do without this dictionary even for a single day.",
+    "char_count": 53
+  }
+]

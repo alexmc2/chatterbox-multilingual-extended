@@ -1,0 +1,602 @@
+[
+  {
+    "id": 2601,
+    "fra": "Je courus aussi vite que je pouvais.",
+    "eng": "I ran as fast as I could.",
+    "char_count": 36
+  },
+  {
+    "id": 2602,
+    "fra": "Je pense que tu es mon meilleur ami.",
+    "eng": "I look on you as my best friend.",
+    "char_count": 36
+  },
+  {
+    "id": 2603,
+    "fra": "Je veux que vous ouvriez la fenêtre.",
+    "eng": "I want you to open the window.",
+    "char_count": 36
+  },
+  {
+    "id": 2604,
+    "fra": "J'ai quelques photos à vous montrer.",
+    "eng": "I have some pictures to show you.",
+    "char_count": 36
+  },
+  {
+    "id": 2605,
+    "fra": "J'ai vécu à Osaka jusqu'à mes 6 ans.",
+    "eng": "I lived in Osaka until I was six.",
+    "char_count": 36
+  },
+  {
+    "id": 2606,
+    "fra": "J'ai été obligé de signer le papier.",
+    "eng": "I was compelled to sign the paper.",
+    "char_count": 36
+  },
+  {
+    "id": 2607,
+    "fra": "Je n'ai rien de particulier à faire.",
+    "eng": "I have nothing particular to do.",
+    "char_count": 36
+  },
+  {
+    "id": 2608,
+    "fra": "J'ai moi-même construit cette niche.",
+    "eng": "I made this kennel by myself.",
+    "char_count": 36
+  },
+  {
+    "id": 2609,
+    "fra": "Mes habits étaient souillés d'huile.",
+    "eng": "My clothes were dirty with oil.",
+    "char_count": 36
+  },
+  {
+    "id": 2610,
+    "fra": "Ma chambre est un refuge inviolable.",
+    "eng": "My room is an inviolable refuge.",
+    "char_count": 36
+  },
+  {
+    "id": 2611,
+    "fra": "Ma note est au-dessus de la moyenne.",
+    "eng": "My grade is above the average.",
+    "char_count": 36
+  },
+  {
+    "id": 2612,
+    "fra": "Mon bureau est dans le centre-ville.",
+    "eng": "My office is in the central area of the city.",
+    "char_count": 36
+  },
+  {
+    "id": 2613,
+    "fra": "Mon idée est différente de la vôtre.",
+    "eng": "My idea is different from yours.",
+    "char_count": 36
+  },
+  {
+    "id": 2614,
+    "fra": "Comprenez-vous ce que je veux dire ?",
+    "eng": "Do you know what I mean?",
+    "char_count": 36
+  },
+  {
+    "id": 2615,
+    "fra": "Mon frère est fort en mathématiques.",
+    "eng": "My brother is good at mathematics.",
+    "char_count": 36
+  },
+  {
+    "id": 2616,
+    "fra": "Mon frère travaille dans une banque.",
+    "eng": "My brother works in a bank.",
+    "char_count": 36
+  },
+  {
+    "id": 2617,
+    "fra": "Mon salaire mensuel est 300 000 yen.",
+    "eng": "My monthly wage is 300,000 yen.",
+    "char_count": 36
+  },
+  {
+    "id": 2618,
+    "fra": "S'il vous plaît, suivez mon conseil.",
+    "eng": "Please take my advice.",
+    "char_count": 36
+  },
+  {
+    "id": 2619,
+    "fra": "Comment oses-tu me parler comme ça ?",
+    "eng": "How dare you speak to me like that?",
+    "char_count": 36
+  },
+  {
+    "id": 2620,
+    "fra": "Je ne peux pas réparer l'ordinateur.",
+    "eng": "I can't repair the computer.",
+    "char_count": 36
+  },
+  {
+    "id": 2621,
+    "fra": "Le printemps est ma saison préférée.",
+    "eng": "Spring is my favourite of the four seasons.",
+    "char_count": 36
+  },
+  {
+    "id": 2622,
+    "fra": "Donnez-moi trois morceaux de saumon.",
+    "eng": "Give me three pieces of salmon.",
+    "char_count": 36
+  },
+  {
+    "id": 2623,
+    "fra": "La première fois, j'ai raté le test.",
+    "eng": "At first, I failed the test.",
+    "char_count": 36
+  },
+  {
+    "id": 2624,
+    "fra": "Le printemps est tardif cette année.",
+    "eng": "Spring is late coming this year.",
+    "char_count": 36
+  },
+  {
+    "id": 2625,
+    "fra": "Quelle belle journée, n'est-ce pas ?",
+    "eng": "It's a pleasant day, isn't it?",
+    "char_count": 36
+  },
+  {
+    "id": 2626,
+    "fra": "Je ne peux rien dire pour le moment.",
+    "eng": "I can not say anything for the moment.",
+    "char_count": 36
+  },
+  {
+    "id": 2627,
+    "fra": "Désormais, je vois la vie autrement.",
+    "eng": "I see life differently now.",
+    "char_count": 36
+  },
+  {
+    "id": 2628,
+    "fra": "Que pensez-vous d'une tasse de thé ?",
+    "eng": "How about a cup of tea?",
+    "char_count": 36
+  },
+  {
+    "id": 2629,
+    "fra": "Pourrais-je avoir une tasse de thé ?",
+    "eng": "May I have a cup of tea?",
+    "char_count": 36
+  },
+  {
+    "id": 2630,
+    "fra": "Prends autant de pêches que tu veux.",
+    "eng": "Take as many peaches as you like.",
+    "char_count": 36
+  },
+  {
+    "id": 2631,
+    "fra": "Un chien m'a suivi jusqu'à chez moi.",
+    "eng": "A dog followed me to my house.",
+    "char_count": 36
+  },
+  {
+    "id": 2632,
+    "fra": "Kenji a décidé de devenir cuisinier.",
+    "eng": "Kenji decided to become a cook.",
+    "char_count": 36
+  },
+  {
+    "id": 2633,
+    "fra": "Ken veut être un joueur de baseball.",
+    "eng": "Ken wants to be a baseball player.",
+    "char_count": 36
+  },
+  {
+    "id": 2634,
+    "fra": "Ne vous inquiétez pas des résultats.",
+    "eng": "Don't worry about the results.",
+    "char_count": 36
+  },
+  {
+    "id": 2635,
+    "fra": "Sais-tu comment cuire de la viande ?",
+    "eng": "Do you know how to cook meat?",
+    "char_count": 36
+  },
+  {
+    "id": 2636,
+    "fra": "Avez-vous réellement vu l'accident ?",
+    "eng": "Did you actually see the accident?",
+    "char_count": 36
+  },
+  {
+    "id": 2637,
+    "fra": "Combien de temps resterez-vous ici ?",
+    "eng": "How long will you stay here?",
+    "char_count": 36
+  },
+  {
+    "id": 2638,
+    "fra": "Comment t'es-tu procuré cet argent ?",
+    "eng": "How did you come by this money?",
+    "char_count": 36
+  },
+  {
+    "id": 2639,
+    "fra": "Avez-vous laissé la fenêtre ouverte?",
+    "eng": "Did you leave the window open?",
+    "char_count": 36
+  },
+  {
+    "id": 2640,
+    "fra": "S'il te plaît, prête-moi ta voiture.",
+    "eng": "Please lend me your car.",
+    "char_count": 36
+  },
+  {
+    "id": 2641,
+    "fra": "Mangez-vous du riz dans votre pays ?",
+    "eng": "Do you eat rice in your country?",
+    "char_count": 36
+  },
+  {
+    "id": 2642,
+    "fra": "Partagez le gâteau entre vous trois.",
+    "eng": "Divide the cake among you three.",
+    "char_count": 36
+  },
+  {
+    "id": 2643,
+    "fra": "Les garçons, ne faites pas de bruit.",
+    "eng": "Boys, don't make any noise.",
+    "char_count": 36
+  },
+  {
+    "id": 2644,
+    "fra": "Les oiseaux chantaient dans le ciel.",
+    "eng": "Birds were singing in the sky.",
+    "char_count": 36
+  },
+  {
+    "id": 2645,
+    "fra": "Son visage est déformé par la peine.",
+    "eng": "His face is distorted by pain.",
+    "char_count": 36
+  },
+  {
+    "id": 2646,
+    "fra": "L'argent ne peut acheter le bonheur.",
+    "eng": "Money can't buy happiness.",
+    "char_count": 36
+  },
+  {
+    "id": 2647,
+    "fra": "Gardez votre salle de classe propre.",
+    "eng": "Keep your classroom clean.",
+    "char_count": 36
+  },
+  {
+    "id": 2648,
+    "fra": "L'éducation est un élément critique.",
+    "eng": "Education is a critical element.",
+    "char_count": 36
+  },
+  {
+    "id": 2649,
+    "fra": "Plus vite, sinon tu seras en retard.",
+    "eng": "Hurry up, or you will be late.",
+    "char_count": 36
+  },
+  {
+    "id": 2650,
+    "fra": "Une sensation étrange m'envahissait.",
+    "eng": "A strange feeling came over me.",
+    "char_count": 36
+  },
+  {
+    "id": 2651,
+    "fra": "Tous les étudiants étaient présents.",
+    "eng": "All of the students were present.",
+    "char_count": 36
+  },
+  {
+    "id": 2652,
+    "fra": "Cire tes chaussures avant de sortir.",
+    "eng": "Shine your shoes before going out.",
+    "char_count": 36
+  },
+  {
+    "id": 2653,
+    "fra": "Notre école est très proche du parc.",
+    "eng": "Our school is very close to the park.",
+    "char_count": 36
+  },
+  {
+    "id": 2654,
+    "fra": "Le climat de notre pays est tempéré.",
+    "eng": "Our country's climate is temperate.",
+    "char_count": 36
+  },
+  {
+    "id": 2655,
+    "fra": "Notre équipe a deux points d'avance.",
+    "eng": "Our team is two points ahead.",
+    "char_count": 36
+  },
+  {
+    "id": 2656,
+    "fra": "Ne ressasse pas tes erreurs passées.",
+    "eng": "Don't dwell on your past failures.",
+    "char_count": 36
+  },
+  {
+    "id": 2657,
+    "fra": "Amenez l'arbre fruitier à floraison.",
+    "eng": "Let the fruit-tree come to bloom.",
+    "char_count": 36
+  },
+  {
+    "id": 2658,
+    "fra": "Avez-vous quelque chose à déclarer ?",
+    "eng": "Do you have anything to declare?",
+    "char_count": 36
+  },
+  {
+    "id": 2659,
+    "fra": "Je sens que quelque chose ne va pas.",
+    "eng": "I feel that something is wrong.",
+    "char_count": 36
+  },
+  {
+    "id": 2660,
+    "fra": "J’ai téléphoné à ma mère de la gare.",
+    "eng": "I called my mother up from the station.",
+    "char_count": 36
+  },
+  {
+    "id": 2661,
+    "fra": "L'anglais est aussi étudié en Chine.",
+    "eng": "English is studied in China, too.",
+    "char_count": 36
+  },
+  {
+    "id": 2662,
+    "fra": "L'anglais n'est pas facile pour moi.",
+    "eng": "English is not easy for me.",
+    "char_count": 36
+  },
+  {
+    "id": 2663,
+    "fra": "Combien de mots anglais connais-tu ?",
+    "eng": "How many English words do you know?",
+    "char_count": 36
+  },
+  {
+    "id": 2664,
+    "fra": "J'ai envie de chanter sous la pluie.",
+    "eng": "I feel like singing in the rain.",
+    "char_count": 36
+  },
+  {
+    "id": 2665,
+    "fra": "Il est presque onze heures et demie.",
+    "eng": "It's almost half past eleven.",
+    "char_count": 36
+  },
+  {
+    "id": 2666,
+    "fra": "Du 5 au 15 janvier, s'il vous plaît.",
+    "eng": "From the 5th to the 15th of January, please.",
+    "char_count": 36
+  },
+  {
+    "id": 2667,
+    "fra": "Je serai de retour dans deux heures.",
+    "eng": "I'll be back within two hours.",
+    "char_count": 36
+  },
+  {
+    "id": 2668,
+    "fra": "Les peuples d'Asie doivent coopérer.",
+    "eng": "People of Asia must work together.",
+    "char_count": 36
+  },
+  {
+    "id": 2669,
+    "fra": "J'apprécie beaucoup votre compagnie.",
+    "eng": "I really appreciate your company.",
+    "char_count": 36
+  },
+  {
+    "id": 2670,
+    "fra": "Est-ce que ton frère sait conduire ?",
+    "eng": "Can your brother drive a car?",
+    "char_count": 36
+  },
+  {
+    "id": 2671,
+    "fra": "J'aimerais être votre correspondant.",
+    "eng": "I would like to be your pen pal.",
+    "char_count": 36
+  },
+  {
+    "id": 2672,
+    "fra": "Puis-je emprunter ton dictionnaire ?",
+    "eng": "May I borrow your dictionary?",
+    "char_count": 36
+  },
+  {
+    "id": 2673,
+    "fra": "Êtes-vous content de votre travail ?",
+    "eng": "Are you satisfied with your job?",
+    "char_count": 36
+  },
+  {
+    "id": 2674,
+    "fra": "Es-tu en faveur de la nouvelle loi ?",
+    "eng": "Are you in agreement with the new law?",
+    "char_count": 36
+  },
+  {
+    "id": 2675,
+    "fra": "Avez-vous déjà vu la Tour de Tokyo ?",
+    "eng": "Have you ever seen Tokyo Tower?",
+    "char_count": 36
+  },
+  {
+    "id": 2676,
+    "fra": "Les cheveux de ce garçon sont noirs.",
+    "eng": "That boy's hair is black.",
+    "char_count": 36
+  },
+  {
+    "id": 2677,
+    "fra": "Est-ce les gens que tu as vus hier ?",
+    "eng": "Are those the people you saw yesterday?",
+    "char_count": 36
+  },
+  {
+    "id": 2678,
+    "fra": "Je vais souvent à la pêche avec eux.",
+    "eng": "I often go fishing with them.",
+    "char_count": 36
+  },
+  {
+    "id": 2679,
+    "fra": "Cette photo ne lui rend pas justice.",
+    "eng": "That picture does not do justice to him.",
+    "char_count": 36
+  },
+  {
+    "id": 2680,
+    "fra": "Venez me voir quand vous le désirez.",
+    "eng": "Come and see me whenever you like.",
+    "char_count": 36
+  },
+  {
+    "id": 2681,
+    "fra": "Mon patron est très gai aujourd'hui.",
+    "eng": "My boss is very cheerful today.",
+    "char_count": 36
+  },
+  {
+    "id": 2682,
+    "fra": "Edison inventa l'ampoule électrique.",
+    "eng": "Edison invented the electric lamp.",
+    "char_count": 36
+  },
+  {
+    "id": 2683,
+    "fra": "Je suis enchanté de vous rencontrer.",
+    "eng": "I'm glad to see you.",
+    "char_count": 36
+  },
+  {
+    "id": 2684,
+    "fra": "Je suis heureuse de vous rencontrer.",
+    "eng": "It's nice to meet you.",
+    "char_count": 36
+  },
+  {
+    "id": 2685,
+    "fra": "As-tu décidé de devenir professeur ?",
+    "eng": "Have you made up your mind to become a teacher?",
+    "char_count": 36
+  },
+  {
+    "id": 2686,
+    "fra": "Le théier est une espèce de camélia.",
+    "eng": "The tea tree is a kind of camellia.",
+    "char_count": 36
+  },
+  {
+    "id": 2687,
+    "fra": "Elle s'est mise à boire de la bière.",
+    "eng": "She took to drinking beer.",
+    "char_count": 36
+  },
+  {
+    "id": 2688,
+    "fra": "Il semble que Cathy aime la musique.",
+    "eng": "It seems that Cathy likes music.",
+    "char_count": 36
+  },
+  {
+    "id": 2689,
+    "fra": "Chris ne peut pas travailler demain.",
+    "eng": "Chris can't work tomorrow.",
+    "char_count": 36
+  },
+  {
+    "id": 2690,
+    "fra": "Kate n'est pas aussi grande qu'Anne.",
+    "eng": "Kate is not as tall as Anne.",
+    "char_count": 36
+  },
+  {
+    "id": 2691,
+    "fra": "Fais attention aux pickpockets, Ken.",
+    "eng": "Be on your guard against pickpockets, Ken.",
+    "char_count": 36
+  },
+  {
+    "id": 2692,
+    "fra": "Donnez-moi un café, s'il vous plaît.",
+    "eng": "Give me a coffee, please.",
+    "char_count": 36
+  },
+  {
+    "id": 2693,
+    "fra": "Va acheter trois bouteilles de coca.",
+    "eng": "Go and buy three bottles of coke.",
+    "char_count": 36
+  },
+  {
+    "id": 2694,
+    "fra": "Il y a beaucoup d'éléphants par ici.",
+    "eng": "Elephants abound here.",
+    "char_count": 36
+  },
+  {
+    "id": 2695,
+    "fra": "Parfois il peut être un gars bizarre.",
+    "eng": "Sometimes he can be a strange guy.",
+    "char_count": 37
+  },
+  {
+    "id": 2696,
+    "fra": "Je n’ai pas de compte sur ces forums.",
+    "eng": "I do not have an account in these forums.",
+    "char_count": 37
+  },
+  {
+    "id": 2697,
+    "fra": "Je dois te poser une question idiote.",
+    "eng": "I need to ask you a silly question.",
+    "char_count": 37
+  },
+  {
+    "id": 2698,
+    "fra": "Non, c'est pas mon nouveau petit ami.",
+    "eng": "No, he's not my new boyfriend.",
+    "char_count": 37
+  },
+  {
+    "id": 2699,
+    "fra": "Je ne parle pas assez bien français !",
+    "eng": "I don't speak French well enough!",
+    "char_count": 37
+  },
+  {
+    "id": 2700,
+    "fra": "Je voulais juste vérifier mes emails.",
+    "eng": "I just wanted to check my email.",
+    "char_count": 37
+  }
+]

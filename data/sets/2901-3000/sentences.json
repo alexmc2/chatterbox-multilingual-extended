@@ -1,0 +1,602 @@
+[
+  {
+    "id": 2901,
+    "fra": "Je t'aiderai autant que je le pourrai.",
+    "eng": "I'll help you as far as I can.",
+    "char_count": 38
+  },
+  {
+    "id": 2902,
+    "fra": "Je le finirai avant demain après-midi.",
+    "eng": "I will finish it by tomorrow afternoon.",
+    "char_count": 38
+  },
+  {
+    "id": 2903,
+    "fra": "Je peux résoudre le problème moi-même.",
+    "eng": "I can solve the problem by myself.",
+    "char_count": 38
+  },
+  {
+    "id": 2904,
+    "fra": "J'ai découpé l'article de ce magazine.",
+    "eng": "I cut the article out of the magazine.",
+    "char_count": 38
+  },
+  {
+    "id": 2905,
+    "fra": "Je l'ai recherché dans le supermarché.",
+    "eng": "I looked for him in the supermarket.",
+    "char_count": 38
+  },
+  {
+    "id": 2906,
+    "fra": "Je ne suis pas sorti dimanche dernier.",
+    "eng": "I didn't go out last Sunday.",
+    "char_count": 38
+  },
+  {
+    "id": 2907,
+    "fra": "Je ne mets pas de sucre dans mon café.",
+    "eng": "I don't put sugar in my coffee.",
+    "char_count": 38
+  },
+  {
+    "id": 2908,
+    "fra": "Je ne suis jamais allé aux États-Unis.",
+    "eng": "I have never been to the States.",
+    "char_count": 38
+  },
+  {
+    "id": 2909,
+    "fra": "Je vous aime plus que je ne peux dire.",
+    "eng": "I love you more deeply than I can say.",
+    "char_count": 38
+  },
+  {
+    "id": 2910,
+    "fra": "Je suis arrivé ici à 5 heures environ.",
+    "eng": "I arrived here about five o'clock.",
+    "char_count": 38
+  },
+  {
+    "id": 2911,
+    "fra": "Je compte prendre des vacances en mai.",
+    "eng": "I expect to take a vacation in May.",
+    "char_count": 38
+  },
+  {
+    "id": 2912,
+    "fra": "Je doute de la véracité de ce rapport.",
+    "eng": "I doubt the truth of the report.",
+    "char_count": 38
+  },
+  {
+    "id": 2913,
+    "fra": "Je ne suis ni un Athénien, ni un Grec.",
+    "eng": "I'm neither an Athenian nor a Greek.",
+    "char_count": 38
+  },
+  {
+    "id": 2914,
+    "fra": "Ma sœur ira à Tokyo l'année prochaine.",
+    "eng": "My sister will go to Tokyo next year.",
+    "char_count": 38
+  },
+  {
+    "id": 2915,
+    "fra": "Ma mère est une très bonne cuisinière.",
+    "eng": "My mother is a very good cook.",
+    "char_count": 38
+  },
+  {
+    "id": 2916,
+    "fra": "Mon père a une cravate bleue et grise.",
+    "eng": "My father has a blue and gray tie.",
+    "char_count": 38
+  },
+  {
+    "id": 2917,
+    "fra": "Mon oncle a une ferme dans le village.",
+    "eng": "My uncle has a farm in the village.",
+    "char_count": 38
+  },
+  {
+    "id": 2918,
+    "fra": "Mon loisir est de jouer de la guitare.",
+    "eng": "My hobby is playing the guitar.",
+    "char_count": 38
+  },
+  {
+    "id": 2919,
+    "fra": "Ma sœur aime les melons, et moi aussi.",
+    "eng": "My sister likes melons and so do I.",
+    "char_count": 38
+  },
+  {
+    "id": 2920,
+    "fra": "Mon travail est d'enseigner l'anglais.",
+    "eng": "My job is teaching English.",
+    "char_count": 38
+  },
+  {
+    "id": 2921,
+    "fra": "Fais-le de la manière que je t'ai dit.",
+    "eng": "Do it the way I told you to.",
+    "char_count": 38
+  },
+  {
+    "id": 2922,
+    "fra": "Mon frère est maintenant en Australie.",
+    "eng": "My brother is now in Australia.",
+    "char_count": 38
+  },
+  {
+    "id": 2923,
+    "fra": "Ma maison se trouve en face de la mer.",
+    "eng": "My house faces the sea.",
+    "char_count": 38
+  },
+  {
+    "id": 2924,
+    "fra": "Mon opinion est contraire à la tienne.",
+    "eng": "My opinion is contrary to yours.",
+    "char_count": 38
+  },
+  {
+    "id": 2925,
+    "fra": "Ma saveur préférée, c'est le chocolat.",
+    "eng": "My favorite flavor is chocolate.",
+    "char_count": 38
+  },
+  {
+    "id": 2926,
+    "fra": "Avez-vous quelques messages pour moi ?",
+    "eng": "Do you have any messages for me?",
+    "char_count": 38
+  },
+  {
+    "id": 2927,
+    "fra": "J'ai un ami dont le père est magicien.",
+    "eng": "I have a friend whose father is a magician.",
+    "char_count": 38
+  },
+  {
+    "id": 2928,
+    "fra": "Suis-moi et je te montrerai le chemin.",
+    "eng": "Follow me and I will show you the way.",
+    "char_count": 38
+  },
+  {
+    "id": 2929,
+    "fra": "Pour ma part, je n'ai pas d'objection.",
+    "eng": "For my part, I have no objection.",
+    "char_count": 38
+  },
+  {
+    "id": 2930,
+    "fra": "Je crains que nous perdions la partie.",
+    "eng": "I'm afraid we'll lose the game.",
+    "char_count": 38
+  },
+  {
+    "id": 2931,
+    "fra": "Notre école est située sur la colline.",
+    "eng": "Our school stands on the hill.",
+    "char_count": 38
+  },
+  {
+    "id": 2932,
+    "fra": "Il est arrivé après que je suis parti.",
+    "eng": "He arrived after I had left.",
+    "char_count": 38
+  },
+  {
+    "id": 2933,
+    "fra": "Est-ce que tu as à faire un discours ?",
+    "eng": "Do you have to make a speech?",
+    "char_count": 38
+  },
+  {
+    "id": 2934,
+    "fra": "On compare souvent la mort au sommeil.",
+    "eng": "Death is often compared to sleep.",
+    "char_count": 38
+  },
+  {
+    "id": 2935,
+    "fra": "Les enfants grandissent vraiment vite.",
+    "eng": "Children grow up very quickly.",
+    "char_count": 38
+  },
+  {
+    "id": 2936,
+    "fra": "Les enfants aiment grimper aux arbres.",
+    "eng": "Children like climbing trees.",
+    "char_count": 38
+  },
+  {
+    "id": 2937,
+    "fra": "Je peux faire le travail correctement.",
+    "eng": "I can do the job right!",
+    "char_count": 38
+  },
+  {
+    "id": 2938,
+    "fra": "Les compositeurs créent de la musique.",
+    "eng": "Composers create music.",
+    "char_count": 38
+  },
+  {
+    "id": 2939,
+    "fra": "Il a fait de son mieux jusqu'à la fin.",
+    "eng": "He did his best to the last.",
+    "char_count": 38
+  },
+  {
+    "id": 2940,
+    "fra": "Êtes-vous hors de service cette nuit ?",
+    "eng": "Are you off duty tonight?",
+    "char_count": 38
+  },
+  {
+    "id": 2941,
+    "fra": "J'ai un programme complet aujourd'hui.",
+    "eng": "I have a full program today.",
+    "char_count": 38
+  },
+  {
+    "id": 2942,
+    "fra": "Je pense qu'il fera chaud aujourd'hui.",
+    "eng": "I think it will be hot today.",
+    "char_count": 38
+  },
+  {
+    "id": 2943,
+    "fra": "Je me sens beaucoup mieux aujourd'hui.",
+    "eng": "I'm feeling much better today.",
+    "char_count": 38
+  },
+  {
+    "id": 2944,
+    "fra": "J'ai déjà lu le journal d'aujourd'hui.",
+    "eng": "I have already read today's paper.",
+    "char_count": 38
+  },
+  {
+    "id": 2945,
+    "fra": "J'ai beaucoup de missions aujourd'hui.",
+    "eng": "I have a lot of assignments to do today.",
+    "char_count": 38
+  },
+  {
+    "id": 2946,
+    "fra": "Il fait froid ce matin, n'est-ce pas ?",
+    "eng": "Cold this morning, isn't it?",
+    "char_count": 38
+  },
+  {
+    "id": 2947,
+    "fra": "Par chance, il a gagné le championnat.",
+    "eng": "Luckily, he won the championship.",
+    "char_count": 38
+  },
+  {
+    "id": 2948,
+    "fra": "Elle n'était pas sérieusement blessée.",
+    "eng": "She was not seriously injured.",
+    "char_count": 38
+  },
+  {
+    "id": 2949,
+    "fra": "Heureusement, personne n'a été trempé.",
+    "eng": "Luckily nobody got wet.",
+    "char_count": 38
+  },
+  {
+    "id": 2950,
+    "fra": "Ne jouez pas au baseball dans le parc.",
+    "eng": "Don't play baseball in the park.",
+    "char_count": 38
+  },
+  {
+    "id": 2951,
+    "fra": "Il y a eu un accident de la route ici.",
+    "eng": "A traffic accident happened there.",
+    "char_count": 38
+  },
+  {
+    "id": 2952,
+    "fra": "Il a plu tout au long de l'après-midi.",
+    "eng": "It rained all through the afternoon.",
+    "char_count": 38
+  },
+  {
+    "id": 2953,
+    "fra": "La santé est au-dessus de la richesse.",
+    "eng": "Health is above wealth.",
+    "char_count": 38
+  },
+  {
+    "id": 2954,
+    "fra": "J'ai si peu d'argent à la fin du mois.",
+    "eng": "I have so little money at the end of the month.",
+    "char_count": 38
+  },
+  {
+    "id": 2955,
+    "fra": "Peux-tu imaginer marcher sur la Lune ?",
+    "eng": "Can you imagine walking on the moon?",
+    "char_count": 38
+  },
+  {
+    "id": 2956,
+    "fra": "Te rends-tu compte comme elle t'aime ?",
+    "eng": "Are you aware of how much she loves you?",
+    "char_count": 38
+  },
+  {
+    "id": 2957,
+    "fra": "As-tu déjà résolu tous les problèmes ?",
+    "eng": "Have you solved all the problems yet?",
+    "char_count": 38
+  },
+  {
+    "id": 2958,
+    "fra": "Vérifiez votre réponse avec la sienne.",
+    "eng": "Check your answer with his.",
+    "char_count": 38
+  },
+  {
+    "id": 2959,
+    "fra": "J'ai oublié votre numéro de téléphone.",
+    "eng": "I forget your telephone number.",
+    "char_count": 38
+  },
+  {
+    "id": 2960,
+    "fra": "J'ai laissé ton parapluie dans le bus.",
+    "eng": "I left your umbrella in the bus.",
+    "char_count": 38
+  },
+  {
+    "id": 2961,
+    "fra": "Je vais te faire une maquette d'avion.",
+    "eng": "I'll make you a model plane.",
+    "char_count": 38
+  },
+  {
+    "id": 2962,
+    "fra": "Je serai parti d'ici avant ton retour.",
+    "eng": "I will have left here before you return.",
+    "char_count": 38
+  },
+  {
+    "id": 2963,
+    "fra": "Je suis heureuse que vous ayez réussi.",
+    "eng": "I am glad that you have succeeded.",
+    "char_count": 38
+  },
+  {
+    "id": 2964,
+    "fra": "Vous ou moi devons y aller à sa place.",
+    "eng": "Either you or I must go in his place.",
+    "char_count": 38
+  },
+  {
+    "id": 2965,
+    "fra": "Enlève la poussière de tes chaussures.",
+    "eng": "Brush off the dust from your shoes.",
+    "char_count": 38
+  },
+  {
+    "id": 2966,
+    "fra": "L'argent ne pousse pas sur les arbres.",
+    "eng": "Money does not grow on trees.",
+    "char_count": 38
+  },
+  {
+    "id": 2967,
+    "fra": "Les vaches nous fournissent leur lait.",
+    "eng": "Cows supply us with milk.",
+    "char_count": 38
+  },
+  {
+    "id": 2968,
+    "fra": "L'avez-vous entendue parler français ?",
+    "eng": "Didn't you hear her speaking French?",
+    "char_count": 38
+  },
+  {
+    "id": 2969,
+    "fra": "Je ne sais pas comment vous remercier.",
+    "eng": "I don't know how to express my thanks.",
+    "char_count": 38
+  },
+  {
+    "id": 2970,
+    "fra": "Ne jugez pas un homme à son apparence.",
+    "eng": "Don't judge a man by his appearance.",
+    "char_count": 38
+  },
+  {
+    "id": 2971,
+    "fra": "Toute la famille sortit de la voiture.",
+    "eng": "The whole family got out of the car.",
+    "char_count": 38
+  },
+  {
+    "id": 2972,
+    "fra": "Demande-lui si tu as le moindre doute.",
+    "eng": "Ask him if you have any doubt.",
+    "char_count": 38
+  },
+  {
+    "id": 2973,
+    "fra": "Nul ne peut prévoir ce qui va arriver.",
+    "eng": "Nobody can foresee what'll happen.",
+    "char_count": 38
+  },
+  {
+    "id": 2974,
+    "fra": "N'hésite pas à me poser des questions.",
+    "eng": "Please feel free to ask me questions.",
+    "char_count": 38
+  },
+  {
+    "id": 2975,
+    "fra": "Les singes pullulent dans cette forêt.",
+    "eng": "The forest is teeming with monkeys.",
+    "char_count": 38
+  },
+  {
+    "id": 2976,
+    "fra": "Les exercices sont bons pour la santé.",
+    "eng": "Exercise is good for your health.",
+    "char_count": 38
+  },
+  {
+    "id": 2977,
+    "fra": "J'espère qu'il va arrêter de pleuvoir.",
+    "eng": "I wish it would stop raining.",
+    "char_count": 38
+  },
+  {
+    "id": 2978,
+    "fra": "Je me disais \"qu'a-t-elle voulu dire\".",
+    "eng": "I said to myself, \"I wonder what she means.\"",
+    "char_count": 38
+  },
+  {
+    "id": 2979,
+    "fra": "Un chat apparut de derrière le rideau.",
+    "eng": "A cat appeared from behind the curtain.",
+    "char_count": 38
+  },
+  {
+    "id": 2980,
+    "fra": "Je m'en fiche de quitter à six heures.",
+    "eng": "I don't mind leaving at six o'clock.",
+    "char_count": 38
+  },
+  {
+    "id": 2981,
+    "fra": "J'ai manqué l'école pendant six jours.",
+    "eng": "I missed school for six days.",
+    "char_count": 38
+  },
+  {
+    "id": 2982,
+    "fra": "J'aimerais que tu sois mon partenaire.",
+    "eng": "I'd like you to be my partner.",
+    "char_count": 38
+  },
+  {
+    "id": 2983,
+    "fra": "Avez-vous parlé de votre passe-temps ?",
+    "eng": "Did you talk about your hobby?",
+    "char_count": 38
+  },
+  {
+    "id": 2984,
+    "fra": "Se peut-il que la rumeur soit fondée ?",
+    "eng": "Can the rumor be true?",
+    "char_count": 38
+  },
+  {
+    "id": 2985,
+    "fra": "Regardez cette photo, s'il vous plaît.",
+    "eng": "Please take a look at that picture.",
+    "char_count": 38
+  },
+  {
+    "id": 2986,
+    "fra": "S'il te plaît ne marche pas trop vite.",
+    "eng": "Please don't walk too fast.",
+    "char_count": 38
+  },
+  {
+    "id": 2987,
+    "fra": "L'Amérique abolit l'esclavage en 1863.",
+    "eng": "America did away with slavery in 1863.",
+    "char_count": 38
+  },
+  {
+    "id": 2988,
+    "fra": "L'Amérique est une terre d'immigrants.",
+    "eng": "America is a land of immigrants.",
+    "char_count": 38
+  },
+  {
+    "id": 2989,
+    "fra": "Les fourmis pullulent autour du sucre.",
+    "eng": "Ants are swarming around the sugar.",
+    "char_count": 38
+  },
+  {
+    "id": 2990,
+    "fra": "Prévenez-moi dès que vous voyez l'île.",
+    "eng": "Tell me when you first saw the island.",
+    "char_count": 38
+  },
+  {
+    "id": 2991,
+    "fra": "Combien de temps resteras-tu à Tokyo ?",
+    "eng": "How long will you stay in Tokyo?",
+    "char_count": 38
+  },
+  {
+    "id": 2992,
+    "fra": "Il peut avoir manqué son bus habituel.",
+    "eng": "He may have missed his usual bus.",
+    "char_count": 38
+  },
+  {
+    "id": 2993,
+    "fra": "Une guerre peut éclater à tout moment.",
+    "eng": "A war may break out at any moment.",
+    "char_count": 38
+  },
+  {
+    "id": 2994,
+    "fra": "Chaque fois que je le vois, il sourit.",
+    "eng": "Every time I see him, he is smiling.",
+    "char_count": 38
+  },
+  {
+    "id": 2995,
+    "fra": "Allez voir si M. Wilson est chez lui !",
+    "eng": "Go and see if Mr Wilson is at home.",
+    "char_count": 38
+  },
+  {
+    "id": 2996,
+    "fra": "Ne dis pas de mensonge, sois honnête !",
+    "eng": "Don't tell a lie. Be honest.",
+    "char_count": 38
+  },
+  {
+    "id": 2997,
+    "fra": "Notre vache ne nous donne pas de lait.",
+    "eng": "Our cow doesn't give us any milk.",
+    "char_count": 38
+  },
+  {
+    "id": 2998,
+    "fra": "Edison a inventé l'ampoule électrique.",
+    "eng": "Edison invented the light bulb.",
+    "char_count": 38
+  },
+  {
+    "id": 2999,
+    "fra": "Emi n'a encore jamais écrit de lettre.",
+    "eng": "Emi has never written a letter.",
+    "char_count": 38
+  },
+  {
+    "id": 3000,
+    "fra": "Les oranges sont riches en vitamine C.",
+    "eng": "Oranges contain a lot of vitamin C.",
+    "char_count": 38
+  }
+]

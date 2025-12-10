@@ -1,0 +1,602 @@
+[
+  {
+    "id": 4301,
+    "fra": "Manger entre les repas est mauvais pour la ligne.",
+    "eng": "Eating between meals is bad for the figure.",
+    "char_count": 49
+  },
+  {
+    "id": 4302,
+    "fra": "Fais une croix sur toutes les mauvaises réponses.",
+    "eng": "Cross out all the wrong answers.",
+    "char_count": 49
+  },
+  {
+    "id": 4303,
+    "fra": "Ce qui est facilement gagné est facilement perdu.",
+    "eng": "That which is easily acquired is easily lost.",
+    "char_count": 49
+  },
+  {
+    "id": 4304,
+    "fra": "Il faisait froid, et en plus, il y avait du vent.",
+    "eng": "It was cold, and in addition, it was windy.",
+    "char_count": 49
+  },
+  {
+    "id": 4305,
+    "fra": "Tous les étudiants protestèrent contre la guerre.",
+    "eng": "All the students protested against the war.",
+    "char_count": 49
+  },
+  {
+    "id": 4306,
+    "fra": "Notre succès dépend de si vous nous aidez ou non.",
+    "eng": "Our success depends upon whether you will help us or not.",
+    "char_count": 49
+  },
+  {
+    "id": 4307,
+    "fra": "Comparée à notre maison, la sienne est un palace.",
+    "eng": "Compared to our house, his is a palace.",
+    "char_count": 49
+  },
+  {
+    "id": 4308,
+    "fra": "Je partais de chez moi lorsque Tom m'a téléphoné.",
+    "eng": "I was leaving home when Tom telephoned me.",
+    "char_count": 49
+  },
+  {
+    "id": 4309,
+    "fra": "Je ne sais pas comment répondre à cette question.",
+    "eng": "I don't know how to reply to that question.",
+    "char_count": 49
+  },
+  {
+    "id": 4310,
+    "fra": "Puis-je changer des yens contre des dollars ici ?",
+    "eng": "Can I exchange yen for dollars here?",
+    "char_count": 49
+  },
+  {
+    "id": 4311,
+    "fra": "Pouvez-vous me dire comment me rendre à la gare ?",
+    "eng": "Can you tell me how to get to the station?",
+    "char_count": 49
+  },
+  {
+    "id": 4312,
+    "fra": "Les Anglais sont, pour la plupart, conservateurs.",
+    "eng": "Englishmen are, on the whole, conservative.",
+    "char_count": 49
+  },
+  {
+    "id": 4313,
+    "fra": "Prenez un parapluie avec vous au cas où il pleut.",
+    "eng": "Take your umbrella with you in case it rains.",
+    "char_count": 49
+  },
+  {
+    "id": 4314,
+    "fra": "« Comment allez-vous ? » « Je vais bien, merci. »",
+    "eng": "How are you? \"I am fine, thank you.\"",
+    "char_count": 49
+  },
+  {
+    "id": 4315,
+    "fra": "La paix est revenue après trois années de guerre.",
+    "eng": "Peace has returned after three years of war.",
+    "char_count": 49
+  },
+  {
+    "id": 4316,
+    "fra": "J'ai dépensé trois mille yens pour un nouveau CD.",
+    "eng": "I spent 3000 yen on a new CD.",
+    "char_count": 49
+  },
+  {
+    "id": 4317,
+    "fra": "Je voudrais que tu traduises ce livre en anglais.",
+    "eng": "I'd like you to translate this book into English.",
+    "char_count": 49
+  },
+  {
+    "id": 4318,
+    "fra": "Joignez une photographie récente à votre demande.",
+    "eng": "Attach a recent photograph to your application form.",
+    "char_count": 49
+  },
+  {
+    "id": 4319,
+    "fra": "Tout ce que tu as à faire c'est de la rencontrer.",
+    "eng": "All you have to do is to meet her.",
+    "char_count": 49
+  },
+  {
+    "id": 4320,
+    "fra": "Ses capacités n'étaient pas appréciées à l'école.",
+    "eng": "His abilities were not appreciated in that school.",
+    "char_count": 49
+  },
+  {
+    "id": 4321,
+    "fra": "Je suis d'accord avec toi d'une certaine manière.",
+    "eng": "I agree with you to a certain extent.",
+    "char_count": 49
+  },
+  {
+    "id": 4322,
+    "fra": "Selon une légende, cela tire son nom d'un prêtre.",
+    "eng": "According to one legend, it gets its name from a priest.",
+    "char_count": 49
+  },
+  {
+    "id": 4323,
+    "fra": "Un Anglais ne le prononcerait pas de cette façon.",
+    "eng": "An Englishman would not pronounce it like that.",
+    "char_count": 49
+  },
+  {
+    "id": 4324,
+    "fra": "Mon oncle vit à Madrid, la capitale de l'Espagne.",
+    "eng": "My uncle lives in Madrid, the capital of Spain.",
+    "char_count": 49
+  },
+  {
+    "id": 4325,
+    "fra": "Plus tard, j'aimerais être professeur d'histoire.",
+    "eng": "I want to teach history when I grow up.",
+    "char_count": 49
+  },
+  {
+    "id": 4326,
+    "fra": "Je parie que nous aurons un contrôle aujourd'hui.",
+    "eng": "I bet we'll have a test today.",
+    "char_count": 49
+  },
+  {
+    "id": 4327,
+    "fra": "Il est grand temps que tu ailles te coucher, Ken.",
+    "eng": "It's high time you went to bed, Ken.",
+    "char_count": 49
+  },
+  {
+    "id": 4328,
+    "fra": "Gordon est intéressé par le mode de vie japonais.",
+    "eng": "Gordon is interested in the Japanese way of life.",
+    "char_count": 49
+  },
+  {
+    "id": 4329,
+    "fra": "La brique ne remplacera jamais le béton armé ici.",
+    "eng": "Bricks never take the place of ferro-concrete here.",
+    "char_count": 49
+  },
+  {
+    "id": 4330,
+    "fra": "Il fut un temps où je voulais être astrophysicien.",
+    "eng": "I once wanted to be an astrophysicist.",
+    "char_count": 50
+  },
+  {
+    "id": 4331,
+    "fra": "« J'ai envie de jouer aux cartes. » « Moi aussi. »",
+    "eng": "I feel like playing cards. \"So do I.\"",
+    "char_count": 50
+  },
+  {
+    "id": 4332,
+    "fra": "Ce n'est pas rare du tout de vivre plus de 90 ans.",
+    "eng": "It is not rare at all to live over ninety years.",
+    "char_count": 50
+  },
+  {
+    "id": 4333,
+    "fra": "T'as eu de la chance parce qu'il ne t'a pas mordu.",
+    "eng": "You're lucky because he didn't bite you.",
+    "char_count": 50
+  },
+  {
+    "id": 4334,
+    "fra": "Douter de soi est le premier signe d'intelligence.",
+    "eng": "To have doubts about oneself is the first sign of intelligence.",
+    "char_count": 50
+  },
+  {
+    "id": 4335,
+    "fra": "Et pourtant, le contraire aussi est toujours vrai.",
+    "eng": "And yet, the contrary is always true as well.",
+    "char_count": 50
+  },
+  {
+    "id": 4336,
+    "fra": "Je voudrais revenir sur ma déclaration précédente.",
+    "eng": "I would like to retract my previous statement.",
+    "char_count": 50
+  },
+  {
+    "id": 4337,
+    "fra": "Nous avons fait des crêpes pour le petit-déjeuner.",
+    "eng": "We made pancakes for breakfast.",
+    "char_count": 50
+  },
+  {
+    "id": 4338,
+    "fra": "Il y a 1000 films qu’il faut voir avant de mourir.",
+    "eng": "There are 1000 movies that one must watch before dying.",
+    "char_count": 50
+  },
+  {
+    "id": 4339,
+    "fra": "On m'a dit que je suis pragmatique, et je le suis.",
+    "eng": "I have been told that I am pragmatic, and I am.",
+    "char_count": 50
+  },
+  {
+    "id": 4340,
+    "fra": "Ouvre l'armoire de gauche, les bouteilles sont là.",
+    "eng": "Open the cupboard to the left, the bottles are in there.",
+    "char_count": 50
+  },
+  {
+    "id": 4341,
+    "fra": "La vie n'est pas une science exacte, c'est un art.",
+    "eng": "Life is not an exact science, it is an art.",
+    "char_count": 50
+  },
+  {
+    "id": 4342,
+    "fra": "Elle vend de la drogue dans les lieux de concerts.",
+    "eng": "She's selling drugs at concerts.",
+    "char_count": 50
+  },
+  {
+    "id": 4343,
+    "fra": "J'ai acheté une ferme de 8 acres pour ma retraite.",
+    "eng": "I bought an eight-acre farm for my retirement.",
+    "char_count": 50
+  },
+  {
+    "id": 4344,
+    "fra": "J'ai pris l'avion pour la première fois de ma vie.",
+    "eng": "I took an airplane for the first time in my life.",
+    "char_count": 50
+  },
+  {
+    "id": 4345,
+    "fra": "Je n'aime pas les maths, encore moins la physique.",
+    "eng": "I don't like math, much less physics.",
+    "char_count": 50
+  },
+  {
+    "id": 4346,
+    "fra": "Je suis financièrement indépendant de mes parents.",
+    "eng": "I'm economically independent of my parents.",
+    "char_count": 50
+  },
+  {
+    "id": 4347,
+    "fra": "J'avais un parapluie, mais mon ami n'en avait pas.",
+    "eng": "I had an umbrella with me but my friend did not.",
+    "char_count": 50
+  },
+  {
+    "id": 4348,
+    "fra": "J'ai l'impression d'avoir perdu mon porte-monnaie.",
+    "eng": "I seem to have lost my purse.",
+    "char_count": 50
+  },
+  {
+    "id": 4349,
+    "fra": "J'ai dissuadé ma femme d'acheter un nouveau tapis.",
+    "eng": "I talked my wife out of buying a new carpet.",
+    "char_count": 50
+  },
+  {
+    "id": 4350,
+    "fra": "Je ne comprends vraiment pas la sculpture moderne.",
+    "eng": "I really can't understand modern sculpture.",
+    "char_count": 50
+  },
+  {
+    "id": 4351,
+    "fra": "J'ai attendu la réponse mais personne n'a répondu.",
+    "eng": "I waited for the answer but nobody answered.",
+    "char_count": 50
+  },
+  {
+    "id": 4352,
+    "fra": "J'ai pris un taxi pour aller de la gare à l'hôtel.",
+    "eng": "I took a taxi from the station to the hotel.",
+    "char_count": 50
+  },
+  {
+    "id": 4353,
+    "fra": "Je préfère lire plutôt que regarder la télévision.",
+    "eng": "I prefer reading books to watching television.",
+    "char_count": 50
+  },
+  {
+    "id": 4354,
+    "fra": "J'étudie le français depuis quatre ans maintenant.",
+    "eng": "I have been studying French four years now.",
+    "char_count": 50
+  },
+  {
+    "id": 4355,
+    "fra": "Je veux ces bagages dans ma chambre immédiatement.",
+    "eng": "I want this luggage taken to my room at once.",
+    "char_count": 50
+  },
+  {
+    "id": 4356,
+    "fra": "Garde un œil sur les garçons ; ils sont espiègles.",
+    "eng": "Keep an eye on the boys. They're mischievous.",
+    "char_count": 50
+  },
+  {
+    "id": 4357,
+    "fra": "Je me suis couché un peu plus tard que d'habitude.",
+    "eng": "I went to bed a little later than usual.",
+    "char_count": 50
+  },
+  {
+    "id": 4358,
+    "fra": "Je n'avais jamais rencontré un homme aussi gentil.",
+    "eng": "I've never met such a kind man.",
+    "char_count": 50
+  },
+  {
+    "id": 4359,
+    "fra": "Je ne comprends pas ce que tu es en train de dire.",
+    "eng": "I don't understand what you are saying.",
+    "char_count": 50
+  },
+  {
+    "id": 4360,
+    "fra": "Est-ce que quelqu'un est venu durant mon absence ?",
+    "eng": "Did anyone visit me during my absence?",
+    "char_count": 50
+  },
+  {
+    "id": 4361,
+    "fra": "Un peu plus de lait dans mon thé, s'il vous plaît.",
+    "eng": "Add a little more milk to my tea, please.",
+    "char_count": 50
+  },
+  {
+    "id": 4362,
+    "fra": "Mes chaussures ont la même taille que les siennes.",
+    "eng": "My shoes are the same size as his.",
+    "char_count": 50
+  },
+  {
+    "id": 4363,
+    "fra": "Mon oncle est mort d'un cancer de l'estomac, hier.",
+    "eng": "My uncle died of cancer of the stomach yesterday.",
+    "char_count": 50
+  },
+  {
+    "id": 4364,
+    "fra": "J'ai un ami dont le père est un célèbre romancier.",
+    "eng": "I have a friend whose father is a famous novelist.",
+    "char_count": 50
+  },
+  {
+    "id": 4365,
+    "fra": "J'ai beaucoup d'amis pour me soutenir mentalement.",
+    "eng": "I have a lot of friends to support me mentally.",
+    "char_count": 50
+  },
+  {
+    "id": 4366,
+    "fra": "Je n'ai pas d'argent pour acheter un dictionnaire.",
+    "eng": "I have no money to buy the dictionary with.",
+    "char_count": 50
+  },
+  {
+    "id": 4367,
+    "fra": "Après mûre réflexion nous avons accepté son offre.",
+    "eng": "After much consideration, we accepted his offer.",
+    "char_count": 50
+  },
+  {
+    "id": 4368,
+    "fra": "Notre pensée est exprimée par le biais du langage.",
+    "eng": "Our thought is expressed by means of words.",
+    "char_count": 50
+  },
+  {
+    "id": 4369,
+    "fra": "Je dois à mes parents d'être en aussi bonne santé.",
+    "eng": "I owe it to my parents that I am so healthy.",
+    "char_count": 50
+  },
+  {
+    "id": 4370,
+    "fra": "J'assume l'entière responsabilité de cette action.",
+    "eng": "I take full responsibility for the action.",
+    "char_count": 50
+  },
+  {
+    "id": 4371,
+    "fra": "Il est grand temps que les enfants aillent dormir.",
+    "eng": "It's high time the children went to bed.",
+    "char_count": 50
+  },
+  {
+    "id": 4372,
+    "fra": "Parfois, les enfants ne peuvent pas être patients.",
+    "eng": "Children sometimes lack patience.",
+    "char_count": 50
+  },
+  {
+    "id": 4373,
+    "fra": "Les enfants commencent l'école à l'âge de six ans.",
+    "eng": "Children begin school at the age of six.",
+    "char_count": 50
+  },
+  {
+    "id": 4374,
+    "fra": "Vue du sommet de la colline, l'île est très belle.",
+    "eng": "Seen from the top of the hill, the island is very beautiful.",
+    "char_count": 50
+  },
+  {
+    "id": 4375,
+    "fra": "Au début, je n'arrivais pas à jouer de la guitare.",
+    "eng": "At first, I couldn't play the guitar.",
+    "char_count": 50
+  },
+  {
+    "id": 4376,
+    "fra": "D'abord, nous parlerons au docteur Benjamin Burns.",
+    "eng": "First, we will talk to Doctor Benjamin Burns.",
+    "char_count": 50
+  },
+  {
+    "id": 4377,
+    "fra": "La Cour Suprême se trouve près du Palais Impérial.",
+    "eng": "The Supreme Court is located near the Imperial Palace.",
+    "char_count": 50
+  },
+  {
+    "id": 4378,
+    "fra": "Il m'écrit de moins en moins souvent ces jours-ci.",
+    "eng": "He writes to me less and less often these days.",
+    "char_count": 50
+  },
+  {
+    "id": 4379,
+    "fra": "J'aurai fini le travail à dix-neuf heures ce soir.",
+    "eng": "I will have finished the work by seven this evening.",
+    "char_count": 50
+  },
+  {
+    "id": 4380,
+    "fra": "Actuellement, je me trouve à l’aéroport de Narita.",
+    "eng": "I'm at Narita Airport right now.",
+    "char_count": 50
+  },
+  {
+    "id": 4381,
+    "fra": "Les nuages noirs annonçaient l'arrivée de l'orage.",
+    "eng": "Black clouds announced the coming thunderstorm.",
+    "char_count": 50
+  },
+  {
+    "id": 4382,
+    "fra": "Une voiture chère est un symbole de statut social.",
+    "eng": "An expensive car is a status symbol.",
+    "char_count": 50
+  },
+  {
+    "id": 4383,
+    "fra": "J'achète l'argent à un homme qui possède une mine.",
+    "eng": "I buy silver from a man who owns a mine.",
+    "char_count": 50
+  },
+  {
+    "id": 4384,
+    "fra": "Goro a eu la gentillesse de m'emmener à l'hôpital.",
+    "eng": "Goro had the kindness to take me to the hospital.",
+    "char_count": 50
+  },
+  {
+    "id": 4385,
+    "fra": "L'acquisition du langage demande de la créativité.",
+    "eng": "Language acquisition requires creativity.",
+    "char_count": 50
+  },
+  {
+    "id": 4386,
+    "fra": "Inutile de dire que je suis venu ici pour t'aider.",
+    "eng": "Needless to say, I've come here to help you.",
+    "char_count": 50
+  },
+  {
+    "id": 4387,
+    "fra": "Mon cycle menstruel est d'environ quatre semaines.",
+    "eng": "My menstrual cycle is about every four weeks.",
+    "char_count": 50
+  },
+  {
+    "id": 4388,
+    "fra": "Mon frère est décédé d'un cancer l'année dernière.",
+    "eng": "My brother died of cancer last year.",
+    "char_count": 50
+  },
+  {
+    "id": 4389,
+    "fra": "Tout ce que tu as à faire c'est de nous rejoindre.",
+    "eng": "All you have to do is to join us.",
+    "char_count": 50
+  },
+  {
+    "id": 4390,
+    "fra": "L'un de vous deux, elle ou toi, doit aller là-bas.",
+    "eng": "Either you or she has to go there.",
+    "char_count": 50
+  },
+  {
+    "id": 4391,
+    "fra": "En arrivant à l'aéroport, je vis l'avion décoller.",
+    "eng": "Arriving at the airport, I saw the plane taking off.",
+    "char_count": 50
+  },
+  {
+    "id": 4392,
+    "fra": "D'innombrables étoiles scintillaient dans le ciel.",
+    "eng": "Countless stars were twinkling in the sky.",
+    "char_count": 50
+  },
+  {
+    "id": 4393,
+    "fra": "L'éducation représente plus que d'aller à l'école.",
+    "eng": "Education means something more than going to school.",
+    "char_count": 50
+  },
+  {
+    "id": 4394,
+    "fra": "Voici notre réponse à votre fax daté du 1er avril.",
+    "eng": "Here is our answer to your fax message dated April 1st.",
+    "char_count": 50
+  },
+  {
+    "id": 4395,
+    "fra": "Un étudiant passe beaucoup de son temps à étudier.",
+    "eng": "A student spends a lot of time studying.",
+    "char_count": 50
+  },
+  {
+    "id": 4396,
+    "fra": "Il ne faut pas juger une personne à son apparence.",
+    "eng": "Don't judge a person by his appearance.",
+    "char_count": 50
+  },
+  {
+    "id": 4397,
+    "fra": "On fait silence dans la bibliothèque, les garçons.",
+    "eng": "Be silent in the library, boys.",
+    "char_count": 50
+  },
+  {
+    "id": 4398,
+    "fra": "Certaines personnes ne recherchent que le plaisir.",
+    "eng": "Some people pursue only pleasure.",
+    "char_count": 50
+  },
+  {
+    "id": 4399,
+    "fra": "Rien ne pourrait l'empêcher de se marier avec lui.",
+    "eng": "Nothing can prevent her from marrying him.",
+    "char_count": 50
+  },
+  {
+    "id": 4400,
+    "fra": "Pouvez-vous m'indiquer le chemin jusqu'à la gare ?",
+    "eng": "Could you tell me the way to the station?",
+    "char_count": 50
+  }
+]

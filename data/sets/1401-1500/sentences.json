@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1401,
+    "fra": "Je le sais suffisamment bien.",
+    "eng": "I know it well enough.",
+    "char_count": 29
+  },
+  {
+    "id": 1402,
+    "fra": "Je ne sais pas si c'est vrai.",
+    "eng": "I don't know if it is true.",
+    "char_count": 29
+  },
+  {
+    "id": 1403,
+    "fra": "Il est inutile de lui parler.",
+    "eng": "It is useless to talk to him.",
+    "char_count": 29
+  },
+  {
+    "id": 1404,
+    "fra": "J'ai abandonné cette affaire.",
+    "eng": "I have given up on that case.",
+    "char_count": 29
+  },
+  {
+    "id": 1405,
+    "fra": "Je regrette d'avoir dit cela.",
+    "eng": "I regret having said so.",
+    "char_count": 29
+  },
+  {
+    "id": 1406,
+    "fra": "Je sais que John est honnête.",
+    "eng": "I know that John is honest.",
+    "char_count": 29
+  },
+  {
+    "id": 1407,
+    "fra": "J'ai trouvé la caméra cassée.",
+    "eng": "I found the broken camera.",
+    "char_count": 29
+  },
+  {
+    "id": 1408,
+    "fra": "Je viens juste d'arriver ici.",
+    "eng": "I have just come here.",
+    "char_count": 29
+  },
+  {
+    "id": 1409,
+    "fra": "Je vis ici depuis dix années.",
+    "eng": "I have lived here for ten years.",
+    "char_count": 29
+  },
+  {
+    "id": 1410,
+    "fra": "Je vais attendre ma sœur ici.",
+    "eng": "I will wait for my sister here.",
+    "char_count": 29
+  },
+  {
+    "id": 1411,
+    "fra": "Je garde ton conseil en tête.",
+    "eng": "I will keep your advice in mind.",
+    "char_count": 29
+  },
+  {
+    "id": 1412,
+    "fra": "Je vais en Amérique en avion.",
+    "eng": "I am going to America by plane.",
+    "char_count": 29
+  },
+  {
+    "id": 1413,
+    "fra": "Ma mère est toujours occupée.",
+    "eng": "My mother is always busy.",
+    "char_count": 29
+  },
+  {
+    "id": 1414,
+    "fra": "Mon bras gauche est engourdi.",
+    "eng": "My left arm is asleep.",
+    "char_count": 29
+  },
+  {
+    "id": 1415,
+    "fra": "Mon chien a une longue queue.",
+    "eng": "My dog has a long tail.",
+    "char_count": 29
+  },
+  {
+    "id": 1416,
+    "fra": "Ma maison est comme la vôtre.",
+    "eng": "My house is like yours.",
+    "char_count": 29
+  },
+  {
+    "id": 1417,
+    "fra": "Venez chez moi, je vous prie.",
+    "eng": "Please come to my house.",
+    "char_count": 29
+  },
+  {
+    "id": 1418,
+    "fra": "Mon grand-père est menuisier.",
+    "eng": "My grandfather is a carpenter.",
+    "char_count": 29
+  },
+  {
+    "id": 1419,
+    "fra": "J'ai deux frères et une sœur.",
+    "eng": "I have two brothers and one sister.",
+    "char_count": 29
+  },
+  {
+    "id": 1420,
+    "fra": "Nous t'aimons tous très fort.",
+    "eng": "All of us like you very much.",
+    "char_count": 29
+  },
+  {
+    "id": 1421,
+    "fra": "J'aimerais être millionnaire.",
+    "eng": "I wish I were a millionaire.",
+    "char_count": 29
+  },
+  {
+    "id": 1422,
+    "fra": "J'aurais aimé être un oiseau.",
+    "eng": "I wish I were a bird.",
+    "char_count": 29
+  },
+  {
+    "id": 1423,
+    "fra": "J'arriverai là-bas avant toi.",
+    "eng": "I'll get there before you will.",
+    "char_count": 29
+  },
+  {
+    "id": 1424,
+    "fra": "Il ne reste plus qu'à mourir.",
+    "eng": "Nothing remains but to die.",
+    "char_count": 29
+  },
+  {
+    "id": 1425,
+    "fra": "Même un enfant peut le faire.",
+    "eng": "Even a child can do it.",
+    "char_count": 29
+  },
+  {
+    "id": 1426,
+    "fra": "Ferme tes yeux trois minutes.",
+    "eng": "Close your eyes for three minutes.",
+    "char_count": 29
+  },
+  {
+    "id": 1427,
+    "fra": "Le meurtre est contre la loi.",
+    "eng": "Murder is against the law.",
+    "char_count": 29
+  },
+  {
+    "id": 1428,
+    "fra": "Il est allé à l'hôpital hier.",
+    "eng": "He went to the hospital yesterday.",
+    "char_count": 29
+  },
+  {
+    "id": 1429,
+    "fra": "Ma main gauche est engourdie.",
+    "eng": "I have some numbness in my left hand.",
+    "char_count": 29
+  },
+  {
+    "id": 1430,
+    "fra": "C'est sec comme la poussière.",
+    "eng": "It's dry as dust.",
+    "char_count": 29
+  },
+  {
+    "id": 1431,
+    "fra": "Il fait très froid cet hiver.",
+    "eng": "It's very cold this winter.",
+    "char_count": 29
+  },
+  {
+    "id": 1432,
+    "fra": "J'ai bon appétit aujourd'hui.",
+    "eng": "I have a good appetite today.",
+    "char_count": 29
+  },
+  {
+    "id": 1433,
+    "fra": "Un M.Brown est venu ce matin.",
+    "eng": "A Mr Brown came this morning.",
+    "char_count": 29
+  },
+  {
+    "id": 1434,
+    "fra": "Il pleut beaucoup maintenant.",
+    "eng": "It is raining hard now.",
+    "char_count": 29
+  },
+  {
+    "id": 1435,
+    "fra": "Pas maintenant, alors quand ?",
+    "eng": "Not now, then when?",
+    "char_count": 29
+  },
+  {
+    "id": 1436,
+    "fra": "Heureusement il faisait beau.",
+    "eng": "Fortunately, the weather was good.",
+    "char_count": 29
+  },
+  {
+    "id": 1437,
+    "fra": "Appelle-moi quand tu arrives.",
+    "eng": "Drop me a line when you get there.",
+    "char_count": 29
+  },
+  {
+    "id": 1438,
+    "fra": "Tous les chiens sont fidèles.",
+    "eng": "All dogs are faithful.",
+    "char_count": 29
+  },
+  {
+    "id": 1439,
+    "fra": "On se voit une fois par mois.",
+    "eng": "We see each other once a month.",
+    "char_count": 29
+  },
+  {
+    "id": 1440,
+    "fra": "Ne dites jamais de mensonges.",
+    "eng": "Never tell lies.",
+    "char_count": 29
+  },
+  {
+    "id": 1441,
+    "fra": "Je ne voulais pas te blesser.",
+    "eng": "I didn't mean to hurt you.",
+    "char_count": 29
+  },
+  {
+    "id": 1442,
+    "fra": "As-tu du pain pour déjeuner ?",
+    "eng": "Do you have bread for lunch?",
+    "char_count": 29
+  },
+  {
+    "id": 1443,
+    "fra": "Êtes-vous sûrs de vos faits ?",
+    "eng": "Are you sure of your facts?",
+    "char_count": 29
+  },
+  {
+    "id": 1444,
+    "fra": "Vous avez juste à signer ici.",
+    "eng": "All you have to do is sign your name here.",
+    "char_count": 29
+  },
+  {
+    "id": 1445,
+    "fra": "Es-tu déjà allé en Amérique ?",
+    "eng": "Have you ever been to America?",
+    "char_count": 29
+  },
+  {
+    "id": 1446,
+    "fra": "Cela en valait bien la peine.",
+    "eng": "That was well worth the trouble.",
+    "char_count": 29
+  },
+  {
+    "id": 1447,
+    "fra": "Un miroir reflète la lumière.",
+    "eng": "A mirror reflects light.",
+    "char_count": 29
+  },
+  {
+    "id": 1448,
+    "fra": "Le bétail se nourrit d'herbe.",
+    "eng": "Cattle feed on grass.",
+    "char_count": 29
+  },
+  {
+    "id": 1449,
+    "fra": "Ça ne sert à rien de pleurer.",
+    "eng": "Crying is of no avail.",
+    "char_count": 29
+  },
+  {
+    "id": 1450,
+    "fra": "Est-ce que vous êtes pressé ?",
+    "eng": "Are you in a hurry?",
+    "char_count": 29
+  },
+  {
+    "id": 1451,
+    "fra": "L'école commence le 10 avril.",
+    "eng": "School begins on April the tenth.",
+    "char_count": 29
+  },
+  {
+    "id": 1452,
+    "fra": "L'école débute à neuf heures.",
+    "eng": "School begins at nine.",
+    "char_count": 29
+  },
+  {
+    "id": 1453,
+    "fra": "Je suis certain qu'il a tort.",
+    "eng": "I am positive that he is wrong.",
+    "char_count": 29
+  },
+  {
+    "id": 1454,
+    "fra": "Je suis heureux de vous voir.",
+    "eng": "I'm glad to see you.",
+    "char_count": 29
+  },
+  {
+    "id": 1455,
+    "fra": "J'ai besoin de bons conseils.",
+    "eng": "I need some good advice.",
+    "char_count": 29
+  },
+  {
+    "id": 1456,
+    "fra": "Tous ces films sont ennuyeux.",
+    "eng": "All these movies are boring.",
+    "char_count": 29
+  },
+  {
+    "id": 1457,
+    "fra": "J'aime marcher sous la pluie.",
+    "eng": "I like to walk in the rain.",
+    "char_count": 29
+  },
+  {
+    "id": 1458,
+    "fra": "Je le finirai dans une heure.",
+    "eng": "I'll finish it in one hour.",
+    "char_count": 29
+  },
+  {
+    "id": 1459,
+    "fra": "Je fais vingt miles par jour.",
+    "eng": "I cover twenty miles a day.",
+    "char_count": 29
+  },
+  {
+    "id": 1460,
+    "fra": "Il a plu trois jours de rang.",
+    "eng": "It rained for three days on end.",
+    "char_count": 29
+  },
+  {
+    "id": 1461,
+    "fra": "Cinq est plus petit que huit.",
+    "eng": "5 is less than 8.",
+    "char_count": 29
+  },
+  {
+    "id": 1462,
+    "fra": "Ah, la lumière s'est éteinte.",
+    "eng": "Oh, the lights went out.",
+    "char_count": 29
+  },
+  {
+    "id": 1463,
+    "fra": "Regarde ! Une étoile filante.",
+    "eng": "Look! There goes a shooting star.",
+    "char_count": 29
+  },
+  {
+    "id": 1464,
+    "fra": "Il aurait dû travailler plus.",
+    "eng": "He should have worked harder.",
+    "char_count": 29
+  },
+  {
+    "id": 1465,
+    "fra": "Prends-en autant que tu veux.",
+    "eng": "Take as much as you like.",
+    "char_count": 29
+  },
+  {
+    "id": 1466,
+    "fra": "J'aimerais que vous y alliez.",
+    "eng": "I'd like for you to go.",
+    "char_count": 29
+  },
+  {
+    "id": 1467,
+    "fra": "Je dois vous demander pardon.",
+    "eng": "I must beg your pardon.",
+    "char_count": 29
+  },
+  {
+    "id": 1468,
+    "fra": "La connaissez-vous vraiment ?",
+    "eng": "Do you know her at all?",
+    "char_count": 29
+  },
+  {
+    "id": 1469,
+    "fra": "As-tu entendu les nouvelles ?",
+    "eng": "Did you hear the news?",
+    "char_count": 29
+  },
+  {
+    "id": 1470,
+    "fra": "Avez-vous beaucoup de temps ?",
+    "eng": "Do you have a lot of time?",
+    "char_count": 29
+  },
+  {
+    "id": 1471,
+    "fra": "Savez-vous jouer aux échecs ?",
+    "eng": "Do you know how to play chess?",
+    "char_count": 29
+  },
+  {
+    "id": 1472,
+    "fra": "As-tu vu mon appareil photo ?",
+    "eng": "Did you see my camera?",
+    "char_count": 29
+  },
+  {
+    "id": 1473,
+    "fra": "Est-ce que tu sais conduire ?",
+    "eng": "Can you drive a car?",
+    "char_count": 29
+  },
+  {
+    "id": 1474,
+    "fra": "Êtes-vous déjà allé à Nikko ?",
+    "eng": "Have you ever been to Nikko?",
+    "char_count": 29
+  },
+  {
+    "id": 1475,
+    "fra": "Pouvez-vous monter à cheval ?",
+    "eng": "Can you ride a horse?",
+    "char_count": 29
+  },
+  {
+    "id": 1476,
+    "fra": "Allez-vous à l'école à pied ?",
+    "eng": "Do you go to school on foot?",
+    "char_count": 29
+  },
+  {
+    "id": 1477,
+    "fra": "Pouvez-vous en faire autant ?",
+    "eng": "Can you do as much?",
+    "char_count": 29
+  },
+  {
+    "id": 1478,
+    "fra": "Il doit être le frère de Tom.",
+    "eng": "He must be Tom's brother.",
+    "char_count": 29
+  },
+  {
+    "id": 1479,
+    "fra": "Ne dépense pas trop d'argent.",
+    "eng": "Don't spend too much money.",
+    "char_count": 29
+  },
+  {
+    "id": 1480,
+    "fra": "C'est la maison où il réside.",
+    "eng": "That is the house where he lives.",
+    "char_count": 29
+  },
+  {
+    "id": 1481,
+    "fra": "Anne a peu d'argent sur elle.",
+    "eng": "Ann has a little money with her.",
+    "char_count": 29
+  },
+  {
+    "id": 1482,
+    "fra": "On dit qu'Anne est leur chef.",
+    "eng": "Ann is said to be their leader.",
+    "char_count": 29
+  },
+  {
+    "id": 1483,
+    "fra": "Non, merci. Je suis rassasié.",
+    "eng": "No, thank you. I've had enough.",
+    "char_count": 29
+  },
+  {
+    "id": 1484,
+    "fra": "J'ai raté mon train habituel.",
+    "eng": "I missed my usual train.",
+    "char_count": 29
+  },
+  {
+    "id": 1485,
+    "fra": "Merci pour votre gentillesse.",
+    "eng": "Thank you for your kindness.",
+    "char_count": 29
+  },
+  {
+    "id": 1486,
+    "fra": "Mon oncle m’a donné un livre.",
+    "eng": "My uncle gave me a book.",
+    "char_count": 29
+  },
+  {
+    "id": 1487,
+    "fra": "Combien avez-vous d'enfants ?",
+    "eng": "How many children do you have?",
+    "char_count": 29
+  },
+  {
+    "id": 1488,
+    "fra": "Assieds-toi près de ton père.",
+    "eng": "Go and sit by your father.",
+    "char_count": 29
+  },
+  {
+    "id": 1489,
+    "fra": "Cela m'enchante de vous voir.",
+    "eng": "I am charmed to see you.",
+    "char_count": 29
+  },
+  {
+    "id": 1490,
+    "fra": "Assure-toi d'être à l'heure !",
+    "eng": "Be sure to be in time.",
+    "char_count": 29
+  },
+  {
+    "id": 1491,
+    "fra": "Chris n'avait pas de voiture.",
+    "eng": "Chris didn't have a car.",
+    "char_count": 29
+  },
+  {
+    "id": 1492,
+    "fra": "Ken est plus vieux que Seiko.",
+    "eng": "Ken is older than Seiko.",
+    "char_count": 29
+  },
+  {
+    "id": 1493,
+    "fra": "Je vais faire un peu de café.",
+    "eng": "I will make some coffee.",
+    "char_count": 29
+  },
+  {
+    "id": 1494,
+    "fra": "J'ai une douleur intense ici.",
+    "eng": "I have an acute pain here.",
+    "char_count": 29
+  },
+  {
+    "id": 1495,
+    "fra": "Viens ici ! Je veux dire toi.",
+    "eng": "Come here! I mean you.",
+    "char_count": 29
+  },
+  {
+    "id": 1496,
+    "fra": "Prenons dix minutes de pause.",
+    "eng": "Let's take a 10-minute break.",
+    "char_count": 29
+  },
+  {
+    "id": 1497,
+    "fra": "Puis-je essayer cette veste ?",
+    "eng": "Can I try on this jacket?",
+    "char_count": 29
+  },
+  {
+    "id": 1498,
+    "fra": "Je ne peux pas vivre comme ça.",
+    "eng": "I can't live that kind of life.",
+    "char_count": 30
+  },
+  {
+    "id": 1499,
+    "fra": "Si je pouvais être comme ça...",
+    "eng": "If I could be like that...",
+    "char_count": 30
+  },
+  {
+    "id": 1500,
+    "fra": "Quelles autres options ai-je ?",
+    "eng": "What other options do I have?",
+    "char_count": 30
+  }
+]

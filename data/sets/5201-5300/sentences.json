@@ -1,0 +1,602 @@
+[
+  {
+    "id": 5201,
+    "fra": "Voici cinq faits incroyables au sujet de l'anglais aujourd'hui.",
+    "eng": "Here are five amazing facts about English today.",
+    "char_count": 63
+  },
+  {
+    "id": 5202,
+    "fra": "Pourquoi es-tu désolée pour quelque chose que tu n'as pas fait ?",
+    "eng": "Why are you sorry for something you haven't done?",
+    "char_count": 64
+  },
+  {
+    "id": 5203,
+    "fra": "Que croyez-vous être vrai bien que vous ne puissiez le prouver ?",
+    "eng": "What do you believe is true even though you cannot prove it?",
+    "char_count": 64
+  },
+  {
+    "id": 5204,
+    "fra": "Une vérité mathématique n'est ni simple ni compliquée, elle est.",
+    "eng": "A mathematical truth is neither simple nor complicated; it is.",
+    "char_count": 64
+  },
+  {
+    "id": 5205,
+    "fra": "Il a parfois des difficultés à exprimer clairement ses opinions.",
+    "eng": "Sometimes he has difficulty being articulate about his views.",
+    "char_count": 64
+  },
+  {
+    "id": 5206,
+    "fra": "J’attends avec impatience d’entendre votre opinion sur ce sujet.",
+    "eng": "I eagerly await hearing your opinion on this subject.",
+    "char_count": 64
+  },
+  {
+    "id": 5207,
+    "fra": "La température du corps humain tourne en moyenne autour de 37°C.",
+    "eng": "The temperature of the human body hovers around 37°C.",
+    "char_count": 64
+  },
+  {
+    "id": 5208,
+    "fra": "Il n'y a pas de distance sur cette terre aussi éloignée qu'hier.",
+    "eng": "There is no distance on this earth as far away as yesterday.",
+    "char_count": 64
+  },
+  {
+    "id": 5209,
+    "fra": "Je fus déçu par une personne que je pensais être un de mes amis.",
+    "eng": "I was deceived by a person who I had thought was a friend of mine.",
+    "char_count": 64
+  },
+  {
+    "id": 5210,
+    "fra": "Je ne peux pas m'empêcher de me demander s'il viendra à l'heure.",
+    "eng": "I cannot help wondering if he will come on time.",
+    "char_count": 64
+  },
+  {
+    "id": 5211,
+    "fra": "La nuit dernière, nous avons observé les étoiles depuis le toit.",
+    "eng": "Last night, we watched the stars from the rooftop.",
+    "char_count": 64
+  },
+  {
+    "id": 5212,
+    "fra": "C'était sa voiture, pas la mienne, qui est tombée en panne hier.",
+    "eng": "It was his car, not mine, that broke down yesterday.",
+    "char_count": 64
+  },
+  {
+    "id": 5213,
+    "fra": "Ma femme essaya de me convaincre d'acheter une nouvelle voiture.",
+    "eng": "My wife tried to persuade me into buying a new car.",
+    "char_count": 64
+  },
+  {
+    "id": 5214,
+    "fra": "S'il vous plaît, pouvez-vous m'envoyer votre dernier catalogue ?",
+    "eng": "Please send me your latest catalogue.",
+    "char_count": 64
+  },
+  {
+    "id": 5215,
+    "fra": "Pourriez-vous me prêter de l'argent jusqu'au week-end prochain ?",
+    "eng": "Could you lend me some money until this weekend?",
+    "char_count": 64
+  },
+  {
+    "id": 5216,
+    "fra": "Jusqu'à présent, nous n'avons fait aucun plan pour les vacances.",
+    "eng": "As yet we have not made any plans for the holidays.",
+    "char_count": 64
+  },
+  {
+    "id": 5217,
+    "fra": "Outre son salaire, il reçoit de l'argent de ses investissements.",
+    "eng": "Aside from his salary, he receives money from investments.",
+    "char_count": 64
+  },
+  {
+    "id": 5218,
+    "fra": "Les notes de bas de page sont les notes situées en pied de page.",
+    "eng": "Footnotes are notes at the foot of a page.",
+    "char_count": 64
+  },
+  {
+    "id": 5219,
+    "fra": "Une foule importante s'est rassemblée sur le lieu de l'incendie.",
+    "eng": "A big crowd gathered at the scene of the fire.",
+    "char_count": 64
+  },
+  {
+    "id": 5220,
+    "fra": "J'ai peur que ma perception de la profondeur soit très mauvaise.",
+    "eng": "I'm afraid my depth perception is very poor.",
+    "char_count": 64
+  },
+  {
+    "id": 5221,
+    "fra": "Les conducteurs doivent faire attention aux feux de circulation.",
+    "eng": "Drivers have to pay attention to the traffic signal.",
+    "char_count": 64
+  },
+  {
+    "id": 5222,
+    "fra": "N'oubliez pas de prendre votre parapluie au cas où il pleuvrait.",
+    "eng": "Don't forget to bring your umbrella in case it rains.",
+    "char_count": 64
+  },
+  {
+    "id": 5223,
+    "fra": "Il dit que son père était architecte et qu'il veut l'être aussi.",
+    "eng": "He said his father was an architect and that he wanted to be one too.",
+    "char_count": 64
+  },
+  {
+    "id": 5224,
+    "fra": "« Je suis sûre qu'elle y arrivera. » « Je suis juste inquiète. »",
+    "eng": "She'll make it. I'm sure. \"I'm just worried.\"",
+    "char_count": 64
+  },
+  {
+    "id": 5225,
+    "fra": "Ai et Mariko sont de bonnes amies ; elles vont ensemble partout.",
+    "eng": "Ai and Mariko are close friends. They go everywhere together.",
+    "char_count": 64
+  },
+  {
+    "id": 5226,
+    "fra": "Mon stylo n'a plus d'encre ! Pouvez-vous me prêter votre stylo ?",
+    "eng": "My pen has run out of ink! Can I borrow your pen?",
+    "char_count": 64
+  },
+  {
+    "id": 5227,
+    "fra": "Une baleine n'est pas moins un mammifère que ne l'est un cheval.",
+    "eng": "A whale is no less a mammal than a horse.",
+    "char_count": 64
+  },
+  {
+    "id": 5228,
+    "fra": "Il n'y a pas de garçon aussi grand que Guillaume dans la classe.",
+    "eng": "No boy in the class is as tall as Bill.",
+    "char_count": 64
+  },
+  {
+    "id": 5229,
+    "fra": "Seuls les membres du club sont autorisés à utiliser cette pièce.",
+    "eng": "Only members of the club are entitled to use this room.",
+    "char_count": 64
+  },
+  {
+    "id": 5230,
+    "fra": "Une chauve-souris chasse et mange la nuit, mais dort la journée.",
+    "eng": "A bat hunts food and eats at night, but sleeps during the day.",
+    "char_count": 64
+  },
+  {
+    "id": 5231,
+    "fra": "Certaines personnes aiment le café et d'autres préfèrent le thé.",
+    "eng": "Some people like coffee and others prefer tea.",
+    "char_count": 64
+  },
+  {
+    "id": 5232,
+    "fra": "S'il vous plaît, remplissez ce questionnaire et envoyez-le-nous.",
+    "eng": "Please fill out this questionnaire and send it to us.",
+    "char_count": 64
+  },
+  {
+    "id": 5233,
+    "fra": "Je ne suis pas un vrai poisson, je ne suis qu'une simple peluche.",
+    "eng": "I'm not a real fish, I'm just a mere plushy.",
+    "char_count": 65
+  },
+  {
+    "id": 5234,
+    "fra": "Je vais donc jouer au Sudoku au lieu de continuer de te déranger.",
+    "eng": "I will play Sudoku then instead of continuing to bother you.",
+    "char_count": 65
+  },
+  {
+    "id": 5235,
+    "fra": "Mais sérieusement, l'épisode 21 m'a presque fait pleurer de rire.",
+    "eng": "Seriously though, episode 21 made me almost cry while laughing.",
+    "char_count": 65
+  },
+  {
+    "id": 5236,
+    "fra": "Mon apathie pour le vote vient de mon aversion pour la politique.",
+    "eng": "My apathy for voting comes from my distaste for politics.",
+    "char_count": 65
+  },
+  {
+    "id": 5237,
+    "fra": "Un examen sommaire de ses dents indiqua qu'il avait la gingivite.",
+    "eng": "A cursory examination of his teeth indicated that he had gingivitis.",
+    "char_count": 65
+  },
+  {
+    "id": 5238,
+    "fra": "Il y a beaucoup de choses que tu ne sais pas sur ma personnalité.",
+    "eng": "There are a lot of things you don't know about my personality.",
+    "char_count": 65
+  },
+  {
+    "id": 5239,
+    "fra": "Il est où ton billet de vingt ? J'te l'échange contre un de cinq.",
+    "eng": "Where is your twenty? I'll give you five bucks for it.",
+    "char_count": 65
+  },
+  {
+    "id": 5240,
+    "fra": "Je savais que c'était du plastique mais ça avait le goût du bois.",
+    "eng": "I knew it was plastic but it tasted like wood.",
+    "char_count": 65
+  },
+  {
+    "id": 5241,
+    "fra": "Est-ce que je peux rester chez toi ? Je n'ai nulle part où aller.",
+    "eng": "Can I stay at your place? I have nowhere to go.",
+    "char_count": 65
+  },
+  {
+    "id": 5242,
+    "fra": "Rien n'est impossible pour celui qui n'a pas à le faire lui-même.",
+    "eng": "Nothing is impossible for the man who doesn't have to do it himself.",
+    "char_count": 65
+  },
+  {
+    "id": 5243,
+    "fra": "Je me suis levé tôt de façon à pouvoir attraper le premier train.",
+    "eng": "I got up early, so that I could catch the first train.",
+    "char_count": 65
+  },
+  {
+    "id": 5244,
+    "fra": "Je fus capable de finir le travail plus tôt que je l'avais prévu.",
+    "eng": "I was able to finish the work earlier than I had expected.",
+    "char_count": 65
+  },
+  {
+    "id": 5245,
+    "fra": "J'ai expliqué à l'hôte que j'ai été retardé par un embouteillage.",
+    "eng": "I explained to the host that I had been delayed by a traffic jam.",
+    "char_count": 65
+  },
+  {
+    "id": 5246,
+    "fra": "Je vous souhaite bonne chance pour vos nouvelles responsabilités.",
+    "eng": "I wish you good luck with your new responsibilities.",
+    "char_count": 65
+  },
+  {
+    "id": 5247,
+    "fra": "J'ai toutes les raisons de croire qu'il est innocent de ce crime.",
+    "eng": "I have every reason to believe that he is innocent of the crime.",
+    "char_count": 65
+  },
+  {
+    "id": 5248,
+    "fra": "Pour ma part, je n'ai rien à dire contre la nouvelle proposition.",
+    "eng": "For my part, I have nothing to say against the new proposal.",
+    "char_count": 65
+  },
+  {
+    "id": 5249,
+    "fra": "Toutes les familles avec des enfants bénéficient de prix réduits.",
+    "eng": "All families with children get special rates.",
+    "char_count": 65
+  },
+  {
+    "id": 5250,
+    "fra": "Ma sœur s'est fait voler son sac en rentrant chez elle hier soir.",
+    "eng": "My sister was robbed of her bag on her way home last night.",
+    "char_count": 65
+  },
+  {
+    "id": 5251,
+    "fra": "La nuit dernière, il y a eu un incendie et je n'ai pas pu dormir.",
+    "eng": "Last night there was a fire near here, and I couldn't sleep.",
+    "char_count": 65
+  },
+  {
+    "id": 5252,
+    "fra": "Pensez-vous que la saison des pluies sera en avance cette année ?",
+    "eng": "Do you think the rainy season will set in early this year?",
+    "char_count": 65
+  },
+  {
+    "id": 5253,
+    "fra": "S'il vous plaît abstenez-vous de fumer dans les endroits publics.",
+    "eng": "Please refrain from smoking in public places.",
+    "char_count": 65
+  },
+  {
+    "id": 5254,
+    "fra": "Comparé à l'ancien modèle, ceci est bien plus facile à manipuler.",
+    "eng": "Compared with the old model, this is far easier to handle.",
+    "char_count": 65
+  },
+  {
+    "id": 5255,
+    "fra": "Le chien est un animal fidèle, on dit qu'il est l'ami de l'homme.",
+    "eng": "A dog is a faithful animal, so it is said to be a friend of man.",
+    "char_count": 65
+  },
+  {
+    "id": 5256,
+    "fra": "Il a accepté le travail pour sa carrière mais il ne l'a pas aimé.",
+    "eng": "He took the job for the sake of his career but he didn't like it.",
+    "char_count": 65
+  },
+  {
+    "id": 5257,
+    "fra": "C'est le devoir des étudiants de nettoyer leurs salles de classe.",
+    "eng": "It is the students' duty to clean their classrooms.",
+    "char_count": 65
+  },
+  {
+    "id": 5258,
+    "fra": "Les réformes de l'éducation ont encore un bout de chemin à faire.",
+    "eng": "Educational reforms still have a long way to go.",
+    "char_count": 65
+  },
+  {
+    "id": 5259,
+    "fra": "Je dois me donner à fond dans les études pour les examens finaux.",
+    "eng": "I have to give myself up to study for my final exams.",
+    "char_count": 65
+  },
+  {
+    "id": 5260,
+    "fra": "Il quitta son équipe car il ne s'entendait pas avec l'entraîneur.",
+    "eng": "He left his team as he could not get along with the manager.",
+    "char_count": 65
+  },
+  {
+    "id": 5261,
+    "fra": "En général, les femmes sont meilleures linguistes que les hommes.",
+    "eng": "Generally speaking, women are better linguists than men.",
+    "char_count": 65
+  },
+  {
+    "id": 5262,
+    "fra": "Un groupe d'étrangers est arrivé à Edo, Tokyo en d'autres termes.",
+    "eng": "A group of foreigners arrived in Edo, i.e. Tokyo.",
+    "char_count": 65
+  },
+  {
+    "id": 5263,
+    "fra": "J'ai eu une allergie de la peau à cause des produits cosmétiques.",
+    "eng": "I got a rash from cosmetics.",
+    "char_count": 65
+  },
+  {
+    "id": 5264,
+    "fra": "L'anglais est enseigné presque partout dans le monde aujourd'hui.",
+    "eng": "English is taught almost all over the world today.",
+    "char_count": 65
+  },
+  {
+    "id": 5265,
+    "fra": "On dirait qu'il pleut. Nous ferions mieux de fermer les fenêtres.",
+    "eng": "It looks like rain. We had better shut the windows.",
+    "char_count": 65
+  },
+  {
+    "id": 5266,
+    "fra": "À vingt-cinq ans, elle avait déjà vécu dans cinq pays différents.",
+    "eng": "By the age of 25, she had lived in five different countries.",
+    "char_count": 65
+  },
+  {
+    "id": 5267,
+    "fra": "Alex arrive à nommer des objets comme \"noix\", \"papier\" ou \"maïs\".",
+    "eng": "Alex names objects, like \"walnut,\" \"paper\" and \"corn\".",
+    "char_count": 65
+  },
+  {
+    "id": 5268,
+    "fra": "Il se peut que j'abandonne bientôt et fasse une sieste à la place.",
+    "eng": "I may give up soon and just nap instead.",
+    "char_count": 66
+  },
+  {
+    "id": 5269,
+    "fra": "Elle fait semblant de dormir, c'est pour ça qu'elle ne ronfle pas.",
+    "eng": "She's faking sleep. That's why she's not snoring.",
+    "char_count": 66
+  },
+  {
+    "id": 5270,
+    "fra": "Ce qui change le monde, c'est la communication, pas l'information.",
+    "eng": "What changes the world is communication, not information.",
+    "char_count": 66
+  },
+  {
+    "id": 5271,
+    "fra": "Les facultés et universités privées des États-Unis sont autonomes.",
+    "eng": "The private colleges and universities of the United States are autonomous.",
+    "char_count": 66
+  },
+  {
+    "id": 5272,
+    "fra": "J’ai la nationalité française mais je suis d’origine vietnamienne.",
+    "eng": "I have French nationality but Vietnamese origins.",
+    "char_count": 66
+  },
+  {
+    "id": 5273,
+    "fra": "Je vais m’acheter un nouvel appareil photo, numérique, cette fois.",
+    "eng": "I'm going to buy myself a new camera, digital this time.",
+    "char_count": 66
+  },
+  {
+    "id": 5274,
+    "fra": "À ce rythme, on ne risque pas de finir avant la fin de la semaine.",
+    "eng": "At this rate, we're not likely to be done before the end of the week.",
+    "char_count": 66
+  },
+  {
+    "id": 5275,
+    "fra": "Si tu m’apprends à danser, je te montrerai mes cicatrices cachées.",
+    "eng": "If you teach me how to dance, I will show you my hidden scars.",
+    "char_count": 66
+  },
+  {
+    "id": 5276,
+    "fra": "Petit à petit, vous remarquerez des améliorations dans vos écrits.",
+    "eng": "Little by little, you will notice improvement in your writings.",
+    "char_count": 66
+  },
+  {
+    "id": 5277,
+    "fra": "Salut, je voulais juste te faire savoir que le problème est réglé.",
+    "eng": "Hi, I just wanted to let you know that the problem is fixed.",
+    "char_count": 66
+  },
+  {
+    "id": 5278,
+    "fra": "Même la chirurgie esthétique ne pourra rien faire pour ta laideur.",
+    "eng": "Even plastic surgery won't do anything for your ugliness.",
+    "char_count": 66
+  },
+  {
+    "id": 5279,
+    "fra": "Je marchais sur la pointe des pieds pour ne pas réveiller le bébé.",
+    "eng": "I walked on tiptoes so as not to wake the baby.",
+    "char_count": 66
+  },
+  {
+    "id": 5280,
+    "fra": "Je m'aperçus que je m'étais endormi et que j'avais raté mon arrêt.",
+    "eng": "I noticed that I had slept past my station.",
+    "char_count": 66
+  },
+  {
+    "id": 5281,
+    "fra": "J'ai tellement de vêtements que je ne sais pas quoi mettre demain.",
+    "eng": "I have so many clothes I don't know what to wear tomorrow.",
+    "char_count": 66
+  },
+  {
+    "id": 5282,
+    "fra": "Je ne désire pas perdre les meilleures années de ma vie pour vous.",
+    "eng": "I do not want to waste the best years of my life for you.",
+    "char_count": 66
+  },
+  {
+    "id": 5283,
+    "fra": "Elle était malade depuis une semaine quand je lui ai rendu visite.",
+    "eng": "She had been sick for a week when I visited her.",
+    "char_count": 66
+  },
+  {
+    "id": 5284,
+    "fra": "Elle était déjà allée se coucher quand je lui ai téléphoné à 23 h.",
+    "eng": "She had already gone to bed when I phoned her at 11:00 p.m.",
+    "char_count": 66
+  },
+  {
+    "id": 5285,
+    "fra": "J'étais sur le point de sortir de chez moi quand elle m'a appelée.",
+    "eng": "I was about to leave my house when she rang me up.",
+    "char_count": 66
+  },
+  {
+    "id": 5286,
+    "fra": "J'allais juste sortir faire des courses quand vous avez téléphoné.",
+    "eng": "I was just about to go out shopping when you telephoned.",
+    "char_count": 66
+  },
+  {
+    "id": 5287,
+    "fra": "Ayant été convaincu de meurtre, il fut condamné à la prison à vie.",
+    "eng": "Having been convicted of murder, he was sentenced to life imprisonment.",
+    "char_count": 66
+  },
+  {
+    "id": 5288,
+    "fra": "Pourriez-vous me dire comment me rendre à la gare la plus proche ?",
+    "eng": "Could you tell me how to get to the nearest station?",
+    "char_count": 66
+  },
+  {
+    "id": 5289,
+    "fra": "Je n'ai pas envie de travailler aujourd'hui, allons jouer au foot.",
+    "eng": "I don't feel like studying today. Let's go to a soccer game.",
+    "char_count": 66
+  },
+  {
+    "id": 5290,
+    "fra": "Je suis au travail maintenant, aussi je vous appellerai plus tard.",
+    "eng": "I'm at work now, so I'll call you later.",
+    "char_count": 66
+  },
+  {
+    "id": 5291,
+    "fra": "On ne juge pas plus les Nations par leur taille que les individus.",
+    "eng": "Nations are not to be judged by their size any more than individuals.",
+    "char_count": 66
+  },
+  {
+    "id": 5292,
+    "fra": "Heureusement les récoltes ne furent pas endommagées par le typhon.",
+    "eng": "Happily the crops were not harmed by the typhoon.",
+    "char_count": 66
+  },
+  {
+    "id": 5293,
+    "fra": "Une personne inconnue est venue près de moi me demander le chemin.",
+    "eng": "A stranger came up to me and asked the way.",
+    "char_count": 66
+  },
+  {
+    "id": 5294,
+    "fra": "Vous ne pouvez pas empêcher votre chien d'entrer dans mon jardin ?",
+    "eng": "Can't you keep your dog from coming into my garden?",
+    "char_count": 66
+  },
+  {
+    "id": 5295,
+    "fra": "Ne fais jamais confiance à un homme dont tu ignores tout du passé.",
+    "eng": "Don't trust a man whose past you know nothing about.",
+    "char_count": 66
+  },
+  {
+    "id": 5296,
+    "fra": "En admettant ce que vous dites, je crois toujours que j'ai raison.",
+    "eng": "While I accept what you say, I still think I'm right.",
+    "char_count": 66
+  },
+  {
+    "id": 5297,
+    "fra": "L'air, tout comme la nourriture, est un besoin humain fondamental.",
+    "eng": "Air, like food, is a basic human need.",
+    "char_count": 66
+  },
+  {
+    "id": 5298,
+    "fra": "Un professeur ne devrait jamais rire des erreurs de ses étudiants.",
+    "eng": "A teacher should never laugh at his students' mistakes.",
+    "char_count": 66
+  },
+  {
+    "id": 5299,
+    "fra": "Il n'est en aucune manière aisé de maîtriser une langue étrangère.",
+    "eng": "It's by no means easy to master a foreign language.",
+    "char_count": 66
+  },
+  {
+    "id": 5300,
+    "fra": "Devons-nous retirer nos chaussures avant d'entrer dans la maison ?",
+    "eng": "Are we to remove our shoes before entering the house?",
+    "char_count": 66
+  }
+]

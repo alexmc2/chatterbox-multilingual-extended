@@ -1,0 +1,602 @@
+[
+  {
+    "id": 5101,
+    "fra": "Permettez-moi de vous poser quelques questions, je vous prie.",
+    "eng": "Please permit me to ask you some questions.",
+    "char_count": 61
+  },
+  {
+    "id": 5102,
+    "fra": "Pendant combien de temps étudiez-vous l'anglais chaque jour ?",
+    "eng": "How long do you study English every day?",
+    "char_count": 61
+  },
+  {
+    "id": 5103,
+    "fra": "Je voudrais me rapprocher pour mieux observer cette peinture.",
+    "eng": "I want to take a better look at that painting. I want to stand closer.",
+    "char_count": 61
+  },
+  {
+    "id": 5104,
+    "fra": "Cet homme est mort d'un cancer du poumon la semaine dernière.",
+    "eng": "That man died of lung cancer a week ago.",
+    "char_count": 61
+  },
+  {
+    "id": 5105,
+    "fra": "Alice rentra plus tôt du travail avec un sérieux mal de tête.",
+    "eng": "Alice returned home early from work with a severe headache.",
+    "char_count": 61
+  },
+  {
+    "id": 5106,
+    "fra": "Une baleine n'est pas plus un poisson que ne l'est un cheval.",
+    "eng": "A whale is no more a fish than a horse.",
+    "char_count": 61
+  },
+  {
+    "id": 5107,
+    "fra": "Kate a eu l'occasion de jouer un rôle important dans un film.",
+    "eng": "Kate has been given an opportunity to play a major role in a movie.",
+    "char_count": 61
+  },
+  {
+    "id": 5108,
+    "fra": "Je suppose que c'est différent quand tu y penses à long terme.",
+    "eng": "I suppose it's different when you think about it over the long term.",
+    "char_count": 62
+  },
+  {
+    "id": 5109,
+    "fra": "La plupart des gens écrivent à propos de leur vie quotidienne.",
+    "eng": "Most people write about their daily life.",
+    "char_count": 62
+  },
+  {
+    "id": 5110,
+    "fra": "Tu serais surprise de ce que tu peux apprendre en une semaine.",
+    "eng": "You'd be surprised what you can learn in a week.",
+    "char_count": 62
+  },
+  {
+    "id": 5111,
+    "fra": "« C'est ce que j'étais en train de chercher », s'exclama-t-il.",
+    "eng": "This is what I was looking for! he exclaimed.",
+    "char_count": 62
+  },
+  {
+    "id": 5112,
+    "fra": "Fais-moi savoir s'il y a quoi que ce soit que je puisse faire.",
+    "eng": "Let me know if there is anything I can do.",
+    "char_count": 62
+  },
+  {
+    "id": 5113,
+    "fra": "D'abord, je vais faire un schéma de mon nouveau site internet.",
+    "eng": "First, I'm going to do an outline of my new website.",
+    "char_count": 62
+  },
+  {
+    "id": 5114,
+    "fra": "Eh, j'ai peut-être pas d'argent, mais j'ai toujours ma fierté.",
+    "eng": "Hey, I may have no money, but I still have my pride.",
+    "char_count": 62
+  },
+  {
+    "id": 5115,
+    "fra": "Mes chaussures sont trop petites, j'en ai besoin de nouvelles.",
+    "eng": "My shoes are too small. I need new ones.",
+    "char_count": 62
+  },
+  {
+    "id": 5116,
+    "fra": "L'orchestre produit des notes dissonantes lorsqu'il s'accorde.",
+    "eng": "The orchestra makes discordant noises when tuning up.",
+    "char_count": 62
+  },
+  {
+    "id": 5117,
+    "fra": "La plupart des gens ne veulent qu'entendre leur propre vérité.",
+    "eng": "Most people only want to hear their own truth.",
+    "char_count": 62
+  },
+  {
+    "id": 5118,
+    "fra": "La vie commence quand on se rend compte qui on est réellement.",
+    "eng": "Life begins when we realize who we really are.",
+    "char_count": 62
+  },
+  {
+    "id": 5119,
+    "fra": "Monsieur, vous n’avez pas le droit de garer votre voiture ici.",
+    "eng": "Sir, you are not allowed to park your car here.",
+    "char_count": 62
+  },
+  {
+    "id": 5120,
+    "fra": "Tu continues encore à te demander quel est le sens de la vie ?",
+    "eng": "You are still asking yourself what the meaning of life is?",
+    "char_count": 62
+  },
+  {
+    "id": 5121,
+    "fra": "Tout est théoriquement impossible jusqu'à ce que ce soit fait.",
+    "eng": "Everything is theoretically impossible until it's done.",
+    "char_count": 62
+  },
+  {
+    "id": 5122,
+    "fra": "J'ai enterré mon chien au cimetière pour animaux de compagnie.",
+    "eng": "I buried my dog at the pet cemetery.",
+    "char_count": 62
+  },
+  {
+    "id": 5123,
+    "fra": "Je pars pour Vancouver la semaine prochaine pour voir ma sœur.",
+    "eng": "I'm going off to Vancouver next week to see my sister.",
+    "char_count": 62
+  },
+  {
+    "id": 5124,
+    "fra": "Je me suis assis derrière une très grande personne au théâtre.",
+    "eng": "I sat behind a very tall person at the theater.",
+    "char_count": 62
+  },
+  {
+    "id": 5125,
+    "fra": "Je veux m'assurer de l'heure à laquelle je peux prendre congé.",
+    "eng": "I want to make sure what time I'm supposed to leave.",
+    "char_count": 62
+  },
+  {
+    "id": 5126,
+    "fra": "Ma sœur faisait partie du club de basketball l'année dernière.",
+    "eng": "My sister belonged to the basketball club last year.",
+    "char_count": 62
+  },
+  {
+    "id": 5127,
+    "fra": "Mes investissements me rapportent environ 10 pour cent par an.",
+    "eng": "My investments earn about 10 percent a year.",
+    "char_count": 62
+  },
+  {
+    "id": 5128,
+    "fra": "Pour autant que je sache, il n'a jamais fait une telle erreur.",
+    "eng": "As far as I know, he has never made such a mistake.",
+    "char_count": 62
+  },
+  {
+    "id": 5129,
+    "fra": "Le meilleur de moi-même n'est que la moitié de ce que tu fais.",
+    "eng": "At best I can do only half of what you did.",
+    "char_count": 62
+  },
+  {
+    "id": 5130,
+    "fra": "Je n'ai pas pu pêcher autant de poissons que je ne le pensais.",
+    "eng": "I could not catch as many fish as I had expected.",
+    "char_count": 62
+  },
+  {
+    "id": 5131,
+    "fra": "Quand j'étais enfant, j'apprenais de nombreux poèmes par cœur.",
+    "eng": "As a child I learned lots of poems by heart.",
+    "char_count": 62
+  },
+  {
+    "id": 5132,
+    "fra": "Je peux me rabattre sur mes économies si je perds mon travail.",
+    "eng": "I can fall back on my savings if I lose my job.",
+    "char_count": 62
+  },
+  {
+    "id": 5133,
+    "fra": "Je déposerai ce paquet chez les Jones quand j'irai au travail.",
+    "eng": "I will drop off this package at the Jones' when I go to work.",
+    "char_count": 62
+  },
+  {
+    "id": 5134,
+    "fra": "Y a-t-il des lettres pour moi dans le courrier d'aujourd'hui ?",
+    "eng": "Are there any letters for me in today's mail?",
+    "char_count": 62
+  },
+  {
+    "id": 5135,
+    "fra": "Il est trois heures maintenant ; je reviendrai dans une heure.",
+    "eng": "It's three o'clock now; I'll come again in an hour.",
+    "char_count": 62
+  },
+  {
+    "id": 5136,
+    "fra": "M. Ken Takakura n'est juste pas habitué à son nouveau travail.",
+    "eng": "Mr Ken Takakura just isn't used to his new job.",
+    "char_count": 62
+  },
+  {
+    "id": 5137,
+    "fra": "De toutes les raisons possibles, il choisit la moins probable.",
+    "eng": "Of all the possible reasons, he chose the least expected one.",
+    "char_count": 62
+  },
+  {
+    "id": 5138,
+    "fra": "Parfois il est difficile de dire comment une dispute a éclaté.",
+    "eng": "Sometimes it is hard to tell how a quarrel comes about.",
+    "char_count": 62
+  },
+  {
+    "id": 5139,
+    "fra": "La seule chose que tu dois faire c'est de travailler plus dur.",
+    "eng": "All you have to do is to work harder.",
+    "char_count": 62
+  },
+  {
+    "id": 5140,
+    "fra": "Maintenant que vous êtes adulte, vous devriez être plus avisé.",
+    "eng": "Now that you have come of age, you should know better.",
+    "char_count": 62
+  },
+  {
+    "id": 5141,
+    "fra": "C'était judicieux de ta part de prendre un parapluie avec toi.",
+    "eng": "It was wise of you to take your umbrella with you.",
+    "char_count": 62
+  },
+  {
+    "id": 5142,
+    "fra": "J'aurais aimé que tu ne racontes pas cette histoire à ma mère.",
+    "eng": "I wish you had not told the story to my mother.",
+    "char_count": 62
+  },
+  {
+    "id": 5143,
+    "fra": "Du bon bois de charpente est difficile à trouver de nos jours.",
+    "eng": "Good lumber is hard to find these days.",
+    "char_count": 62
+  },
+  {
+    "id": 5144,
+    "fra": "Les étudiants sont exposés à l'influence de leurs professeurs.",
+    "eng": "Students are open to the influence of their teachers.",
+    "char_count": 62
+  },
+  {
+    "id": 5145,
+    "fra": "Les étudiants sont impatients que les vacances d'été arrivent.",
+    "eng": "Students are impatient for the summer holidays to come.",
+    "char_count": 62
+  },
+  {
+    "id": 5146,
+    "fra": "Couvrez votre bouche quand vous toussez, éternuez, ou bâillez.",
+    "eng": "Cover your mouth when you cough, sneeze, or yawn.",
+    "char_count": 62
+  },
+  {
+    "id": 5147,
+    "fra": "Une maison est construite sur de solides fondations en ciment.",
+    "eng": "A house is built on top of a solid foundation of cement.",
+    "char_count": 62
+  },
+  {
+    "id": 5148,
+    "fra": "N'ayez pas peur de faire des fautes quand vous parlez anglais.",
+    "eng": "Don't be afraid of making mistakes when you speak English.",
+    "char_count": 62
+  },
+  {
+    "id": 5149,
+    "fra": "L'anglais est une langue très importante dans le monde actuel.",
+    "eng": "English is a very important language in today's world.",
+    "char_count": 62
+  },
+  {
+    "id": 5150,
+    "fra": "C'est un jour pluvieux alors nous ne pouvons pas jouer dehors.",
+    "eng": "It's a rainy day, so we can't play outside.",
+    "char_count": 62
+  },
+  {
+    "id": 5151,
+    "fra": "Pensez-vous que nous devrions importer du riz des États-Unis ?",
+    "eng": "Do you think we should import rice from the U.S.?",
+    "char_count": 62
+  },
+  {
+    "id": 5152,
+    "fra": "Je vous ai fait attendre longtemps, je vous prie de m'excuser.",
+    "eng": "I'm sorry I've kept you waiting so long.",
+    "char_count": 62
+  },
+  {
+    "id": 5153,
+    "fra": "J'ai toujours besoin d'une couverture supplémentaire en hiver.",
+    "eng": "I always need an extra blanket in the wintertime.",
+    "char_count": 62
+  },
+  {
+    "id": 5154,
+    "fra": "Personne n'a été capable d'atteindre le sommet de la montagne.",
+    "eng": "No one has been able to reach the top of the mountain.",
+    "char_count": 62
+  },
+  {
+    "id": 5155,
+    "fra": "L'argent et moi, ça fait deux ; autrement dit, je suis pauvre.",
+    "eng": "Money and I are strangers; in other words, I am poor.",
+    "char_count": 62
+  },
+  {
+    "id": 5156,
+    "fra": "Je ne sais pas comment le démontrer vu que c'est trop évident !",
+    "eng": "I don't know how to demonstrate it, since it's too obvious!",
+    "char_count": 63
+  },
+  {
+    "id": 5157,
+    "fra": "« Quand vas-tu revenir ? » « Tout dépend du temps qu'il fera. »",
+    "eng": "When will you be back? \"It all depends on the weather.\"",
+    "char_count": 63
+  },
+  {
+    "id": 5158,
+    "fra": "« Pour être franc, j'ai le vertige. » « Tu es un trouillard ! »",
+    "eng": "To tell you the truth, I am scared of heights. \"You are a coward!\"",
+    "char_count": 63
+  },
+  {
+    "id": 5159,
+    "fra": "Ça sera un bon souvenir de mon voyage à travers les États-Unis.",
+    "eng": "This will be a good souvenir of my trip around the United States.",
+    "char_count": 63
+  },
+  {
+    "id": 5160,
+    "fra": "Tu m'as ouvert les yeux sur ce que c'est, lorsque tout va bien.",
+    "eng": "You opened up my eyes to what it's like when everything is right.",
+    "char_count": 63
+  },
+  {
+    "id": 5161,
+    "fra": "Je n'en peux plus ! Ça fait trois jours que je n'ai pas dormi !",
+    "eng": "I can't take it anymore! I haven't slept for three days!",
+    "char_count": 63
+  },
+  {
+    "id": 5162,
+    "fra": "Si tu ne peux pas avoir d'enfants, tu peux toujours en adopter.",
+    "eng": "If you can't have children, you could always adopt.",
+    "char_count": 63
+  },
+  {
+    "id": 5163,
+    "fra": "Le consensus indique que nous sommes opposés à l'idée proposée.",
+    "eng": "The consensus indicates that we are opposed to the proposed idea.",
+    "char_count": 63
+  },
+  {
+    "id": 5164,
+    "fra": "Cette chanson est si émouvante que j’en ai les larmes aux yeux.",
+    "eng": "This song is so moving that it brings tears to my eyes.",
+    "char_count": 63
+  },
+  {
+    "id": 5165,
+    "fra": "Il ne faut pas préparer un plat différent pour chaque personne.",
+    "eng": "You don't have to make a different dish for every person.",
+    "char_count": 63
+  },
+  {
+    "id": 5166,
+    "fra": "Tous les matins et tous les soirs je donne à manger à mon chat.",
+    "eng": "I feed my cat every morning and every evening.",
+    "char_count": 63
+  },
+  {
+    "id": 5167,
+    "fra": "Le Japon est rempli de belle villes. Kyoto et Nara par exemple.",
+    "eng": "Japan is full of beautiful cities. Kyoto and Nara, for instance.",
+    "char_count": 63
+  },
+  {
+    "id": 5168,
+    "fra": "J'aime écouter de la musique, mais j'aime encore plus en jouer.",
+    "eng": "I like listening to music, and playing music even more.",
+    "char_count": 63
+  },
+  {
+    "id": 5169,
+    "fra": "En ma qualité de médecin, je vous conseille d'arrêter de fumer.",
+    "eng": "I advise you in my capacity as a doctor to stop smoking.",
+    "char_count": 63
+  },
+  {
+    "id": 5170,
+    "fra": "Je n'ai pas réalisé la différence qu'il y avait entre les deux.",
+    "eng": "I didn't realize the difference between them.",
+    "char_count": 63
+  },
+  {
+    "id": 5171,
+    "fra": "Je ne m'en sorts pas sans ce dico même pour une courte journée.",
+    "eng": "I cannot do without this dictionary even for a single day.",
+    "char_count": 63
+  },
+  {
+    "id": 5172,
+    "fra": "La taille de mon chien est presque la moitié de celle du vôtre.",
+    "eng": "My dog is almost half the size of yours.",
+    "char_count": 63
+  },
+  {
+    "id": 5173,
+    "fra": "Mon appartement est à moins de cinq minutes de la gare, à pied.",
+    "eng": "My apartment is located within five minutes' walk of the station.",
+    "char_count": 63
+  },
+  {
+    "id": 5174,
+    "fra": "Un article concernant notre école a été publié dans le journal.",
+    "eng": "An article about our school appeared in the newspaper.",
+    "char_count": 63
+  },
+  {
+    "id": 5175,
+    "fra": "Ne t'attends pas à ce que je le fasse pour toi. C'est ton bébé.",
+    "eng": "Don't expect me to do it for you. It's your baby.",
+    "char_count": 63
+  },
+  {
+    "id": 5176,
+    "fra": "Les enfants n'ont pas besoin de tout savoir du budget familial.",
+    "eng": "Children need not know every detail of the family budget.",
+    "char_count": 63
+  },
+  {
+    "id": 5177,
+    "fra": "Mis à part son travail, il n'a pas d'autres centres d'intérêts.",
+    "eng": "Aside from his work, he has no other interests.",
+    "char_count": 63
+  },
+  {
+    "id": 5178,
+    "fra": "Notre jardin a produit des choux en abondance l'année dernière.",
+    "eng": "Our garden produced an abundance of cabbages last year.",
+    "char_count": 63
+  },
+  {
+    "id": 5179,
+    "fra": "Un chien court après un chat et le chat court après une souris.",
+    "eng": "A dog runs after a cat, and the cat after a mouse.",
+    "char_count": 63
+  },
+  {
+    "id": 5180,
+    "fra": "Kenji a raconté à ses amis une histoire sur son voyage en Inde.",
+    "eng": "Kenji told his friends a story about his trip to India.",
+    "char_count": 63
+  },
+  {
+    "id": 5181,
+    "fra": "Je roulais à 120 kilomètres heure lorsque la police m'a arrêté.",
+    "eng": "I was driving at 120 kilometers per hour when the police stopped me.",
+    "char_count": 63
+  },
+  {
+    "id": 5182,
+    "fra": "Cela ne fait aucune différence pour moi que vous veniez ou non.",
+    "eng": "It does not matter to me whether you come or not.",
+    "char_count": 63
+  },
+  {
+    "id": 5183,
+    "fra": "Je m'étonne de ce que vous puissiez accepter cette proposition.",
+    "eng": "I marvel how you could agree to the proposal.",
+    "char_count": 63
+  },
+  {
+    "id": 5184,
+    "fra": "Les vaches sont plus utiles qu'aucun autre animal dans ce pays.",
+    "eng": "Cows are more useful than any other animal in this country.",
+    "char_count": 63
+  },
+  {
+    "id": 5185,
+    "fra": "Celui qui ne respecte pas les règles devra partir sur-le-champ.",
+    "eng": "Anyone breaking the rules will be asked to leave on the spot.",
+    "char_count": 63
+  },
+  {
+    "id": 5186,
+    "fra": "Les étudiants devraient utiliser les livres de la bibliothèque.",
+    "eng": "Students should make use of the books in the library.",
+    "char_count": 63
+  },
+  {
+    "id": 5187,
+    "fra": "Une guerre nucléaire provoquerait la destruction de l'humanité.",
+    "eng": "A nuclear war will bring about the destruction of mankind.",
+    "char_count": 63
+  },
+  {
+    "id": 5188,
+    "fra": "Nous nous sommes tous consacrés au développement de notre pays.",
+    "eng": "All of us devoted ourselves to the development of our country.",
+    "char_count": 63
+  },
+  {
+    "id": 5189,
+    "fra": "Loin d'être un échec, nos négociations ont été un grand succès.",
+    "eng": "Far from being a failure, our negotiation was a great success.",
+    "char_count": 63
+  },
+  {
+    "id": 5190,
+    "fra": "Les fleurs et les arbres ont besoin d'air pur et d'eau fraîche.",
+    "eng": "Flowers and trees need clean air and fresh water.",
+    "char_count": 63
+  },
+  {
+    "id": 5191,
+    "fra": "Après avoir échoué plusieurs fois, il essaya une nouvelle fois.",
+    "eng": "Having failed several times, he tried to do it again.",
+    "char_count": 63
+  },
+  {
+    "id": 5192,
+    "fra": "Pour toujours et à tout jamais ! répondit le petit lapin blanc.",
+    "eng": "Forever and always! replied the little white rabbit.",
+    "char_count": 63
+  },
+  {
+    "id": 5193,
+    "fra": "« Dans combien de temps va venir le bus ? » « Dans 5 minutes. »",
+    "eng": "How soon will the bus come? \"In five minutes.\"",
+    "char_count": 63
+  },
+  {
+    "id": 5194,
+    "fra": "GE a annoncé l'acquisition de LAKU pour 30 millions de dollars.",
+    "eng": "GE announced the acquisition of the company Laku for $30 million.",
+    "char_count": 63
+  },
+  {
+    "id": 5195,
+    "fra": "Peux-tu dire la différence entre un Étatsunien et un Canadien ?",
+    "eng": "Can you tell the difference between an American and a Canadian?",
+    "char_count": 63
+  },
+  {
+    "id": 5196,
+    "fra": "J'ai regardé partout, mais je n'ai pas trouvé mon portefeuille.",
+    "eng": "I have looked everywhere, but I cannot find my wallet.",
+    "char_count": 63
+  },
+  {
+    "id": 5197,
+    "fra": "Les voitures britanniques et japonaises ont le volant à droite.",
+    "eng": "British and Japanese cars have steering wheels on the right side.",
+    "char_count": 63
+  },
+  {
+    "id": 5198,
+    "fra": "Comme ils étaient fabriqués en Italie, ces jeans étaient chers.",
+    "eng": "Made in Italy, these jeans were very expensive.",
+    "char_count": 63
+  },
+  {
+    "id": 5199,
+    "fra": "Un homme digne de respect ne peut pas faire une chose pareille.",
+    "eng": "A man worthy of his salt cannot do such a thing.",
+    "char_count": 63
+  },
+  {
+    "id": 5200,
+    "fra": "L'aurore est un phénomène caractéristique des régions polaires.",
+    "eng": "The aurora is a phenomenon characteristic of the polar regions.",
+    "char_count": 63
+  }
+]

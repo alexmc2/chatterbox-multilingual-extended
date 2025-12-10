@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "fra": "Faux.",
+    "eng": "Wrong.",
+    "char_count": 5
+  },
+  {
+    "id": 2,
+    "fra": "Non !",
+    "eng": "No!",
+    "char_count": 5
+  },
+  {
+    "id": 3,
+    "fra": "Sors.",
+    "eng": "Get out.",
+    "char_count": 5
+  },
+  {
+    "id": 4,
+    "fra": "Santé !",
+    "eng": "Bottoms up!",
+    "char_count": 7
+  },
+  {
+    "id": 5,
+    "fra": "Pardon ?",
+    "eng": "Come again?",
+    "char_count": 8
+  },
+  {
+    "id": 6,
+    "fra": "À midi !",
+    "eng": "See you at lunch.",
+    "char_count": 8
+  },
+  {
+    "id": 7,
+    "fra": "Il pleut.",
+    "eng": "It is raining.",
+    "char_count": 9
+  },
+  {
+    "id": 8,
+    "fra": "Je cours.",
+    "eng": "I run.",
+    "char_count": 9
+  },
+  {
+    "id": 9,
+    "fra": "Courage !",
+    "eng": "Cheer up!",
+    "char_count": 9
+  },
+  {
+    "id": 10,
+    "fra": "Et vous ?",
+    "eng": "How about you?",
+    "char_count": 9
+  },
+  {
+    "id": 11,
+    "fra": "Bon vol !",
+    "eng": "Have a nice flight.",
+    "char_count": 9
+  },
+  {
+    "id": 12,
+    "fra": "J'arrive.",
+    "eng": "I am coming.",
+    "char_count": 9
+  },
+  {
+    "id": 13,
+    "fra": "Et alors ?",
+    "eng": "So what?",
+    "char_count": 10
+  },
+  {
+    "id": 14,
+    "fra": "J'ai soif.",
+    "eng": "I'm thirsty.",
+    "char_count": 10
+  },
+  {
+    "id": 15,
+    "fra": "Trop tard.",
+    "eng": "Too late.",
+    "char_count": 10
+  },
+  {
+    "id": 16,
+    "fra": "Où es-tu ?",
+    "eng": "Where are you?",
+    "char_count": 10
+  },
+  {
+    "id": 17,
+    "fra": "Vérifiez !",
+    "eng": "Check it out!",
+    "char_count": 10
+  },
+  {
+    "id": 18,
+    "fra": "Les voilà.",
+    "eng": "Here they come.",
+    "char_count": 10
+  },
+  {
+    "id": 19,
+    "fra": "Viens ici.",
+    "eng": "Come here.",
+    "char_count": 10
+  },
+  {
+    "id": 20,
+    "fra": "Je t'aime !",
+    "eng": "I love you.",
+    "char_count": 11
+  },
+  {
+    "id": 21,
+    "fra": "Où vas-tu ?",
+    "eng": "Where are you going?",
+    "char_count": 11
+  },
+  {
+    "id": 22,
+    "fra": "J'enseigne.",
+    "eng": "I teach.",
+    "char_count": 11
+  },
+  {
+    "id": 23,
+    "fra": "Casse-toi !",
+    "eng": "Get away!",
+    "char_count": 11
+  },
+  {
+    "id": 24,
+    "fra": "Va au parc.",
+    "eng": "Go to the park.",
+    "char_count": 11
+  },
+  {
+    "id": 25,
+    "fra": "Es-tu fou ?",
+    "eng": "Are you crazy?",
+    "char_count": 11
+  },
+  {
+    "id": 26,
+    "fra": "Je l'ai vu.",
+    "eng": "I did see him.",
+    "char_count": 11
+  },
+  {
+    "id": 27,
+    "fra": "J'ai faim !",
+    "eng": "Am I hungry!",
+    "char_count": 11
+  },
+  {
+    "id": 28,
+    "fra": "Excuse-moi.",
+    "eng": "I'm sorry.",
+    "char_count": 11
+  },
+  {
+    "id": 29,
+    "fra": "Non, merci.",
+    "eng": "No, thank you.",
+    "char_count": 11
+  },
+  {
+    "id": 30,
+    "fra": "Impossible !",
+    "eng": "No way!",
+    "char_count": 12
+  },
+  {
+    "id": 31,
+    "fra": "Je vois mal.",
+    "eng": "I have weak sight.",
+    "char_count": 12
+  },
+  {
+    "id": 32,
+    "fra": "Dépêche-toi.",
+    "eng": "Hurry up.",
+    "char_count": 12
+  },
+  {
+    "id": 33,
+    "fra": "Fumez-vous ?",
+    "eng": "Do you smoke?",
+    "char_count": 12
+  },
+  {
+    "id": 34,
+    "fra": "J'ai 19 ans.",
+    "eng": "I am 19 years old.",
+    "char_count": 12
+  },
+  {
+    "id": 35,
+    "fra": "Il est ici !",
+    "eng": "Here he is!",
+    "char_count": 12
+  },
+  {
+    "id": 36,
+    "fra": "M'aimes-tu ?",
+    "eng": "Do you love me?",
+    "char_count": 12
+  },
+  {
+    "id": 37,
+    "fra": "Je t'admire.",
+    "eng": "I admire you.",
+    "char_count": 12
+  },
+  {
+    "id": 38,
+    "fra": "Dépêche-toi !",
+    "eng": "Hurry up.",
+    "char_count": 13
+  },
+  {
+    "id": 39,
+    "fra": "Je le prends.",
+    "eng": "I'll take him.",
+    "char_count": 13
+  },
+  {
+    "id": 40,
+    "fra": "Que veux-tu ?",
+    "eng": "What do you want?",
+    "char_count": 13
+  },
+  {
+    "id": 41,
+    "fra": "J'ai un rêve.",
+    "eng": "I have a dream.",
+    "char_count": 13
+  },
+  {
+    "id": 42,
+    "fra": "C'est grave ?",
+    "eng": "Is it bad?",
+    "char_count": 13
+  },
+  {
+    "id": 43,
+    "fra": "Joyeux Noël !",
+    "eng": "Merry Christmas!",
+    "char_count": 13
+  },
+  {
+    "id": 44,
+    "fra": "Tu as raison.",
+    "eng": "You're right.",
+    "char_count": 13
+  },
+  {
+    "id": 45,
+    "fra": "Voilà le hic.",
+    "eng": "That's the snag.",
+    "char_count": 13
+  },
+  {
+    "id": 46,
+    "fra": "Bon appétit !",
+    "eng": "Enjoy your meal!",
+    "char_count": 13
+  },
+  {
+    "id": 47,
+    "fra": "Je suis prêt.",
+    "eng": "I am ready.",
+    "char_count": 13
+  },
+  {
+    "id": 48,
+    "fra": "Je vous aime.",
+    "eng": "I love you.",
+    "char_count": 13
+  },
+  {
+    "id": 49,
+    "fra": "Tout va bien.",
+    "eng": "It's all right.",
+    "char_count": 13
+  },
+  {
+    "id": 50,
+    "fra": "Bon week-end.",
+    "eng": "Have a nice weekend.",
+    "char_count": 13
+  },
+  {
+    "id": 51,
+    "fra": "Le feu brûle.",
+    "eng": "Fire burns.",
+    "char_count": 13
+  },
+  {
+    "id": 52,
+    "fra": "C'est 50 yen.",
+    "eng": "It's 50 yen.",
+    "char_count": 13
+  },
+  {
+    "id": 53,
+    "fra": "Ça sent bon !",
+    "eng": "It smells good!",
+    "char_count": 13
+  },
+  {
+    "id": 54,
+    "fra": "Ça va, merci.",
+    "eng": "I'm fine, thank you.",
+    "char_count": 13
+  },
+  {
+    "id": 55,
+    "fra": "Fantastique !",
+    "eng": "Fantastic!",
+    "char_count": 13
+  },
+  {
+    "id": 56,
+    "fra": "J'ai mal ici.",
+    "eng": "I have a pain here.",
+    "char_count": 13
+  },
+  {
+    "id": 57,
+    "fra": "Tu me manques.",
+    "eng": "I miss you.",
+    "char_count": 14
+  },
+  {
+    "id": 58,
+    "fra": "Félicitations.",
+    "eng": "Congratulations!",
+    "char_count": 14
+  },
+  {
+    "id": 59,
+    "fra": "T'es un ange !",
+    "eng": "You're an angel!",
+    "char_count": 14
+  },
+  {
+    "id": 60,
+    "fra": "Il fait froid.",
+    "eng": "It's cold.",
+    "char_count": 14
+  },
+  {
+    "id": 61,
+    "fra": "À qui est-ce ?",
+    "eng": "Whose is this?",
+    "char_count": 14
+  },
+  {
+    "id": 62,
+    "fra": "Ça m'est égal.",
+    "eng": "I don't care.",
+    "char_count": 14
+  },
+  {
+    "id": 63,
+    "fra": "Il m'a trompé.",
+    "eng": "I was deceived by him.",
+    "char_count": 14
+  },
+  {
+    "id": 64,
+    "fra": "J'aime courir.",
+    "eng": "I like to run.",
+    "char_count": 14
+  },
+  {
+    "id": 65,
+    "fra": "Je vis à Kobe.",
+    "eng": "I live in Kobe.",
+    "char_count": 14
+  },
+  {
+    "id": 66,
+    "fra": "J'ai un chien.",
+    "eng": "I have a dog.",
+    "char_count": 14
+  },
+  {
+    "id": 67,
+    "fra": "J'ai un frère.",
+    "eng": "I have one brother.",
+    "char_count": 14
+  },
+  {
+    "id": 68,
+    "fra": "Je suis libre.",
+    "eng": "I'm free.",
+    "char_count": 14
+  },
+  {
+    "id": 69,
+    "fra": "Je sais nager.",
+    "eng": "I'm able to swim.",
+    "char_count": 14
+  },
+  {
+    "id": 70,
+    "fra": "J'aime le R&B.",
+    "eng": "I like R&B.",
+    "char_count": 14
+  },
+  {
+    "id": 71,
+    "fra": "J'ai applaudi.",
+    "eng": "I clapped my hands.",
+    "char_count": 14
+  },
+  {
+    "id": 72,
+    "fra": "Je sais skier.",
+    "eng": "I can ski.",
+    "char_count": 14
+  },
+  {
+    "id": 73,
+    "fra": "J'aime le ski.",
+    "eng": "I like skiing.",
+    "char_count": 14
+  },
+  {
+    "id": 74,
+    "fra": "Je te connais.",
+    "eng": "I know you.",
+    "char_count": 14
+  },
+  {
+    "id": 75,
+    "fra": "J'ai une idée.",
+    "eng": "I have an idea.",
+    "char_count": 14
+  },
+  {
+    "id": 76,
+    "fra": "Lis après moi.",
+    "eng": "Read after me.",
+    "char_count": 14
+  },
+  {
+    "id": 77,
+    "fra": "Bonne chance !",
+    "eng": "Good luck to you!",
+    "char_count": 14
+  },
+  {
+    "id": 78,
+    "fra": "Étudiez-vous ?",
+    "eng": "Are you studying?",
+    "char_count": 14
+  },
+  {
+    "id": 79,
+    "fra": "Bien. Et toi ?",
+    "eng": "Fine. And you?",
+    "char_count": 14
+  },
+  {
+    "id": 80,
+    "fra": "Ne partez pas.",
+    "eng": "Don't you go away.",
+    "char_count": 14
+  },
+  {
+    "id": 81,
+    "fra": "Bonjour, Mike.",
+    "eng": "Good morning, Mike.",
+    "char_count": 14
+  },
+  {
+    "id": 82,
+    "fra": "J'ai un rhume.",
+    "eng": "I have a cold.",
+    "char_count": 14
+  },
+  {
+    "id": 83,
+    "fra": "Va-t'en d'ici.",
+    "eng": "Get away from here.",
+    "char_count": 14
+  },
+  {
+    "id": 84,
+    "fra": "Je ne sais pas.",
+    "eng": "I don't know.",
+    "char_count": 15
+  },
+  {
+    "id": 85,
+    "fra": "Tu viens d'où ?",
+    "eng": "Where do you come from?",
+    "char_count": 15
+  },
+  {
+    "id": 86,
+    "fra": "Tu es mon type.",
+    "eng": "You're my type.",
+    "char_count": 15
+  },
+  {
+    "id": 87,
+    "fra": "Ça me rend fou.",
+    "eng": "It's driving me crazy.",
+    "char_count": 15
+  },
+  {
+    "id": 88,
+    "fra": "D'où viens-tu ?",
+    "eng": "Where do you come from?",
+    "char_count": 15
+  },
+  {
+    "id": 89,
+    "fra": "À qui le tour ?",
+    "eng": "Whose turn is it next?",
+    "char_count": 15
+  },
+  {
+    "id": 90,
+    "fra": "Où habites-tu ?",
+    "eng": "Where do you live?",
+    "char_count": 15
+  },
+  {
+    "id": 91,
+    "fra": "Je dois sortir.",
+    "eng": "I must go out.",
+    "char_count": 15
+  },
+  {
+    "id": 92,
+    "fra": "J'ai aidé Tony.",
+    "eng": "I helped Tony.",
+    "char_count": 15
+  },
+  {
+    "id": 93,
+    "fra": "J'ai très soif.",
+    "eng": "I'm very thirsty.",
+    "char_count": 15
+  },
+  {
+    "id": 94,
+    "fra": "Je l'ai acheté.",
+    "eng": "I bought it.",
+    "char_count": 15
+  },
+  {
+    "id": 95,
+    "fra": "Je l'ai oublié.",
+    "eng": "I forgot it.",
+    "char_count": 15
+  },
+  {
+    "id": 96,
+    "fra": "J'utilise cela.",
+    "eng": "I use this.",
+    "char_count": 15
+  },
+  {
+    "id": 97,
+    "fra": "J'aime le jazz.",
+    "eng": "I like jazz music.",
+    "char_count": 15
+  },
+  {
+    "id": 98,
+    "fra": "Je te remercie.",
+    "eng": "I thank you.",
+    "char_count": 15
+  },
+  {
+    "id": 99,
+    "fra": "Je suis humain.",
+    "eng": "I am human.",
+    "char_count": 15
+  },
+  {
+    "id": 100,
+    "fra": "Ne me mens pas.",
+    "eng": "Don't lie to me.",
+    "char_count": 15
+  }
+]
