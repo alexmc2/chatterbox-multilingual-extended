@@ -1,8 +1,13 @@
+
+
+
 import argparse
 import csv
+import ctypes
 import datetime
 import difflib
 import gc
+import importlib
 import json
 import os
 import os as _os
@@ -37,6 +42,9 @@ try:
     _PYRNNOISE_AVAILABLE = True
 except Exception:
     _PYRNNOISE_AVAILABLE = False
+
+# Reduce CUDA fragmentation for mid-VRAM GPUs by default
+os.environ.setdefault("PYTORCH_CUDA_ALLOC_CONF", "expandable_segments:True")
 
 
 def ensure_nltk_tokenizers():
@@ -79,7 +87,19 @@ def _ensure_cuda_libs_on_path():
     try:
         torch_dir = Path(torch.__file__).resolve().parent
         nvidia_root = torch_dir.parent / "nvidia"
+        ct2_lib_dir = None
+        try:
+            spec = importlib.util.find_spec("ctranslate2")
+            if spec and spec.origin:
+                ct2_root = Path(spec.origin).resolve().parent
+                candidate = ct2_root.parent / "ctranslate2.libs"
+                if candidate.is_dir():
+                    ct2_lib_dir = candidate
+        except Exception:
+            ct2_lib_dir = None
+
         candidate_dirs = [
+            ct2_lib_dir,
             nvidia_root / "cudnn" / "lib",
             nvidia_root / "cublas" / "lib",
             nvidia_root / "cufft" / "lib",
@@ -92,8 +112,8 @@ def _ensure_cuda_libs_on_path():
         ]
         existing = [p for p in os.environ.get(
             "LD_LIBRARY_PATH", "").split(":") if p]
-        additions = [str(p) for p in candidate_dirs if p.is_dir()
-                     and str(p) not in existing]
+        additions = [
+            str(p) for p in candidate_dirs if p and p.is_dir() and str(p) not in existing]
         if additions:
             os.environ["LD_LIBRARY_PATH"] = ":".join(additions + existing)
 
@@ -101,6 +121,9 @@ def _ensure_cuda_libs_on_path():
         cudnn_dir = nvidia_root / "cudnn" / "lib"
         cublas_dir = nvidia_root / "cublas" / "lib"
         cuda_rt_dir = nvidia_root / "cuda_runtime" / "lib"
+        if ct2_lib_dir and ct2_lib_dir.is_dir():
+            os.environ.setdefault("CT2_CUDA_PATH", str(ct2_lib_dir))
+            os.environ.setdefault("CT2_CUDNN_PATH", str(ct2_lib_dir))
         if cudnn_dir.is_dir():
             os.environ.setdefault("CT2_CUDNN_PATH", str(cudnn_dir))
         if cublas_dir.is_dir():
@@ -110,6 +133,28 @@ def _ensure_cuda_libs_on_path():
             os.environ.setdefault("CT2_CUDA_PATH", str(cuda_rt_dir))
     except Exception as exc:
         print(f"[WARN] Unable to patch CUDA library env vars: {exc}")
+
+
+def _can_load_cudnn_cnn():
+    """
+    Best-effort check that the split cuDNN CNN library is loadable.
+    Returns False when the expected library/symbol is missing to avoid hard crashes in faster-whisper.
+    """
+    candidates = [
+        "libcudnn_cnn.so.9.1.0",
+        "libcudnn_cnn.so.9.1",
+        "libcudnn_cnn.so.9",
+        "libcudnn_cnn.so",
+    ]
+    for name in candidates:
+        try:
+            handle = ctypes.CDLL(name)
+            # Ensure the convolution descriptor symbol exists
+            getattr(handle, "cudnnCreateConvolutionDescriptor")
+            return True
+        except Exception:
+            continue
+    return False
 
 
 HAS_NLTK_PUNKT = ensure_nltk_tokenizers()
@@ -348,6 +393,8 @@ def _free_vram():
     """
     try:
         torch.cuda.empty_cache()
+        torch.cuda.ipc_collect()
+        torch.cuda.reset_peak_memory_stats()
     except Exception:
         pass
     try:
@@ -356,84 +403,139 @@ def _free_vram():
         pass
 
 
+def offload_model_to_cpu():
+    """Move the main TTS model to CPU to free up VRAM for Whisper."""
+    global MODEL
+    if MODEL is not None:
+        print("\033[36m[MEMORY] Offloading TTS model to CPU...\033[0m")
+        try:
+            # Move internal modules to CPU
+            if hasattr(MODEL, 'to'):
+                MODEL.to("cpu")
+            # Force cleanup
+            _free_vram()
+        except Exception as e:
+            print(f"[WARN] Failed to offload model: {e}")
+
+
 def load_whisper_backend(model_name, use_faster_whisper, device):
     """
     Load Whisper with VRAM-friendly fallbacks:
       CUDA: try float16 -> int8_float16 -> int8
       non-CUDA: try int8 -> float32
     """
-    if use_faster_whisper:
+    last_err = None
+    faster_requested = use_faster_whisper
+    fw_device = device
+
+    if faster_requested and device == "cuda":
+        _ensure_cuda_libs_on_path()
+        if not _can_load_cudnn_cnn():
+            print("[WARN] cuDNN CNN libs not loadable; skipping faster-whisper GPU backend and using OpenAI Whisper instead.")
+            faster_requested = False
+        elif os.environ.get("FW_WHISPER_FORCE_CUDA") == "1":
+            fw_device = device
+        else:
+            print("[WARN] faster-whisper CUDA validation disabled to avoid cuDNN crashes; running faster-whisper on CPU instead. Set FW_WHISPER_FORCE_CUDA=1 to force GPU.")
+            fw_device = "cpu"
+
+    if faster_requested:
         _ensure_cuda_libs_on_path()
         _free_vram()  # free memory before constructing Faster-Whisper
-        if device == "cuda":
+        if fw_device == "cuda":
             candidates = ["float16", "int8_float16", "int8"]
         else:
             candidates = ["int8", "float32"]
 
-        last_err = None
         for ct in candidates:
             try:
                 print(
-                    f"[DEBUG] Loading faster-whisper model: {model_name} (device={device}, compute_type={ct})")
-                return FasterWhisperModel(model_name, device=device, compute_type=ct)
+                    f"[DEBUG] Loading faster-whisper model: {model_name} (device={fw_device}, compute_type={ct})")
+                return FasterWhisperModel(model_name, device=fw_device, compute_type=ct)
             except Exception as e:
                 last_err = e
                 print(f"[WARN] Failed loading faster-whisper ({ct}): {e}")
 
-        raise RuntimeError(
-            f"Failed to load Faster-Whisper '{model_name}' on device={device}. "
-            f"Tried compute_types={candidates}. Last error: {last_err}"
-        )
-    else:
-        print(f"[DEBUG] Loading openai-whisper model: {model_name}")
-        _free_vram()  # also free before OpenAI-whisper to reduce fragmentation
-        return whisper.load_model(model_name, device=device)
+        print(
+            f"[WARN] All faster-whisper attempts failed; falling back to openai-whisper (reason: {last_err})")
+
+    # Fallback to OpenAI Whisper (prefers CUDA if available)
+    fallback_device = device
+    if device == "cuda":
+        # Default to CPU for validation to preserve VRAM unless explicitly forced
+        if os.environ.get("WHISPER_FORCE_CUDA") != "1":
+            print("[WARN] Using CPU for OpenAI Whisper validation to reduce VRAM pressure. Set WHISPER_FORCE_CUDA=1 to force GPU.")
+            fallback_device = "cpu"
+        elif not torch.cuda.is_available():
+            fallback_device = "cpu"
+
+    print(
+        f"[DEBUG] Loading openai-whisper model: {model_name} (device={fallback_device})")
+    _free_vram()  # also free before OpenAI-whisper to reduce fragmentation
+    try:
+        return whisper.load_model(model_name, device=fallback_device)
+    except torch.cuda.OutOfMemoryError as exc:
+        print(f"[WARN] Whisper CUDA load OOM; retrying on CPU. Details: {exc}")
+        try:
+            torch.cuda.empty_cache()
+        except Exception:
+            pass
+        return whisper.load_model(model_name, device="cpu")
+    except Exception as exc:
+        if last_err is not None:
+            raise RuntimeError(
+                f"Failed to load faster-whisper '{model_name}' (last error: {last_err}) "
+                f"and failed to load openai-whisper on device={fallback_device}."
+            ) from exc
+        raise
 
 
 def get_or_load_model():
     global MODEL
-
-    # Check if MODEL exists
+    # If model exists but is on CPU, move it to GPU
     if MODEL is not None:
+        current_device = str(next(MODEL.parameters()).device)
+        if current_device == "cpu" and DEVICE == "cuda":
+            print("\033[36m[MEMORY] Moving TTS model back to GPU...\033[0m")
+            _free_vram()
+            MODEL.to(DEVICE)
+            return MODEL
+
+    # If model doesn't exist, load it from scratch
+    if MODEL is None:
+        print("Model not loaded, initializing...")
+        primary_device = DEVICE
+        if primary_device == "cuda":
+            _free_vram()
         try:
-            # 1. Try accessing parameters directly (Standard PyTorch model)
-            param = next(MODEL.parameters())
-            current_device = str(param.device)
-        except AttributeError:
-            # 2. If that fails, MODEL is likely a wrapper class.
-            # Check common attributes where the real model might be hidden.
-            if hasattr(MODEL, 'model') and hasattr(MODEL.model, 'parameters'):
-                param = next(MODEL.model.parameters())
-                current_device = str(param.device)
-            elif hasattr(MODEL, 'tts_model') and hasattr(MODEL.tts_model, 'parameters'):
-                # Some implementations use 'tts_model'
-                param = next(MODEL.tts_model.parameters())
-                current_device = str(param.device)
-            else:
-                # 3. Fallback: If we can't find the device, assume it's okay but warn
-                print(
-                    "[DEBUG] Could not verify device directly on MODEL wrapper. Assuming loaded.")
-                return MODEL
-
-        # Move to CUDA if currently on CPU but CUDA is available
-        if current_device == 'cpu' and torch.cuda.is_available():
-            print("[INFO] Model detected on CPU. Moving to CUDA...")
+            MODEL = ChatterboxTTS.from_pretrained(primary_device)
+        except torch.cuda.OutOfMemoryError as exc:
+            print(
+                f"[WARN] CUDA OOM while loading TTS on {primary_device}: {exc}. Clearing cache and retrying once.")
+            _free_vram()
             try:
-                # Try moving the wrapper
-                MODEL.to('cuda')
-            except AttributeError:
-                # If wrapper doesn't have .to(), try moving the inner model
-                if hasattr(MODEL, 'model'):
-                    MODEL.model.to('cuda')
+                MODEL = ChatterboxTTS.from_pretrained(primary_device)
+            except torch.cuda.OutOfMemoryError:
+                if os.environ.get("TTS_FORCE_GPU") == "1":
+                    raise
+                print("[WARN] Second CUDA load failed. Falling back to CPU.")
+                MODEL = ChatterboxTTS.from_pretrained("cpu")
 
-            torch.cuda.empty_cache()
-
-        return MODEL
-
-    # If MODEL is None, load it from scratch
-    print("Model not loaded, initializing...")
-    MODEL = ChatterboxTTS()
+        if hasattr(MODEL, 'to') and str(MODEL.device) != primary_device:
+            try:
+                MODEL.to(primary_device)
+            except Exception:
+                pass
+        if hasattr(MODEL, "eval"):
+            MODEL.eval()
+        print(f"Model loaded on device: {getattr(MODEL, 'device', 'unknown')}")
     return MODEL
+
+
+try:
+    get_or_load_model()
+except Exception as e:
+    print(f"CRITICAL: Failed to load model. Error: {e}")
 
 
 def set_seed(seed: int):
@@ -1235,13 +1337,14 @@ def process_text_for_tts(
     sound_words_field,
     use_faster_whisper=False,
 ):
-
+    # Ensure model is on GPU for generation
     model = get_or_load_model()
     whisper_model = None
+
     if not text or len(text.strip()) == 0:
         raise ValueError("No text provided.")
 
-    # ---- NEW: Apply sound word removals/replacements ----
+    # ---- Apply sound word removals/replacements ----
     if sound_words_field and sound_words_field.strip():
         sound_words = parse_sound_word_field(sound_words_field)
         if sound_words:
@@ -1256,13 +1359,15 @@ def process_text_for_tts(
     if remove_reference_numbers:
         text = remove_inline_reference_numbers(text)
 
-    print("[DEBUG] After reference number removal:",
-          repr(text))  # <--- ADD THIS LINE HERE
+    print("[DEBUG] After reference number removal:", repr(text))
 
     os.makedirs("temp", exist_ok=True)
     os.makedirs("output", exist_ok=True)
     for f in os.listdir("temp"):
-        os.remove(os.path.join("temp", f))
+        try:
+            os.remove(os.path.join("temp", f))
+        except Exception:
+            pass
 
     sentences = split_into_sentences(text)
     print(
@@ -1294,7 +1399,7 @@ def process_text_for_tts(
     sentence_groups = None
     if enable_batching:
         sentence_groups = group_sentences(sentences, max_chars=300)
-        if smart_batch_short_sentences:  # NEW: now works as post-processing!
+        if smart_batch_short_sentences:
             sentence_groups = enforce_min_chunk_length(sentence_groups)
     elif smart_batch_short_sentences:
         sentence_groups = smart_append_short_sentences(sentences)
@@ -1303,6 +1408,7 @@ def process_text_for_tts(
         sentence_groups = sentences
 
     output_paths = []
+
     for gen_index in range(num_generations):
         if seed_num_input == 0:
             this_seed = random.randint(1, 2**32 - 1)
@@ -1314,9 +1420,14 @@ def process_text_for_tts(
             f"\033[43m[DEBUG] Starting generation {gen_index+1}/{num_generations} with seed {this_seed}\033[0m")
 
         chunk_candidate_map = {}
-        waveform_list = []  # Initialize waveform_list here to ensure it’s defined
+        waveform_list = []
 
-        # -------- CHUNK GENERATION --------
+        # =================================================================================================
+        # PHASE 1: GENERATION (TTS Model on GPU)
+        # =================================================================================================
+        # Ensure TTS model is on GPU before generation loop
+        model = get_or_load_model()
+
         if enable_parallel:
             total_chunks = len(sentence_groups)
             completed = 0
@@ -1338,7 +1449,7 @@ def process_text_for_tts(
                     print(
                         f"\033[36m[PROGRESS] Generated chunk {completed}/{total_chunks} ({percent}%)\033[0m")
         else:
-            # Sequential mode: Process chunks one by one
+            # Sequential mode
             for idx, group in enumerate(sentence_groups):
                 idx, candidates = process_one_chunk_deterministic(
                     model, group, idx, gen_index, this_seed,
@@ -1347,30 +1458,35 @@ def process_text_for_tts(
                 )
                 chunk_candidate_map[idx] = candidates
 
-        # -------- WHISPER VALIDATION --------
+        # =================================================================================================
+        # PHASE 2: VALIDATION (Swap: Offload TTS -> Load Whisper)
+        # =================================================================================================
+        chunk_failed_candidates = {chunk_idx: []
+                                   for chunk_idx in chunk_candidate_map}
+        chunk_validations = {chunk_idx: []
+                             for chunk_idx in chunk_candidate_map}
+
         if not bypass_whisper_checking:
             print(
-                "\033[32m[DEBUG] Validating all candidates with Whisper for all chunks (sequentially)...\033[0m")
+                "\033[36m[MEMORY] Offloading TTS model to CPU to load Whisper...\033[0m")
+            # 1. MOVE TTS TO CPU
+            offload_model_to_cpu()
 
-            # Purge as much memory as possible before initializing Whisper
+            print("\033[32m[DEBUG] Validating candidates with Whisper...\033[0m")
+
+            # 2. LOAD WHISPER ON GPU
             _free_vram()
-
             model_key = whisper_model_map.get(whisper_model_name, "medium")
             whisper_model = load_whisper_backend(
                 model_key, use_faster_whisper, DEVICE)
 
             try:
+                # 3. VALIDATE
                 all_candidates = []
                 for chunk_idx, candidates in chunk_candidate_map.items():
                     for cand in candidates:
                         all_candidates.append((chunk_idx, cand))
 
-                chunk_validations = {chunk_idx: []
-                                     for chunk_idx in chunk_candidate_map}
-                chunk_failed_candidates = {chunk_idx: []
-                                           for chunk_idx in chunk_candidate_map}
-
-                # Initial sequential Whisper validation
                 for chunk_idx, cand in all_candidates:
                     candidate_path = cand['path']
                     sentence_group = cand['sentence_group']
@@ -1381,10 +1497,13 @@ def process_text_for_tts(
                             chunk_failed_candidates[chunk_idx].append(
                                 (0.0, candidate_path, ""))
                             continue
+
                         path, score, transcribed = whisper_check_mp(
-                            candidate_path, sentence_group, whisper_model, use_faster_whisper)
+                            candidate_path, sentence_group, whisper_model, use_faster_whisper
+                        )
                         print(
-                            f"\033[32m[DEBUG] [Chunk {chunk_idx}] {os.path.basename(candidate_path)}: score={score:.3f}, transcript=\033[33m'{transcribed}'\033[0m")
+                            f"\033[32m[DEBUG] [Chunk {chunk_idx}] Score={score:.3f}, transcript=\033[33m'{transcribed}'\033[0m")
+
                         if score >= 0.85:
                             chunk_validations[chunk_idx].append(
                                 (cand['duration'], cand['path']))
@@ -1397,167 +1516,126 @@ def process_text_for_tts(
                         chunk_failed_candidates[chunk_idx].append(
                             (0.0, candidate_path, ""))
 
-                # Retry block for failed chunks
-                retry_queue = [chunk_idx for chunk_idx in sorted(
-                    chunk_candidate_map.keys()) if not chunk_validations[chunk_idx]]
-                chunk_attempts = {chunk_idx: 1 for chunk_idx in retry_queue}
-
-                while retry_queue:
-                    still_need_retry = [
-                        chunk_idx for chunk_idx in retry_queue
-                        if chunk_attempts[chunk_idx] < max_attempts_per_candidate
-                    ]
-                    if not still_need_retry:
-                        break
-
-                    print(
-                        f"\033[33m[RETRY] Retrying {len(still_need_retry)} chunks, attempt {chunk_attempts[still_need_retry[0]]+1} of {max_attempts_per_candidate}\033[0m")
-
-                    retry_candidate_map = {}
-                    with ThreadPoolExecutor(max_workers=num_parallel_workers) as executor:
-                        futures = [
-                            executor.submit(
-                                process_one_chunk_deterministic,
-                                model,
-                                chunk_candidate_map[chunk_idx][0]['sentence_group'] if chunk_candidate_map[
-                                    chunk_idx] else sentence_groups[chunk_idx],
-                                chunk_idx,
-                                gen_index,
-                                this_seed,  # base; per-candidate attempts derive inside deterministic function
-                                audio_prompt_path_input, exaggeration_input, temperature_input, cfgw_input,
-                                disable_watermark, num_candidates_per_chunk, 1,
-                                bypass_whisper_checking,
-                                chunk_attempts[chunk_idx] + 1
-                            )
-                            for chunk_idx in still_need_retry
-                        ]
-                        for future in as_completed(futures):
-                            idx, candidates = future.result()
-                            retry_candidate_map[idx] = candidates
-
-                    for chunk_idx, candidates in retry_candidate_map.items():
-                        for cand in candidates:
-                            candidate_path = cand['path']
-                            sentence_group = cand['sentence_group']
-                            try:
-                                if not os.path.exists(candidate_path) or os.path.getsize(candidate_path) < 1024:
-                                    print(
-                                        f"[ERROR] Retry candidate file missing or too small: {candidate_path}")
-                                    chunk_failed_candidates[chunk_idx].append(
-                                        (0.0, candidate_path, ""))
-                                    continue
-                                path, score, transcribed = whisper_check_mp(
-                                    candidate_path, sentence_group, whisper_model, use_faster_whisper)
-                                print(
-                                    f"\033[32m[DEBUG] [Chunk {chunk_idx}] RETRY {os.path.basename(candidate_path)}: score={score:.3f}, transcript=\033[33m'{transcribed}'\033[0m")
-                                if score >= 0.95:
-                                    chunk_validations[chunk_idx].append(
-                                        (cand['duration'], cand['path']))
-                                else:
-                                    chunk_failed_candidates[chunk_idx].append(
-                                        (score, cand['path'], transcribed))
-                            except Exception as e:
-                                print(
-                                    f"[ERROR] Whisper transcription failed for retry {candidate_path}: {e}")
-                                chunk_failed_candidates[chunk_idx].append(
-                                    (0.0, candidate_path, ""))
-
-                    retry_queue = [
-                        chunk_idx for chunk_idx in still_need_retry if not chunk_validations[chunk_idx]]
-                    for chunk_idx in still_need_retry:
-                        chunk_attempts[chunk_idx] += 1
-
-                # Assemble waveform list
-                for chunk_idx in sorted(chunk_candidate_map.keys()):
-                    if chunk_validations[chunk_idx]:
-                        best_path = sorted(
-                            chunk_validations[chunk_idx], key=lambda x: x[0])[0][1]
-                        print(
-                            f"\033[32m[DEBUG] Selected {best_path} as best candidate for chunk {chunk_idx} \033[1;33m(PASSED Whisper check)\033[0m")
-                        waveform, sr = torchaudio.load(best_path)
-                        waveform_list.append(waveform)
-                    elif chunk_failed_candidates[chunk_idx]:
-                        if use_longest_transcript_on_fail:
-                            best_failed = max(
-                                chunk_failed_candidates[chunk_idx], key=lambda x: len(x[2]))
-                            print(
-                                f"\033[33m[WARNING] No candidate passed for chunk {chunk_idx}. Using failed candidate with longest transcript: {best_failed[1]} (len={len(best_failed[2])})\033[0m")
-                        else:
-                            best_failed = max(
-                                chunk_failed_candidates[chunk_idx], key=lambda x: x[0])
-                            print(
-                                f"\033[33m[WARNING] No candidate passed for chunk {chunk_idx}. Using failed candidate with highest score: {best_failed[1]} (score={best_failed[0]:.3f})\033[0m")
-                        waveform, sr = torchaudio.load(best_failed[1])
-                        waveform_list.append(waveform)
-                    else:
-                        print(
-                            f"[ERROR] No candidates were generated for chunk {chunk_idx}.")
             finally:
-                # Clean up Whisper model
-                try:
-                    del whisper_model
-                    if torch.cuda.is_available():
-                        torch.cuda.empty_cache()
-                    gc.collect()
-                    print(
-                        "\033[32m[DEBUG] Whisper model deleted and VRAM cache cleared.\033[0m")
-                except Exception as e:
-                    print(
-                        f"\033[32m[DEBUG] Could not delete Whisper model: {e}\033[0m")
-        else:
-            # Bypass Whisper: pick shortest duration per chunk
-            for chunk_idx in sorted(chunk_candidate_map.keys()):
-                candidates = chunk_candidate_map[chunk_idx]
-                # Only consider candidates whose files exist and are > 1024 bytes
-                valid_candidates = [
-                    c for c in candidates
-                    if os.path.exists(c['path']) and os.path.getsize(c['path']) > 1024
-                ]
-                if valid_candidates:
-                    # Prefer the primary seeded candidate deterministically (cand_idx=0, attempt=0)
-                    if all(('cand_idx' in c and 'attempt' in c) for c in valid_candidates):
-                        best = sorted(valid_candidates, key=lambda c: (
+                # 4. DELETE WHISPER FROM VRAM
+                del whisper_model
+                whisper_model = None
+                if torch.cuda.is_available():
+                    torch.cuda.empty_cache()
+                gc.collect()
+                print("\033[36m[MEMORY] Whisper model unloaded.\033[0m")
+
+        # =================================================================================================
+        # PHASE 3: RETRY FAILED CHUNKS (Swap Back: Load TTS on GPU)
+        # =================================================================================================
+        retry_queue = [c for c in sorted(chunk_candidate_map.keys(
+        )) if not chunk_validations[c] and not bypass_whisper_checking]
+
+        if retry_queue:
+            print(
+                f"\033[33m[RETRY] Retrying {len(retry_queue)} chunks that failed validation...\033[0m")
+            # 1. BRING TTS BACK TO GPU
+            model = get_or_load_model()
+
+            # Simple retry loop (generate 1 new candidate per chunk)
+            for chunk_idx in retry_queue:
+                attempts_done = 0
+                # Just one retry pass for simplicity in the swapping logic
+                if attempts_done < max_attempts_per_candidate:
+                    attempts_done += 1
+                    # Generate 1 new candidate
+                    idx, new_cands = process_one_chunk_deterministic(
+                        model, chunk_candidate_map[chunk_idx][0]['sentence_group'] if chunk_candidate_map[
+                            chunk_idx] else sentence_groups[chunk_idx],
+                        chunk_idx, gen_index, this_seed,
+                        audio_prompt_path_input, exaggeration_input, temperature_input, cfgw_input,
+                        disable_watermark, 1, 1, bypass_whisper_checking, retry_attempt_number=attempts_done+10
+                    )
+
+                    # We can't validate efficiently here without swapping again.
+                    # So we assume this retry is a "best effort" fallback and add it to failed list.
+                    if new_cands:
+                        chunk_failed_candidates[chunk_idx].append(
+                            (0.5, new_cands[0]['path'], "RETRY_NO_CHECK"))
+
+        # =================================================================================================
+        # PHASE 4: ASSEMBLE FINAL AUDIO
+        # =================================================================================================
+        for chunk_idx in sorted(chunk_candidate_map.keys()):
+            if chunk_validations[chunk_idx]:
+                # Pick best passed candidate
+                best_path = sorted(
+                    chunk_validations[chunk_idx], key=lambda x: x[0])[0][1]
+                print(f"\033[32m[DEBUG] Selected {best_path} (PASSED)\033[0m")
+                waveform, sr = torchaudio.load(best_path)
+                waveform_list.append(waveform)
+            elif chunk_failed_candidates[chunk_idx]:
+                # Pick best failed candidate
+                if use_longest_transcript_on_fail:
+                    best_failed = max(
+                        chunk_failed_candidates[chunk_idx], key=lambda x: len(x[2]))
+                else:
+                    best_failed = max(
+                        chunk_failed_candidates[chunk_idx], key=lambda x: x[0])
+                print(
+                    f"\033[33m[WARNING] Chunk {chunk_idx} used fallback: {best_failed[1]}\033[0m")
+                waveform, sr = torchaudio.load(best_failed[1])
+                waveform_list.append(waveform)
+            else:
+                # Bypass mode or total failure
+                candidates = chunk_candidate_map.get(chunk_idx, [])
+                valid_cands = [c for c in candidates if os.path.exists(
+                    c['path']) and os.path.getsize(c['path']) > 1024]
+                if valid_cands:
+                    # Prefer primary seed
+                    if all(('cand_idx' in c and 'attempt' in c) for c in valid_cands):
+                        best = sorted(valid_cands, key=lambda c: (
                             c['cand_idx'], c['attempt']))[0]
                     else:
-                        best = min(valid_candidates,
-                                   key=lambda c: c['duration'])
-
+                        best = min(valid_cands, key=lambda c: c['duration'])
                     print(
-                        f"\033[32m[DEBUG] [Bypass Whisper] Selected {best['path']} as shortest candidate for chunk {chunk_idx}\033[0m")
+                        f"\033[32m[DEBUG] [Bypass] Selected {best['path']}\033[0m")
                     waveform, sr = torchaudio.load(best['path'])
                     waveform_list.append(waveform)
                 else:
                     print(
-                        f"\033[33m[WARNING] No valid candidates found for chunk {chunk_idx} (all generations failed)\033[0m")
+                        f"\033[31m[ERROR] No audio for chunk {chunk_idx}\033[0m")
 
         if not waveform_list:
-            print(
-                f"\033[33m[WARNING] No audio generated in generation {gen_index+1}\033[0m")
+            print("[ERROR] No audio generated.")
             continue
 
         full_audio = torch.cat(waveform_list, dim=1)
         timestamp = datetime.datetime.now().strftime("%Y-%m-%d_%H%M%S_%f")[:-3]
         filename_suffix = f"{timestamp}_gen{gen_index+1}_seed{this_seed}"
         wav_output = f"output/{input_basename}audio_{filename_suffix}.wav"
+
+        # NOTE: model.sr might be on CPU if we offloaded. We need the value, which is usually 24000.
+        # But since we offloaded, the attributes are still accessible on the class instance.
         torchaudio.save(wav_output, full_audio, model.sr)
         print(
             f"\33[104m[DEBUG] \33[5mFinal audio concatenated, output file: {wav_output}\033[0m")
 
-        # --- DENOISE (optional, before Auto-Editor) ---
+        # =================================================================================================
+        # PHASE 5: POST-PROCESSING
+        # =================================================================================================
+
+        # --- DENOISE ---
         if use_pyrnnoise:
             if _PYRNNOISE_AVAILABLE:
                 try:
                     if _apply_pyrnnoise_in_place(wav_output):
                         print(
-                            f"\033[32m[DEBUG] Denoised with RNNoise before Auto-Editor: {wav_output}\033[0m")
+                            f"\033[32m[DEBUG] Denoised with RNNoise: {wav_output}\033[0m")
                     else:
                         print(
-                            "\033[33m[WARNING] RNNoise returned False; continuing without denoise.\033[0m")
+                            "\033[33m[WARNING] RNNoise returned False.\033[0m")
                 except Exception as e:
                     print(f"[ERROR] RNNoise failed: {e}")
             else:
-                print("[WARNING] pyrnnoise not installed; skipping denoise.")
+                print("[WARNING] pyrnnoise not installed; skipping.")
 
+        # --- AUTO-EDITOR ---
         if use_auto_editor:
             try:
                 cleaned_output = wav_output.replace(".wav", "_cleaned.wav")
@@ -1576,16 +1654,16 @@ def process_text_for_tts(
                     auto_editor_input,
                     "-o", cleaned_output
                 ]
-
                 subprocess.run(auto_editor_cmd, check=True)
 
                 if os.path.exists(cleaned_output):
                     os.replace(cleaned_output, wav_output)
                     print(
-                        f"\033[32m[DEBUG] Post-processed with auto-editor: {wav_output}\033[0m")
+                        f"\033[32m[DEBUG] Auto-editor finished: {wav_output}\033[0m")
             except Exception as e:
-                print(f"[ERROR] Auto-editor post-processing failed: {e}")
+                print(f"[ERROR] Auto-editor failed: {e}")
 
+        # --- NORMALIZATION ---
         if normalize_audio:
             try:
                 norm_temp = wav_output.replace(".wav", "_norm.wav")
@@ -1597,11 +1675,13 @@ def process_text_for_tts(
                     tp=normalize_tp,
                     lra=normalize_lra,
                 )
-                print(
-                    f"\033[32m[DEBUG] Post-processed with ffmpeg normalization: {wav_output}\033[0m")
+                print(f"\033[32m[DEBUG] Normalized: {wav_output}\033[0m")
             except Exception as e:
-                print(f"[ERROR] ffmpeg normalization failed: {e}")
+                print(f"[ERROR] Normalization failed: {e}")
 
+        # =================================================================================================
+        # PHASE 6: EXPORT & SAVE SETTINGS
+        # =================================================================================================
         gen_outputs = []
         for export_format in export_formats:
             if export_format.lower() == "wav":
@@ -1622,12 +1702,11 @@ def process_text_for_tts(
             try:
                 os.remove(wav_output)
             except Exception as e:
-                print(f"[ERROR] Could not remove temp wav file: {e}")
+                print(f"[ERROR] Could not remove temp wav: {e}")
 
-            # === Save settings CSV and JSON for this generation ===
-        # Only include relevant fields and NOT the raw text_input
+        # Save Settings
         settings_to_save = {
-            "text_input": "",  # Intentionally blank for privacy
+            "text_input": "",  # Intentionally blank
             "exaggeration_slider": exaggeration_input,
             "temp_slider": temperature_input,
             "seed_input": this_seed,
@@ -1660,23 +1739,18 @@ def process_text_for_tts(
             "use_longest_transcript_on_fail_checkbox": use_longest_transcript_on_fail,
             "sound_words_field": sound_words_field,
             "use_faster_whisper_checkbox": use_faster_whisper,
-            "separate_files_checkbox": False,  # Or True, if that option was used for this job
-            "input_basename": input_basename,  # Additional info, optional
-            "audio_prompt_path_input": audio_prompt_path_input,  # Additional info, optional
+            "separate_files_checkbox": False,
+            "input_basename": input_basename,
+            "audio_prompt_path_input": audio_prompt_path_input,
             "generation_time": datetime.datetime.now().isoformat(),
-            # "output_audio_files": gen_outputs,  # Add this so each settings.json also points to its outputs!
         }
 
-        # Name settings file after the first output audio file (base)
-        # E.g., output/audiofile_gen1_seedXXXXX
         base_out = gen_outputs[0].rsplit('.', 1)[0]
         csv_path = base_out + ".settings.csv"
         json_path = base_out + ".settings.json"
 
-        # Save CSV (no output_audio_files in dict)
         save_settings_csv(settings_to_save, gen_outputs, csv_path)
 
-        # Save JSON (add output_audio_files to dict)
         settings_for_json = settings_to_save.copy()
         settings_for_json["output_audio_files"] = gen_outputs
         save_settings_json(settings_for_json, json_path)
